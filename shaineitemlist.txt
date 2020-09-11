@@ -247,8 +247,8 @@
 246//HWP9GWHWP9TW//P9-Huawei-Glass(White)//Glass//4,500//Date//Shop
 247//HWP9LPK//Huawei-P9Lite-Power Key//Power Flex//1,500//Date//Shop
 248//HWP9LTLB//P9Lite-T+L-Huawei(Black)//T+L//15,200//Date//Shop
-249//HWP9TLB//P9-Huawei-T+L(Black)//T+L//22,500//Date//Shop
-250//HWP9TLG//P9-Huawei-T+L(Gold)//T+L//23,500//Date//Shop
+249//HWP9TLB//P9-Huawei-T+L(Black)//T+L//24,500//11,9,2020//Shop
+250//HWP9TLG//P9-Huawei-T+L(Gold)//T+L//24,500//11,9,2020//Shop
 251//HWS8701TBHWS8TB//S8-701-Tablect(Black)-T0uch//Touch//7,500//Date//Shop
 252//HWS8LFHWS8701ULF//S8-701u-LCD Flex-Huawei//LCD Flex//3,400//Date//Shop
 253//HWS8TWHWS8701UTW//S8-701U-HuaweiTablet(White)-Touch//Touch//7,500//Date//Shop
