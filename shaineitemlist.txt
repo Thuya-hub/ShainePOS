@@ -695,7 +695,7 @@
 695//OPA33BDCBOPNEO7BDCB//A33-Oppo(Black)Bodycover//BodyCover//6,000//Date//Shop
 696//OPA33BDCWOPNEO7BDCW//A33-OPPO-BodyCover(White)//BodyCover//5800//Date//Shop
 697//OPA33MBG//A33-MiddleBody(Gold)-Oppo//Middle Body//0//Date//Shop
-698//OPA33PKOPNEO7PK//A33-Power Key//Power Flex//1,500//4,9,2020//Hx
+698//OPA33PKOPNEO7PK//A33-Power Key//Power Flex//1,500//13,9,2020//Hx
 699//OPA33TBOPNEO7TB//A33-Neo7-Oppo-Touch(Black)//TouchOnly//3,000//8,9,2020//Hx
 700//OPA33TLBOPNEO7TLB//A33-Neo7-Oppo-TL-Black//T+L//12800//Date//Shop
 701//OPA33TLWOPNEO7TLW//A33-Neo7-Oppo(White)T+L//T+L//12800//Date//Shop
@@ -716,7 +716,7 @@
 717//OPA39BDCGOPA57BDCG//A39/A57-OPPO-BodyCover(Gold)//BodyCover//9,000//Date//Shop
 718//OPA39BDCRGOPA57BDCRG//A39/A57-OPPO-BodyCover(RoseGold)//BodyCover//12,000//Date//Shop
 719//OPA39MF//OppoA39-MiddleFlex//Maddle Flex//4,200//Date//Shop
-720//OPA39PK//A39-Oppo-Power Flex//Power Flex//1,200//Date//Shop
+720//OPA39PK//A39-Oppo-Power Flex//Power Flex//1,500//13,9,2020//Hx
 721//OPA39STRG//A39-Oppo-Sim Tray (Rose Gold)//Sim Tray//3,500//Date//Shop
 722//OPA39TB//A39-Oppo-Touch(Black)//TouchOnly//4,500//Date//Shop
 723//OPA39TLB//A39-Oppo(Black)T+L//T+L//12800//Date//Shop
@@ -752,7 +752,7 @@
 753//OPA7PF//Oppo-A7-PowerFlex//Power Flex//1,500//Date//Shop
 754//OPA7TWOPA5STW//A7-A5s-Touch-White//Touch//3,200//Date//Shop
 755//OPA83BDCB//A83-Oppo(Black)Bodycover//BodyCover//8,500//Date//Shop
-756//OPA83PK//A83-PowerKey-Oppo//Power Flex//1,500//Date//Shop
+756//OPA83PK//A83-PowerKey-Oppo//Power Flex//1,500//13,9,2020//Hx
 757//OPA83STGROPF5LSTGR//OppoA83-F5lite-Simtray//Sim Tray//2,500//Date//Shop
 758//OPA83TLBOPF5LTLB//A83-F5Lite-Oppo(Black)T+L//T+L//17,000//Date//Shop
 759//OPA83TLWOPF5LTLW//A83-F5lite-Oppo(White)T+L//T+L//17,000//Date//Shop
@@ -765,7 +765,7 @@
 766//OPF1SBDCRGOPA59BDCRG//F1s-A59-OPPO-BodyCover(RoseGold)//BodyCover//10,000//Date//Shop
 767//OPF1SBTOPA59BTBLP601BT//F1s-A59-OPPO-Battery//Battery//6,600//Date//Shop
 768//OPF1SHFWOPA59HFW//F1s-A59-Home Flex(White)-Oppo//Home Key//4,500//Date//Shop
-769//OPF1SPFOPA59PF//F1s-A59-Oppo-Power Flex//Power Flex//1,500//Date//Shop
+769//OPF1SPKOPA59PK//F1s-A59-Oppo-Power Flex//Power Flex//1,500//13,9,2020//Hx
 770//OPF1SSTGROPA59STGROPF3STGR//F1s-F3-Oppo-Sim Tray(Gray)//Sim Tray//4,000//Date//Shop
 771//OPF1STBOPA59TB//F1s-A59-Oppo-Touch(Black)//TouchOnly//3,500//Date//Shop
 772//OPF1STLBOPA59TLB//F1s-A59-Oppo(Black)T+L//T+L//12,800//Date//Shop
@@ -889,7 +889,7 @@
 890//RM4ATG//Redmi4A-Touch(Gold)//TouchOnly//3,500//Date//Shop
 891//RM4ATLB//Redmi4A-T+L(Black)//T+L//12,700//Date//Shop
 892//RM4ATLG//Redmi4A-T+L(Gold)//T+L//13500//8,9,2020//Hx
-893//RM4ATLW//Redmi4A-T+L(White)//T+L//12,800//Date//Shop
+893//RM4ATLW//Redmi4A-T+L(White)//T+L//15000//12,9,2020//Nice
 894//RM4ATW//Redmi4A-Touch(White)//TouchOnly//3,500//Date//Shop
 895//RM4AUSB//Redmi4A-USB Board//USB Board//3,000//7,9,2020//ShweLattSaung
 896//RM4PF//Redmi4-Power Flex//Power Flex//1,300//Date//Shop
@@ -1024,7 +1024,7 @@
 1025//RM8STB//Redmi8-SimTray(Black)//Sim Tray//2,500//Date//Shop
 1026//RM8TLB//Remi8-T+LCD-(Black)//T+L//19000//8,9,2020//Hx
 1027//RME5ITLB//Realme5i-T+L_Black//T+L//22,400//Date//Shop
-1028//RMEC2TLBOPA1KTLBRMEC2TLB//RealmeC2-A1k-T+LCD(B)//T+L//17,000//8,9,2020//Hx
+1028//RMEC2TLBOPA1KTLBRMEC2TLB//RealmeC2-A1k-T+LCD(B)//T+L//17,800//12,9,2020//Nice
 1029//RMEC3TBOPA7TBOPA5STB//A7-A5s-RealmeC3-Touch(Black)//Glass//3,200//Date//Shop
 1030//RMEC3TLB//RealmeC3-T+L(Black)//T+L//23,000//Date//Shop
 1031//RMN1BCB//RedmiNote1-Backcover-Black//Back Cover//3,500//Date//Shop
@@ -1064,7 +1064,7 @@
 1066//RMN3PUSB//Redminote3Pro-USB Board//USB Board//2,500//Date//Shop
 1067//RMN3STG//Redminote3-Sim Tray (Gray)(Gold)//Sim Tray//3,000//Date//Shop
 1068//RMN3TB//RedmiNote3-Touch(Black)//TouchOnly//3,500//8,9,2020//Hx
-1069//RMN3TG//RedmiNote3-Touch(Gold)//TouchOnly//3,500//Date//Shop
+1069//RMN3TG//RedmiNote3-Touch(Gold)//TouchOnly//3,500//12,9,2020//Nice
 1070//RMN3TLB//Redminote3-T+L(Black)JK//T+L//14800//Date//Shop
 1071//RMN3TLG//Redminote3-T+L(Gold)JK//T+L//14800//10,9,2020//Hx
 1072//RMN3TLW//Redminote3-T+L(White)JK//T+L//14800//Date//Shop
@@ -1651,3 +1651,5 @@
 1660//RM8BCBRM8BCBL//Redmi8-BackCover(B)(BL)//Back Cover//5500//10,9,2020//ShweLattSaung
 1661//P3100BT//P3100-Battery//Battery//7500//10,9,2020//ShweLattSaung
 1662//SSJ6PGB//Samsung-J6Plus-Glass(B)//Glass//3000//10,9,2020//Master
+1663//RMEC2BCBL//RealmeC2-Backcover(Blue)//BackCover//6500//12,9,2020//Nice
+1664//VVY93SBCB//Vivo-Y93s-BackCover(Black)//BackCover//9000//12,9,2020//Nice
