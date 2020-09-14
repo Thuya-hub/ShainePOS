@@ -104,11 +104,11 @@
 103//HWEJ6STLBHON6STLB//Enjoy6s-Honor6s-(Black)-T+L-Huawei//T+L//16,000//Date//Shop
 104//HWEJ6STLWHON6STLW//Enjoy6s-Honor6s-Huawei(White)T+L//T+L//16,000//Date//Shop
 105//HWEJ7USB//Enjoy7-USB Board-Huawei//USB Board//3,500//Date//Shop
-106//HWEJ8TLBHWNV2LTLBHWY7P18TLBHWY7P18TLB//Enjoy8/Nova2Lite/Y7Prime(2018)/Y7Pro(2018)-Black-T+L//T+L//15,200//Date//Shop
-107//HWEJ8TLGHWNV2LTLGHWY7P18TLG//Enjoy8/Nova2Lite/Y7Prime(2018)/Y7Pro(2018)-Gold-T+L//T+L//19,000//Date//Shop
-108//HWEJ8TLWHWNV2LTLWHWY7P18TLW//Enjoy8/Nova2Lite/Y7Prime(2018)/Y7Pro(2018)-White-T+L//T+L//14,300//Date//Shop
-109//HWG510TBHWU8951TB//U8951 or G510-Huawei-Touch(Black)//Touch//3,000//Date//Shop
-110//HWG510TWHWU8951TW//U8951 or G510-Huawei(White)AA JK-Touch//Touch//3,000//Date//Shop
+106//HWEJ8TLBHWNV2LTLBHWY7P18TLBHWY7P18TLB//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-T+L(B)//T+L//15,200//Date//Shop
+107//HWEJ8TLGHWNV2LTLGHWY7P18TLG//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-T+L(G)//T+L//19,000//Date//Shop
+108//HWEJ8TLWHWNV2LTLWHWY7P18TLW//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-T+L(W)//T+L//14,300//Date//Shop
+109//HWG510TBHWU8951TB//U8951-G510-Huawei-Touch(Black)//Touch//3,000//Date//Shop
+110//HWG510TWHWU8951TW//U8951-G510-Huawei-Touch(White)Touch//Touch//3,000//Date//Shop
 111//HWG610BCB//G610-U00-Backcover-Black-Huawei//Back Cover//3,500//Date//Shop
 112//HWG610BCW//G610-U00-Backcover-White-Huawei//Back Cover//3,500//Date//Shop
 113//HWG610BDCB//G610-Huawei-BodyCover(Black)//BodyCover//0//Date//Shop
@@ -175,7 +175,7 @@
 174//HWGR517TW//GR5(2017)-Huawei(White)Touch//TouchOnly//5,000//8,9,2020//Hx
 175//HWGR5BDCB//GR5-Huawei-BodyCover(Black)//BodyCover//8,500//Date//Shop
 176//HWGR5BDCGR//GR5-Huawei-BodyCover(Grey)//BodyCover//8,500//Date//Shop
-177//HWGR5BTHWGR517BTHWNVPBTHB386483ECW//GR5(2017)-Nova+-Huawei-Battery//Battery//6,800//Date//Shop
+177//HWGR5BTHWGR517BTHWNVPBTHB386483ECW//GR5(2017)-NovaPlus-Huawei-Battery//Battery//6,800//Date//Shop
 178//HWGR5BTHWY62BTHWG7PBTHB396481EBC//GR5-Y62-G7Plus-Huawei-Battery//Battery//5,500//Date//Shop
 179//HWGR5MNCFFHW5CCF//GR5Mini-5C-Charging Flex//Charging Flex//3,000//Date//Shop
 180//HWGR5MNTB//GR5mini-Huawei-Touch(Black)//TouchOnly//4,800//Date//Shop
@@ -197,7 +197,7 @@
 196//HWM8TLWHWMATE8TLW//Mate8-T+L-White-Huawei//T+L//31,000//Date//Shop
 197//HWNV2BTHB356687ECW//Nova2-Battery-Huawei//Battery//5,200//Date//Shop
 198//HWNV2IBDCBL//Nova2i-Huawei-BodyCover(Blue)(Black)//BodyCover//20500//Date//Shop
-199//HWNV2IBTHWNV3IBTHON7XBTHWP30LBTHWMATE10PBT//Nova2i/Nova3i/P30Lite/Honor7x/Mate10Plus-Battery//Battery//5,500//13,9,2020//Hx
+199//HWNV2IBTHWNV3IBTHON7XBTHWP30LBTHWMATE10PBT//Nova2i-Nova3i-P30Lite-Honor7x-Mate10Plus-Battery//Battery//5,500//13,9,2020//Hx
 200//HWNV2IFPHWNV3FPHWNV3IFP//Huawei-Nova2i-Nova3-Nova3i-Fingerprint(All Colour)//Fingerprints//3,500//Date//Shop
 201//HWNV2IPK//Nova2i-PowerFlex//Power Flex//1,500//13,9,2020//Hx
 202//HWNV2ISTGHWNV2ISTBHWNV2ISTW//Nova2i-Huawei-Sim Tray(Gold)(Black)(White)//Sim Tray//3,000//Date//Shop
