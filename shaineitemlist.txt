@@ -198,7 +198,7 @@
 197//HWNV2BTHB356687ECW//Nova2-Battery-Huawei//Battery//5,200//Date//Shop
 198//HWNV2IBDCBL//Nova2i-Huawei-BodyCover(Blue)(Black)//BodyCover//20500//Date//Shop
 199//HWNV2IBTHWNV3IBTHON7XBTHWP30LBTHWMATE10PBT//Nova2i-Nova3i-P30Lite-Honor7x-Mate10Plus-Battery//Battery//5,500//13,9,2020//Hx
-200//HWNV2IFPHWNV3FPHWNV3IFP//Huawei-Nova2i-Nova3-Nova3i-Fingerprint(All Colour)//Fingerprints//3,500//Date//Shop
+200//HWNV2IFPHWNV3FPHWNV3IFP//Huawei-Nova2i-Nova3-Nova3i-Fingerprint//Fingerprint//3,500//Date//Shop
 201//HWNV2IPK//Nova2i-PowerFlex//Power Flex//1,500//13,9,2020//Hx
 202//HWNV2ISTGHWNV2ISTBHWNV2ISTW//Nova2i-Huawei-Sim Tray(Gold)(Black)(White)//Sim Tray//3,000//Date//Shop
 203//HWNV2ITB//nova2i-Huawei(Black)-Touch//TouchOnly//4,000//Date//Shop
@@ -207,15 +207,15 @@
 206//HWNV2ITLW//Nova2i-Huawei(White)+T+L//T+L//16,500//Date//Shop
 207//HWNV2ITW//nova2i-Huawei(White)-Touch//TouchOnly//4,000//Date//Shop
 208//HWNV2IUSBF//Nova2i-USBFlex//USB Flex//3,000//Date//Shop
-209//HWNV3EBCBL//Nova3e-Huawei-Backcover (Blue)//Back Cover//3,500//17,9,2020//Phone Club
-210//HWNV3EBDCBL//Nova3e-HuaweiBodycover-Blue//BodyCover//8,500//Date//Shop
-211//HWNV3EPF//Nova3E-Power Flex-Huawei//Power Flex//1,700//Date//Shop
+209//HWNV3EBCBL//Nova3e-Huawei-Backcover(Blue)//BackCover//3,500//17,9,2020//Phone Club
+210//HWNV3EBDCBL//Nova3e-HuaweiBodycover(Blue)//BodyCover//8,500//Date//Shop
+211//HWNV3EPF//Nova3e-Power Flex-Huawei//Power Flex//1,700//Date//Shop
 212//HWNV3ETB//Nova3e-Huawei-Touch(Black)//TouchOnly//4,800//Date//Shop
-213//HWNV3ETLB//Nova3E-Huawei(Black)T+L//T+L//17000//Date//Shop
-214//HWNV3ETW//Nova3E-Huawei(White)Touch//TouchOnly//4,800//Date//Shop
-215//HWNV3EUSB//Nova3e-USB Boad-Huawei//USB Board//3,500//Date//Shop
-216//HWNV3IBCBL//Nova3i-BackCover-Glass-(Blue)//Back Cover//3,500//Date//Shop
-217//HWNV3IBCW//Nova3i-Backcover-Glass(White)//Back Cover//3,500//Date//Shop
+213//HWNV3ETLB//Nova3e-Huawei(Black)T+L//T+L//17000//Date//Shop
+214//HWNV3ETW//Nova3e-Huawei(White)Touch//TouchOnly//4,800//Date//Shop
+215//HWNV3EUSB//Nova3e-USBBoad-Huawei//USB Board//3,500//Date//Shop
+216//HWNV3IBCBL//Nova3i-BackCover(Blue)//Back Cover//3,500//Date//Shop
+217//HWNV3IBCW//Nova3i-Backcover(White)//Back Cover//3,500//Date//Shop
 218//HWNV3IBDCBL//Nova3i-Bodycover-Huawei//BodyCover//9,800//Date//Shop
 219//HWNV3IGB//Nova3i-Huawei-Glass(Black)//Glass//3,000//Date//Shop
 220//HWNV3ISPK//Nova3i-Speaker//Speaker//3,000//Date//Shop
@@ -1654,7 +1654,7 @@
 1663//RMEC2BCBL//RealmeC2-Backcover(Blue)//BackCover//6500//12,9,2020//Nice
 1664//VVY93SBCB//Vivo-Y93s-BackCover(Black)//BackCover//9000//12,9,2020//Nice
 1665//RM7USB//Redmi7-USBBoard//USBBoard//3000//13,9,2020//Hx
-1666//HWNV3IUSB//Huawei-Nova3i-USBBoard//2500//13,9,2020//Hx
+1666//HWNV3IUSB//Huawei-Nova3i-USBBoard//USBBoard//2500//13,9,2020//Hx
 1667//IPH6PBT//Iphone6plus-Battery//Battery//8000//13,9,2020//Hx
 1668//RMN7PK//RedmiNote7-PowerKey//PowerKey//1500//13,9,2020//Hx
 1669//RMN7APK//Redmi7A-PowerKey//PowerKey//1500//13,9,2020//Hx
