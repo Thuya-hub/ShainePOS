@@ -1,4 +1,4 @@
-0//Update//Update//0//8,9,2020//8,9,2020//Shaine Mobile
+0//Update//Update//0//18,9,2020//18,9,2020//Shaine Mobile
 1//0.5mm//0.5mm//ခဲခွေ//2,000//Date//Shop
 2//37.5hb//Sunshine-0.10mm-မွန္ခြာျကိုး//မွန္ခြာျကိုး//2,500//Date//Shop
 3//Alloy63/67//Quick-0.8mm//ခဲခွေ//4,500//Date//Shop
@@ -48,8 +48,8 @@
 47//HOLU10BDCWHONU10BDCWHONU19BDCWHOLU19BDCW//Hol-U10-BodyCover(White)//BodyCover//0//Date//Shop
 48//HOLU10LCDHONU10LCDHONU19LCDHOLU19LCD//HOL-U10-U19-Huawei-LCD//LCD//10,000//Date//Shop
 49//HOLU10PKHONU10PKHONU19PKHOLU19PKHW3CPK//Hol-U10-U19-3c-Power Key-Huawei//Power Flex//1,200//Date//Shop
-50//HOLU10TBHONU10TBHONU19TBHOLU19TB//Hol-U10-U19-Huawei-Touch(Black)JK//Touch//4,300//Date//Shop
-51//HON4XBCBHWGPLAYBCB//Honor4x-Gplay-BackCover-(Black)//Back Cover//3,300//Date//Shop
+50//HOLU10TBHONU10TBHONU19TBHOLU19TB//Hol-U10-U19-Huawei-Touch(Black)JK//Touch//3500//15,9,2020//Master
+51//HON4XBCBHWGPLAYBCB//Honor4x-Gplay-BackCover-(Black)//Back Cover//3,500//17,9,2020//Phone Club
 52//HON4XBCGHWGPLAYBCG//Honor4x-Gplay-BackCover-(Gold)//Back Cover//3,300//Date//Shop
 53//HON4XBDCB//Honor4x-Gplay-Huawei-Bodycover_(Black)//BodyCover//8,500//Date//Shop
 54//HON4XBDCG//Honor4x-Gplay-Huawei-BodyCover(Gold)//BodyCover//8,500//Date//Shop
@@ -58,7 +58,7 @@
 57//HON4XTB//Honor4x-Gplay-Huawei-Touch(Black)//TouchOnly//3600//Date//Shop
 58//HON4XTG//Honor4x-Gplay-Huawei-Touch(Gold)//TouchOnly//3600//Date//Shop
 59//HON4XTLBHWGPLAYTLB//Honor4x-Gplay-Huawei-T+L(Black)//T+L//15800//8,9,2020//Hx
-60//HON4XTLGHWGPLAYTLG//Honor4x-Gplay-T+L(Gold)//T+L//16000//Date//Shop
+60//HON4XTLGHWGPLAYTLG//Honor4x-Gplay-T+L(Gold)//T+L//14800//15,9,2020//Master
 61//HON4XTLWHWGPLAYTLW//Honor4x-Gplay-Huawei(White)-T+L//T+L//16,800//Date//Shop
 62//HON4XTWGPLAYTW//Honor4x-Gplay-Touch(White)//TouchOnly//3600//Date//Shop
 63//HON6ATLB//Honor6A-Huawei-T+L (Black)//T+L//16,300//Date//Shop
@@ -92,7 +92,7 @@
 91//HWC8813LCD//C8813-Huawei-LCD//LCD//6,000//Date//Shop
 92//HWC8813TB//C8813-Huawei-(Black)Touch//Touch//3,600//Date//Shop
 93//HWC8813TW//C8813-Huawei-(White)Touch//Touch//3,600//Date//Shop
-94//HWC8816LCDHWG610LCDHWG620LCDG620SLCD//C8816-G610-G620-Huawei-LCD//LCD//5,500//4,9,2020//Hx
+94//HWC8816LCDHWG610LCDHWG620LCDG620SLCD//C8816-G610-G620-Huawei-LCD//LCD//5,000//15,9,2020//Master
 95//HWC8816TBHWG615TB//C8816 or G615-Huawei-Touch(Black)AA//Touch//4,500//Date//Shop
 96//HWC8816TWHWG615TW//C8816 or G615-Huawei-Touch(White)AA//Touch//4,500//Date//Shop
 97//HWC8825LCD//C8825-Huawei-LCD//LCD//6,500//Date//Shop
@@ -106,7 +106,7 @@
 105//HWEJ7USB//Enjoy7-USB Board-Huawei//USB Board//3,500//Date//Shop
 106//HWEJ8TLBHWNV2LTLBHWY7P18TLBHWY7P18TLB//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-T+L(B)//T+L//15,200//Date//Shop
 107//HWEJ8TLGHWNV2LTLGHWY7P18TLG//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-T+L(G)//T+L//19,000//Date//Shop
-108//HWEJ8TLWHWNV2LTLWHWY7P18TLW//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-T+L(W)//T+L//14,300//Date//Shop
+108//HWEJ8TLWHWNV2LTLWHWY7P18TLW//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-T+L(W)//T+L//19400//17,9,2020//Phone Club
 109//HWG510TBHWU8951TB//U8951-G510-Huawei-Touch(Black)//Touch//3,000//Date//Shop
 110//HWG510TWHWU8951TW//U8951-G510-Huawei-Touch(White)Touch//Touch//3,000//Date//Shop
 111//HWG610BCB//G610-U00-Backcover-Black-Huawei//Back Cover//3,500//Date//Shop
@@ -169,9 +169,9 @@
 168//HWGR517BDCGR//GR5(2017)-Huawei-Bodycover (Silver)//BodyCover//9,000//Date//Shop
 169//HWGR517TB//GR5(2017)-Huawei-Touch(Black)//TouchOnly//4,500//Date//Shop
 170//HWGR517TGHWGR5TG//GR5(2017)-Huawei(Gold)Touch//TouchOnly//4,500//Date//Shop
-171//HWGR517TLBHON6XTLB//GR5(2017)-Honor6x-T+L(Black)//T+L//16,000//Date//Shop
-172//HWGR517TLGHON6XTLG//GR5(2017)-Honor6x-T+L(Gold)//T+L//16,000//Date//Shop
-173//HWGR517TLWHON6XTLW//GR5(2017)-Honor6X-T+L(White)//T+L//16,000//Date//Shop
+171//HWGR517TLBHON6XTLB//GR5(2017)-Honor6x-T+L(Black)//T+L//16,500//15,9,2020//Master
+172//HWGR517TLGHON6XTLG//GR5(2017)-Honor6x-T+L(Gold)//T+L//16,500//Date//Shop
+173//HWGR517TLWHON6XTLW//GR5(2017)-Honor6X-T+L(White)//T+L//16,500//Date//Shop
 174//HWGR517TW//GR5(2017)-Huawei(White)Touch//TouchOnly//5,000//8,9,2020//Hx
 175//HWGR5BDCB//GR5-Huawei-BodyCover(Black)//BodyCover//8,500//Date//Shop
 176//HWGR5BDCGR//GR5-Huawei-BodyCover(Grey)//BodyCover//8,500//Date//Shop
@@ -203,11 +203,11 @@
 202//HWNV2ISTGHWNV2ISTBHWNV2ISTW//Nova2i-Huawei-Sim Tray(Gold)(Black)(White)//Sim Tray//3,000//Date//Shop
 203//HWNV2ITB//nova2i-Huawei(Black)-Touch//TouchOnly//4,000//Date//Shop
 204//HWNV2ITBL//nova2i-Huawei(Blue)-Touch//TouchOnly//5,000//Date//Shop
-205//HWNV2ITLB//Nova2i-Huawei-T+L-Black//T+L//16,500//Date//Shop
+205//HWNV2ITLB//Nova2i-Huawei-T+L-Black//T+L//18000//15,9,2020//Master
 206//HWNV2ITLW//Nova2i-Huawei(White)+T+L//T+L//16,500//Date//Shop
 207//HWNV2ITW//nova2i-Huawei(White)-Touch//TouchOnly//4,000//Date//Shop
 208//HWNV2IUSBF//Nova2i-USBFlex//USB Flex//3,000//Date//Shop
-209//HWNV3EBCBL//Nova3e-Huawei-Backcover (Blue)//Back Cover//4,500//Date//Shop
+209//HWNV3EBCBL//Nova3e-Huawei-Backcover (Blue)//Back Cover//3,500//17,9,2020//Phone Club
 210//HWNV3EBDCBL//Nova3e-HuaweiBodycover-Blue//BodyCover//8,500//Date//Shop
 211//HWNV3EPF//Nova3E-Power Flex-Huawei//Power Flex//1,700//Date//Shop
 212//HWNV3ETB//Nova3e-Huawei-Touch(Black)//TouchOnly//4,800//Date//Shop
@@ -228,7 +228,7 @@
 227//HWP30LBCBL//HuaweiP30LiteBackCover(Blue)//Back Cover//5,500//Date//Shop
 228//HWP6TLB//P6-T+L-Huawei(Black)//T+L//16,000//Date//Shop
 229//HWP7BCW//P7-Huawei(White)Backcover//Back Cover//3,500//Date//Shop
-230//HWP7BTHB3543B4EBW//P7-Huawei-Battery//Battery//6,500//Date//Shop
+230//HWP7BTHB3543B4EBW//P7-Huawei-Battery//Battery//6,500//15,9,2020//Master
 231//HWP7TLW//P7-T+L-White-Huawei//T+L//19,000//Date//Shop
 232//HWP8BTHB3447A9EBW//P8-Battery-Huawei//Battery//6,300//Date//Shop
 233//HWP8LBCB//P8Lite-Huawei-Backcover-Black//Back Cover//3,500//Date//Shop
@@ -389,7 +389,7 @@
 388//HWY6PRTLBHON7ATLB//Y6Prime(2018)/Y6(2018)/Y6Pro(2018)/Honor7A-Huawei-T+L (Black)//T+L//15800//8,9,2020//Hx
 389//HWY6PRTLWHON7ATLW//Y6(2018)/Y6Prime(2018)/Y6Pro(2018)/Honor7A-Huawei-T+L (White)//T+L//16000//Date//Shop
 390//HWY6PRTWHWY6P18TWHON7ATW//Y6pro(18)-Y6Prime(2018)-Honor7A-Huawei-Touch(White)//TouchOnly//4,800//Date//Shop
-391//HWY6P19TLBHWY6P19TLBHON8ATLB//Y6-Y6PRO(19)-Honor8A-T+L-HUAWEI(Black)//T+L//18000//Date//Shop
+391//HWY6P19TLBHWY6P19TLBHON8ATLB//Y6-Y6PRO(19)-Honor8A-T+L-HUAWEI(Black)//T+L//21000//15,9,2020//Master
 392//HWY6P20TLBHWY620TLB//Huawei-Y6P-Y6(2020)-T+L(Black)//T+L//25,000//Date//Shop
 393//HWY6PMF//Y6Prime-Huawei-MiddleFlex//Maddle Flex//4,500//Date//Shop
 394//HWY6PPK//Y6prime-Power Key-Huawei//Power Flex//1,300//Date//Shop
@@ -563,7 +563,7 @@
 562//MMX2STB//Mimax2-Sim Tray (Black)//Sim Tray//3,500//Date//Shop
 563//MMX2STG//Mimax2-Sim Tray (Gold)//Sim Tray//3,500//Date//Shop
 564//MMX2TB//MiMax2-Touch(Black)//TouchOnly//4,500//Date//Shop
-565//MMX2TLB//Mimax2-T+L(Black)//T+L//27,500//4,9,2020//Hx
+565//MMX2TLB//Mimax2-T+L(Black)//T+L//35800//15,9,2020//Master
 566//MMX2TLW//Mimax2-T+L(White)//T+L//27,500//4,9,2020//Hx
 567//MMX2TW//MiMax2-Touch(White)//TouchOnly//4,500//Date//Shop
 568//MMX2USB//MiMax2-USB Board//USB Board//3,000//Date//Shop
@@ -644,7 +644,7 @@
 644//MZM5NSTG//M5Note-SimTray-Gold//Sim Tray//3,200//Date//Shop
 645//MZM5NTB//M5Note-Meizu-Touch(Black)//TouchOnly//3800//10,9,2020//Hx
 646//MZM5NTLB//M5note-Meizu-T+L(Black)//T+L//16,500//13,9,2020//Hx
-647//MZM5NTLW//M5Note-Meizu(White)T+L//T+L//16,500//Date//Shop
+647//MZM5NTLW//M5Note-Meizu(White)T+L//T+L//16,400//17,9,2020//Phone Club
 648//MZM5NTW//M5Note-Meizu-Touch(White)//TouchOnly//3800//10,9,2020//Hx
 649//MZM5PF//M5-Power Flex-Meizu//Power Flex//1,500//Date//Shop
 650//MZM5SBT//M5s-Battery-Meizu//Battery//6,000//Date//Shop
@@ -711,7 +711,7 @@
 712//OPA37TLB//A37-Oppo-T+LCD(Black)//T+L//12,500//4,9,2020//Hx
 713//OPA37TLW//A37-Oppo-T+LCD(white)//T+L//12,500//13,9,2020//Hx
 714//OPA37TWOPA37TB//A37-Oppo-Touch(White)(Black)//TouchOnly//3,500//6,9,2020//ShweLattSaung
-715//OPA37USBF//A37-USBFlex-Oppo//USB Flex//3,000//Date//Shop
+715//OPA37USBF//A37-USBFlex-Oppo//USB Flex//3,000//17,9,2020//Phone Club
 716//OPA39BDCBOPA57BDCB//A39/A57-BodyCover(Black)//BodyCover//7,000//Date//Shop
 717//OPA39BDCGOPA57BDCG//A39/A57-OPPO-BodyCover(Gold)//BodyCover//9,000//Date//Shop
 718//OPA39BDCRGOPA57BDCRG//A39/A57-OPPO-BodyCover(RoseGold)//BodyCover//12,000//Date//Shop
@@ -721,7 +721,7 @@
 722//OPA39TB//A39-Oppo-Touch(Black)//TouchOnly//4,500//Date//Shop
 723//OPA39TLB//A39-Oppo(Black)T+L//T+L//12800//Date//Shop
 724//OPA39TLW//A39-Oppo(White)T+L//T+L//12800//Date//Shop
-725//OPA39TW//A39-Oppo-Touch(White)//TouchOnly//3,500//Date//Shop
+725//OPA39TW//A39-Oppo-Touch(White)//TouchOnly//3,000//15,9,2020//Master
 726//OPA3SGB//A3S-Oppo-Glass(Black)//Glass//4,000//Date//Shop
 727//OPA3SGW//A3S-Oppo-Glass(White)//Glass//4,000//Date//Shop
 728//OPA3SPF//A3s-PowerFlex-Oppo//Power Flex//1,500//Date//Shop
@@ -741,7 +741,7 @@
 742//OPA57TLW//A57-Oppo-T+L(White)//T+L//12300//Date//Shop
 743//OPA57TW//A57-Oppo-Touch(White)//TouchOnly//3,800//Date//Shop
 744//OPA59PF//A59-Oppo-Power Flex//Power Flex//1,500//Date//Shop
-745//OPA5STLBOPA7TLBRME3TLB//A5s-A7-Realme3-Oppo-T+L(Black)//T+L//19,000//Date//Shop
+745//OPA5STLBOPA7TLBRME3TLB//A5s-A7-Realme3-Oppo-T+L(Black)//T+L//21400//15,9,2020//Master
 746//OPA5TLBOPA9TLBOPA11XTLBRME5TLBOPA520TLBOPA920TLB//A5(2020)_A9(2020)_A11X_REALME5_T+L-Black//T+L//22,800//Date//Shop
 747//OPA71BDCB//A71-Oppo-BodyCover(Black)//BodyCover//7,500//Date//Shop
 748//OPA71PF//A71-Power Flex-Oppo//Power Flex//1,500//Date//Shop
@@ -754,8 +754,8 @@
 755//OPA83BDCB//A83-Oppo(Black)Bodycover//BodyCover//8,500//Date//Shop
 756//OPA83PK//A83-PowerKey-Oppo//Power Flex//1,500//13,9,2020//Hx
 757//OPA83STGROPF5LSTGR//OppoA83-F5lite-Simtray//Sim Tray//2,500//Date//Shop
-758//OPA83TLBOPF5LTLB//A83-F5Lite-Oppo(Black)T+L//T+L//17,000//Date//Shop
-759//OPA83TLWOPF5LTLW//A83-F5lite-Oppo(White)T+L//T+L//17,000//Date//Shop
+758//OPA83TLBOPF5LTLB//A83-F5Lite-Oppo(Black)T+L//T+L//20400//15,9,2020//Master
+759//OPA83TLWOPF5LTLW//A83-F5lite-Oppo(White)T+L//T+L//20400//15,9,2020//Master
 760//OPF11TLBOPF9PTLBRME5PTLB//Oppo-F11-F9Pro-Realme5Pro-T+L(B)//T+L//25,000//Date//Shop
 761//OPF1BDCG//F1-OPPO-BodyCover(Gold)//BodyCover//14,500//Date//Shop
 762//OPF1FSTRGOPF1FSTGR//F1F-Oppo-Sim Tray (Rose Gold) (Gray)//Sim Tray//4,000//Date//Shop
@@ -788,8 +788,8 @@
 789//OPF5BDCBOPF5YBDCB//Oppo-F5-F5Youth-BodyCover(Black)//BodyCover//9,500//Date//Shop
 790//OPF5LGBOPA83GB//F5lite-A83-Oppo-Glass(Black)//Glass//4,500//Date//Shop
 791//OPF5LGWOPA83GW//F5lite-A83-Oppo-Glass(White)//Glass//4,500//Date//Shop
-792//OPF5TLBOPF5YTLBOPA73TLB//F5-F5Youth-A73-OPPO(Black)T+L//T+L//18,500//Date//Shop
-793//OPF5TLWOPF5YTLWOPA73TLW//F5-F5Youth-A73-OPPO(White)T+L//T+L//18,500//Date//Shop
+792//OPF5TLBOPF5YTLBOPA73TLB//F5-F5Youth-A73-OPPO(Black)T+L//T+L//21600//15,9,2020//Master
+793//OPF5TLWOPF5YTLWOPA73TLW//F5-F5Youth-A73-OPPO(White)T+L//T+L//21600//15,9,2020//Master
 794//OPF5TWOPF5YTW//F5-F5Youth-Touchonly(White)//TouchOnly//4,800//Date//Shop
 795//OPF5YBDCGOPF5BDCG//OPPO-F5Youth-F5-BodyCover(Gold)//BodyCover//7,000//Date//Shop
 796//OPF7GB//F7-Oppo-Glass(Black)//Glass//4,500//Date//Shop
@@ -921,7 +921,7 @@
 922//RM4XTG//Redmi4X-Touch(Gold)//TouchOnly//4,500//Date//Shop
 923//RM4XTLB//Redmi4X-T+L(Black)JK//T+L//12800//Date//Shop
 924//RM4XTLG//Redmi4X-T+L(Gold)JK//T+L//12800//4,9,2020//Hx
-925//RM4XTLW//Redmi4X-T+L(White)JK//T+L//12800//Date//Shop
+925//RM4XTLW//Redmi4X-T+L(White)JK//T+L//15400//15,9,2020//Master
 926//RM4XTW//Redmi4x-Touch(White)//TouchOnly//3,500//8,9,2020//Hx
 927//RM4XUSB//Redmi4x-USB Board//USB Board//3,000//8,9,2020//Hx
 928//RM5ABDCG//Redmi5A-BodyCover(Gold)//BodyCover//7,500//Date//Shop
@@ -966,9 +966,9 @@
 967//RM5XFPRMI5XFPR//Redmi5X-FingerPrint(Red)//Fingerprints//5,000//Date//Shop
 968//RM5XPKMI5XPK//RedMi5x-Power Flex//Power Flex//1,500//13,9,2020//Hx
 969//RM5XTBMI5XTB//RedMi5x-TouchOnly(Black)//TouchOnly//3,500//Date//Shop
-970//RM5XTLBMI5XTLB//Redmii5x-T+L(Black)//T+L//16000//8,9,2020//Hx
+970//RM5XTLBMI5XTLB//Redmii5x-T+L(Black)//T+L//16200//15,9,2020//Master
 971//RM5XTLGMI5XTLG//Redmii5x-T+L(Gold)//T+L//18,000//Date//Shop
-972//RM5XTLWMIA1TLWMI5XTLW//Redmi5x-T+L(White)//T+L//16000//8,9,2020//Hx
+972//RM5XTLWMIA1TLWMI5XTLW//Redmi5x-T+L(White)//T+L//16200//15,9,2020//Master
 973//RM5XTWMI5XTW//RedMi5x-TouchOnly(White)//Touch//3300//8,9,2020//Hx
 974//RM6ABDCG//Redmi6A-Body Cover-Gold//BodyCover//6,500//Date//Shop
 975//RM6ABDCRG//Redmi6A-Body Cover-RoseGold//BodyCover//9,500//Date//Shop
@@ -1016,7 +1016,7 @@
 1017//RM7STB//Redmi7-Simtray-Black//Sim Tray//3,500//Date//Shop
 1018//RM7STR//Redmi7-Simtray-Red//Sim Tray//3,500//Date//Shop
 1019//RM7TB//Redmi7-Touch(Black)//TouchOnly//3800//8,9,2020//Hx
-1020//RM7TLB//Redmi7-T+L-Black//T+L//21500//Date//Shop
+1020//RM7TLB//Redmi7-T+L-Black//T+L//24000//15,9,2020//Master
 1021//RM8ABDCB//Redmi8A_BodyCover(B)//BodyCover//9,000//Date//Shop
 1022//RM8BDCRRM8BDCBRM8BDCBL//Redmi8-BodyCover(Red)(Black)(Blue)//BodyCover//11,000//Date//Shop
 1023//RM8GBRM8AGB//Redmi8-Redmi8a-Glass(Black)//Glass//3,000//Date//Shop
@@ -1024,7 +1024,7 @@
 1025//RM8STB//Redmi8-SimTray(Black)//Sim Tray//2,500//Date//Shop
 1026//RM8TLB//Remi8-T+LCD-(Black)//T+L//19000//8,9,2020//Hx
 1027//RME5ITLB//Realme5i-T+L_Black//T+L//22,400//Date//Shop
-1028//RMEC2TLBOPA1KTLBRMEC2TLB//RealmeC2-A1k-T+LCD(B)//T+L//17,800//13,9,2020//Hx
+1028//RMEC2TLBOPA1KTLBRMEC2TLB//RealmeC2-A1k-T+LCD(B)//T+L//18700//15,9,2020//Master
 1029//RMEC3TBOPA7TBOPA5STB//A7-A5s-RealmeC3-Touch(Black)//Glass//3,200//Date//Shop
 1030//RMEC3TLB//RealmeC3-T+L(Black)//T+L//21500//13,9,2020//Hx
 1031//RMN1BCB//RedmiNote1-Backcover-Black//Back Cover//3,500//Date//Shop
@@ -1046,7 +1046,7 @@
 1048//RMN3BDC//RedmiNote3-BodyCover(Black)//BodyCover//10,500//Date//Shop
 1049//RMN3BDCG//Redminote3-Bodycover(Gold)//BodyCover//10,500//Date//Shop
 1050//RMN3BDCGR//Redminote3-Bodycover(Gray)//BodyCover//12,000//Date//Shop
-1051//RMN3BTBM46BT//Redminote3-Battery//Battery//5500//8,9,2020//Hx
+1051//RMN3BTBM46BT//Redminote3-Battery//Battery//6500//17,9,2020//Phone Club
 1052//RMN3FGGR//RedMiNote3-FingerPrint(Grey)//Fingerprints//4,000//Date//Shop
 1053//RMN3FPG//Redminote3-Fingerprints(Gold)//Fingerprints//3,500//Date//Shop
 1054//RMN3MF//Redminote3-MaddleFlex//Maddle Flex//3,000//Date//Shop
@@ -1086,7 +1086,7 @@
 1088//RMN4STG//Redminote4Simtray-Gold//Sim Tray//3,000//Date//Shop
 1089//RMN4STGR//Rdminote4-Simtray-Greay//Sim Tray//3,000//Date//Shop
 1090//RMN4TB//RedmiNote4-Touch(Black)//TouchOnly//3500//Date//Shop
-1091//RMN4TLB//Redminote4-T+L(Black)//T+L//14800//8,9,2020//Hx
+1091//RMN4TLB//Redminote4-T+L(Black)//T+L//16200//15,9,2020//Master
 1092//RMN4TLW//Redminote4-T+L(White)//T+L//14800//Date//Shop
 1093//RMN4TW//RedmiNote4-Touch(White)//TouchOnly//3500//Date//Shop
 1094//RMN4USB//Redminote4-USB Board//USB Board//2,300//Date//Shop
@@ -1101,8 +1101,8 @@
 1103//RMN4XSTGR//Redminote4x-simtray(Grey)//Sim Tray//3,000//Date//Shop
 1104//RMN4XTB//RedmiNote4x-TouchOnly(Black)//TouchOnly//3,300//Date//Shop
 1105//RMN4XTG//RedmiNote4x-TouchOnly(Gold)//TouchOnly//4,300//Date//Shop
-1106//RMN4XTLB//Redminote4X-T+L (Black)//T+L//14,800//Date//Shop
-1107//RMN4XTLW//Redminote4X-T+L (White)//T+L//14,800//8,9,2020//Hx
+1106//RMN4XTLB//Redminote4X-T+L (Black)//T+L//16400//17,9,2020//Phone Club
+1107//RMN4XTLW//Redminote4X-T+L (White)//T+L//16400//17,9,2020//Phone Club
 1108//RMN4XTW//RedmiNote4x-TouchOnly(White)//TouchOnly//3,500//8,9,2020//Hx
 1109//RMN4XUSB//Redminote4x-USB Board//USB Board//3,000//8,9,2020//Hx
 1110//RMN5ABDCG//RedmiNote5A-Body(Gold)//BodyCover//7,500//Date//Shop
@@ -1115,7 +1115,7 @@
 1124//RMN5AFPG//Redminote5a-Fingerprint(Gold)//Fingerprints//4,500//Date//Shop
 1125//RMN5AMF//RedmiNote5A-Middle Flex//Maddle Flex//2500//13,9,2020//Hx
 1126//RMN5APK//Redminote5A-Power Key//Power Flex//1,500//13,9,2020//Hx
-1127//RMN5ARM5XRMS2BN31BT//RedmiNote5A-Mi5x-RedmiS2-Battery//Battery//5,500//8,9,2020//Hx
+1127//RMN5ARM5XRMS2BN31BT//RedmiNote5A-Mi5x-RedmiS2-Battery//Battery//6000//17,9,2020//Phone Club
 1128//RMN5ASTG//Redminote5A-Sim Tray(Gold)//Sim Tray//3,500//Date//Shop
 1129//RMN5AUSB//Redminote5A-USB Board//USB Board//2,500//13,9,2020//Hx
 1130//RMN5BDCBRMN5BDCGRMN5BDCRG//RedmiNote5-BodyCover(B)(G)(RG)//BodyCover//7,000//Date//Shop
@@ -1265,7 +1265,7 @@
 1274//SSG530TBSSGGPTBSSGPTB//G530-Samsung-Grand-Prime(Black)Touch;Org//Touch//3,000//Date//Shop
 1275//SSG530TGSSGGPTGSSGPTG//G530-Samsung-Grand-Prime(Gold)Touch;Org//Touch//3,000//Date//Shop
 1276//SSG530TWSSGGPTWSSGPTW//G530-Samsung-Grand-prime-Touch(White) Org//Touch//3,500//8,9,2020//Hx
-1277//SSG532LCDSSJ2PLCDSSG530LCDSSG531LCDSSGGPLCDSSGPLCD//G532-G530-G531-J2Prime-Samsung-LCD//LCD//10500//10,9,2020//ShweLattSaung
+1277//SSG532LCDSSJ2PLCDSSG530LCDSSG531LCDSSGGPLCDSSGPLCD//G532-G530-G531-J2Prime-Samsung-LCD//LCD//11500//17,9,2020//Phone Club
 1278//SSG7102BDCBSSG2BDCBSSG7106BDCB//G7102-Grand2-G7106-Samsung(Black)Bodycover//BodyCover//4,500//Date//Shop
 1279//SSG7102BDCGSSG7106BDCGSSG2BDCG//G7102-G7106-Grand2-Samsung-BodyCover(Gold)//BodyCover//4,500//Date//Shop
 1280//SSG7102BDCWSSG2BDCWSSG7106BDCW//G7102-G7106-Grand2-Samsung-BodyCover(White)//BodyCover//4,500//Date//Shop
@@ -1481,7 +1481,7 @@
 1490//VVV1TB//V1-Vivo-Touch(Black)//TouchOnly//4,000//Date//Shop
 1491//VVV1TLB//V1-Vivo(Black)T+L//T+L//16,500//Date//Shop
 1492//VVV1TLW//V1-Vivo(White)T+L//T+L//16,500//Date//Shop
-1493//VVV1TW//V1-Vivo-Touch(White)//TouchOnly//4,000//Date//Shop
+1493//VVV1TW//V1-Vivo-Touch(White)//TouchOnly//3500//15,9,2020//Master
 1494//VVV3BDCG//V3-Vivo(Gold)Bodycover//BodyCover//18,000//Date//Shop
 1495//VVV3MXBDCVVV3MAXBDCVVV3MBDC//Vivo-V3Max-BodyCover//BodyCover//0//Date//Shop
 1496//VVV3MXBT//V3Max-Battery-ViVo//Battery//7,500//Date//Shop
@@ -1500,9 +1500,9 @@
 1509//VVV5LBDCRG//V5lite-BodyCover(RoseGold)//BodyCover//7,000//Date//Shop
 1510//VVV5LPF//V5Lite-Power Flex-Vivo//Power Flex//2,000//Date//Shop
 1511//VVV5LTB//V5Lite-Vivo-Touch(Black)//TouchOnly//4,300//Date//Shop
-1512//VVV5LTLB//V5Lite-Vivo-T+L(Black)//T+L//16,500//Date//Shop
-1513//VVV5LTLW//V5Lite-Vivo-T+L(White)//T+L//13,000//Date//Shop
-1514//VVV5LTW//V5Lite-Vivo-Touch(White)//TouchOnly//4,300//Date//Shop
+1512//VVV5LTLB//V5Lite-Vivo-T+L(Black)//T+L//20400//15,9,2020//Master
+1513//VVV5LTLW//V5Lite-Vivo-T+L(White)//T+L//20400//15,9,2020//Master
+1514//VVV5LTW//V5Lite-Vivo-Touch(White)//TouchOnly//3000//15,9,2020//Master
 1515//VVV5PFVVY67PF//V5-Y67-Vivo_Powerflex//Power Flex//1,500//Date//Shop
 1516//VVV5STG//ViVoV5(Sim Tray) Gold//Sim Tray//3,500//Date//Shop
 1517//VVV5STGVVY67STG//V5-Vivo_Simtray-Gold//Sim Tray//3,500//Date//Shop
@@ -1564,7 +1564,7 @@
 1573//VVY51PKY52PK//Y51-Y52-Vivo-power flex//Power Flex//1,500//13,9,2020//Hx
 1574//VVY51TBY52TB//Y51-Y52-Vivo-Touch(Black)//TouchOnly//3000//8,9,2020//Hx
 1575//VVY51TLBY52TLB//Y51-Y52-Vivo-T+L(Black)//T+L//12,800//4,9,2020//Hx
-1576//VVY51TLWY52TLW//Y51-Y52-Vivo-T+L(White)//T+L//12,800//4,9,2020//Hx
+1576//VVY51TLWY52TLW//Y51-Y52-Vivo-T+L(White)//T+L//12,800//15,9,2020//Master
 1577//VVY51TWY52TW//Y51-Y52-Vivo-Touch(White)//TouchOnly//3000//8,9,2020//Hx
 1578//VVY51USBFY52USBF//Y51-Y52-VIVO-USB Flex//USB Flex//3,000//6,9,2020//ShweLattSaung
 1579//VVY53BDCG//Y53-Body Cover-Gold-Vivo//BodyCover//8,500//Date//Shop
@@ -1604,8 +1604,8 @@
 1613//VVY81GBVVY83GBVVY83IGB//Y81-83-83i-Vivo-Glass(Black)//Glass//3,500//Date//Shop
 1614//VVY81GWVVY83GWVVY83IGW//Y81-Y83-Y83i-Vivo-Glass(White)//Glass//3,200//Date//Shop
 1615//VVY81IUSBF//Y81i-ChargingFlex-Vivo//Charging Flex//2,800//Date//Shop
-1616//VVY81TLBVVY83TLBVVY81ITLB//Y81-Y83-Y81i-(Black)-T+L-Vivo//T+L//19500//4,9,2020//Hx
-1617//VVY81TLWVVY83TLWVVY81ITLW//Y81-Y83-Y81i-(White)-T+L-Vivo//T+L//19500//13,9,2020//Hx
+1616//VVY81TLBVVY83TLBVVY81ITLB//Y81-Y83-Y81i-(Black)-T+L-Vivo//T+L//23800//15,9,2020//Master
+1617//VVY81TLWVVY83TLWVVY81ITLW//Y81-Y83-Y81i-(White)-T+L-Vivo//T+L//23800//15,9,2020//Master
 1618//VVY85GBVVV9GB//Y85-V9-Vivo-Glass(Black)//Glass//3,200//Date//Shop
 1619//VVY85GWVVV9GW//Y85-V9-Vivo-Glass(White)//Glass//3,200//Date//Shop
 1620//VVY91BCBVVY93BCBVVY95BCB//Vivo-Y91-Y93-Y95-BackcOVER(Black)//Back Cover//2,500//Date//Shop
@@ -1628,7 +1628,7 @@
 1637//HWY919GBHWY9GB//Huawei-Y9(19)-Glass(B)//Glass//2500//Date//Shop
 1638//SSJ3TLWSSJ316TLW//Samsung-J3(16)-T+L(W)//T+L//39000//Date//Shop
 1639//SSA30STLB//Samsung-A30s-T+L(B)//T+L//56000//Date//Shop
-1640//SSA30TLB//Samsung-A30-T+L(B)//T+L//56000//Date//Shop
+1640//SSA30TLB//Samsung-A30-T+L(B)//T+L//67000//17,9,2020//Kaung Kyawel
 1641//MI8SEGB//Mi8SE-Glass(Black)//Glass//3000//Date//Shop
 1642//MI8LITEBCBMI8LBCB//Mi8Lite-BackCover(Black)//BackCover//3500//Date//Shop
 1643//SSA20TLB//Samsung-A20-T+L(Black)//T+L//25500//Date//Shop
@@ -1659,3 +1659,8 @@
 1668//RMN7PK//RedmiNote7-PowerKey//PowerKey//1500//13,9,2020//Hx
 1669//RMN7APK//Redmi7A-PowerKey//PowerKey//1500//13,9,2020//Hx
 1670//SSA20TLBORG//Samsung-A20-T+L(ORG)//T+L//56000//13,9,2020//Hx
+1671//SSA7TLSSA718TL//Samsung-A7(18)-T+L(Black)//T+L//53000//17,9,2020//Phone Club
+1672//MIPLAYBTBN39BT//MiPlay-Battery//Battery//6500//17,9,2020//Phone Club
+1673//IPH6SPBT//Iphone6sPlus-Battery//Battery//11500//15,9,2020//Master
+1674//SNL1BT//SonyL1-Battery//Battery//7000//15,9,2020//Master
+1675//HON4CTLW//Honor4C-T+L(White)//T+L//13300//15,9,2020//Master
