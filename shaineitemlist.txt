@@ -1,4 +1,4 @@
-0//Update//Update//0//18,9,2020//18,9,2020//Shaine Mobile
+0//Update//Update//0//19,9,2020//19,9,2020//Shaine Mobile
 1//0.5mm//0.5mm//ခဲခွေ//2,000//Date//Shop
 2//37.5hb//Sunshine-0.10mm-မွန္ခြာျကိုး//မွန္ခြာျကိုး//2,500//Date//Shop
 3//Alloy63/67//Quick-0.8mm//ခဲခွေ//4,500//Date//Shop
@@ -9,9 +9,9 @@
 8//BLP573BTOPN1MNBT//N1mini-Oppo-Battery//Battery//6,000//Date//Shop
 9//BLP593BTOPA31BT//A31-oppo-Battery//Battery//6,000//Date//Shop
 10//BLP609BTOPR9BT//R9-oppo-Battery//Battery//7,300//Date//Shop
-11//BLP619BTOPA39BT//A39-oppo-Battery//Battery//7,000//Date//Shop
+11//BLP619BTOPA39BTA57BT//A39/A57-oppo-Battery//Battery//6600//19,9,2020//Master
 12//BLP631BTOPF3BTOPF5BTOPA77BT//F3-F5-A77-oppo-Battery//Battery//6,300//Date//Shop
-13//BLP649BTOPA83BT//A83-Oppo-Battery//Battery//7,800//Date//Shop
+13//BLP649BTOPA83BT//A83-Oppo-Battery//Battery//7,500//19,9,2020//Master
 14//BLP673BTOPA3SBT//A3s-oppo-Battery//Battery//8,500//Date//Shop
 15//BM3ABTMN3BT//MiNote3-Battery//Battery//7,700//Date//Shop
 16//BM41BTRM1SBTRM2BT//Redmi1s-Redmi2-Battery//Battery//5,500//Date//Shop
@@ -278,7 +278,7 @@
 277//HWY317TLB//Y3(2017)-Huawei-T+L(Black)//T+L//12000//Date//Shop
 278//HWY317TLG//Y3(2017)-Huawei-T+L(Gold)//T+L//13500//5,9,2020//ShweLattSaung
 279//HWY317TLW//Y3(2017)-Huawei-T+L(White)//T+L//12000//Date//Shop
-280//HWY317TW//Y3(2017)-Huawei(White)-Touch//TouchOnly//3,500//13,9,2020//Hx
+280//HWY317TW//Y3(2017)-Huawei(White)-Touch//TouchOnly//3,500//19,9,2020//Master
 281//HWY320CTW//Y320C-Huawei(White)-Touch//Touch//4,800//Date//Shop
 282//HWY320LCD//Y320-Huawei-LCD//LCD//5,300//Date//Shop
 283//HWY320PF//Y320-Power Flex-Huawei//Power Flex//1,300//Date//Shop
@@ -384,11 +384,11 @@
 383//HWY6PRBDCBLHON7ABDCBL//Huawei-Y6Prime(18)-Hon7A-Y6Pro(18)-BodyCover(Blue)//BodyCover//7,500//Date//Shop
 384//HWY6PRFPBLHON7AFPBL//Huawei-Y6prime(2018)/7A-Fingerprint(Blue)//Fingerprints//8,500//Date//Shop
 385//HWY6PRPKHON7APK//Y6Prime(2018)-Honor7A-Power Flex//Power Flex//1,500//13,9,2020//Hx
-386//HWY6PRTBHWY6P18TBHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A-Huawei-Touch(Black)//TouchOnly//4,200//Date//Shop
-387//HWY6PRTGHWY6P18TGHON7ATG//Y6pro(18)-Y6Prime(2018)-Honor7A-Huawei-Touch(Gold)//TouchOnly//4,800//Date//Shop
-388//HWY6PRTLBHON7ATLB//Y6Prime(2018)/Y6(2018)/Y6Pro(2018)/Honor7A-Huawei-T+L (Black)//T+L//15800//8,9,2020//Hx
-389//HWY6PRTLWHON7ATLW//Y6(2018)/Y6Prime(2018)/Y6Pro(2018)/Honor7A-Huawei-T+L (White)//T+L//16000//Date//Shop
-390//HWY6PRTWHWY6P18TWHON7ATW//Y6pro(18)-Y6Prime(2018)-Honor7A-Huawei-Touch(White)//TouchOnly//4,800//Date//Shop
+386//HWY6PR18TBHWY6PRTBHWY6P18TBHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A-Huawei-Touch(Black)//TouchOnly//4,500//Date//Shop
+387//HWY6PR18TGHWY6PRTGHWY6P18TGHON7ATG//Y6pro(18)-Y6Prime(2018)-Honor7A-Huawei-Touch(Gold)//TouchOnly//4,500//19,9,2020//Master
+388//HWY618TLBHWY6PRTLBHON7ATLB//Y6Prime(2018)/Y6(2018)/Y6Pro(2018)/Honor7A-Huawei-T+L (Black)//T+L//15800//8,9,2020//Hx
+389//HWY618TLWHWY6PRTLWHON7ATLW//Y6(2018)/Y6Prime(2018)/Y6Pro(2018)/Honor7A-Huawei-T+L (White)//T+L//16000//Date//Shop
+390//HWY6PRTWHWY6PR18TWHWY6P18TWHON7ATW//Y6pro(18)-Y6Prime(2018)-Honor7A-Huawei-Touch(White)//TouchOnly//3,500//19,9,2020//Master
 391//HWY6P19TLBHWY6P19TLBHON8ATLB//Y6-Y6PRO(19)-Honor8A-T+L-HUAWEI(Black)//T+L//21000//15,9,2020//Master
 392//HWY6P20TLBHWY620TLB//Huawei-Y6P-Y6(2020)-T+L(Black)//T+L//25,000//Date//Shop
 393//HWY6PMF//Y6Prime-Huawei-MiddleFlex//Maddle Flex//4,500//Date//Shop
@@ -768,7 +768,7 @@
 769//OPF1SPKOPA59PK//F1s-A59-Oppo-Power Flex//Power Flex//1,500//13,9,2020//Hx
 770//OPF1SSTGROPA59STGROPF3STGR//F1s-F3-Oppo-Sim Tray(Gray)//Sim Tray//4,000//Date//Shop
 771//OPF1STBOPA59TB//F1s-A59-Oppo-Touch(Black)//TouchOnly//3,500//Date//Shop
-772//OPF1STLBOPA59TLB//F1s-A59-Oppo(Black)T+L//T+L//12,800//Date//Shop
+772//OPF1STLBOPA59TLB//F1s-A59-Oppo(Black)T+L//T+L//14,800//19,9,2020//Master
 773//OPF1STLWOPA59TLW//F1s-A59-Oppo(White)T+L//T+L//13500//13,9,2020//Hx
 774//OPF1STWOPA59TW//F1s-A59Oppo-Touch(White)//TouchOnly//3,500//Date//Shop
 775//OPF1SUSBFOPA59USBF//F1s-A59-Oppo-USBFlex//USB Flex//3,500//Date//Shop
@@ -778,7 +778,7 @@
 779//OPF3GB//F3-Oppo-Glass(Black)//Glass//3,000//Date//Shop
 780//OPF3GW//F3-Oppo-Glass(White)//Glass//3,000//Date//Shop
 781//OPF3HKW//F3-Oppo-Home Key(White)//Home Key//4,500//Date//Shop
-782//OPF3PBT//F3Plus-Battery//Battery//9,500//Date//Shop
+782//OPF3PBT//F3Plus-Battery//Battery//8600//19,9,2020//Master
 783//OPF3PKOPA77PK//Oppo-F3-A77-PowerFlex//Power Flex//1,500//Date//Shop
 784//OPF3PTB//OppoF3Plus-TouchOnly-Black//TouchOnly//3,500//Date//Shop
 785//OPF3PTW//OppoF3plus-TouchOnly-White//TouchOnly//5,000//Date//Shop
@@ -1474,7 +1474,7 @@
 1483//vivov3pf//V3-ViVo-Power Flex//Power Flex//1,500//Date//Shop
 1484//VVS1PTLBVVV15PTLBVVX27TLB//Vivo-S1Pro/V15Pro/X27-T+L(Black)//T+L//79,000//Date//Shop
 1485//VVV15USB//Vivo-V15-ChargingFlex//Charging Flex//3,500//Date//Shop
-1486//VVV1BTVVY53BTVVBB3BT//V1-Y35-B3-Vivo-Battery//Battery//6,000//Date//Shop
+1486//VVV1BTVVY53BTVVBB3BT//V1-Y35-B3-Vivo-Battery//Battery//6,000//19,9,2020//Master
 1487//VVV1MXTLWVVY37TLW//V1max-Y37-Vivo(White)T+L//T+L//17,000//Date//Shop
 1488//VVV1PKVVY35PK//V1-Y35-Power Flex-Vivo//Power Flex//2,000//Date//Shop
 1489//VVV1STG//V1-Sim Tray-Vivo-Gold//Sim Tray//3,500//Date//Shop
@@ -1484,7 +1484,7 @@
 1493//VVV1TW//V1-Vivo-Touch(White)//TouchOnly//3500//15,9,2020//Master
 1494//VVV3BDCG//V3-Vivo(Gold)Bodycover//BodyCover//18,000//Date//Shop
 1495//VVV3MXBDCVVV3MAXBDCVVV3MBDC//Vivo-V3Max-BodyCover//BodyCover//0//Date//Shop
-1496//VVV3MXBT//V3Max-Battery-ViVo//Battery//7,500//Date//Shop
+1496//VVV3MXBTVVV3MAXBT//V3Max-Battery-ViVo//Battery//8500//19,9,2020//Master
 1497//VVV3MXMF//V3Max-MiddleFlex//Maddle Flex//5,000//Date//Shop
 1498//VVV3MXTLWVVV3MAXTLW//V3Max-Vivo-T+L(White)//T+L//19,500//Date//Shop
 1499//VVV3TB//V3-Vivo-Touch(Black)//TouchOnly//3,500//Date//Shop
@@ -1507,7 +1507,7 @@
 1516//VVV5STG//ViVoV5(Sim Tray) Gold//Sim Tray//3,500//Date//Shop
 1517//VVV5STGVVY67STG//V5-Vivo_Simtray-Gold//Sim Tray//3,500//Date//Shop
 1518//VVV5TBVVY67TB//V5-Y67-Vivo-Touch(Black)//TouchOnly//3,300//Date//Shop
-1519//VVV5TLBVVY67TLB//V5-Y67-Vivo-T+L(Black)//T+L//13000//4,9,2020//Hx
+1519//VVV5TLBVVY67TLB//V5-Y67-Vivo-T+L(Black)//T+L//14800//19,9,2020//Master
 1520//VVV5TLWVVY67TLW//V5-Vivo-T+L(White)Org//T+L//12800//Date//Shop
 1521//VVV5TWVVY67TW//V5-Y67-Vivo-Touch(White)//TouchOnly//3,300//Date//Shop
 1522//VVV5USBVVY67USB//V5-USB Board-Vivo//USB Board//3,500//Date//Shop
@@ -1613,8 +1613,8 @@
 1622//VVY91BTVVY91CBTVVY93BTVVY95BT//Y91-Y91c-Y93-Y95-Battery//Battery//8,000//Date//Shop
 1623//VVY91GBVVY93GBVVY95GB//Y91-Y93-Y95-Glass(Black)//TouchOnly//3,000//Date//Shop
 1624//VVY91USBVVY93USB//Vivo-Y91-Y93-USBBoard//USB Board//3,500//Date//Shop
-1625//VVY93TLBVVY91TLBVVY91ITLBVVY95TLBVVV9PTLB//Y93-Y91-Y91i-Y95-V9Plus-VIVO-T+L (Black)//T+L//19500//13,9,2020//Hx
-1626//VVY93TLWVVY91TLWVVY91ITLWVVV9PTLWVVY95TLW//Y93-Y91-Y91i-V9Plus-Y95-VIVO-T+L (White)//T+L//20000//Date//Shop
+1625//VVY93TLBVVY91TLBVVY91ITLBVVY95TLBVVV9PTLBVVY90TLB//Y90-Y93-Y91-Y91i-Y95-V9Plus-VIVO-T+L (Black)//T+L//21300//19,9,2020//Master
+1626//VVY93TLWVVY91TLWVVY91ITLWVVV9PTLWVVY95TLWVVY90TLW//Y90-Y93-Y91-Y91i-V9Plus-Y95-VIVO-T+L (White)//T+L//21300//19,9,2020//Master
 1627//Y511PF//Y511-Huawei-Power Flex//Power Flex//1,500//Date//Shop
 1628//Y511TW//Y511-Huawei(White)SE-Touch//Touch//4,000//Date//Shop
 1629//Y7PPKY718PK//Y7prime-Y7prime(18)-Powerkey-Huawei//Power Flex//3,000//Date//Shop
@@ -1664,3 +1664,4 @@
 1673//IPH6SPBT//Iphone6sPlus-Battery//Battery//11500//15,9,2020//Master
 1674//SNL1BT//SonyL1-Battery//Battery//7000//15,9,2020//Master
 1675//HON4CTLW//Honor4C-T+L(White)//T+L//13300//15,9,2020//Master
+1676//SSJ4PGBSSJ6PGB//Samsung-J4Plus-J6Plus-Glass(Black)//Glass//3000//19,9,2020//Master
