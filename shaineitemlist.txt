@@ -1667,3 +1667,4 @@
 1676//SSJ4PGBSSJ6PGB//Samsung-J4Plus-J6Plus-Glass(Black)//Glass//3000//19,9,2020//Master
 1677//OPA1KTB//Oppo-A1k-Touch(Black)//Touch//3600//18,9,2020//Hx
 1678//MMX2FP//MiMax2-fingerPrint//FingerPrint//4500//23,9,2020//Hx
+1679//VVY15GB//Vivo-Y15-Glass(Black)//Glass//3500//23,9,2020//Hx
