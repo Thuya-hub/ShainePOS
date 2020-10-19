@@ -203,11 +203,8 @@
 202//HWNV2ISTGHWNV2ISTBHWNV2ISTW//Nova2i-Huawei-Sim Tray(Gold)(Black)(White)//Sim Tray//3,000//Date//S.H.O.P
 203//HWNV2ITB//nova2i-Huawei(Black)-Touch//TouchOnly//4,000//Date//S.H.O.P
 204//HWNV2ITBL//nova2i-Huawei(Blue)-Touch//TouchOnly//5,000//Date//S.H.O.P
-<<<<<<< HEAD
 205//HWNV2ITLB//Nova2i-Huawei-T+L-Black//T+L//16,500//14,10,2020//H.X
-=======
 205//HWNV2ITLB//Nova2i-Huawei-T+L-Black//T+L//16500//7,10,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 206//HWNV2ITLW//Nova2i-Huawei(White)+T+L//T+L//16,500//Date//S.H.O.P
 207//HWNV2ITW//nova2i-Huawei(White)-Touch//TouchOnly//4,000//Date//S.H.O.P
 208//HWNV2IUSBF//Nova2i-USBFlex//USB Flex//3,000//Date//S.H.O.P
@@ -223,13 +220,10 @@
 218//HWNV3IBDCBL//Nova3i-Bodycover (Blue)-Huawei//BodyCover//9,800//Date//S.H.O.P
 219//HWNV3IGB//Nova3i-Huawei-Glass(Black)//Glass//3,000//Date//S.H.O.P
 220//HWNV3ISPK//Nova3i-Speaker//Speaker//3,000//Date//S.H.O.P
-<<<<<<< HEAD
 221//HWNV3ITLB//Nova3i-T+L-Black-Huawei//T+L//22,600//Date 15,10,2020//Master
 222//HWNV3ITLW//Nova3i-T+L-(White)-Huawei//T+L//27,500//Date//S.H.O.P
-=======
 221//HWNV3ITLB//Nova3i-T+L-Black-Huawei//T+L//21,000//7,10,2020//Hx
 222//HWNV3ITLW//Nova3i-T+L-(White)-Huawei//T+L//21000//7,10,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 223//HWNVPTLB//NovaPlus-T+L-Huawei(Black)//T+L//21,000//Date//S.H.O.P
 224//HWP10LBDCB//p10lite-Body Cover-Black-Huawei//BodyCover//10,000//Date//S.H.O.P
 225//HWP10LTLB//P10Lite-T+L-Black-Huawei//T+L//21,000//Date//S.H.O.P
@@ -555,11 +549,8 @@
 545//MICC9BCBL//MiCC9-BackCover(Blue)//Back Cover//6,000//Date//S.H.O.P
 546//MINPBTBM34BT//Mi Note Pro-Battery//Battery//5,500//Date//S.H.O.P
 547//MINTBNINLTETB//MiNoteLTE-TouchOnly(Black)//TouchOnly//6,200//Date//S.H.O.P
-<<<<<<< HEAD
 548//MINTLWMINLTETLW//MinoteLTE(white)T+LCD//T+L//26,000//Date 14.10.2020//H.X
-=======
 548//MINTLWMINLTETLW//MinoteLTE(white)T+LCD//T+L//26,000//7,10,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 549//MINTWMINLTETW//MiNoteLTE-TouchOnly(White)//TouchOnly//5,000//Date//S.H.O.P
 550//MIPLAYTLBRMPLAYTLB//RedmiPlay-Miplay-TL-Black//T+L//17000//18,9,2020//Hx
 551//MMIX2GB//MiMix2-Glass(Black)//Glass//4,500//Date//S.H.O.P
@@ -570,21 +561,18 @@
 556//MMTBTMMBT//Momo-Tablet-7"-Battery//Battery//4,500//10,9,2020//ShweLattSaung
 557//MMTQ8TB//Q8-MomoTablet(Black)-Touch//Touch//3,500//Date//S.H.O.P
 558//MMTQ8TW//Q8-MomoTablet(white)-Touch//Touch//3,500//Date//S.H.O.P
-<<<<<<< HEAD
 559//MMX2BM50BT//MiMax2-Battery//Battery//7,000//14,10,2020//Hx
 560//MMX2PF//Mimax2-Power Flex//Power Flex//1,500//Date//S.H.O.P
 561//MMX2SPK//MiMax2-Speaker//Speaker//3,000//Date//S.H.O.P
 562//MMX2STB//Mimax2-Sim Tray (Black)//Sim Tray//3,500//Date//S.H.O.P
 563//MMX2STG//Mimax2-Sim Tray (Gold)//Sim Tray//3,500//Date 15,10,2020//Master
 564//MMX2TB//MiMax2-Touch(Black)//TouchOnly//4,500//Date//S.H.O.P
-=======
 559//MMX2BM50BT//MiMax2-Battery//Battery//6000//23,9,2020//Hx
 560//MMX2PF//Mimax2-Power Flex//Power Flex//1,500//7,10,2020//Hx
 561//MMX2SPK//MiMax2-Speaker//Speaker//3,000//Date//S.H.O.P
 562//MMX2STB//Mimax2-Sim Tray (Black)//Sim Tray//3,500//Date//S.H.O.P
 563//MMX2STG//Mimax2-Sim Tray (Gold)//Sim Tray//3,500//Date//S.H.O.P
 564//MMX2TB//MiMax2-Touch(Black)//TouchOnly//4,500//7,10,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 565//MMX2TLB//Mimax2-T+L(Black)//T+L//35800//15,9,2020//Master
 566//MMX2TLW//Mimax2-T+L(White)//T+L//27500//7,10,2020//Hx
 567//MMX2TW//MiMax2-Touch(White)//TouchOnly//4,500//7,10,2020//Hx
@@ -719,31 +707,25 @@
 697//OPA33MBG//A33-MiddleBody(Gold)-Oppo//Middle Body//0//Date//S.H.O.P
 698//OPA33PKOPNEO7PK//A33-Power Key//Power Flex//1,500//13,9,2020//Hx
 699//OPA33TBOPNEO7TB//A33-Neo7-Oppo-Touch(Black)//TouchOnly//3,000//8,9,2020//Hx
-<<<<<<< HEAD
 700//OPA33TLBOPNEO7TLB//A33-Neo7-Oppo-TL-Black//T+L//12800//Date 14,10,2020//H.X
 701//OPA33TLWOPNEO7TLW//A33-Neo7-Oppo(White)T+L//T+L//12800//Date 14,10,2020//H.X
-=======
 700//OPA33TLBOPNEO7TLB//A33-Neo7-Oppo-TL-Black//T+L//12800//7,10,2020//Hx
 701//OPA33TLWOPNEO7TLW//A33-Neo7-Oppo(White)T+L//T+L//12800//7,10,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 702//OPA33TWOPNEO7TW//A33-Neo7-Oppo-Touch(White)//TouchOnly//3,000//8,9,2020//Hx
 703//OPA33USBFOPNEO7USBF//A33-Oppo-USB Flex//USB Flex//3,300//Date//S.H.O.P
 704//OPA33VFOPNEO7VF//A33-Oppo-Volume Flex//Power Flex//1,700//Date//S.H.O.P
 705//OPA37BDCG//A37-Oppo(Gold)Bodycover//BodyCover//7,000//Date//S.H.O.P
 706//OPA37BDCRG//A37-Oppo(Rose Gold)Bodycover//BodyCover//6,500//Date//S.H.O.P
-<<<<<<< HEAD
 707//OPA37BTBLP605BTBLP577BTBLP615BTOPA33BTOPF1BTOPA35BT//A33-A37-F1-A35-Oppo-Battery//Battery//7,000//Date 17,10,2020//Fone Club
 709//OPA37STGOPA39STG//A37-A39-Sim Tray-Gold-Oppo//Sim Tray//4,000//Date//S.H.O.P
 710//OPA37STGR//A37-Oppo_Simtray-(Gray)//Sim Tray//2,800//Date//S.H.O.P
 712//OPA37TLB//A37-Oppo-T+LCD(Black)//T+L//12,500//14,10,2020//H.X
 713//OPA37TLW//A37-Oppo-T+LCD(white)//T+L//12,500//14,10,2020//H.X
-=======
 707//OPA37BTBLP605BTBLP577BTBLP615BTOPA33BTOPF1BTOPA35BT//A33-A37-F1-A35-Oppo-Battery//Battery//5,500//7,10,2020//Hx
 709//OPA37STGOPA39STG//A37-A39-Sim Tray-Gold-Oppo//Sim Tray//4,000//Date//S.H.O.P
 710//OPA37STGR//A37-Oppo_Simtray-(Gray)//Sim Tray//2,800//Date//S.H.O.P
 712//OPA37TLB//A37-Oppo-T+LCD(Black)//T+L//12,500//7,10,2020//Hx
 713//OPA37TLW//A37-Oppo-T+LCD(white)//T+L//12,500//7,10,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 714//OPA37TWOPA37TB//A37-Oppo-Touch(White)(Black)//TouchOnly//3,500//23,9,2020//Hx
 715//OPA37USBF//A37-USBFlex-Oppo//USB Flex//3,500//Date 15,10,2020//Master
 716//OPA39BDCBOPA57BDCB//A39/A57-BodyCover(Black)//BodyCover//7,000//Date//S.H.O.P
@@ -835,11 +817,8 @@
 802//OPF9BT//F9-Oppo-Battery//Battery//7,000//Date//S.H.O.P
 803//OPF9GB//F9-Oppo-Glass(Black)//Glass//4,500//Date//S.H.O.P
 804//OPF9GW//F9-Oppo-Glass(White)//Glass//4,500//Date//S.H.O.P
-<<<<<<< HEAD
 805//OPF9TLB//F9-Oppo(Black)T+L//T+L//25,500//Date 14,10,2020//H.X
-=======
 805//OPF9TLB//F9-Oppo(Black)T+L//T+L//25000//7,10,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 806//OPNEO5PFOPR1201PFOPA31PF//Neo5-R1201-A31Oppo-Power Flex//Power Flex//1,500//Date//S.H.O.P
 807//OPNEO5TLWOPR1201TLWOPA31TLW//Neo5-R1201-A31Oppo-T+L(White)//T+L//12,000//Date//S.H.O.P
 808//OPNEO5USBFOPR1201USBFOPA31USBF//Neo5-R1201-A31Oppo-Chargerflex//Charging Flex//3,200//Date//S.H.O.P
@@ -918,13 +897,10 @@
 881//RM3TBRM3STBRM3XTB//Redmi3/3s/3x-Touch(Black)//TouchOnly//4,000//Date//S.H.O.P
 882//RM3TGRM3STGRM3XTG//Redmi3/3s/3x-Touch(Gold)//TouchOnly//3,500//6,9,2020//ShweLattSaung
 883//RM3TLBRM3XTLB//Redmi3 or 3x-T+L(Black)//T+L//12800//30,9,2020//Master
-<<<<<<< HEAD
 884//RM3TLGRM3XTLG//Redmi3 or 3x-T+L(Gold)Jk//T+L//13,500//Date//S.H.O.P
 885//RM3TLWRM3STLW//Redmi3-Rdmi3s-TL(White)Jk//T+L//12,500//9,10,2020//Master
-=======
 884//RM3TLGRM3XTLG//Redmi3 or 3x-T+L(Gold)Jk//T+L//14000//7,10,2020//Hx
 885//RM3TLWRM3STLW//Redmi3-Rdmi3s-TL(White)Jk//T+L//12800//30,9,2020//Master
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 886//RM3TWRM3STWRM3XTW//Redmi3/3s/3x-Touch(White)//TouchOnly//3500//Date//S.H.O.P
 887//RM4ABCG//RedMi4A-BodyCover(Gold)//BodyCover//0//Date//S.H.O.P
 888//RM4APF//Redmi4A-Power Flex//Power Flex//1,500//7,10,2020//Hx
@@ -995,36 +971,27 @@
 953//RM5PRMN5BN44BT//Redmi5plus-RedmiNote5-Battery//Battery//5500//18,9,2020//Hx
 954//RM5PSTB//Redmi5Plus-Simtray-Black//Sim Tray//3,000//Date 15,10,2020//Master
 955//RM5PSTG//Redmi5Plus-Sim Tray (Gold)//Sim Tray//2,000//Date//S.H.O.P
-<<<<<<< HEAD
 956//RM5PTLB//Redmi5Plus-(Black)T+L//T+L//19,500//Date//S.H.O.P
 957//RM5PTLW//Redmi5Plus-(White)T+L//T+L//19,500//14,10,2020//H.X
-=======
 956//RM5PTLB//Redmi5Plus-(Black)T+L//T+L//19,500//7,10,2020//Hx
 957//RM5PTLW//Redmi5Plus-(White)T+L//T+L//19,500//7,10,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 958//RM5PUSB//Redmi5Plus-USB Board//USB Board//3,300//23,9,2020//Hx
 959//RM5SPPF//Redmi5sPlus-Power Flex//Power Flex//1,300//Date//S.H.O.P
 960//RM5STB//Redmi5-Sim Tray-Black//Sim Tray//3,000//Date//S.H.O.P
 961//RM5STGR//Redmi5-Sim Tray-Gray//Sim Tray//3,500//Date//S.H.O.P
 962//RM5TLB//Redmi5-T+L (Black)//T+L//19500//23,9,2020//Hx
-<<<<<<< HEAD
 963//RM5TLW//Redmi5-T+L (White)//T+L//19500//23,9,2020//Hx
 964//RM5USB//Redmi5-USB Board//USB Board//3,000//Date 15,10,2020//Master
-=======
 963//RM5TLW//Redmi5-T+L (White)//T+L//18500//7,10,2020//Hx
 964//RM5USB//Redmi5-USB Board//USB Board//2,500//Date//S.H.O.P
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 965//RM5USBF//Redmi5-chargingFlex//Charging Flex//2,500//Date//S.H.O.P
 966//RM5XBDCBMI5XBDCB//RedMi5x-BodyCover(Black)//BodyCover//12500//Date//S.H.O.P
 967//RM5XFPRMI5XFPR//Redmi5X-FingerPrint(Red)//Fingerprints//6,000//Date 15,10,2020//Master
 968//RM5XPKMI5XPK//RedMi5x-Power Flex//Power Flex//1,500//13,9,2020//Hx
-<<<<<<< HEAD
 969//RM5XTBMI5XTB//RedMi5x-TouchOnly(Black)//TouchOnly//3,500//Date//S.H.O.P
 970//RM5XTLBMI5XTLB//Redmii5x-T+L(Black)//T+L//17,500//Date 15,10,2020//Master
-=======
 969//RM5XTBMI5XTB//RedMi5x-TouchOnly(Black)//TouchOnly//3,500//7,10,2020//Hx
 970//RM5XTLBMI5XTLB//Redmii5x-T+L(Black)//T+L//16000//23,9,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 971//RM5XTLGMI5XTLG//Redmii5x-T+L(Gold)//T+L//18,000//Date//S.H.O.P
 972//RM5XTLWMIA1TLWMI5XTLW//Redmi5x-T+L(White)//T+L//17,500//9,10,2020//Master
 973//RM5XTWMI5XTW//RedMi5x-TouchOnly(White)//Touch//3300//8,9,2020//Hx
@@ -1080,15 +1047,12 @@
 1023//RM8GBRM8AGB//Redmi8-Redmi8a-Glass(Black)//Glass//3,000//Date//S.H.O.P
 1024//RM8PF//Redmi8-PowerFlex//Power Flex//1,800//Date//S.H.O.P
 1025//RM8STB//Redmi8-SimTray(Black)//Sim Tray//2,500//Date//S.H.O.P
-<<<<<<< HEAD
 1026//RM8TLB//Remi8-T+LCD-(Black)//T+L//18500//14,10,2020//H.X
 1027//RME5ITLB//Realme5i-T+L_Black//T+L//23,500//Date 14,10,2020//H.X
 1028//RMEC2TLBOPA1KTLBRMEC2TLB//RealmeC2-A1k-T+LCD(B)//T+L//19,000//9,10,2020//Master
-=======
 1026//RM8TLB//Remi8-T+LCD-(Black)//T+L//18500//23,9,2020//Hx
 1027//RME5ITLB//Realme5i-T+L_Black//T+L//22,400//Date//S.H.O.P
 1028//RMEC2TLBOPA1KTLBRMEC2TLB//RealmeC2-A1k-T+LCD(B)//T+L//17000//7,10,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 1029//RMEC3TBOPA7TBOPA5STB//A7-A5s-RealmeC3-Touch(Black)//Glass//3,200//Date//S.H.O.P
 1030//RME5iTLBRME5STLBRME6iTLBRMEC3TLB//Realme5i-5S-6i-C3-T+L(Black)//T+L//22,000//Date 17,10,2020//Fone Club
 1031//RMN1BCB//RedmiNote1-Backcover-Black//Back Cover//3,500//Date//S.H.O.P
@@ -1129,19 +1093,16 @@
 1067//RMN3STGRMN3STGRRMN3STB//Redminote3-Sim Tray (Gray)(Gold)(Black)//Sim Tray//3,500//Date 15,10,2020//Master
 1068//RMN3TB//RedmiNote3-Touch(Black)//TouchOnly//3,500//8,9,2020//Hx
 1069//RMN3TG//RedmiNote3-Touch(Gold)//TouchOnly//3,500//23,9,2020//Hx
-<<<<<<< HEAD
 1070//RMN3TLB//Redminote3-T+L(Black)JK//T+L//14800//13,9,2020//Hx
 1071//RMN3TLG//Redminote3-T+L(Gold)JK//T+L//14800//10,9,2020//Hx
 1072//RMN3TLW//Redminote3-T+L(White)JK//T+L//14800//13,9,2020//Hx
 1073//RMN3TW//RedmiNote3-Touch(White)//TouchOnly//3,500//Date//S.H.O.P
 1074//RMN3USB//Redminote3-USB Board//USB Board//3,000//Date 15,10,2020//Master
-=======
 1070//RMN3TLB//Redminote3-T+L(Black)JK//T+L//14800//7,10,2020//Hx
 1071//RMN3TLG//Redminote3-T+L(Gold)JK//T+L//14800//7,10,2020//Hx
 1072//RMN3TLW//Redminote3-T+L(White)JK//T+L//14800//7,10,2020//Hx
 1073//RMN3TW//RedmiNote3-Touch(White)//TouchOnly//3,500//7,10,2020//Hx
 1074//RMN3USB//Redminote3-USB Board//USB Board//2,500//13,9,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 1075//RMN4-BCRG//RedmiNote4-BodyCover(RoseGold)//BodyCover//0//Date//S.H.O.P
 1076//RMN4-M-F//Redmin4-Middle-Flex//Maddle Flex//2,500//Date//S.H.O.P
 1077//rmn4-pwk//RedMiNote4-Power Flex//Power Flex//1,300//Date//S.H.O.P
@@ -1180,17 +1141,14 @@
 1110//RMN5ABDCG//RedmiNote5A-Body(Gold)//BodyCover//7,500//Date//S.H.O.P
 1111//RMN5ABDCGR//RedmiNote5A-Body(Gray)//BodyCover//7,500//Date//S.H.O.P
 1112//RMN5ABDCRG//Redminote5A-Bodycover (Rose Gold)//BodyCover//9,500//Date//S.H.O.P
-<<<<<<< HEAD
 1113//RMN5ATB//RedmiNote5A-TouchOnly(Black)//TouchOnly//3500//9,10,2020//Master
 1114//RMN5ATLB//Redminote5A-(Black)T+L//T+L//15000//23,9,2020//Hx
 1115//RMN5ATLW//Redminote5A(White)T+L//T+L//15000//23,9,2020//Hx
 1116//RMN5ATW//RedmiNote5A-TouchOnly(white)//TouchOnly//3500//9,10,2020//Master
-=======
 1113//RMN5ATB//RedmiNote5A-TouchOnly(Black)//TouchOnly//3500//7,10,2020//Hx
 1114//RMN5ATLB//Redminote5A(Black)T+L//T+L//15000//7,10,2020//Hx
 1115//RMN5ATLW//Redminote5A(White)T+L//T+L//15000//7,10,2020//Hx
 1116//RMN5ATW//RedmiNote5A-TouchOnly(white)//TouchOnly//3500//7,10,2020//Hx
->>>>>>> 73cf3855b531a50384da2a7d805de7266c925c4d
 1124//RMN5AFPG//Redminote5a-Fingerprint(Gold)//Fingerprints//4,500//Date//S.H.O.P
 1125//RMN5AMF//RedmiNote5A-Middle Flex//Maddle Flex//2500//13,9,2020//Hx
 1126//RMN5APK//Redminote5A-Power Key//Power Flex//1,500//13,9,2020//Hx
