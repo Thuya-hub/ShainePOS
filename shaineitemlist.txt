@@ -240,9 +240,9 @@
 236//HWP8LBTHWGR3BTHWY317BTHB3742A0EZC//P8Lite/Gr3/Y3(17)-Huawei-Battery//Battery//5,800//Date//S.H.O.P
 237//HWP8LTB//P8Lite-Huawei-Touch(Black)//TouchOnly//5,000//Date//S.H.O.P
 238//HWP8LTG//P8Lite-Huawei-Touch(Gold)//TouchOnly//4,500//Date//S.H.O.P
-239//HWP8LTLB//P8Lite-Huawei-T+L(Black)//T+L//19,500//Date//S.H.O.P
-240//HWP8LTLG//P8Lite-Huawei-T+L(Gold)//T+L//15,500//Date//S.H.O.P
-241//HWP8LTLW//P8Lite-Huawei-T+L(White)//T+L//15,500//Date//S.H.O.P
+239//HWP8LTLB//P8Lite-Huawei-T+L(Black)//T+L//15,500//Date 30,10,2020//Master
+240//HWP8LTLG//P8Lite-Huawei-T+L(Gold)//T+L//15,500//Date 30,10,2020//Master
+241//HWP8LTLW//P8Lite-Huawei-T+L(White)//T+L//15,500//Date 30,10,2020//Master
 242//HWP8LTW//P8Lite-Huawei-Touch(White)//TouchOnly//4,800//Date//S.H.O.P
 243//HWP9BTHWP9LBTHWGR317BTHWNOVA3EBTHWY7P18BTHWGR5MINIBTHB366481ECW//GR5Mini-P9-P9lite-Nova3E-Y6Prime(18)-Y7Pro(18)-Huawei-Battery//Battery//6,000//14,10,2020//H.X
 244//HWP9GBHWP9TB//P9-Huawei-Glass(Black)//Glass//4,500//Date//S.H.O.P
@@ -1762,3 +1762,23 @@
 1736//HWY517BTHWEJ6SBTHON6ABTHWY5P18BTHWNVBTHB405979ECW//Y5(2017)-Enjoy6s-Honor6A-y5Prime(2018)-Nova-Battery-Huawei//Battery//7,500//Date 28.10.2020//Master
 1737//HWGR317BCBHWGR3BCBHON8LBCB//GR3(2017)-Honor8Lite-Huawei-Back Cover-(Black)//Back Cover//4,500//Date 28,10,2020//Master
 1738//HWGR317PFBHWGR3PFBHON8LPFB//GR3(2017)-Honor8Lite-Huawei-Power Flex-(Black)//Power Flex//3,500//Date 28,10,2020//Master
+1738//MI8LTLB//Mi8Lite-Black-T+L//T+L//23,600//Date 30,10,2020//Master
+1739//HON8CTLB//Honor8C-T+L(Black)-Huawei//T+L//25,500//Date 30,10,2020//Master
+1740//HWY918TLWHWEJ8PTLW//Y9(2018)-Enjoy8Plus-Huawei-T+L(White)//T+L//18,000//Date 30,10,2020//Master
+1741//OPF5TLBOPF5YTLBOPA73TLB//F5-F5Youth-A73-OPPO(Black)T+L//T+L//22,000//Date 30,10,2020//Master
+1742//OPF3PTLB//OppoF3Plus-T+l-Black//T+L//35,500//Date 30,10,2020//Master
+1743//OPA37TWOPA37TB//A37-Oppo-Touch(White)(Black)//TouchOnly//4,500//Date 30,10,2020//Master
+1744//VVV5PTLW//V5Plus-Vivo-T+L(White)//T+L//19,500//Date 30,10,2020//Master
+1745//HWY6TLGHW4ATLG//Y6-4A-Huawei(Gold)T+L//T+L//15,000//Date 30,10,2020//Master
+1746//IPH6PTLBAA//(A.A)Iphone6Plus-T+L(Black)//T+L//18,500//Date 30,10,2020//Master
+1747//IPH6PTLBORG//(O.R.G)Iphone6Plus-T+L(Black)//T+L//37,500//Date 30,10,2020//Master
+1748//MZM2NTB//M2note-Meizu(Black)Touch//Touch Only//6,000//Date 30,10,2020//Master
+1749//MMX1TW//MiMax-Touch(White)//TouchOnly//5,500//Date 30,10,2020//Master
+1750//MMX1TB//MiMax-Touch(Black)//TouchOnly//5,500//Date 30,10,2020//Master
+1751//MMX3TB//MiMax3-Touch(Black)//TouchOnly//5,600//Date 30,10,2020//Master
+1752//MMX3TW//MiMax3-Touch(White)//TouchOnly//5,600//Date 30,10,2020//Master
+1753//MI4TB//Mi4-Touch(Black)//TouchOnly//6,600//Date 30,10,2020//Master
+1754//MI3TB//Mi3-Touch-Black//Touch Only//6,500//Date 30,10,2020//Master
+1755//RMN2TB//RedmiNote2-Touch(Black)//TouchOnly//4,500//8,9,2020//Master
+1756//RMN4TLB//Redminote4-T+L(Black)//T+L//16,500//Date 30,10,2020//Master
+1757/HWY6PR19TB//Huawei-Y6Prime(2019)-Touch(Black)//Touch Only//4,500//Date 30,10,2020//Master
