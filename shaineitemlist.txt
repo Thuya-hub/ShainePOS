@@ -367,7 +367,7 @@
 363//HWY62TB//Y62-Huawei-Touch(Black)//TouchOnly//3800//Date//S.H.O.P
 364//HWY62TG//Y62-Huawei-Touch(Gold)//TouchOnly//3800//4,9,2020//Hx
 365//HWY62TLB//Y62-Huawei-T+L(Black)//T+L//17,000//Date//S.H.O.P
-366//HWY62TLG//Y62-Huawei-T+L(Gold)//T+L//16,500//Date 19,10,2020 //H.X
+366//HWY62TLG//Y62-Huawei-T+L(Gold)//T+L//16,500//Date 19,10,2020//H.X
 367//HWY62TLW//Y62-Huawei-T+L(White)//T+L//17,000//Date 28,10,2020//H.X
 368//HWY62TW//Y62-Huawei-Touch(White)//TouchOnly//3800//Date//S.H.O.P
 369//HWY62USB//Y62-USB Board-Huawei//USB Board//3,000//Date//S.H.O.P
