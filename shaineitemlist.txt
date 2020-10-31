@@ -172,7 +172,7 @@
 171//HWGR517TLBHON6XTLB//GR5(2017)-Honor6x-T+L(Black)//T+L//16,500//15,9,2020//Master
 172//HWGR517TLGHON6XTLG//GR5(2017)-Honor6x-T+L(Gold)//T+L//16,500//Date//S.H.O.P
 173//HWGR517TLWHON6XTLW//GR5(2017)-Honor6X-T+L(White)//T+L//16,500//14,10,2020//H.X
-174//HWGR517TW//GR5(2017)-Huawei(White)Touch//TouchOnly//5,000//8,9,2020//Hx
+174//HWGR517TW//GR5(2017)-Huawei(White)Touch//TouchOnly//4,500//Date 30,9,2020//H.X
 175//HWGR5BDCB//GR5-Huawei-BodyCover(Black)//BodyCover//8,500//Date//S.H.O.P
 176//HWGR5BDCGR//GR5-Huawei-BodyCover(Grey)//BodyCover//8,500//Date//S.H.O.P
 177//HWGR5BTHWGR517BTHWNVPBTHB386483ECW//GR5(2017)-NovaPlus-Huawei-Battery//Battery//5500//7,10,2020//Hx
@@ -405,9 +405,9 @@
 401//HWY6PTW//Y6-Pro-Huawei-Touch(White)//TouchOnly//5,000//Date//S.H.O.P
 402//HWY6TBHW4ATB//Y6-4a-Huawei(Black)-Touch//TouchOnly//5,000//Date//S.H.O.P
 403//HWY6TGHW4ATG//Y6-4a-Huawei(Gold)-Touch//TouchOnly//4,500//Date 28,10,2020//H.X
-404//HWY6TLBHW4ATLB//Y6-4A-Huawei(Black)T+L//T+L//15,000//18,9,2020//Hx
-405//HWY6TLGHW4ATLG//Y6-4A-Huawei(Gold)T+L//T+L//15,000//Date 14,10,2020//H.X
-406//HWY6TLWHW4ATLW//Y6-4A-Huawei(White)T+L//T+L//15,000//Date 28,10,2020//H.X
+404//HWY6TLBHW4ATLB//Y6-4A-Huawei(Black)T+L//T+L//15,500//18,9,2020//Hx
+405//HWY6TLGHW4ATLG//Y6-4A-Huawei(Gold)T+L//T+L//15,500//Date 14,10,2020//H.X
+406//HWY6TLWHW4ATLW//Y6-4A-Huawei(White)T+L//T+L//15,500//Date 28,10,2020//H.X
 407//HWY6TWHW4ATW//Y6-4a-Huawei(White)-Touch//TouchOnly//4,500//Date 28,10,2020//H.X
 408//HWY718TB//Y7(2018)-Huawei-Touch(Black)//TouchOnly//6,500//Date//S.H.O.P
 409//HWY718TG//Y7(2018)-Huawei-Touch(Gold)//TouchOnly//6,500//Date//S.H.O.P
@@ -549,8 +549,7 @@
 545//MICC9BCBL//MiCC9-BackCover(Blue)//Back Cover//6,000//Date//S.H.O.P
 546//MINPBTBM34BT//Mi Note Pro-Battery//Battery//5,500//Date//S.H.O.P
 547//MINTBNINLTETB//MiNoteLTE-TouchOnly(Black)//TouchOnly//6,200//Date//S.H.O.P
-548//MINTLWMINLTETLW//MinoteLTE(white)T+LCD//T+L//26,000//Date 14.10.2020//H.X
-548//MINTLWMINLTETLW//MinoteLTE(white)T+LCD//T+L//26,000//7,10,2020//Hx
+548//MINTLWMINLTETLW//MinoteLTE(white)T+LCD//T+L//27,000//Date 30.10.2020//H.X
 549//MINTWMINLTETW//MiNoteLTE-TouchOnly(White)//TouchOnly//5,000//Date//S.H.O.P
 550//MIPLAYTLBRMPLAYTLB//RedmiPlay-Miplay-TL-Black//T+L//17000//18,9,2020//Hx
 551//MMIX2GB//MiMix2-Glass(Black)//Glass//4,500//Date//S.H.O.P
@@ -574,7 +573,7 @@
 563//MMX2STG//Mimax2-Sim Tray (Gold)//Sim Tray//3,500//Date//S.H.O.P
 564//MMX2TB//MiMax2-Touch(Black)//TouchOnly//4,500//7,10,2020//Hx
 565//MMX2TLB//Mimax2-T+L(Black)//T+L//35800//15,9,2020//Master
-566//MMX2TLW//Mimax2-T+L(White)//T+L//27500//7,10,2020//Hx
+566//MMX2TLW//Mimax2-T+L(White)//T+L//27,500//Date 30,10,2020//H.X
 567//MMX2TW//MiMax2-Touch(White)//TouchOnly//4,500//7,10,2020//Hx
 568//MMX2USB//MiMax2-USB Board//USB Board//3,000//Date//S.H.O.P
 569//MMX3BM51BT//minmax3-Battery//Battery//7000//7,10,2020//Hx
@@ -881,7 +880,7 @@
 867//RL-1515//Relife-Soldering Wick//Default Category//2,500//Date//S.H.O.P
 868//Rl-403//Relife-SolderPaste//ခဲဆီဗူး//6,500//Date//S.H.O.P
 869//RM1SPF//Redmi1s-Power Flex//Power Flex//1,300//Date//S.H.O.P
-870//RM1STB//Redmi1s-Touch(Black)//TouchOnly//3,500//23,9,2020//Hx
+870//RM1STB//Redmi1s-Touch(Black)//TouchOnly//3,500// Date 30,10,2020//H.X
 871//RM1STLB//Redmi1s-T+L(Black)//T+L//12,800//10,9,2020//ShweLattSaung
 872//RM1USBRM1SUSB//redmi1-redmi1s-USB Board//USB Board//3,000//Date//S.H.O.P
 873//RM2TB//REDMI2-Touch(Black)//TouchOnly//3,700//Date//S.H.O.P
@@ -920,7 +919,7 @@
 904//RM4STW//Redmi4-Sim Tray-White//Sim Tray//4,000//Date//S.H.O.P
 905//RM4TB//Redmi4-Touch(Black)//TouchOnly//5,300//Date//S.H.O.P
 906//RM4TG//Redmi4-Touch(Gold)//TouchOnly//4,800//Date//S.H.O.P
-907//RM4TLB//Redmi4-T+L(BLlack)//T+L//16,500//Date//S.H.O.P
+907//RM4TLB//Redmi4-T+L(Black)//T+L//16,500//Date//S.H.O.P
 908//RM4TLG//Redmi4-T+L-Gold//T+L//17,500//Date 28,10,2020//H.X
 909//RM4TLW//Redmi4-T+L(White)//T+L//17,500//Date 28,10,2020//H.X
 910//RM4TW//Redmi4-Touch(White)//TouchOnly//4,600//Date//S.H.O.P
@@ -988,11 +987,11 @@
 968//RM5XPKMI5XPK//RedMi5x-Power Flex//Power Flex//1,500//13,9,2020//Hx
 969//RM5XTBMI5XTB//RedMi5x-TouchOnly(Black)//TouchOnly//3,500//Date//S.H.O.P
 970//RM5XTLBMI5XTLB//Redmii5x-T+L(Black)//T+L//17,500//Date 15,10,2020//Master
-969//RM5XTBMI5XTB//RedMi5x-TouchOnly(Black)//TouchOnly//3,500//7,10,2020//Hx
+969//RM5XTBMI5XTB//RedMi5x-TouchOnly(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
 970//RM5XTLBMI5XTLB//Redmii5x-T+L(Black)//T+L//16000//23,9,2020//Hx
 971//RM5XTLGMI5XTLG//Redmii5x-T+L(Gold)//T+L//18,000//Date//S.H.O.P
 972//RM5XTLWMIA1TLWMI5XTLW//Redmi5x-T+L(White)//T+L//17,500//9,10,2020//Master
-973//RM5XTWMI5XTW//RedMi5x-TouchOnly(White)//Touch//4,500//Date 23,10,2020//H.X
+973//RM5XTWMI5XTW//RedMi5x-TouchOnly(White)//Touch//4,500//Date 30,10,2020//H.X
 974//RM6ABDCSM1G//Redmi6A-Body Cover(Sim-1)-Gold//BodyCover//8,000//Date 28,10,2020//Master
 975//RM6ABDCRG//Redmi6A-Body Cover-RoseGold//BodyCover//9,500//Date//S.H.O.P
 976//RM6ABDCWRM6ABDCBRM6ABDCGRM6ABDCGR//Redmi6A-2sim-Body Cover(W)(B)(G)(GR)//BodyCover//7,500//Date//S.H.O.P
@@ -1011,9 +1010,9 @@
 989//RM6PSTB//Redmi6pro-Sim Tray-Black//Sim Tray//2,300//Date//S.H.O.P
 990//RM6PSTG//Redmi6pro-Sim Tray-Gold//Sim Tray//2,300//Date//S.H.O.P
 991//RM6PSTRG//Redmi6pro-Sim Tray-RoseGold//Sim Tray//2,300//Date//S.H.O.P
-992//RM6PTB//Redmi6Pro-TouchOnly(Black)//TouchOnly//3,500//7,10,2020//Hx
+992//RM6PTB//Redmi6Pro-TouchOnly(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
 993//RM6PTLBA2LITETLB//Redmi6Pro-A2Lite-T+L(Black)//T+L//20,500//Date 23,10,2020//H.X
-994//RM6PTW//Redmi6Pro-TouchOnly(White)//Glass//5,300//Date//S.H.O.P
+994//RM6PTW//Redmi6Pro-TouchOnly(White)//Touch Only//5,300//Date//S.H.O.P
 995//RM6PUSB//Redmi6Pro-USB Board//USB Board//3,500//23,9,2020//Hx
 996//RM6STBRM6ASTB//Redmi6-6a(32GB)Simtray-Black//Sim Tray//3,000//Date//S.H.O.P
 997//RM6STGRM6ASTG//Redmi6-Mi6A-Sim Tray (Gold)//Sim Tray//3,000//Date//S.H.O.P
@@ -1139,14 +1138,14 @@
 1110//RMN5ABDCG//RedmiNote5A-Body(Gold)//BodyCover//7,500//Date 28,10,2020//H.X
 1111//RMN5ABDCGR//RedmiNote5A-Body(Gray)//BodyCover//7,500//Date 28,10,2020//H.X
 1112//RMN5ABDCRG//Redminote5A-Bodycover (Rose Gold)//BodyCover//9,500//Date//S.H.O.P
-1113//RMN5ATB//RedmiNote5A-TouchOnly(Black)//TouchOnly//3500//9,10,2020//Master
+1113//RMN5ATB//RedmiNote5A-TouchOnly(Black)//TouchOnly//5,000//9,10,2020//Master
 1114//RMN5ATLB//Redminote5A-(Black)T+L//T+L//15000//23,9,2020//Hx
 1115//RMN5ATLW//Redminote5A(White)T+L//T+L//19,000//Date 24,10,2020//BRIGHT
-1116//RMN5ATW//RedmiNote5A-TouchOnly(white)//TouchOnly//3500//9,10,2020//Master
-1113//RMN5ATB//RedmiNote5A-TouchOnly(Black)//TouchOnly//3500//7,10,2020//Hx
+1116//RMN5ATW//RedmiNote5A-TouchOnly(white)//TouchOnly//5,000//9,10,2020//Master
+1113//RMN5ATB//RedmiNote5A-TouchOnly(Black)//TouchOnly//3500//Date 30,10,2020//H.X
 1114//RMN5ATLB//Redminote5A(Black)T+L//T+L//16,000//Date 19,10,2020//H.X
 1115//RMN5ATLW//Redminote5A(White)T+L//T+L//15000//7,10,2020//Hx
-1116//RMN5ATW//RedmiNote5A-TouchOnly(white)//TouchOnly//3500//7,10,2020//Hx
+1116//RMN5ATW//RedmiNote5A-TouchOnly(white)//TouchOnly//3,500//Date 30,10,2020//H.X
 1124//RMN5AFPG//Redminote5a-Fingerprint(Gold)//Fingerprints//4,500//Date//S.H.O.P
 1125//RMN5AMF//RedmiNote5A-Middle Flex//Maddle Flex//2500//13,9,2020//Hx
 1126//RMN5APK//Redminote5A-Power Key//Power Flex//1,500//13,9,2020//Hx
@@ -1808,3 +1807,64 @@
 1781//HWGR5TLWHWGR516TLW/GR5-GR5(2016)-Huawei-T+L(White)//T+L//17,500//Date 30,10,2020//H.X
 1782//HWGR5TLBHWGR516TLB//GR5-GR%(2016)-Huawei-T+L(Black)//T+L//17,500//Date 30,10,2020//H.X
 1783//HWGR5TLGHWGR5TLG//GR5-GR5(2016)-Huawei-T+L(Gold)//T+L//17,500//Date 30,10,2020//H.X
+1784//HWY517TLW//Y5(2017)-Huawei-T+L(White)//T+L//15,500//Date 30,10,2020//H.X
+1785//HWY517TLB//Y5(2017)-Huawei-T+L(Black)//T+L//15,500//Date 30,10,2020//H.X
+1786//HWY517TLG//Y5(2017)-Huawei-T+L(Gold)//T+L//15,500//Date 30,10,2020//H.X
+1787//HWG7TLBHWG7TLW//G7-Huawei-T+L(Black)(White)//T+L//17,000//Date 30,10,2020//H.X
+1788//IPH5TLB//Iphone5G-Apple(Black)T+L//T+L//12,500//Date 30,10,2020//H.X
+1789//IPH5TLW//Iphone5G-Apple(White)T+L//T+L//12,500//Date 30,10,2020//H.X
+1790//MZM5STLW//M5s-Meizu(White)T+L//T+L//15,500//Date 30,10,2020//H.X
+1791//MZM5TBMZM5TW//M5-Meizu-Touch(Black)(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
+1792//MZU20TWMZU20TB//U20-Meizu-Touch(White)(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
+1793//MZM3ETWMZM3ETB//M3E-Meizu-Touch Only (White)(Black)//TouchOnly//5,000//Date 30,10,2020//H.X
+1794//MZU10TBMZU10TW//U10-Meizu-Touch(Black)(White)//TouchOnly//5,500//Date 30,10,2020//H.X
+1795//MZM3STWMZM3STB//Meizu-M3S-Touch(White)(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
+1796//MZM6TWMZM6TB//Meizu-M6-TouchOnly(White)(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
+1797//MZM3NTBL681TB//M3Note-L681-Meizu-KyoeHtoe-Touch(Black)//TouchOnly//5,000//Date 30,10,2020//H.X
+1798//MZM3NTWMZL681TW//M3Note-L681-Meizu-KyoeHtoe-Touch(White)//TouchOnly//5,000//Date 30,10,2020//H.X
+1799//RM7ATB//RM7A-Touch(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
+1800//RM6PTW//Redmi6Pro-TouchOnly(White)//Touch Only//4,500//Date 30,10,2020//H.X
+1801//MZU10TLB//Meizu-U10-(Black)T+L//T+L//15,000//Date 30,10,2020//H.X
+1802//RM5ATB//Redmi5A-TouchOnly(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
+1803//RM5ATG//Redmi5A-TouchOnly(Gold)//TouchOnly//4,500//Date 30,10,2020//H.X
+1804//RM5ATW//Redmi5A-TouchOnly(White)//TouchOnly//4,500//Date 30,10,2020//H.X
+1805//RMN4XTG//RedmiNote4x-TouchOnly(Gold)//TouchOnly//4,500//Date 30,10,2020//H.X
+1806//RM4PTB//Redmi4ProTouchOnly-Black//TouchOnly//4,500//Date 30,10,2020//H.X
+1807//RM4PTW//Redmi4ProTouchOnly-White//TouchOnly//4,500//Date 30,10,2020//H.X
+1808//RM4PTG//Redmi4ProTouchOnly-Gold//TouchOnly//4,500//Date 30,10,2020//H.X
+1809//RM4TB//Redmi4-Touch(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
+1810//RM4TW//Redmi4-Touch(White)//TouchOnly//4,500//Date 30,10,2020//H.X
+1811//RM4TG//Redmi4-Touch(Gold)//TouchOnly//4,500//Date 30,10,2020//H.X
+1812//MI4TBMI4TW//Mi4-Touch(Black)(White)//TouchOnly//4,500//Date 30,10,2020//H.X
+1813//RMN3PTW//RedmiNote3Pro-Touch(White)//TouchOnly//5,000//Date 30,10,2020//H.X
+1814//RMN3PTB//RedmiNote3Pro-Touch(Black)//TouchOnly//5,000//Date 30,10,2020//H.X
+1815//RMN3PTG//RedmiNote3Pro-Touch(Gold)//TouchOnly//5,000//Date 30,10,2020//H.X
+1816//RM3TWRM3STWRM3XTW//Redmi3/3s/3x-Touch(White)//TouchOnly//4,500//Date 30,10,2020//H.X
+1817//RM3TBRM3STBRM3XTB//Redmi3/3s/3x-Touch(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
+1818//RM3TGRM3STGRM3XTG//Redmi3/3s/3x-Touch(Gold)//TouchOnly//4,500//Date 30,10,2020//H.X
+1819//RMS2TBMIS2TB//RedmiS2-Touch(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
+1820//MINTWMINLTETW//MiNoteLTE-TouchOnly(White)//TouchOnly//5,000//Date 30,10,2020//H.X
+1821//MMX1TLW//Mimax-T+L(White)JK//T+L//28,000//Date 30,10,2020//H.X
+1822//MMX1TLB//Mimax-T+L(Black)JK//T+L//28,000//Date 30,10,2020//H.X
+1823//MMX2TLB//Mimax2-T+L(Black)//T+L//27,500//Date 30,10,2020//H.X
+1824//MMX3TLW//MiMax3-T+L(White)//T+L//23,500//Date 30,10,2020//H.X
+1825//RMN2TLB//Redminote2-T+L(Black)JK//T+L//15,500//Date 30,10,2020//H.X
+1826//RM4PTLW//Redmi4Pro-T+L(White)//T+L//17,000//Date 30,10,2020//H.X
+1827//RM4PTLB//Redmi4Pro-T+L(Black)//T+L//17,000//Date 30,10,2020//H.X
+1828//RM4PTLG//Redmi4Pro-T+L(Gold)//T+L//17,000//Date 30,10,2020//H.X
+1829//HWNV2ITW//nova2i-Huawei(White)-Touch//TouchOnly//4,500//Date 30,10,2020//H.X
+1830//HWNV2ITB//nova2i-Huawei(Black)-Touch//TouchOnly//4,500//Date 30,10,2020//H.X
+1831//HWGR3TW//GR3-Huawei-Touch(White)//TouchOnly//4,500//Date 30,10,2020//H.X
+1832//HWGR3TB//GR3-Huawei-Touch(Black)//TouchOnly//4,500//Date 30,10,2020//H.X
+1833//HWGR3TG//GR3-Huawei-Touch(Gold)//TouchOnly//4,500//Date 30,10,2020//H.X
+1834//HWGR317TW//GR3(2017)-Huawei-Touch(White)//TouchOnly//4,500//Date 30,10,2020//H.X
+1835//HWGR5MNTW//GR5mini-Huawei-Touch(White)//TouchOnly//4,500//Date 30,10,2020//H.X
+1836//HWGPLAYMNTBHW4CTB//G-playmini-or-4C-Huawei(Black)Touch//TouchOnly//4,500//Date 30,10,2020//H.X
+1837//HWY6PTB//Y6pro-Touch-Balck//TouchOnly//4,500//Date 30,10,2020//H.X
+1838//HWY6PTG//Y6pro-Huawei(Gold)Touch//Touch//4,500//Date 30,10,2020//H.X
+1839//HWY6P17TGY6P17TG//Y6Pro(2017)TouchOnly-Gold//TouchOnly//4,500//Date 30,10,2020//H.X
+1840//HWY6P17TWY6P17TW//Y6Pro(2017)-Huawei-Touch(White)//TouchOnly//4,500//Date 30,10,2020//H.X
+1841//HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATW//Y6pro(18)-Y6Prime(2018)-Honor7A-Huawei-Touch(White)//TouchOnly//4,500//Date 30,10,2020//H.X
+1842//HWY918TB//Y9(2018)-Huawei(Black)Touch//TouchOnly//4,500//Date 30,10,2020//H.X
+1843//HWY918TG//Y9(2018)-Huawei(Gold)Touch//TouchOnly//4,500//Date 30,10,2020//H.X
+1844//HWY719TB//Y7(2019)-Touch_Huawei(Black)//Touch//4,500//Date 30,10,2020//H.X
