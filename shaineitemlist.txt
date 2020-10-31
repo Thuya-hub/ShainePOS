@@ -1032,7 +1032,6 @@
 1011//RM7ABTBN49BT//Redmi7A-Battery//Battery//7,500//Date 14,10,2020//H.X
 1012//RM7ATB//RM7A-Touch(Black)//TouchOnly//3,800//Date//S.H.O.P
 1013//RM7ATLB//Redmi7A-T+LCD-Black//T+L//15,000//7,10,2020//Hx
-1014//RM7AUSB//Redmi7A-USBBoard//USB Board//3,000//Date//S.H.O.P
 1015//RM7BDCB//Redmi7-BodyCover(Black)//BodyCover//7,000//Date//S.H.O.P
 1016//RM7PFK//Redmi7-PowerFlex//Power Flex//1,500//13,9,2020//Hx
 1017//RM7STB//Redmi7-Simtray-Black//Sim Tray//3,500//Date//S.H.O.P
@@ -1717,7 +1716,7 @@
 1692//SSJ5PBDCBSSJ530BDCB//Samsung-J5 Pro-(J530)-Body Cover-Black//BodyCover//16,500//Date 15,10,2020//Master
 1693//SSJ2PBDCSBSSJ250BDCSB//Samsung-J2 Pro-(J250)-Body Cover-Silver//BodyCover//5,500//Date 15,10,2020//Master
 1694//SSJ2PTLSBSSJ250TLSB//Samsung-J2 Pro-(J250)-T+L-Silver//Touch LCD//40,000//Date 15,10,2020//Master
-1695//RM7AUSB//Redmi7A-USB Board//USB Board//7,000//Date 15,10,2020//Master
+1695//RM7AUSB//Redmi7A-USB Board//USB Board//3,000//Date 15,10,2020//Master
 1696//OPA39VK//A39-Oppo-Volume Flex//Volume Flex//2,000//Date 15,10,2020//Master
 1697//OPF5LVKOPA83VK//F5 Lite-A83-Oppo-Volume Flex//Volume Flex//2,000//Date 15,10,2020//Master
 1698//RM4PSTG//Redmi4 Pro-Sim Tray-(Gold)//Sim Tray//3,500//Date 15,10,2020//Master
