@@ -815,7 +815,6 @@
 803//OPF9GB//F9-Oppo-Glass(Black)//Glass//4,500//Date//S.H.O.P
 804//OPF9GW//F9-Oppo-Glass(White)//Glass//4,500//Date//S.H.O.P
 805//OPF9TLB//F9-Oppo(Black)T+L//T+L//25,500//Date 14,10,2020//H.X
-805//OPF9TLB//F9-Oppo(Black)T+L//T+L//25000//7,10,2020//Hx
 806//OPNEO5PFOPR1201PFOPA31PF//Neo5-R1201-A31Oppo-Power Flex//Power Flex//1,500//Date//S.H.O.P
 807//OPNEO5TLWOPR1201TLWOPA31TLW//Neo5-R1201-A31Oppo-T+L(White)//T+L//12,000//Date//S.H.O.P
 808//OPNEO5USBFOPR1201USBFOPA31USBF//Neo5-R1201-A31Oppo-Chargerflex//Charging Flex//3,200//Date//S.H.O.P
@@ -1130,8 +1129,8 @@
 1103//RMN4XSTGR//Redminote4x-simtray(Grey)//Sim Tray//3,000//Date//S.H.O.P
 1104//RMN4XTB//RedmiNote4x-TouchOnly(Black)//TouchOnly//3,500//7,10,2020//Hx
 1105//RMN4XTG//RedmiNote4x-TouchOnly(Gold)//TouchOnly//4,300//Date//S.H.O.P
-1106//RMN4XTLB//Redminote4X-T+L (Black)//T+L//14800//14,10,2020//H.X
-1107//RMN4XTLW//Redminote4X-T+L (White)//T+L//14800//14,10,2020//H.X
+1106//RMN4XTLB//Redminote4X-T+L-(Black)//T+L//14800//14,10,2020//H.X
+1107//RMN4XTLW//Redminote4X-T+L-(White)//T+L//14800//14,10,2020//H.X
 1108//RMN4XTW//RedmiNote4x-TouchOnly(White)//TouchOnly//3,500//8,9,2020//Hx
 1109//RMN4XUSB//Redminote4x-USB Board//USB Board//3,000//8,9,2020//Hx
 1110//RMN5ABDCG//RedmiNote5A-Body(Gold)//BodyCover//7,500//Date 28,10,2020//H.X
@@ -1142,8 +1141,8 @@
 1115//RMN5ATLW//Redminote5A(White)T+L//T+L//19,000//Date 24,10,2020//BRIGHT
 1116//RMN5ATW//RedmiNote5A-TouchOnly(white)//TouchOnly//5,000//9,10,2020//Master
 1113//RMN5ATB//RedmiNote5A-TouchOnly(Black)//TouchOnly//3500//Date 30,10,2020//H.X
-1114//RMN5ATLB//Redminote5A(Black)T+L//T+L//16,000//Date 19,10,2020//H.X
-1115//RMN5ATLW//Redminote5A(White)T+L//T+L//15000//7,10,2020//Hx
+1114//RMN5ATLB//Redminote5A(Black)T+L//T+L//16,000//Date 19,10,2020//Shop
+1115//RMN5ATLW//Redminote5A(White)T+L//T+L//15,000//Date 7,10,2020//Shop
 1116//RMN5ATW//RedmiNote5A-TouchOnly(white)//TouchOnly//3,500//Date 30,10,2020//H.X
 1124//RMN5AFPG//Redminote5a-Fingerprint(Gold)//Fingerprints//4,500//Date//S.H.O.P
 1125//RMN5AMF//RedmiNote5A-Middle Flex//Maddle Flex//2500//13,9,2020//Hx
