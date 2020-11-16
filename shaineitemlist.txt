@@ -1037,7 +1037,6 @@
 1019//RM7TB//Redmi7-Touch(Black)//TouchOnly//5,000//14,10,2020//H.X
 1020//RM7TLB//Redmi7-T+L-Black//T+L//22,000// Date 13,11,2020//H.X
 1021//RM8ABDCB//Redmi8A_BodyCover(B)//BodyCover//9,000//Date//S.H.O.P
-1022//RM8BDCRRM8BDCBRM8BDCBL//Redmi8-BodyCover(Red)(Black)(Blue)//BodyCover//11,000//Date//S.H.O.P
 1023//RM8GBRM8AGB//Redmi8-Redmi8a-Glass(Black)//Glass//3,000//Date//S.H.O.P
 1024//RM8PF//Redmi8-PowerFlex//Power Flex//1,800//Date//S.H.O.P
 1025//RM8STB//Redmi8-SimTray(Black)//Sim Tray//2,500//Date//S.H.O.P
@@ -1678,7 +1677,7 @@
 1657//OPA1KSPK//Oppo-A1k_Speaker//Speaker//3000//5,9,2020//Master
 1658//MZU20ST//MeizuU20-SimTray//SimTray//3000//5,9,2020//Master
 1659//MZU20USB//MeizuU20-USBBoard//USB Board//3000//10,9,2020//Hx
-1660//RM8BCBRM8BCBL//Redmi8-BackCover(B)(BL)//Back Cover//5500//10,9,2020//ShweLattSaung
+1660//RM8BCBRM8BCBL//Redmi8-BackCover(B)(BL)//Back Cover//5500//Date 10,9,2020//ShweLattSaung
 1661//P3100BT//P3100-Battery//Battery//7500//10,9,2020//ShweLattSaung
 1662//SSJ6PGB//Samsung-J6Plus-Glass(B)//Glass//3000//10,9,2020//Master
 1663//RMEC2BCBL//RealmeC2-Backcover(Blue)//BackCover//5,500//Date 16,11,2020//Nice
