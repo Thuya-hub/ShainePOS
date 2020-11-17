@@ -977,9 +977,7 @@
 962//RM5TLB//Redmi5-T+L (Black)//T+L//19,000//Date 24,10,2020//BRIGHT
 963//RM5TLW//Redmi5-T+L (White)//T+L//21,500//Date 13,11,2020//Master
 964//RM5USB//Redmi5-USB Board//USB Board//3,000//Date 15,10,2020//Master
-963//RM5TLW//Redmi5-T+L (White)//T+L//18500//7,10,2020//Hx
-964//RM5USB//Redmi5-USB Board//USB Board//2,500//Date//S.H.O.P
-965//RM5USBF//Redmi5-chargingFlex//Charging Flex//2,500//Date//S.H.O.P
+963//RM5TLW//Redmi5-T+L (White)//T+L//18500//7,10,2020//H.X
 966//RM5XBDCBMI5XBDCB//RedMi5x-BodyCover(Black)//BodyCover//12500//Date//S.H.O.P
 967//RM5XFPRMI5XFPR//Redmi5X-FingerPrint(Red)//Fingerprints//6,000//Date 15,10,2020//Master
 968//RM5XPKMI5XPK//RedMi5x-Power Flex//Power Flex//1,500//13,9,2020//Hx
