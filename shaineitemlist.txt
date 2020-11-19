@@ -154,10 +154,10 @@
 153//HWGPLAYMNTWHW4CTW//G-playmini-or-4C-Huawei(White)Touch//TouchOnly//4,500//Date 10,11,2020//H.X
 154//HWGR317BDCBL//GR3(2017)-Body(Blue)-Huawei//BodyCover//7,500//Date//S.H.O.P
 155//HWGR317BDCW//GR3(2017)-Body-White-Huawei//BodyCover//10,000//Date//S.H.O.P
-156//HWGR317TLBHWGR3TLBHON8LTLB//GR3(2017)/Honor8Lite-Huawei-T+L(Black)//T+L//16,000//Date//S.H.O.P
-157//HWGR317TLBLHWGR3TLBL//GR3(2017)-T+L(Blue)-Huawei//T+L//17,000//Date//S.H.O.P
-158//HWGR317TLGHWGR3TLGHON8LTLG//GR3(2017)/Honor8Lite-Huawei-T+L(Gold)//T+L//16,000//Date//S.H.O.P
-159//HWGR317TLWHWGR3TLWHON8LTLW//GR3(2017)/Honor8Lite-Huawei-T+L (White)//T+L//16,500//Date//S.H.O.P
+156//HWGR317TLBHON8LTLB//GR3(2017)-Honor8Lite-Huawei-T+L(Black)//T+L//16,000//Date//S.H.O.P
+157//HWGR317TLBLHON8LTLB//GR3(2017)-T+L(Blue)-Huawei//T+L//17,000//Date//S.H.O.P
+158//HWGR317TLGHON8LTLG//GR3(2017)-Honor8Lite-Huawei-T+L(Gold)//T+L//16,000//Date//S.H.O.P
+159//HWGR317TLWHON8LTLW//GR3(2017)-Honor8Lite-Huawei-T+L (White)//T+L//16,500//Date//S.H.O.P
 160//HWGR3TB//GR3-Huawei-Touch(Black)//TouchOnly//5,000//Date//S.H.O.P
 161//HWGR3TG//GR3-Huawei-Touch(Gold)//TouchOnly//4,800//Date//S.H.O.P
 162//HWGR3TLB//GR3-Huawei-T+LCD(Black)//T+L//16,000//Date 30,10,2020//H.X
@@ -466,7 +466,7 @@
 462//IPH6SBTC//Iphone6s-Battery(Clone)//Battery//6,300//18,9,2020//Hx
 463//IPH6SPBDC//Iphone6sPlus-BodyCover//BodyCover//13,800//Date//S.H.O.P
 464//IPH6SPGW//Iphone6sPlus-OCA Glass(White)//Glass//5,500//Date//S.H.O.P
-465//IPH6SPTLB//Iphone6splus-T+LCD-Black//T+L//19,500//Date//S.H.O.P
+465//IPH6SPTLB//Iphone6splus(A.A)-T+LCD-Black//T+L//42,500//Date 18,11,2020//Master
 466//IPH6SPTLW//Iphone6Plus-T+L(White)//T+L//19,500//Date//S.H.O.P
 467//IPH6SPUSB//Iphone6plus-USB Board//USB Board//5,500//Date//S.H.O.P
 468//IPH6STLBIPH6STLW//Iphone6s-T+L(B)(W)//T+L//17,000//Date 14,10,2020//H.X
@@ -1375,7 +1375,7 @@
 1357//SSJ5PSTB//J5Prime-Sim Tray-Black//Sim Tray//3,000//Date//S.H.O.P
 1358//SSJ5PTLB//J5Prime-Samsung(Black)T+L//T+L//17,500//Date//S.H.O.P
 1359//SSJ5PTLBL//J5Pro-T+L-ORG-Samsung(BlueSilver)//T+L//61,000//Date//S.H.O.P
-1360//SSJ5PTLBSSJ530TLBORG//J5Pro-J530-T+L-ORG-Samsung(Black)//T+L//46,500//Date//S.H.O.P
+1360//SSJ5PTLBSSJ530TLB//J5Pro-J530-T+L-ORG-Samsung(Black)//T+L//46,500//Date//S.H.O.P
 1361//SSJ5PTLG//J5Pro-T+L-ORG-Samsung(Gold)//T+L//40,500//Date 16,11,2020//H.X
 1362//SSJ5PTLG1//J5Prime-Samsung(Gold)T+L//T+L//17,500//Date//S.H.O.P
 1363//SSJ5PTLW//J5Prime-Samsung(White)T+L//T+L//18,500//Date 19,10,2020//H.X
@@ -1794,9 +1794,9 @@
 1775//OPA77TLW//A77-T+L-Oppo(White)//T+L//23,000//Date 30,10,2020//H.X
 1776//VVY11TLBVVY12TLBVVY15TLBVVY17TLBVVY3TLB//Vivo-Y11-Y12-Y15-Y17-Y3-(2019)-T+L(Black)//T+L//22,000//Date 13,11,2020//H.X
 1777//HWNV3ETLB//Nova3e-Huawei(Black)T+L//T+L//18,500//Date 16,11,2020//H.X
-1778//HWGR317TLWHWGR3TLWHON8LTLW//GR3(2017)-Honor8Lite-Huawei-T+L (White)//T+L//16,500//Date 30,10,2020//H.X
-1779//HWGR317TLBHWGR3TLBHON8LTLB//GR3(2017)-Honor8Lite-Huawei-T+L(Black)//T+L//16,500//Date 30,10,2020//H.X
-1780//HWGR317TLGHWGR3TLGHON8LTLG//GR3(2017)-Honor8Lite-Huawei-T+L(Gold)//T+L//16,000//Date 30,10,2020//H.X
+1778//HWGR317TLWHON8LTLW//GR3(2017)-Honor8Lite-Huawei-T+L (White)//T+L//16,500//Date 30,10,2020//H.X
+1779//HWGR317TLBHON8LTLB//GR3(2017)-Honor8Lite-Huawei-T+L(Black)//T+L//16,500//Date 30,10,2020//H.X
+1780//HWGR317TLGHON8LTLG//GR3(2017)-Honor8Lite-Huawei-T+L(Gold)//T+L//16,000//Date 30,10,2020//H.X
 1781//HWGR5TLWHWGR516TLW//GR5-GR5(2016)-Huawei-T+L(White)//T+L//17,500//Date 30,10,2020//H.X
 1782//HWGR5TLBHWGR516TLB//GR5-GR5(2016)-Huawei-T+L(Black)//T+L//17,500//Date 30,10,2020//H.X
 1783//HWGR5TLGHWGR5TLG//GR5-GR5(2016)-Huawei-T+L(Gold)//T+L//17,500//Date 30,10,2020//H.X
@@ -1912,3 +1912,8 @@
 1893//HWY6P18STBLHWY6P18STBLB//Huawei-Y6prime(2018)-Sim Tray(Blue)(Black)//Sim Tray//3,500//Date 13,11,2020//Master
 1894//RM5XTLWMIA1TLWMI5XTLW//Red Mi5x-T+L(White)//T+L//17,000//Date 16,11,2020//H.X
 1895//RMS2PWF//RedmiS2-Power Flex//Power Flex//1,500//Date 16,11,2020//H.X
+1896//HWGR3TLG//GR3-Huawei-T+LCD(Gold)//T+L//16,000//Date 18,11,2020//Master
+1897//SSJ5PTLGSSJ530TLG//J5Pro-J530-T+L-ORG-Samsung(Gold)//T+L//43,500//Date 18,11,2020//Nice
+1898//RMN9SBCW//Red Mi Note 9S-(White)//Back Cover//7,500//Date 18,11,2020//Nice
+1899//SSA20SBDCB//Samsung-A20s-Body Cover(Black)//Body Cover//8,000//Date 18,11,2020//Fone Club
+1900//IPH6PTLBIPH6PTLW//I Phone 6Plus(A.A)-T+L(Black & White)//T+L//21,500//Date 18,11,2020//Master
