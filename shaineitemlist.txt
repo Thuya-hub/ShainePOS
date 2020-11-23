@@ -1,4 +1,4 @@
-0//Update//Update//0//21,11,2020//21,11,2020//Shaine Mobile
+0//Update//Update//0//22,11,2020//22,11,2020//Shaine Mobile
 1//0.5mm//0.5mm//ခဲခွေ//2,000//Date//S.H.O.P 
 2//37.5hb//Sunshine-0.10mm-မွန္ခြာျကိုး//မွန္ခြာျကိုး//2,500//Date//S.H.O.P
 3//Alloy63/67//Quick-0.8mm//ခဲခွေ//4,500//Date//S.H.O.P
@@ -246,6 +246,7 @@
 241//HWP8LTLW//P8Lite-Huawei-T+L(White)//T+L//15,500//Date 30,10,2020//Master
 242//HWP8LTW//P8Lite-Huawei-Touch(White)//TouchOnly//4,800//Date//S.H.O.P
 243//HWP9BTHWP9LBTHWGR317BTHWNOVA3EBTHWY7P18BTHWGR5MINIBTHB366481ECW//GR5Mini-P9-P9lite-GR3(17)-Nova3E-Y6Prime-Y7Pro(18)-GR5mini-V9Play-Huawei-Battery//Battery//7,500//Date 13,11,2020//Master
+243//HWP9BTHWP9LBTHWGR317BTHWNOVA3EBTHWY7P18BTHWGR5MINIBTHB366481ECW//GR5Mini-P9-P9lite-GR3(17)-Nova3E-Y6Prime-Y7Pro(18)-GR5mini-V9Play-Huawei-Battery//Battery//5,500//Date 22,11,2020//Bright
 244//HWP9GBHWP9TB//P9-Huawei-Glass(Black)//Glass//4,500//Date//S.H.O.P
 245//HWP9GGHWP9TG//P9-Huawei-Glass(Gold)//Glass//4,500//Date//S.H.O.P
 246//HWP9GWHWP9TW//P9-Huawei-Glass(White)//Glass//4,500//Date//S.H.O.P
@@ -305,7 +306,8 @@
 300//HWY511TB//Y511-Huawei-Touch(Black)SE//Touch//4,000//Date//S.H.O.P
 301//HWY517BDCG//Y5(2017)-BodyCover(Gold)-Huawei//BodyCover//0//Date//S.H.O.P
 302//HWY517BDCGR//Y5(2017)-BodyCover(Gray)-Huawei//BodyCover//0//Date//S.H.O.P
-303//HWY517BTHWEJ6SBTHON6ABTHWY5P18BTHWNVBTHB405979ECW//Y5(2017)-Enjoy6s-Honor6A-y5Prime(2018)-Nova-Battery-Huawei//Battery//5,500//Date 21.11.2020//H.X
+303//HWY517BTHWEJ6SBTHON6ABTHWY5P18BTHWNVBTHB405979ECWHEY6PBTY519BTY619BT//Y5(2017)-Enjoy6s-Honor6A-y5Prime(2018)-Nova-Y6Pro-Y5(2019)-Y6(2019)Battery-Huawei//Battery//5,500//Date 21.11.2020//H.X
+303//HWY517BTHWEJ6SBTHON6ABTHWY5P18BTHWNVBTHB405979ECWHEY6PBTY519BTY619BT//Y5(2017)-Enjoy6s-Honor6A-y5Prime(2018)-Nova-Y6Pro-Y5(2019)-Y6(2019)Battery-Huawei//Battery//5,500//Date 21.11.2020//Bright
 304//HWY517PF//Y5(2017)-PowerKey//Power Flex//2,000//Date//S.H.O.P
 305//HWY517TB//Y5(2017)-Huawei-Touch(Black)//TouchOnly//5,200//Date//S.H.O.P
 306//HWY517TG//Y5(2017)-Huawei-Touch(Gold)//TouchOnly//5,000//Date//S.H.O.P
@@ -577,6 +579,7 @@
 564//MMX2TB//Mi Max2-Touch(Black)//TouchOnly//4,500//7,10,2020//Hx
 565//MMX2TLB//Mi Max2-T+L(Black)//T+L//35800//15,9,2020//Master
 566//MMX2TLW//Mi Max2-T+L(White)//T+L//27,500//Date 30,10,2020//H.X
+566//MMX2TLW//Mi Max2-T+L(White)//T+L//30,000//Date 22,11,2020//Bright
 567//MMX2TW//Mi Max2-Touch(White)//TouchOnly//5,500//Date 10,11,2020//H.X
 568//MMX2USB//Mi Max2-USB Board//USB Board//2,500//Date 3,11,2020//H.X
 569//MMX3BM51BT//Mi Max3-Battery//Battery//7000//7,10,2020//Hx
@@ -1024,6 +1027,7 @@
 1000//RM6TLGRM6ATLG//Redmi6-Redmi6A-T+L(Gold)//T+L//13800//7,10,2020//Hx
 1001//RM6TLWRM6ATLW//Redmi6-Redmi6A-T+L(White)//T+L//15,000//Date 16,11,2020//H.X
 1002//RM6TWRM6ATWRM6TBRM6ATB//Redmi6-Mi6A-TouchOnly(W)(B)//TouchOnly//4,500//Date 28,10,2020//H.X
+1002//RM6TWRM6ATWRM6TBRM6ATB//Redmi6-Mi6A-TouchOnly(W)(B)//TouchOnly//4,500//Date 22,11,2020//Bright
 1003//RM6XBDCBMI6XBDCB//Redmi6x-BodyCover(Black)//BodyCover//14,300//Date//S.H.O.P
 1004//RM6XGBMI6XGB//Redmi6x-Glass(Black)//Glass//3,000//Date//S.H.O.P
 1005//RM6XGWMI6XGW//Redmi6x-Glass(White)//Glass//3,000//Date//S.H.O.P
@@ -1459,6 +1463,7 @@
 1434//SSS6BCG//S6-BackCover-Glass-Gold-Samsung//Back Cover//5,000//Date//S.H.O.P
 1435//SSS6BCW//S6-BackCover-Glass(White)//Back Cover//5,300//Date//S.H.O.P
 1436//SSS6BTEBBG920ABE//S6-SAMSUNG-BATTERY//Battery//5,500//Date 21,11,2020//H.X
+1436//SSS6BTEBBG920ABE//S6-SAMSUNG-BATTERY//Battery//7,500//Date 22,11,2020//Bright
 1437//SSS6EBCW//S6edge-BackCover-Glass-(White)//Back Cover//4,000//Date//S.H.O.P
 1438//SSS6EBTEBBA925ABA//S6Edge-Samsung-Battery//Battery//6,300//Date//S.H.O.P
 1439//SSS7262TB//S7262-Samsung-Touch(Black)//Touch//3,500//Date//S.H.O.P
@@ -1727,6 +1732,7 @@
 1702//VVV9PKVVY85PK//V9-Y85-Vivo-Power Flex//Power Flex//2,000//Date 15,10,2020//Master
 1703//HWY6PKHW4APK//Huawi-Y6-4A-Power Flex//Power Flex//2,000//Date 15,10,2020//Master
 1704//SST116TB//T116-SamsungTablet(Black)-Touch//Touch//5,500//Date 15,10,2020//Master
+1704//SST116TB//T116-SamsungTablet(Black)-Touch//Touch//5,000//Date 22,10,2020//Bright
 1705//SSI9082VKSSI9060VK//Samsung-I9082-I9060 -Volume Flex//Volume Flex//2,000//Date 15,10,2020//Master
 1706//SSJ7PTLB//J7Prime-ORG-Samsung(Black)T+L//T+L//25,000//Date 10,11,2020//Fone Club
 1707//SSJ7PTLW//J7Prime-ORG-Samsung(White)T+L//T+L//25,000//Date 10,11,2020//Fone Club
@@ -1742,6 +1748,7 @@
 1717//K30PTLB//K30Pro-T+L(Black)//T+L//155,000//Date 19,10,2020//H.X
 1718//MI8LBDCB//Mi8Lite-Body Cover(Black)//Body Cover//11,500//Date 19,10,2020//H.X
 1719//MI8LBCB//Mi8Lite-Back Cover(Black)//Back Cover//4,500//Date 19,10,2020//H.X
+1719//MI8LBCBL//Mi8Lite-Back Cover(Blue)//Back Cover//5,500//Date 19,10,2020//Bright
 1720//IPH6BTORG//iphone6-ORG-Battery//Battery//10,000//Date 23,10,2020//Master
 1721//VVY11GBVVY12GBVVY15GBVVY17GBVVY3GB//Vivo-Y11-Y12-Y15-Y17-Y3-(2019)-Glass-(Black)//Glass//3,000//Date 23,10,2020//H.X
 1722//Y9PR19TLB//Huawei-Y9Prime(19)-T+L-(Black)//T+l//35,500//Date 23,10,2020//Fone Club
