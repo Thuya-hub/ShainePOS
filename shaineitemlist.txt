@@ -62,7 +62,7 @@
 61//HON4XTLWHWGPLAYTLW//Honor4x-Gplay-Huawei(White)-T+L//T+L//16,800//Date//S.H.O.P
 62//HON4XTWGPLAYTW//Honor4x-Gplay-Touch(White)//TouchOnly//4,500//Date 10,11,2020//H.X
 63//HON6ATLB//Honor6A-Huawei-T+L (Black)//T+L//16,300//Date//S.H.O.P
-64//HON6ATLW/Honor6A-Huawei-T+L (White)//T+L//15,800//Date//S.H.O.P
+64//HON6ATLW//Honor6A-Huawei-T+L (White)//T+L//15,800//Date//S.H.O.P
 65//HON6TBHON6ATB//Honor6/6A-Huawei-Touch(Black)//TouchOnly//0//Date//S.H.O.P
 66//HON6TWHON6ATW//Honor6/6A-Huawei-Touch(White)//TouchOnly//0//Date//S.H.O.P
 67//HON7ASPK//Honor7A-Huawei-Speaker//Speaker//3,500//Date//S.H.O.P
