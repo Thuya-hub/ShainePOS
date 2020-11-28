@@ -1774,7 +1774,7 @@
 1718//MI8LBDCB//Mi8Lite-Body Cover(Black)//Body Cover//11,500//Date 19,10,2020//H.X
 1719//MI8LBCB//Mi8Lite-Back Cover(Black)//Back Cover//4,500//Date 19,10,2020//H.X
 1719//MI8LBCBL//Mi8Lite-Back Cover(Blue)//Back Cover//5,500//Date 19,10,2020//Bright
-1720//IPH6BTORG//iphone6-ORG-Battery//Battery//10,000//Date 23,10,2020//Master
+1720//IPH6BTORG//Iphone6-ORG-Battery//Battery//10,000//Date 23,10,2020//Master
 1721//VVY11GBVVY12GBVVY15GBVVY17GBVVY3GB//Vivo-Y11-Y12-Y15-Y17-Y3-(2019)-Glass-(Black)//Glass//3,000//Date 23,10,2020//H.X
 1722//Y9PR19TLB//Huawei-Y9Prime(19)-T+L-(Black)//T+l//35,500//Date 23,10,2020//Fone Club
 1723//RMEC2BDCBOPA1KBDCBRMEC2BDCB//RealmeC2-A1k-Body Cover-(Black)-(Red)//Body Cover//7,500//Date 28,11,2020//Nice
