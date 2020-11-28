@@ -1115,9 +1115,9 @@
 1072//RMN3TLW//Redminote3-T+L(White)JK//T+L//14800//13,9,2020//Hx
 1073//RMN3TW//RedmiNote3-Touch(White)//TouchOnly//4,500//Date 23.10.2020//H.X
 1074//RMN3USB//Redminote3-USB Board//USB Board//3,000//Date 15,10,2020//Master
-1070//RMN3TLB//Redminote3-T+L(Black)JK//T+L//14800//7,10,2020//Hx
+1070//RMN3TLB//Redminote3-T+L(Black)JK//T+L//17,000//Date 28,11,2020//Nice
 1071//RMN3TLG//Redminote3-T+L(Gold)JK//T+L//16,000//Date 23,10,2020//Master
-1072//RMN3TLW//Redminote3-T+L(White)JK//T+L//14800//7,10,2020//Hx
+1072//RMN3TLW//Redminote3-T+L(White)JK//T+L//17,000//Date 28,11,2020//Nice
 1073//RMN3TW//RedmiNote3-Touch(White)//TouchOnly//3,500//7,10,2020//Hx
 1074//RMN3USB//Redminote3-USB Board//USB Board//2,500//13,9,2020//Hx
 1075//RMN4-BCRG//RedmiNote4-BodyCover(RoseGold)//BodyCover//0//Date//S.H.O.P
@@ -1204,7 +1204,8 @@
 1156//RMN8CG//RedmiNote8-CameraGlass//Camera Glass//5,000//Date//S.H.O.P
 1157//RMN8GBRMN8TB//RedmiNote8-Glass(Black)//Glass//4,000//Date//S.H.O.P
 1158//RMN8MF//RedmiNote8-MiddleFlex//Maddle Flex//2,500//13,9,2020//Hx
-1159//RMN8PBC//RedmiNote8Pro-BackCover//Back Cover//6,000//Date//S.H.O.P
+1159//RMN8PBC//RedmiNote8Pro-BackCover-(White)//Back Cover//6,000//Date 28,11,2020//Nice
+1159//MZM5NBDCG//Meizue-M5Note-Body Cover-(Gold)//Body Cover//6,000//Date 28,11,2020//Nice
 1160//RMN8PLCDF//RedmiNote8Pro-LCD Flex//LCD Flex//4,000//Date//S.H.O.P
 1161//RMN8PROTLBRMN8PTLB//RedmiNote8Pro-T+L(B)//T+L//37000//7,10,2020//Hx
 1162//RMN8TLB//RedmiNote8-T+L(Black)//T+L//22,000//Date 24,11,2020//H.X
@@ -1533,7 +1534,7 @@
 1481//TV6W//V6-Xbo-Touch(white)//Touch//8,000//Date//S.H.O.P
 1482//TY330BH//Y330C-Touch-Black-Huawei//Touch//3,800//Date//S.H.O.P
 1483//vivov3pf//V3-ViVo-Power Flex//Power Flex//1,500//Date//S.H.O.P
-1484//VVS1PTLBVVV15PTLBVVX27TLB//Vivo-S1Pro/V15Pro/X27-T+L(Black)//T+L//79,000//Date//S.H.O.P
+1484//VVS1PTLBVVV15PTLBVVX27TLB//Vivo-S1Pro/V15Pro/X27(ORG)-T+L(Black)//T+L//65,000//Date 28,11,2020//Nice
 1485//VVV15USB//Vivo-V15-ChargingFlex//Charging Flex//3,500//Date//S.H.O.P
 1486//VVV1BTVVY53BTVVBB3BT//V1-Y35-B3-Vivo-Battery//Battery//5500//23,9,2020//Hx
 1487//VVV1MXTLWVVY37TLW//V1max-Y37-Vivo(White)T+L//T+L//17,000//Date//S.H.O.P
@@ -1623,7 +1624,7 @@
 1569//VVY35AMF//VivoY35a-MaddleFlex//Maddle Flex//2,800//Date//S.H.O.P
 1570//VVY51BDCBY52BDCB//Y51-Y52-Vivo(Black)Bodycover//BodyCover//11,000//Date 24,11,2020//Fone Club
 1571//VVY51BDCWVVY52BDCW//Y51-Y52-Vivo-Bodycover(White)//BodyCover//9,500//Date//S.H.O.P
-1572//VVY51BTB95BT//Y51-Vivo-Battery//Battery//5,500//Date 21,11,2020//H.X
+1572//VVY51BTBLP95BT//Y51-Vivo-Battery//Battery//5,500//Date 21,11,2020//H.X
 1573//VVY51PKY52PW//Y51-Y52-Vivo-Power Flex//Power Flex//1,500//Date 21,11,2020//Master
 1574//VVY51TBY52TB//Y51-Y52-Vivo-Touch(Black)//TouchOnly//3000//8,9,2020//Hx
 1575//VVY51TLBY52TLB//Y51-Y52-Vivo-T+L(Black)//T+L//13,500//Date 3,11,2020//H.X
@@ -1776,7 +1777,7 @@
 1720//IPH6BTORG//iphone6-ORG-Battery//Battery//10,000//Date 23,10,2020//Master
 1721//VVY11GBVVY12GBVVY15GBVVY17GBVVY3GB//Vivo-Y11-Y12-Y15-Y17-Y3-(2019)-Glass-(Black)//Glass//3,000//Date 23,10,2020//H.X
 1722//Y9PR19TLB//Huawei-Y9Prime(19)-T+L-(Black)//T+l//35,500//Date 23,10,2020//Fone Club
-1723//RMEC2BDCBOPA1KBDCBRMEC2BDCB//RealmeC2-A1k-Body Cover-(Black)-(Red)//Body Cover//8,500//Date 16,11,2020//Nice
+1723//RMEC2BDCBOPA1KBDCBRMEC2BDCB//RealmeC2-A1k-Body Cover-(Black)-(Red)//Body Cover//7,500//Date 28,11,2020//Nice
 1724//SSJ5PTLBLSSSJ530TLBLS//J5Pro-J530-Samsung(Blue Silver)-T+L//T+L//41,000//Date 28,10,2020//H.X
 1724//SSJ5PTLBLSSSJ530TLB//J5Pro-J530-Samsung(Black)-T+L//T+L//41,000//Date 24,11,2020//Master
 1725//HWEJ8TBHWNV2LTBHWY7P18TBHWY7P18TB//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-Touch(Black)//Touch//4,500//Date 28,10,2020//H.X
@@ -1952,6 +1953,7 @@
 1888//MI8SEUSBFL//Mi8SE-USB Flex//USB Flex//4,500//Date 10,10,2020//Master
 1889//HWNV7SETLBHWHON30STLBHWP40L5GTLB//Huawei-Nova7SE-Honor30S-P40Lite(5G)-T+L(Black)//T+L//35,000//Date 10,11,2020//Fone Club
 1890//HWNV7ITLBHWNV5ITLBHWP40LTLB//Huawei-Nova7i-Nova5i-P40Lite-T+L(Black)//T+L//31,000//Date 10,11,2020//Fone Club
+1890//HWNV7ITLBHWNV5ITLBHWP40LTLB//Huawei-Nova7i-Nova5i-P40Lite-T+L(Black)//T+L//30,000//Date 28,11,2020//Nice
 1891//VVV11iTLBVVY97TLB//VIVO-V11i-Y97-T+L(Black)//T+L//23,000//Date 13,11,2020//H.X
 1892//SSJ6PBDCB//Samsung-J6Plus-Body Cover(Black)//Body Cover//7,500//Date 13,11,2020//H.X
 1893//HWY6P18STBLHWY6P18STBLB//Huawei-Y6prime(2018)-Sim Tray(Blue)(Black)//Sim Tray//3,500//Date 13,11,2020//Master
