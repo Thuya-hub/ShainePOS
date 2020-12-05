@@ -1,21 +1,3 @@
-~(4/12/2020) PRICES HAVE BEEN FIXED.
+Shaine POS Version(2.0)
 
-~စျေးများကို ပုံမှန်အတိုင်းပြန်‌ရောင်းရန်...
-
-~ပုံမှန် မဟုတ်သော စျေးနှုန်းများရှိပါက ကိုအောင်မြင့်ကို အသိပေးရန်။
-
-~MODEL NAME ရှိပြီး PRICE မရှိသော ITEM များကို Note ဖြင့်ရေသာပြီး KO AUNG MYINT ကို အသိပေးရန်။
-
-*NOTE ဖြင့်ရေးသာရာတွင် SHOP NAME များထည့်ရန်။
-
-*GRADE (A)MASTER/FONE CLUB/NICE/BRIGHT/CITY/SHWE LATT SAUNG/SKY/KAUNG KWA
-
-*GRADE (B)HUXUM
-
-~စျေးများ အတက်အကျ ရှိသည်။
-
-~HUXUN နှင့် MASTER/FONE CLUB/NICE/BRIGHT/CITY/SHWE LATT SAUNG/SKY/KAUNG KWAL တံဆိပ်များကို စျေးသက်သက် ရောင်းရန် အတွက် ပြုပြင်ပြီးကြောင်း အသိပေးအပ်ပါသည်။
-
-ပုံ~စောက်ချောကြီး
-
-#THANK FOR SALE.
+ဗာရှင်းအသစ် (၂.၀) ကို Update တင်ပေးပါ။
