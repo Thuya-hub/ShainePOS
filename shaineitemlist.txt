@@ -1231,7 +1231,7 @@
 1168//RMPHF//Redmipro-Home Flex//Home Key//3,000//Date//S.H.O.P
 1169//RMPlay-PWK//MiPlay-PowerFlex//Power Flex//1,500//Date//S.H.O.P
 1170//RMPPF//RedmiPro-PowerFlex//Power Flex//1,500//Date//S.H.O.P
-1171//RMPTLB//Redmipro-T+L(Black)//T+L//45,000//Date 19,10,2020//H.X
+1171//RMPTLB//Redmipro-T+L(Black)//T+L//42,000//Date 12,12,2020//H.X
 1172//RMPUSBF//Redmipro-USBBord//USB Flex//10,500//Date//S.H.O.P
 1173//RMS2BDCG//RedMiS2-BodyCover(Gold)//BodyCover//7,000//Date//S.H.O.P
 1174//RMS2BDCGR//RedMiS2-BodyCover(Grey)//BodyCover//7,000//Date//S.H.O.P
