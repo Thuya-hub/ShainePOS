@@ -447,7 +447,7 @@
 425//HWY7USB//Y7-Usb Board-Huawei//USB Board//4,500//Date//S.H.O.P
 426//HWY918TB//Y9(2018)-Huawei-Touch(Black)//TouchOnly//3600//Date//S.H.O.P
 427//HWY918TG//Y9(2018)-Huawei-Touch(Gold)//TouchOnly//3600//Date//S.H.O.P
-428//HWY918TLBHWEJ8PTLB//Y9(2018)-Enjoy8Plus-Huawei-T+L(Black)//T+L//18,500//Date 16,11,2020//H.X
+428//HWY918TLBHWEJ8PTLB//Y9(2018)-Enjoy8Plus-Huawei-T+L(Black)//T+L//17,500//Date 15,12,2020//H.X
 429//HWY918TLWHWEJ8PTLW//Y9(2018)-Enjoy8Plus-Huawei-T+L(White)//T+L//18,500//Date 28,10,2020//H.X
 430//HWY918TW//Y9(2018)-Huawei(White)Touch//TouchOnly//4,500//Date 10,11,2020//H.X
 431//HWY919BCGHWY9BCG//Huawei-Y9(2019)-BackCover(Gold)//Back Cover//8,500//Date 8,12,2020//Master
