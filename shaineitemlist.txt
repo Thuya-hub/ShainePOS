@@ -1280,7 +1280,7 @@
 1191//SNC5TLBSNC5UTLB//C5-C5Ultra-Sony-T+L(Black)//T+L//27,000//Date//S.H.O.P
 1191//HWYMXTLB//Huawei-Y Max-T+L(Black)//T+L//34,000//Date 24,11,2020//Master
 1192//SNCBTSNZBTSNC2305BT//Z-SonyC-C2305-Battery//Battery//6,500//Date//S.H.O.P
-1193//SNE4BT//E4-Sony-Battery//Battery//6,500//Date//S.H.O.P
+1193//SNE4BTSNE2115BT//E4-E2115-Sony-Battery//Battery//7,500//Date 13,12,2020//Fone Club
 1194//SNE4TLB//SonyE4-T+L (Black)//T+L//26,000//Date//S.H.O.P
 1195//SNM4TLB//M4-Sony(Black)T+L//T+L//23,000//Date//S.H.O.P
 1196//SNMYBCB//SonyM5-Backcover (Black)//Back Cover//4,500//Date//S.H.O.P
