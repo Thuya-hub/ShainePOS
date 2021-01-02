@@ -554,6 +554,7 @@
 518//MI5MF//MI5-MaddleFlex//Maddle Flex//3,500//Date//S.H.O.P
 519//MI5SBTBM36BT//Mi5S(ORG)-Battery//Battery//7,100//Date 16,11,2020//Master
 520//MI5SPCFRM5SPCF//Mi5SPlus-Charging Flex//Charging Flex//6,500//Date//S.H.O.P
+520//MI5SPBTBM37BT//Mi5SPlus-BM37-Battery//Battery//7,500//Date 1,1,2021//Master
 521//MI5STBMI5SSTG//Mi5-SimTray(Black)(Gold)//Sim Tray//3,000//Date 15,10,2020//Master
 522//MI5TLB//Mi5-T+L(Black)Homekey//T+L//23,000//Date 28,12,2020//H.X
 523//MI5TLG//Mi5-T+L(Gold)Home key//T+L//23,000//Date//S.H.O.P
