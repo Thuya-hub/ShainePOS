@@ -1208,6 +1208,7 @@
 1095//RMN4XBCB//Redminote4x-Bodycover(Black)//BodyCover//7500//Date//S.H.O.P
 1096//RMN4XBDG//Redminote4x-Bodycover(Gold)//BodyCover//8000//Date//S.H.O.P
 1097//RMN4XBTBN43BT//RedmiNote4x-Battery//Battery//6,500//Date 8,12,2020//H.X & Fone Club
+1097//RMN4XBTBN43BT//RedmiNote4x-Battery//Battery//7,500//Date 1,1,2021//Master
 1098//RMN4XFPG//Redminote4X-Fingerprints (Gold)//Fingerprints//4,300//Date//S.H.O.P
 1099//RMN4XMF//RedMiNote4x-MiddleFlex//Maddle Flex//3,000//Date//S.H.O.P
 1100//RMN4XPF//RedmiNote4X-PowerFlex//Power Flex//1,400//Date//S.H.O.P
