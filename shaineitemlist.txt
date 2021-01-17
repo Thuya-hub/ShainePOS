@@ -1370,7 +1370,7 @@
 1241//SSA71BCBSSA71BCBLSSA71BCW//Samsung-A71-BackCover-AllColor//Back Cover//4,000//Date//S.H.O.P
 1242//SSA7BDCG//A7-Samsung-BodyCover(Gold)//BodyCover//6,500//Date//S.H.O.P
 1243//SSA7BDCW//A7-BodyCover-Samsung(White)//BodyCover//9,000//Date//S.H.O.P
-1244//SSA7BTEBBA700ABE//A7-Samsung-Battery//Battery//6,500//Date//S.H.O.P
+1244//SSA7BTEBBA700ABEBT//A7-EBBA700ABE-Samsung-Battery//Battery//6,500//Date//S.H.O.P
 1245//SSA7GW//A7-Samsung(White)Glass//Glass//3,000//Date//S.H.O.P
 1246//SSA7STGSSA717STG//A7(2017)-Samsung-Sim Tray-Gold//Sim Tray//4,500//Date//S.H.O.P
 1247//SSA7TB//A7-Samsung-Touch(Black)//TouchOnly//7,000//Date//S.H.O.P
@@ -1557,7 +1557,7 @@
 1422//SSON7TBSSG6000TB//On7-G600-Samsung-Touch(Black)//Touch//3,500//Date 7,1,2021//H.X
 1423//SSON7TGSSG6000TG//On7-G600-Samsung-Touch(Gold)//Touch//4,100//Date 16,11,2020//H.X
 1424//SSON7TWSSG6000TW//On7-G600-Samsung-Touch(White)//Touch//4,000//Date 10,11,2020//H.X
-1425//SSP5100BTSSP7500BTSSN8000BT//Samsung-P5100/P7500/N8000-Battery//Battery//11,000//Date//S.H.O.P
+1425//SSP5100BTSSP7500BTSSN8000BTSP3676B1ABT//Samsung Glaxy Tab 2-P5100-P7500-N8000-SP3676B1A-Battery//Battery//11,000//Date//S.H.O.P
 1426//SSP5200TB//P5200-Samsung-Touch(Black)//Touch//9,000//Date//S.H.O.P
 1427//SSS5830TB//S5830-Samsung(Black)Touch//Touch//4,000//Date//S.H.O.P
 1428//SSS5830TW//S5830-Samsung(White)Touch//Touch//4,000//Date//S.H.O.P
