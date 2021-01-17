@@ -1307,7 +1307,7 @@
 1184//SMI9060ITB//I9060i-Samsung-Touch(Black)Org//Touch//4,000//Date//S.H.O.P
 1185//SMN7BCB//SamsungNote7-BackCover(Black)//Back Cover//6,000//Date//S.H.O.P
 1186//SNC3BTLIS1546ERPCBT//C3-LIS1546ERPC-Sony-Battery//Battery//7,500//Date//S.H.O.P
-1186//SNZ5BTSNE6653BT//Sony-Z5(E6653)-Battery//Battery//7,500//Date 11,1,2021//Master
+1186//SNZ5BTSNE6653BTLIS1593ERPCBT//Sony-Z5(E6653)-LIS1593ERPC-Battery//Battery//7,500//Date 11,1,2021//Master
 1186//SNZ5TLB//Sony-Z5(Black)-T+L//T+L//22,500//Date 12,1,2021//Master
 1187//SNC3PF//C3-Sony-PowerFlex//Power Flex//5,800//Date//S.H.O.P
 1188//SNC4BTLIS1561ERPCBT//C4-LIS1561ERPC-Sony-Battery//Battery//7,000//Date//S.H.O.P
