@@ -26,7 +26,7 @@
 20//BN34BTRM5ABT//Redmi5A-BN34-Battery//Battery//5500//Date 3,11,2020//H.X
 21//BN35BTRM5BT//Redmi5-BN35-Battery//Battery//6,500//Date 14,12,2020//H.X & Fone Club
 22//BN36BTRM6XBTMI6XBT//Mi6x-Redmi6X-BN36-Battery//Battery//5500//Date 19,10,2020//H.X
-23//BN37BTRM6BTRM6ABT//Redmi6-Redmi6A-BN36-Battery//Battery//5,500//Date 14,12,2020//H.X
+23//BN37BTRM6BTRM6ABT//Redmi6-Redmi6A-BN37-Battery//Battery//5,500//Date 14,12,2020//H.X
 24//BN40BTRM4PBT//Redmi4Pro-BN40-Battery//Battery//5,500//Date 16,11,2020//H.X
 25//BN42BTRM4BT//Redmi4-16GB-BN42-Battery//Battery//5,500//Date 19,10,2020//H.X
 25//BN42BTRM4BT//Redmi4-16GB-BN42-Battery//Battery//6,600//Date 15,12,2020//Master
