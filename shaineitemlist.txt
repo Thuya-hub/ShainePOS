@@ -1663,8 +1663,8 @@
 1521//VVV5TWVVY67TW//V5-Y67-Vivo-Touch(White)//TouchOnly//3,500//Date 7,1,2021//H.X
 1522//VVV5USBVVY67USB//V5-USB Board-Vivo//USB Board//3,500//Date 10,11,2020//H.X
 1523//VVV7BDCB//V7-Body Cover-Black//BodyCover//15,000//Date//S.H.O.P
-1524//VVV7BTVVV7PBT//V7-V7Plus-Battery-Vivo//Battery//6000//Date 28,9,2020//H.X
-1524//VVV7BTVVV7PBT//V7-V7Plus-Battery-Vivo//Battery//6000//Date 30,11,2020//Master
+1524//VVV7BTVVV7PBTBD5BT//V7-V7Plus-B-D5-Battery-Vivo//Battery//6000//Date 28,9,2020//H.X
+1524//VVV7BTVVV7PBTBD5BT//V7-V7Plus-B-D5-Battery-Vivo//Battery//6000//Date 30,11,2020//Master
 1525//VVV7GBVVY75GB//V7-Y75-Vivo-Glass(Black)//Glass//3,000//Date//S.H.O.P
 1526//VVV7GWVVY75GW//V7-Y75-Vivo-Glass(White)//Glass//3,500//Date//S.H.O.P
 1527//VVV7PGBVVY79GB//V7Plus-Y79-VIVO-Glass (Black)//Glass//3,500//Date//S.H.O.P
@@ -1674,12 +1674,12 @@
 1531//VVV7TLBVVY75TLB//V7-Y75-Vivo(Black)T+L//T+L//18,500//Date 13,11,2020//H.X
 1532//VVV7TLWVVY75TLW//V7-Y75-Vivo(White)T+L//T+L//17,000//Date 14,10,2020//H.X
 1533//VVV9BDCB//V9-Vivo-Housing-Black-BodyCover//BodyCover//13,000//Date//S.H.O.P
-1534//VVV9BTVVY85BT//VIVOV9-Y85-Battery//Battery//8,000//Date//S.H.O.P
+1534//VVV9BTVVY85BTBD9BT//VIVO-V9-Y85-B-D9-Battery//Battery//8,000//Date//S.H.O.P
 1535//VVV9TLBVVY85TLB//V9-Y85-Vivo-T+L(Black)//T+L//23,000//Date 6,12,2020//H.X
 1535//VVV9TLBVVY85TLB//V9-Y85-Vivo-T+L(Black)//T+L//28,500//Date 5,1,2021//Master
-1536//VVVY55BTVVY66BT//Vivo-V3-Y55-y66-Battery//Battery//6,000//Date 10,11,2020//H.X
-1536//VVVY55BTVVY66BT//Vivo-V3-Y55-y66-Battery//Battery//7,000//Date 30,11,2020//Master
-1537//VVX3SBTBKB59BT//X3s-Vivo-Battery//Battery//6,000//Date//S.H.O.P
+1536//VVVY55BTVVY66BTBB1BT//Vivo-V3-Y55-Y66-B-B1-Battery//Battery//6,000//Date 10,11,2020//H.X
+1536//VVVY55BTVVY66BTBB1BT//Vivo-V3-Y55-Y66-B-B1-Battery//Battery//7,000//Date 30,11,2020//Master
+1537//VVX3SBTBKB59BTBKB59BT//X3S-BK-B59-Vivo-Battery//Battery//6,000//Date//S.H.O.P
 1538//VVY11LCD//Y11-Vivo-LCD//LCD//9,500//Date//S.H.O.P
 1539//VVY11TLBVVY12TLBVVY15TLBVVY17TLBVVY3TLB//Vivo-Y11-Y12-Y15-Y17-Y3-(2019)-T+L(Black)//T+L//30,000//Date 1,1,2021//Master
 1539//VVY11BDCBLVVY12BDCBLVVY15BDCBLVVY17BDCBLVVY3BDCBL//VIVO-Y11-Y12-Y15-Y17-Y3-(2019)-Body Cover(Aqua Blue)//Body Cover//8,000//Date 24,12,2020//Nice
@@ -1725,7 +1725,7 @@
 1578//VVY51USBFY52USBF//Y51-Y52-VIVO-USB Flex//USB Flex//3,500//Date 11,1,2021//Master
 1579//VVY53BDCG//Y53-Body Cover-Gold-Vivo//BodyCover//6,500//Date 24,11,2020//Fone Club
 1579//VVY53BDCB//Y53-Body Cover-(Black)-Vivo//BodyCover//6,000//Date 28,12,2020//H.X
-1580//VVY53BT//Y53-Vivo-Battery//Battery//6,000//Date 28,10,2020//H.X
+1580//VVY53BTB95//Y53-B-95-Vivo-Battery//Battery//6,000//Date 28,10,2020//H.X
 1581//VVY53PK//Y53-Vivo_PowerFlex//Power Flex//1500//13,9,2020//Hx
 1582//VVY53STB//Y53-Sim Tray(Black)-VIVO//Sim Tray//3,500//Date//S.H.O.P
 1583//VVY53STG//Y53-Sim Tray(Gold)-VIVO//Sim Tray//4,000//Date//S.H.O.P
@@ -1752,7 +1752,7 @@
 1602//VVY65TWVVY66TW//Y65-Y66-Touch-Vivo(White)//Touch//3,500//Date 28,10,2020//Master
 1603//VVY66TLBVVY65TLB//Y65-Y66-Vivo-T+L(Black)//T+L//15,000//Date//S.H.O.P
 1604//VVY71BDCBVVY71BDCRG//Vivo-Y71-BodyCover(B)(RG)//BodyCover//7,000//Date//S.H.O.P
-1605//VVY71BT//Y71-ViVo-Battery//Battery//6,500//Date//S.H.O.P
+1605//VVY71BTBE1BT//Y71-B-E1-ViVo-Battery//Battery//6,500//Date//S.H.O.P
 1606//VVY71GB//Y71-VIVO-Glass(Black)//Glass//3,500//Date//S.H.O.P
 1607//VVY71GW//Y71-VIVO-Glass(White)//Glass//3,500//Date//S.H.O.P
 1608//VVY71PF//Vivo-Y71-Power Flex//Power Flex//2,000//Date//S.H.O.P
@@ -1769,7 +1769,7 @@
 1619//VVY85GWVVV9GW//Y85-V9-Vivo-Glass(White)//Glass//3,200//Date//S.H.O.P
 1620//VVY91BCBVVY93BCBVVY95BCB//Vivo-Y91-Y93-Y95-BackcOVER(Black)//Back Cover//2,500//Date//S.H.O.P
 1621//VVY91BDCB//Y91-BodyCover(B)(BL)(G)//BodyCover//7,000//30,9,2020//Master
-1622//VVY91BTVVY91CBTVVY93BTVVY95BT//Y91-Y91c-Y93-Y95-Battery//Battery//8,000//Date//S.H.O.P
+1622//VVY91BTVVY91CBTVVY93BTVVY95BTBF3BT//Y91-Y91c-Y93-Y95-B-F3-Battery//Battery//8,000//Date//S.H.O.P
 1623//VVY91GBVVY93GBVVY95GB//Y91-Y93-Y95-Glass(Black)//TouchOnly//3,000//Date 15,12,2020//H.X
 1624//VVY91USBVVY93USB//Vivo-Y91-Y93-USBBoard//USB Board//3,500//Date//S.H.O.P
 1625//VVY93TLBVVY91TLBVVY91ITLBVVY95TLBVVV9PTLBVVY90TLB//Y90-Y93-Y91-Y91i-Y95-V9Plus-VIVO-T+L (Black)//T+L//24,500//Date 7,1,2021//H.X
@@ -1777,12 +1777,12 @@
 1627//Y511PF//Y511-Huawei-Power Flex//Power Flex//1,500//Date//S.H.O.P
 1628//Y511TW//Y511-Huawei(White)SE-Touch//Touch//5,500//Date 28,10,2020//Master
 1629//Y7PPKY718PK//Y7prime-Y7prime(18)-Powerkey-Huawei//Power Flex//3,000//Date//S.H.O.P
-1630//YMXBTYMAXBTYMBT//YMax-Battery//Battery//8,500//Date//S.H.O.P
+1630//YMXBTYMAXBTYMBTHB4073A5ECWBT//Y Max-Mate 20X-HB4073A5ECW-Battery//Battery//8,500//Date//S.H.O.P
 1631//zj-18//SolderingPaste-ထင်းရူးဆီ-ဘူးသေး//ထင်းရှုးဆီ//2,000//Date//S.H.O.P
 1632//zj-181//SolderingPaste-ထင်းရူးဆီ-150g//ထင်းရှုးဆီ//3,000//Date//S.H.O.P
 1633//VVY91STBVVY91STBL//Vivo-Y91-SimSlot(Black)(Blue)//SimTray//2500//Date//S.H.O.P
 1634//IPH7HFIPH7PHFIPH8HFIPH8PHF//Iphone7-7PLUS-8-8PLUS-HOMEFLEX(UNIVERSAL)//HomeFlex//20700//Date//S.H.O.P
-1635//BN51BTRM8BTRM8ABT//Redmi-8/8A-Battery//Battery//7,500//Date 6,12,2020//H.X
+1635//BN51BTRM8BTRM8ABT//Redmi-8-8A-BN51-Battery//Battery//7,500//Date 6,12,2020//H.X
 1636//SSNOTE5BC//SamsungNote5-Backcover//Backcover//5000//Date//S.H.O.P
 1637//HWY919GBHWY9GB//Huawei-Y9(19)-Glass(B)//Glass//2500//Date//S.H.O.P
 1638//SSJ3TLWSSJ316TLW//Samsung-J3(16)-T+L(W)//T+L//39000//Date//S.H.O.P
@@ -1796,7 +1796,7 @@
 1646//IPH6SBDCGR//Iphone6s-BodyCover(Gray)//BodyCover//14000//6,9,2020//ShweLattSaung
 1647//RM4ASTG//Redmi4a (Gold)-SimTray//Sim Tray//3,000//Date 15,10,2020//Master
 1648//OPA1KMFRMEC2MF//Oppo-A1k-RealmeC2-Middle Flex//Middle Flex//3000//Date//S.H.O.P
-1649//IPH8BT//Iphone8-Battery//Battery//15500//Date//S.H.O.P
+1649//IPH8BT//I Phone8-Battery//Battery//15500//Date//S.H.O.P
 1650//HWG620SPK//Huawei-G620s-PowerKey//PowerKey//1,500//Date 13,11,2020//H.X
 1651//HON7XTLB//Honor7x-T+L(Black)//T+L//17,500//9,10,2020//Master
 1652//HWNV3IPK//Nova3i-PowerKey//PowerKey//1500//4,9,2020//Hx
@@ -1814,34 +1814,34 @@
 1658//MZU20ST//MeizuU20-SimTray//SimTray//3000//5,9,2020//Master
 1659//MZU20USB//MeizuU20-USBBoard//USB Board//3000//10,9,2020//Hx
 1660//RM8BCBRM8BCBL//Redmi8-BackCover(B)(BL)//Back Cover//5500//Date 10,9,2020//ShweLattSaung
-1661//P3100BT//P3100-Battery//Battery//7500//10,9,2020//ShweLattSaung
+1661//SSP3100BTSSGLXTB2BTSP4960C3BBT//Samsung Galaxy Tab 2-P3100-SP4960C3B-Battery//Battery//7500//10,9,2020//ShweLattSaung
 1662//SSJ6PGB//Samsung-J6Plus-Glass(B)//Glass//3000//10,9,2020//Master
 1663//RMEC2BCBL//RealmeC2-Backcover(Blue)//BackCover//5,500//Date 16,11,2020//Nice
 1664//VVY93SBCB//Vivo-Y93s-BackCover(Black)//BackCover//9000//12,9,2020//Nice
 1665//RM7USB//Redmi7-USBBoard//USBBoard//3000//13,9,2020//Hx
 1666//HWNV3IUSB//Huawei-Nova3i-USBBoard//USBBoard//2500//13,9,2020//Hx
 1666//HON10LTLBHON20LTLB//HONOR 10LITE-20LITE-T+L(Black)//T+L//27,000//Date 28,12,2020//Master
-1667//IPH6PBT//Iphone6plus-Battery//Battery//8000//13,9,2020//Hx
+1667//IPH6PBT//I Phone6plus-Battery//Battery//8000//13,9,2020//Hx
 1668//RMN7PK//RedmiNote7-PowerKey//PowerKey//1500//13,9,2020//Hx
 1669//RMN7APK//Redmi7A-PowerKey//PowerKey//1500//13,9,2020//Hx
 1670//SSA20TLBORG//Samsung-A20-T+L(ORG)//T+L//56000//13,9,2020//Hx
 1671//SSA7TLSSA718TL//Samsung-A7(18)-T+L(Black)//T+L//53000//17,9,2020//Phone Club
-1672//MIPLAYBTBN39BT//MiPlay-Battery//Battery//7500//Date 17,9,2020//Fone Club
-1673//IPH6SPBT//Iphone6sPlus-Battery//Battery//11500//15,9,2020//Master
-1674//SNL1BT//SonyL1-Battery//Battery//7000//15,9,2020//Master
+1672//MIPLAYBTBN39BT//MiPlay-BN39-Battery//Battery//7500//Date 17,9,2020//Fone Club
+1673//IPH6SPBT//I Phone6sPlus-Battery//Battery//11500//15,9,2020//Master
+1674//SNL1BTLIP1621ERPCBT//SonyL1-LIP1621ERPC-Battery//Battery//7000//15,9,2020//Master
 1675//HON4CTLW//Honor4C-T+L(White)//T+L//13300//15,9,2020//Master
 1676//SSJ4PGBSSJ6PGB//Samsung-J4Plus-J6Plus-Glass(Black)//Glass//3000//19,9,2020//Master
 1677//OPA1KTB//Oppo-A1k-Touch(Black)//Touch//4,500//Date 10,11,2020//H.X
 1678//MMX2FP//MiMax2-fingerPrint//FingerPrint//4500//23,9,2020//Hx
 1679//VVY15GB//Vivo-Y15-Glass(Black)//Glass//3500//23,9,2020//Hx
-1680//OPA71BT//Oppo-A71-Battery//Battery//7500//30,9,2020//Master
+1680//OPA71BTBLP601BT//Oppo-A71-BLP601-Battery//Battery//7500//30,9,2020//Master
 1681//OPA5SBDCR//Oppo-A5s-BodyCover(Red)//BodyCover//10,000//Date 28,12,2020//Master
 1682//MNPPK//Mi Note Pro-Power Flex//Power Flex//2,000//9,10,2020//Master
 1683//HWGR5PKHON5XPK//Gr5(2015) Honor5X Power Flex//Power Flex//2,000//9,10,2020//Master
 1684//VVV3BTVVBA0BT //V3 (B-A0)-Battery-ViVo//Battery//7,500//Date 7,1,2021//H.X
 1685//RMN5ARM5XRMS2BN31BT//RedmiNote5A-Mi5x-RedmiS2-ORG-Battery//Battery//7,500//Date 1,1,2021//Master
 1686//HON7XTLW//Honor7x-T+L(White)//T+L//17,400//9,10,2020//Master
-1687//IPH6BCGR//Iphone6-Backcover(Gray)//BackCover//10,000//Date 9.10.2020//Master
+1687//IPH6BCGR//I Phone6-Backcover(Gray)//BackCover//10,000//Date 9.10.2020//Master
 1688//SSJ7TLB//J7-T+L-Black-Samsung//T+L//15,000//Date 14,10,2020//H.X
 1689//VVS1TLB//Vivo-S1-T+L(Black)//T+L//35,000//Date 12,12,2020//H.X
 1690//IPH6STLW//Iphone6s-T+L(White)-ORG//T+L//26,000//Date 14,10,2020//H.X
@@ -1950,6 +1950,7 @@
 1773//OPA31TLBOPA5TLBOPA9TLBOPA11XTLBRME5TLBOPA520TLBOPA920TLBRME5ITLBRME5STLBRME6ITLBRMEC3TLB//(A31,A5,A9-2020)-A11X-REALME5,5i,5S,6i,C3-T+L-Black//T+L//22,500//Date 7,1,2021//H.X
 1773//OPA31TLBOPA5TLBOPA9TLBOPA11XTLBRME5TLBOPA520TLBOPA920TLBRME5ITLBRME5STLBRME6ITLBRMEC3TLB//(A31,A5,A9-2020)-A11X-REALME5,5i,5S,6i,C3-T+L-Black//T+L//26,500//Date 11,1,2021//Fone Club
 1774//OPF7TLB//F7-Oppo-T+L(Black)//T+L//24,000//Date 3,11,2020//H.X
+1774//OPF7TLB//F7-Oppo-T+L(Black)//T+L//27,000//Date 3,11,2020//Master
 1775//OPA77TLW//A77-T+L-Oppo(White)//T+L//23,000//Date 30,10,2020//H.X
 1776//VVY11TLBVVY12TLBVVY15TLBVVY17TLBVVY3TLB//Vivo-Y11-Y12-Y15-Y17-Y3-(2019)-T+L(Black)//T+L//24,000//Date 24,11,2020//H.X
 1777//HWNV3ETLB//Nova3e-Huawei(Black)T+L//T+L//18,500//Date 16,11,2020//H.X
