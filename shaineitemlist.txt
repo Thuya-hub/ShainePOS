@@ -662,8 +662,8 @@
 613//MZM3ETLW//M3E-Meizu-T+L (White)//T+L//21,000//Date//S.H.O.P
 614//MZM3ETW//M3E-Meizu-Touch Only (White)//TouchOnly//5,000//Date//S.H.O.P
 615//MZM3MXBT//Meizu-M3max-Battery//Battery//0//Date//S.H.O.P
-616//MZM3NBTL681BTMZL685BTBT61BT//M3note-L681-L685-BT61-Meizu-Battery//Battery//7,500//Date 6,11,2020//Master
-617//MZM3NBTL681BTMZL685BTBT61BT//M3note-L681-L685-BT61-Meizu-Battery//Battery//7,100//Date//S.H.O.P
+616//MZM3NBTL681BTMZL685BTBA61BT//M3note-L681-L685-BA61-Meizu-Battery//Battery//7,500//Date 6,11,2020//Master
+617//MZM3NBTL681BTMZL685BTBA61BT//M3note-L681-L685-BA61-Meizu-Battery//Battery//7,100//Date//S.H.O.P
 618//MZM3NPF//M3note-Power Flex-Meizu//Power Flex//1,500//Date//S.H.O.P
 619//MZM3NST//M3note-Meizu-Sim Tray//Sim Tray//3,500//Date//S.H.O.P
 620//MZM3NTBL681TB//M3Note-L681-Meizu-KyoeHtoe-Touch(Black)//TouchOnly//5,000//Date//S.H.O.P
@@ -711,7 +711,7 @@
 659//MZM5TLB//M5-Meizu(Black)T+L//T+L//15,500//Date 16,11,2020//Master
 660//MZM5TLW//M5-Meizu-T+L(White)//T+L//15,500//Date 15,12,2020//H.X
 661//MZM5TW//M5-Meizu-Touch(White)//TouchOnly//3800//Date//S.H.O.P
-662//MZM681BTMZM3NBTMZL685BMZBA61BTT//M681-L685-BA61-Meizu-Battery//Battery//7,600//Date 6,11,2020//Master
+662//MZM681BTMZM3NBTMZL685BMZBA61BT//M681-L685-BA61-Meizu-Battery//Battery//7,600//Date 6,11,2020//Master
 663//MZM6BTMZBA711BT//M6-BA711-Meizu-Battery//Battery//7,500//Date 23,10,2020//H.X
 664//MZM6NTLBMZM6NTLW//M6Note-T+L-(White)(Black)-Meizu//T+L//16,500//Date 15,12,2020//H.X
 665//MZM6SBTMZBA712BT//M6s-BA712-(ORG)-Meizu-Battery//Battery//6,600//Date 15,12,2020//Master
