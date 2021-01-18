@@ -1844,7 +1844,7 @@
 1667//IPH6PBT//I Phone6plus-Battery//Battery//8000//13,9,2020//Hx
 1668//RMN7PK//RedmiNote7-PowerKey//PowerKey//1500//13,9,2020//Hx
 1669//RMN7APK//Redmi7A-PowerKey//PowerKey//1500//13,9,2020//Hx
-1670//SSA20TLBORG//Samsung-A20-T+L(ORG)//T+L//56000//13,9,2020//Hx
+1670//SSA20TLBORG//Samsung-A20-(A205)-T+L(ORG)//T+L//47,000//Date 18,1,2021//Master
 1671//SSA7TLSSA718TL//Samsung-A7(18)-T+L(Black)//T+L//53000//17,9,2020//Phone Club
 1672//MIPLAYBTBN39BT//MiPlay-BN39-Battery//Battery//7500//Date 17,9,2020//Fone Club
 1673//IPH6SPBT//I Phone6sPlus-Battery//Battery//11500//15,9,2020//Master
