@@ -1,4 +1,4 @@
-0//Update//Update//0//18,1,2021//18,1,2021//Shaine Mobile
+0//Update//Update//0//19,1,2021//19,1,2021//Shaine Mobile
 1//0.5mm//0.5mm//ခဲခွေ//2,000//Date//S.H.O.P 
 2//37.5hb//Sunshine-0.10mm-မှန်ခွာကြိုး//မှန်ခွာကြိုး//2,500//Date//S.H.O.P
 3//Alloy63-67//Quick-0.8mm//ခဲခွေ//4,500//Date//S.H.O.P
@@ -26,8 +26,8 @@
 19//BN30BTRM4A//Redmi4A-BN30-Battery//Battery//5,500//Date 4,12,2020//H.X
 20//BN34BTRM5ABT//Redmi5A-BN34-Battery//Battery//5500//Date 3,11,2020//H.X
 21//BN35BTRM5BT//Redmi5-BN35-Battery//Battery//6,500//Date 14,12,2020//H.X & Fone Club
-22//BN36BTRM6XBTMI6XBT//Mi6x-Redmi6X-BN36-Battery//Battery//5500//Date 19,10,2020//H.X
-23//BN37BTRM6BTRM6ABT//Redmi6-Redmi6A-BN37-Battery//Battery//5,500//Date 14,12,2020//H.X
+22//BN36BTRM6XBTMI6XBT//Mi6x-Redmi6X-BN36-Battery//Battery//5,500//Date 19,1,2021//H.X & A.S.M
+23//BN37BTRM6BTRM6ABT//Redmi6-Redmi6A-BN37-Battery//Battery//5,500//Date 19,1,2021//H.X & A.S.M
 24//BN40BTRM4PBT//Redmi4Pro-BN40-Battery//Battery//5,500//Date 16,11,2020//H.X
 25//BN42BTRM4BT//Redmi4-16GB-BN42-Battery//Battery//5,500//Date 19,10,2020//H.X
 25//BN42BTRM4BT//Redmi4-16GB-BN42-Battery//Battery//6,600//Date 15,12,2020//Master
@@ -61,7 +61,7 @@
 52//HON4XBCGHWGPLAYBCGHON4XBCBHWGPLAYBCB//Honor4x-Gplay-BackCover-(Gold)(Black)//Back Cover//3,500//Date  19,12,2020//Master & Fone Club
 53//HON4XBDCB//Honor4x-Gplay-Huawei-Bodycover_(Black)//BodyCover//6,500//Date 19,12,2020//Fone Club
 54//HON4XBDCG//Honor4x-Gplay-Huawei-BodyCover(Gold)//BodyCover//8,500//Date//S.H.O.P
-55//HON4XBTHB4242B4EBW//Honor4x-Gplay-HB4242B4EBW-Huawei-Battery//Battery//6,500//Date 6,12,2020//Master & H.X
+55//HON4XBTHB4242B4EBW//Honor4x-Gplay-HB4242B4EBW-Huawei-Battery//Battery//5,500//Date 19,1,2021//H.X & A.S.M
 56//HON4XPF//Honor4x-Gplay-Power Flex//Power Flex//1,500//Date//S.H.O.P
 57//HON4XTB//Honor4x-Gplay-Huawei-Touch(Black)//TouchOnly//3,500//Date 12,1,2021//Master
 58//HON4XTG//Honor4x-Gplay-Huawei-Touch(Gold)//TouchOnly//3,500//Date 12,1,2021//Master
@@ -139,7 +139,7 @@
 127//HWG630LCDHWG620SLCD//G630-G620s-Huawei-LCD//LCD//5,500//Date//S.H.O.P
 128//HWG630TB//G630-Huawei-Touch(Back)Org//Touch//3,300//Date//S.H.O.P
 129//HWG630TW//G630-Huawei-Touch(White)JK//Touch//4,500//Date//S.H.O.P
-130//HWG6BTHWG6BTHB3742A0EBCBT//G6-G620S-HB3742A0EBC-Huawei-Battery//Battery//5,500//Date 16,11,2020//Hx
+130//HWG6BTHWG6BTHB3742A0EBCBT//G6-G620S-HB3742A0EBC-Huawei-Battery//Battery//5,500//Date 19,1,2021//H.X & A.S.M
 131//HWG6TB//G6-Huawei-Touch(Black)//TouchOnly//6,000//Date//S.H.O.P
 132//HWG6TLB//G6-Huawei-T+L(Black)//T+L//12,900//Date//S.H.O.P
 133//HWG6TLW//G6-Huawei-T+L(White)//T+L//12,900//Date//S.H.O.P
@@ -329,7 +329,7 @@
 300//HWY511TB//Y511-Huawei-Touch(Black)SE//Touch//4,000//Date//S.H.O.P
 301//HWY517BDCG//Y5(2017)-BodyCover(Gold)-Huawei//BodyCover//0//Date//S.H.O.P
 302//HWY517BDCGR//Y5(2017)-BodyCover(Gray)-Huawei//BodyCover//0//Date//S.H.O.P
-303//HWY517BTHWEJ6SBTHON6ABTHWY5P18BTHWNVBTHB405979ECWHEY6PBTY519BTY619BT//Y5(2017)-Enjoy6s-Honor6A-Y5Prime(2018)-Nova-Y6Pro-Y5(2019)-Y6(2019)-HB405979ECWHE-Battery-Huawei//Battery//6,000//Date 12.12.2020//H.X
+303//HWY517BTHWEJ6SBTHON6ABTHWY5P18BTHWNVBTHB405979ECWHEY6PBTY519BTY619BT//Y5(2017)-Enjoy6s-Honor6A-Y5Prime(2018)-Nova-Y6Pro-Y5(2019)-Y6(2019)-HB405979ECWHE-Battery-Huawei//Battery//6,500//Date 19,1,2021//H.X & A.S.M
 303//HWY517BTHWEJ6SBTHON6ABTHWY5P18BTHWNVBTHB405979ECWHEY6PBTY519BTY619BT//Y5(2017)-Enjoy6s-Honor6A-Y5Prime(2018)-Nova-Y6Pro-Y5(2019)-Y6(2019)-HB405979ECWHE-Battery-Huawei//Battery//5,500//Date 21.11.2020//Bright
 304//HWY517PF//Y5(2017)-PowerKey//Power Flex//2,000//Date//S.H.O.P
 305//HWY517TB//Y5(2017)-Huawei-Touch(Black)//TouchOnly//5,200//Date//S.H.O.P
@@ -629,7 +629,7 @@
 575//MMX3USBF//Mi Max3-USB_Flex//USB Flex//3,500//10,9,2020//Hx
 576//MMX1BDCB//Mi Max-Bodycover (Black)//BodyCover//19,500//Date//S.H.O.P
 577//MMX1BDCG//Mi Max-Bodycover (Gold)//BodyCover//12,500//Date 12,12,2020//H.X
-578//MMX1BTBM49BT//MiMax-BM49-Battery//Battery//6,500//Date 12,1,2021//H.X & A.S.M
+578//MMX1BTBM49BT//MiMax-BM49-Battery//Battery//6,500//Date 19,1,2021//A.S.M
 578//MMX1BTBM49BT//MiMax-BM49-Battery//Battery//7,500//Date 13,11,2020//Fone Club
 579//MMX1FPG//MiMax-Fingerprint-Gold//Fingerprints//4,500//Date//S.H.O.P
 580//MMX1FPGR//MiMax-Fingerprint-Gray//Fingerprints//4,500//Date//S.H.O.P
@@ -647,7 +647,7 @@
 593//MN5PGB//Mi Note 5Pro-glass(Black)//Glass//3,000//Date//S.H.O.P
 594//MNBCBMNLTEBCB//Mi Note LTE-BackCover-Black//Back Cover//5,500//Date//S.H.O.P
 595//MNBCWMNLTEBCW//Mi Note LTE-BackCover-White//Back Cover//5,500//Date//S.H.O.P
-596//MNLTEBTMNBTBM21BTMINBT//Mi Note-BM21-Battery//Battery//5,500//Date 28,12,2020//H.X
+596//MNLTEBTMNBTBM21BTMINBT//Mi Note-BM21-Battery//Battery//5,500//Date 19,1,2021//H.X & A.S.M
 597//MNPFMNLTEPF//Mi Note-Power Flex//Power Flex//1,500//Date//S.H.O.P
 598//MNUSBFMNLTEUSBF//Mi Note_Charging Flex//Charging Flex//3,500//Date//S.H.O.P
 599//MPTM40TB//M40-MPT(Black)-Touch//Touch//4,500//Date//S.H.O.P
@@ -1039,7 +1039,7 @@
 950//RM5PGW//Red Mi 5Plus-Glass(White)//Glass//3,000//Date 18,1,2021//Master
 951//RM5PLCDF//Red Mi 5Plus-LCDFlex//LCD Flex//4,000//Date//S.H.O.P
 952//RM5PPF//Red Mi 5Plus-Power Flex//Power Flex//1,500//Date//S.H.O.P
-953//RM5PRMN5BN44BT//Red Mi 5Plus-BN44-RedmiNote5-Battery//Battery//5500//Date 19,10,2020//H.X
+953//RM5PRMN5BN44BT//Red Mi 5Plus-BN44-RedmiNote5-Battery//Battery//5,500//Date 19,10,2020//H.X & A.S.M
 954//RM5PSTB//Red Mi 5Plus-Simtray-Black//Sim Tray//3,000//Date 15,10,2020//Master
 955//RM5PSTG//Red Mi 5Plus-Sim Tray (Gold)//Sim Tray//2,000//Date//S.H.O.P
 956//RM5PTLB//Red Mi 5Plus-(Black)T+L//T+L//23,600//Date 23,10,2020//Master
@@ -1139,6 +1139,7 @@
 1027//RME5ITLB//Realme5i-T+L_Black//T+L//22,400//Date//S.H.O.P
 1028//RMEC2TLBOPA1KTLBRMEC2TLB//RealmeC2-A1k-T+LCD(Black)//T+L//21,000//Date 7,1,2021//H.X
 1028//RMEC2BTOPA1KBTRMEC2BTBLP711BT//RealmeC2-A1k-BLP711-Battery//Battery//7,500//Date 13,1,2021//Fone Club
+1028//RMEC2BTOPA1KBTRMEC2BTBLP711BT//RealmeC2-A1k-BLP711-Battery//Battery//5,500//Date 19,1,2021//A.S.M
 1028//RME3BTBLP639BT//Realme3--BLP693-Battery//Battery//9,000//Date 13,1,2021//Fone Club
 1029//RMEC3TBOPA7TBOPA5STB//A7-A5s-RealmeC3-Touch(Black)//Glass//3,200//Date//S.H.O.P
 1030//RME5iTLBRME5STLBRME6iTLBRMEC3TLB//Realme5i-5S-6i-C3-T+L(Black)//T+L//22,000//Date 19,10,2020//H.X
