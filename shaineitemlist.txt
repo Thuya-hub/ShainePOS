@@ -1131,7 +1131,7 @@
 1024//RM8PF//Redmi8-PowerFlex//Power Flex//1,800//Date//S.H.O.P
 1025//RM8STB//Redmi8-SimTray(Black)//Sim Tray//2,500//Date//S.H.O.P
 1026//RM8TLBRM8ATLB//Red Mi 8-Red Mi 8A-Touch+LCD-(Black)//T+L//21,000//Date 13,11,2020//H.X
-1026//RM8TLBRM8ATLB//Red Mi 8-Red Mi 8A-Touch+LCD-(Black)//T+L//41,000//Date 1,1,2021//Master
+1026//RM8TLBRM8ATLB//Red Mi 8-Red Mi 8A-Touch+LCD-(Black)//T+L//23,000//Date 1,1,2021//Master
 1027//RME5ITLB//Realme5i-T+L_Black//T+L//23,500//Date 14,10,2020//H.X
 1028//RMEC2TLBOPA1KTLBRMEC2TLB//RealmeC2-A1k-T+LCD(Black)//T+L//24,500//Date 13,12,2020//Master
 1028//RMEC2TLBOPA1KTLBRMEC2TLB//RealmeC2-A1k-T+LCD(Black)//T+L//23,500//Date 13,1,2021//Fone Club
