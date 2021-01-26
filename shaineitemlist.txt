@@ -1,4 +1,4 @@
-0//Update//Update//0//25,1,2021//25,1,2021//Shaine Mobile
+0//Update//Update//0//26,1,2021//26,1,2021//Shaine Mobile
 1//0.5mm//0.5mm//ခဲခွေ//2,000//Date//S.H.O.P 
 2//37.5hb//Sunshine-0.10mm-မှန်ခွာကြိုး//မှန်ခွာကြိုး//2,500//Date//S.H.O.P
 3//Alloy63-67//Quick-0.8mm//ခဲခွေ//4,500//Date//S.H.O.P
@@ -221,7 +221,7 @@
 197//HWNV2BTHB356687ECW//Nova2-HB356687ECW-Battery-Huawei//Battery//5,200//Date//S.H.O.P
 198//HWNV2IBDCBL//Nova2i-Huawei-BodyCover(Blue)(Black)//BodyCover//13,000//Date 7,1,2021//H.X
 199//HWNV2IBTHWNV3IBTHON7XBTHWP30LBTHWMATE10PBTHB356687ECWBT//Nova2i-Nova3i-P30Lite-Honor7x-Mate10Plus-HB356687ECW-Battery//Battery//6,000//Date 7,1,2021//H.X & Fone Club
-200//HWNV2IFPHWNV3FPHWNV3IFP//Huawei-Nova2i-Nova3-Nova3i-Fingerprint//Fingerprint//3,500//Date//S.H.O.P
+200//HWNV2IFPHWNV3FPHWNV3IFP//Huawei-Nova2i-Nova3-Nova3i-Fingerprint//Fingerprint//3,500//Date 26,1,2021//Nice
 201//HWNV2IPK//Nova2i-PowerFlex//Power Flex//1,500//13,9,2020//Hx
 202//HWNV2ISTGHWNV2ISTBHWNV2ISTW//Nova2i-Huawei-Sim Tray(Gold)(Black)(White)//Sim Tray//3,000//Date//S.H.O.P
 203//HWNV2ITB//nova2i-Mate 10Li-Huawei(Black)-Touch//TouchOnly//4,500//Date 4,12,2020//S.H.O.P
@@ -512,7 +512,7 @@
 461//IPH6SBT//I Phone6S-Battery(Org)//Battery//9,000//Date 5,1,2021//Master
 461//IPH6SUSBF//I Phone6S-USB Flex//USB Flex//5,000//Date 24,11,2020//H.X
 462//IPH6SBTC//I Phone6s-Battery(Clone)//Battery//6,300//18,9,2020//Hx
-463//IPH6SPBDC//I Phone6sPlus-BodyCover//BodyCover//13,800//Date//S.H.O.P
+463//IPH6SPBDC//I Phone6sPlus-BodyCover//BodyCover//13,000//Date 26,21,2021//Nice
 464//IPH6SPGWIPH6SPGB//I Phone6sPlus-(3 In 1) -Mirror(White)(Black)//Glass//4,500//Date 15,12,2020//Master
 465//IPH6SPTLB//I Phone6splus(A.A)-T+LCD-Black//T+L//41,000//Date 18,11,2020//Master
 465//IPH6SPTLB//I Phone6splus(A.A)-T+LCD-Black//T+L//22,000//Date 21,11,2020//Fone Club
@@ -1256,8 +1256,8 @@
 1108//RMN4XTW//RedmiNote4x-TouchOnly(White)//TouchOnly//4,500//Date 16,11,2020//H.X
 1108//VVY1519USBB//VIVO-Y15(2019)-USB Board//USB Board//4,500//Date 1,1,2021//Master
 1109//RMN4XUSB//Redminote4x-USB Board//USB Board//3,000//8,9,2020//Hx
-1110//RMN5ABDCG//RedmiNote5A-Body(Gold)//BodyCover//7,000//Date 25,1,2021//Master
-1111//RMN5ABDCGR//RedmiNote5A-Body(Gray)//BodyCover//7,000//Date 25,1,2021//Master
+1110//RMN5ABDCG//RedmiNote5A-Body(Gold)//BodyCover//7,500//Date 25,1,2021//Master & Nice
+1111//RMN5ABDCGR//RedmiNote5A-Body(Gray)//BodyCover//7,500//Date 25,1,2021//Master & Nice
 1111//RMN5A32BDCG//RedmiNote5A(32)-Body(Gold)//BodyCover//7,500//Date 1,1,2021//Master
 1112//RMN5ABDCRG//Redminote5A-Bodycover (Rose Gold)//BodyCover//9,500//Date//S.H.O.P
 1113//RMN5ATB//RedmiNote5A-TouchOnly(Black)//TouchOnly//4,000//Date 5,1,2021//Master
@@ -1301,7 +1301,7 @@
 1151//RMN7TLBRMN7PTLB//Red Mi Note 7-Red Mi Note 7Pro-T+L(Black)//T+L//28,000//Date 20,12,2020//H.X
 1151//RMN7TLBRMN7PTLB//Red Mi Note 7-Red Mi Note 7Pro-T+L(Black)//T+L//31,000//Date 23,1,2021//Master
 1152//RMN7USB//RedmiNote7-USBBoard//USB Board//3,500//Date//S.H.O.P
-1153//RMN8BCBLSRMN8BCBRMN8BCW//RedmiNote8-BackCover(Blue SKY)(Black)(White)//Back Cover//5,500//Date//S.H.O.P
+1153//RMN8BCBLSRMN8BCBRMN8BCW//RedmiNote8-BackCover(Blue SKY)(Black)(White)//Back Cover//4,000//Date 26,1,2021//Nice
 1154//RMN8BTBM4JBT//RMN8-Pro-BM4J-Battery//Battery//6500//18,9,2020//Hx
 1155//RMN8CF//RedmiNote8-Charging Flex//Charging Flex//3,000//Date//S.H.O.P
 1156//RMN8CG//RedmiNote8-CameraGlass//Camera Glass//5,000//Date//S.H.O.P
@@ -1652,6 +1652,7 @@
 1484//VVS1PTLBVVV15PTLBVVX27TLB//Vivo-S1Pro/V15Pro/X27(ORG)-T+L(Black)//T+L//65,000//Date 28,11,2020//Nice
 1484//VVS1TLBVVS1PTLBVVY7STLBVVY9STLB//Vivo-S1/S1Pro/Y7S/Y9S-T+L(Black)//T+L//33,000//Date 4,12,2020//Nice
 1484//VVY50TLBVVY30TLB//VIVO-Y50-Y30-T+L(Black)//T+L//26,500//Date 25,1,2021//Master
+1484//VVY50TLBVVY30TLB//VIVO-Y50-Y30-T+L(Black)//T+L//28,500//Date 26,1,2021//Nice
 1484//VVY20TLB//VIVO-Y20-T+L(Black)//T+L//35,000//Date 20,12,2020//Nice
 1485//VVV15USB//Vivo-V15-ChargingFlex//Charging Flex//3,500//Date//S.H.O.P
 1486//VVV1BTVVY53BTVVBB3BT//V1-Y35-B-B3-Vivo-Battery//Battery//6,500//Date 15,12,2020//Master
@@ -2146,7 +2147,7 @@
 1898//RMN9SBCW//Red Mi Note 9S-(White)//Back Cover//7,500//Date 18,11,2020//Nice
 1898//RMN9STLBRMN9PTLB//Red Mi Note 9S-9Pro-T+L-(Black)//T+L//33,000//Date 25,1,2021//Nice
 1898//RMN9SBDCBL//Red Mi Note 9S-Body Cover-(Blue)//Body Cover//12,000//Date 25,1,2021//Nice
-1898//RMN9SCM//Red Mi Note 9S-Camera မှန်//Camera မှန်//12,000//Date 25,1,2021//Nice
+1898//RMN9SCM//Red Mi Note 9S-Camera မှန်//Camera မှန်//1,500//Date 25,1,2021//Nice
 1898//RMN9PBC//Red Mi Note 9Pro//Back Cover//5,500//Date 21,12,2020//H.X
 1898//RMN9PGB//Red Mi Note 9Pro-(Glass)(Black)//Glass//3,000//Date 21,12,2020//H.X
 1898//RMN9TLBRM10X4GTLB//RED MI NOTE 9-RED MI 10X(4G)-(Black)//T+L//27,500//Date 21,12,2020//Master
