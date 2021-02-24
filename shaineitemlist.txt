@@ -1320,7 +1320,7 @@
 1136//RMN5PRBN45BT//RedmiNote5Pro-BN45-Battery//Battery//6,000//Date 6,11,2020//H.X
 1137//RMN5ST//Redminote5-Sim Tray (AllColour)//Sim Tray//2,500//Date//S.H.O.P
 1138//RMN5TLB//Redminote5-T+L(Black)//T+L//21,000//Date 31,1,2021//H.X
-1138//RMN5TLB//Redminote5-T+L(Black)//T+L//23,000//Date 23,2,2021//Fone Club
+1138//RMN5TLWRMN5PTLW//Redminote5-T+L(White)//T+L//23,000//Date 23,2,2021//Fone Club
 1139//RMN5TLW//Redminote5-T+L(White)//T+L//21,500//Date 18,2,2021//H.X
 1140//RMN5USB//RedmiNote5-USB Board//USB Board//3000//Date 15,10,2020//Master
 1141//RMN6PGB//RedMiNote6Pro-Glass(Black)//Glass//3,500//Date//S.H.O.P
