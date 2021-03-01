@@ -38,8 +38,8 @@
 24//BN40BTRM4PBT//Redmi4Pro-BN40-Battery//Battery//5,500//Date 16,11,2020//H.X
 25//BN42BTRM4BT//Redmi4-16GB-BN42-Battery//Battery//5,500//Date 19,10,2020//H.X
 25//BN42BTRM4BT//Redmi4-16GB-BN42-Battery//Battery//6,600//Date 15,12,2020//Master
-26//BN46BTRM7BT//Redmi7-BN46-Battery//Battery//6,600//Date 30,9,2020//Master
-26//BN46BTRM7BT//Redmi7-BN46-Battery//Battery//6,000//Date 14,2,2021//H.X
+26//BN46BTRM7BTRMN8BT//RedMiNote8-RedMi7-BN46-Battery//Battery//6,600//Date 30,9,2020//Master
+26//BN46BTRM7BTRMN8BT//RedMiNote8-RedMi7-BN46-Battery//Battery//6,000//Date 14,2,2021//H.X
 27//BN47BTRM6PBT//Redmi6Pro-BN47-Battery//Battery//6,500//Date 18,2,2021//H.X
 28//BN4ABTRMN7BT//RedmiNote7-BN4A-Battery//Battery//5,500//Date 12,1,2021//H.X & A.S.M
 29//CP5109LCD//5109-Coolpad-LCD//LCD//7,000//Date//S.H.O.P
