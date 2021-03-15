@@ -6,7 +6,7 @@
 3//ခဲရှင်းခွေ//USA SW18035//ခဲရှင်းခွေ//3,500//Date 30,11,2020//Master
 4//ခဲရည်//Mechanic XGSP50-183(42g)//ခဲရည်//4,000//Date 7,2,2021//Master
 5//AS002//ခဲတစ် (ဖြောင့်)(Black)//ခဲကောက်(Black)//2,700//Date//S.H.O.P
-5//ဓား//11#-ဓားထုပ်//ဓားထုပ်//တစ်ချောင်း(200ks)_နှစ်ချောင်း(500ks)//Date 13,12,2020//Master
+5//ဓား//11#-ဓားထုပ်//ဓားထုပ်(1,500)//တစ်ချောင်း(300ks)_နှစ်ချောင်း(500ks)//Date 15,3,2021//Master
 5//Doubleတိပ်//Double တိပ်နီ (0.4CM)//Double တိပ်နီ (0.4CM)//3,000//Date 13,12,2020//Master
 5//Doubleတိပ်//Double တိပ်နီ (0.5CM)//Double တိပ်နီ (0.5CM)//3,500//Date 13,12,2020//Master
 5//MTခဲဖော်စကာ//Kaisi Multi_ခဲဖော်စကာ//ခဲဖော်စကာ//5,500//Date 31,1,2021//Master
@@ -14,6 +14,7 @@
 6//SSN8USBFLSSN950FUSBF//Samsung Note 8(N950F)-USB Flex//USB Flex//10,000//Date 4,2,2021//Master
 6//SSN8USBFLSSN950FUSBU//Samsung Note 8(N950U)-USB Flex//USB Flex//10,000//Date 4,2,2021//Master
 6//SSN8BTSSN950BT//Samsung Note 8(N950)-Battery//Battery//8,500//Date 4,2,2021//Master
+6//MZN9TLB//Meizue Note 9-T+L(Black)//T+L//26,500//Date 15,3,2021//Master
 6//RMN3PSIMSTRMN4SIMSTRMN4XSIMSTMMXSIMST//RMN3Pro-RMN4-RMN4X-Mi Max(Sim Stand)//Sim Stand//2,500//Date 4,2,2021//Master
 7//BLP567BTOPR1BTOPR8007BT//Oppo-R1-R8007-BLP567-Battery//Battery//6,200//Date//S.H.O.P
 7//SmA516BTA510BTEBBA510ABEBT//Samsung-A5(2016)-(A510)-EB-BA510ABE-Battery//Battery//6,500//Date 5,1,2021//Master
@@ -236,6 +237,7 @@
 199//HWNV2IBTHWNV3IBTHON7XBTHWP30LBTHWMATE10PBTHB356687ECWBT//Nova2i-Nova3i-P30Lite-Honor7x-Mate10Plus-HB356687ECW-Battery//Battery//6,500//Date 10,3,2021//H.X
 200//HWNV2IFPHWNV3FPHWNV3IFP//Huawei-Nova2i-Nova3-Nova3i-Fingerprint//Fingerprint//3,500//Date 26,1,2021//Nice
 201//HWNV2IPK//Nova2i-PowerFlex//Power Flex//1,500//13,9,2020//Hx
+201//HON7XTLB//Honor7X-T+L(Black)//T+L//24,000//Date 15,3,2021//Master
 202//HWNV2ISTGHWNV2ISTBHWNV2ISTW//Nova2i-Huawei-Sim Tray(Gold)(Black)(White)//Sim Tray//3,000//Date//S.H.O.P
 204//HWNV2ITBL//Nova2i-Mate 10Lite-Huawei(Blue)-Touch//TouchOnly//5,000//Date//S.H.O.P
 205//HWNV2ITLB//Nova2i-Mate 10Lite-Huawei-T+L-Black//T+L//23,500//Date 14,3,2021//H.X
@@ -793,8 +795,8 @@
 689//OOS10TW//Smart10-Ooredoo-Touch(White)//Touch//4,000//Date//S.H.O.P
 690//OOS12TB//Smart12-Ooredoo(Black)-Touch//Touch//4,500//Date//S.H.O.P
 691//OPA11WLCDOPR1201LCDOPA11LCD//A11W-1201-Oppo-LCD//LCD//7,500//Date 21,11,2020//Master
-692//OPA11WTB//A11w-Oppo-Touch(Black)JK//Touch//3,500//Date//S.H.O.P
-693//OPA11WTW//A11w-Oppo-Touch(White)JK//Touch//3,500//Date//S.H.O.P
+692//OPA11KTBOPA11WTB//A11K-A11W-Oppo-Touch(Black)JK//Touch//3,500//Date 15,3,2021//Master
+693//OPA11KTWOPA11WTW//A11K-A11W-Oppo-Touch(White)JK//Touch//3,500//Date 15,3,2021//Master
 694//OPA11WUSBF//Oppo-A11w-USBFlex//USB Flex//3,000//Date//S.H.O.P
 695//OPA33BDCBOPNEO7BDCB//A33-Oppo(Black)Bodycover//BodyCover//7,000//Date 24,11,2020//Fone Club
 696//OPA33BDCWOPNEO7BDCW//A33-OPPO-BodyCover(White)//BodyCover//7,500//Date 24,2,2021//Master
@@ -1167,7 +1169,7 @@
 1010//RM6XUSBFMI6XUSBF//Mi6X-USB Flex//USB Flex//3,500//Date 14,2,2021//Master & H.X
 1011//RM7ABTBN49BT//Redmi7A-BN49-Battery//Battery//7,000//Date 14,12,2020//H.X
 1011//RM7ABDCBLRM7ABDCB//Redmi7A-Body Cover(Blue)(Black)//Body Cover//7,000//Date 30,11,2020//Master
-1012//RM7ATB//RM7A-Touch(Black)//TouchOnly//3,800//Date//S.H.O.P
+1012//RM7ATB//RM7A-Touch(Black)//TouchOnly//4,500//Date 15,3,2021//Master
 1013//RM7ATLB//Redmi7A-T+LCD-Black//T+L//15,000//Date 24,11,2020//H.X
 1013//RM7ATLB//Redmi7A-T+LCD-Black//T+L//17,000//Date 23,2,2021//Fone Club
 1015//RM7BDCBL//Red Mi 7-BodyCover(Blue)//BodyCover//7,000//Date 21,11,2020//H.X
