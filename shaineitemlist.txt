@@ -625,8 +625,8 @@
 535//MI6STB//Mi6-Sim Tray-Black//Sim Tray//3,500//Date//S.H.O.P
 536//MI8BC//MI8-BackCover//Back Cover//4,000//Date//S.H.O.P
 537//MI8LBTBM3JBT//Mi8Lite-BM3J-Battery//Battery//7,500//Date//S.H.O.P
-538//MI8LGB//Mi8lite-Glass-Black//Glass//3,500//Date//S.H.O.P
-539//MI8LGW//Mi8Lite-Glass-White//Touch//3,500//Date//S.H.O.P
+538//MI8LGB//Mi8lite-Glass-Black//Glass//3,000//Date 26,4,2021//Master
+539//MI8LGW//Mi8Lite-Glass-White//Glass//3,000//Date//S.H.O.P
 540//MI8LiteTLW//Mi8Lite-White-T+L//T+L//27,800//Date//S.H.O.P
 541//MI8LTLB//Mi8Lite-Black-T+L//T+L//26,000//Date 23,4,2021//H.X
 542//MI8SEBCR//Mi8SE-Backcover (Red)//Back Cover//5,000//Date 9,4,2021//H.X
@@ -1587,7 +1587,8 @@
 1352//SSJ5BDCB//J5-Samsung-BodyCover(Black)//BodyCover//5,500//Date//S.H.O.P
 1353//SSJ5BDCG//J5-Samsung-BodyCover(Gold)//BodyCover//5,500//Date//S.H.O.P
 1354//SSJ5HF//J5-Home Flex-Samsung//Home Key//4,500//Date//S.H.O.P
-1355//SSJ5PBDCG//J5Prime-Samsung-BodyCover(Gold)//BodyCover//0//Date//S.H.O.P
+1355//SSJ5PBDCG//J5Prime-Samsung-BodyCover(Gold)//Body Cover//0//Date//S.H.O.P
+1355//SSJ5PBDCB//J5Prime-Samsung-BodyCover(Black)//Body Cover//8,500//Date 26,4,2021//Master
 1356//SSJ5PBLG//J5Pro-Samsung(Blue Silver)Glass//Glass//4,500//Date//S.H.O.P
 1357//SSJ5PSTB//J5Prime-Sim Tray-Black//Sim Tray//3,000//Date//S.H.O.P
 1358//SSJ5PTLB//J5Prime(A.A)-Samsung(Black)T+L//T+L//21,500//Date 21,11,2020//H.X
@@ -1764,11 +1765,12 @@
 1511//VVV5LTB//V5Lite-Vivo-Touch(Black)//TouchOnly//4,300//Date//S.H.O.P
 1512//VVV5LTLB//V5Lite-Vivo-T+L(Black)//T+L//18,100//Date 24,11,2020//FONE CLUB
 1513//VVV5LTLW//V5Lite-Vivo-T+L(White)//T+L//21,000//Date 10,3,2021//H.X
-1514//VVV5LTW//V5Lite-Vivo-Touch(White)//TouchOnly//4,500//Date 10,11,2020//H.X
+1514//VVV5LTW//V5Lite-Vivo-Touch(White)//TouchOnly//4,500//Date 26,4,2021//Master
 1515//VVV5PFVVY67PF//V5-Y67-Vivo_Powerflex//Power Flex//1,500//Date//S.H.O.P
 1516//VVV5STG//ViVoV5(Sim Tray) Gold//Sim Tray//3,500//Date 26,4,2021//Fone Club
 1517//VVV5STGVVY67STG//V5-Vivo_Simtray-Gold//Sim Tray//3,500//Date//S.H.O.P
 1517//VVV5STGVVY66STGVVV5STRGVVY66STRG//V5-Y66-Vivo_Simtray-Gold & Rose Gold//Sim Tray//3,500//Date 31,1,2021//Master
+1517//VVV5PWVVY66PW//V5-Y66-Vivo-Power Flex//Power Flex//2,000//Date 26,4,2021//Master
 1518//VVV5TBVVY67TB//V5-Y67-Vivo-Touch(Black)//TouchOnly//3,300//Date//S.H.O.P
 1519//VVV5TLBVVY67TLB//V5-Y67-Vivo-T+L(Black)//T+L//22,500//Date 26,4,2021//Master
 1520//VVV5TLWVVY67TLW//V5-Y67-Vivo-T+L(White)Org//T+L//18,500//Date 9,4,2021//H.X
@@ -1912,6 +1914,7 @@
 1641//MI8SEGB//Mi8SE-Glass(Black)//Glass//3000//Date//S.H.O.P
 1642//MI8LBCBL//Mi8Lite-BackCover(Blue)//BackCover//3,500//Date 24,12,2020//Fone Club
 1643//SSA20TLBA205TLB//Samsung-A20-A205-(A.A)-T+L(Black)//T+L//25,500//Date 12,12,2020//H.X
+1643//SSA20GBA205GB//Samsung-A20-A205-Glass(Black)//Glass//3,000//Date 26,4,2021//Master
 1644//OPA1KUSB//Oppo-A1k-USB//USB//2500//4,9,2020//Hx
 1645//OPA1KGB//Oppo-A1k-Glass(Black)//Glass//5000//Date//S.H.O.P
 1646//IPH6SBDCGR//Iphone6s-BodyCover(Gray)//BodyCover//14000//6,9,2020//ShweLattSaung
@@ -1949,6 +1952,8 @@
 1663//RMEC2BCBL//RealmeC2-Backcover(Blue)//BackCover//5,500//Date 16,11,2020//Nice
 1664//VVY93SBCB//Vivo-Y93s-BackCover(Black)//BackCover//9000//12,9,2020//Nice
 1665//RM7USB//Redmi7-USBBoard//USBBoard//3000//13,9,2020//Hx
+1665//RM7CM//Redmi7-Camera မှန်//Camera မှန်//1,500//Date 26,4,2021//Master
+1665//RMN8CM//Red Mi Note 8-Camera မှန်//Camera မှန်//1,500//Date 26,4,2021//Master
 1666//HWNV3IUSB//Huawei-Nova3i-USBBoard//USBBoard//3,500//Date 5,4,2021//Master
 1666//HON10LTLBHON20LTLB//HONOR 10LITE-20LITE-T+L(Black)//T+L//32,000//Date 23,4,2021//H.X
 1667//IPH6PBT//I Phone6plus-Battery//Battery//9,000//Date 18,2,2021//H.X
@@ -1975,7 +1980,8 @@
 1684//VVV3BTVVBA0BT //V3 (B-A0)-Battery-ViVo//Battery//7,500//Date 7,1,2021//H.X
 1685//RMN5ARM5XRMS2BN31BT//RedmiNote5A-Mi5x-RedmiS2-BN31-ORG-Battery//Battery//7,500//Date 26,4,2021//Fone Club
 1686//HON7XTLW//Honor7x-T+L(White)//T+L//17,400//9,10,2020//Master
-1687//IPH6BCGR//I Phone6-Backcover(Gray)//BackCover//10,000//Date 31.1.2021//Master
+1687//IPH6BCG//I Phone6-Backcover(Gold)//BackCover//11,000//Date 26.4.2021//Master
+1687//IPH6BCRG//I Phone6-Backcover(Rose Gold)//BackCover//11,000//Date 26.4.2021//Master
 1688//SSJ7TLB//J7-T+L-Black-Samsung//T+L//15,000//Date 14,10,2020//H.X
 1689//VVS1TLB//Vivo-S1-T+L(Black)//T+L//35,000//Date 12,12,2020//H.X
 1690//IPH6STLW//I Phone6s-T+L(White)-ORG//T+L//26,000//Date 14,10,2020//H.X
