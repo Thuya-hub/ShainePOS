@@ -89,6 +89,7 @@
 67//HON7ASPK//Honor7A-Huawei-Speaker//Speaker//3,500//Date//S.H.O.P
 68//HON7ATB//Honor7A-Touch-Huawei(Black)//Touch//4,500//Date//S.H.O.P
 69//HON8CTLB//Honor8C-T+L(Black)-Huawei//T+L//21000//7,10,2020//Hx
+69//HON8CBDCBL//Honor8C-Body Cover(Blue)-Huawei//Body Cover//1,1000//Date 7,10,2020//Master
 70//HON8XGLB//Honor8x-Glass(Black)//Glass//3,000//Date 14,3,2021//H.X
 70//HON8XBCBL//Honor8x-Backcover(Blue)//Back Cover//3,500//Date 31,1,2021//Master
 70//HON8XBCB//Honor8x-Backcover(Black)//Back Cover//3,500//Date 31,1,2021//Master
