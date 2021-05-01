@@ -2,13 +2,13 @@
 1//0.5mm//0.5mm//ခဲခွေ//2,000//Date//S.H.O.P 
 2//37.5hb//Sunshine-0.10mm-မှန်ခွာကြိုး//မှန်ခွာကြိုး//2,500//Date//S.H.O.P
 3//Alloy63-67//Quick-0.8mm//ခဲခွေ//4,500//Date//S.H.O.P
-3//HonV10TLW//Honor V10-T+L(White)//T+L//25,000//Date 24,2,2021//Master
-3//ခဲရှင်းခွေ//USA SW18035//ခဲရှင်းခွေ//3,500//Date 30,11,2020//Master
-4//ခဲရည်//Mechanic XGSP50-183(42g)//ခဲရည်//4,000//Date 7,2,2021//Master
-5//AS002//ခဲတစ် (ဖြောင့်)(Black)//ခဲကောက်(Black)//3,500//Date 23,4,2021//Master
-5//ဓား//11#-ဓားထုပ်//ဓားထုပ်(1,500)//တစ်ချောင်း(300ks)_နှစ်ချောင်း(500ks)//Date 15,3,2021//Master
-5//Doubleတိပ်//Double တိပ်နီ (0.4CM)//Double တိပ်နီ (0.4CM)//3,000//Date 13,12,2020//Master
-5//Doubleတိပ်//Double တိပ်နီ (0.5CM)//Double တိပ်နီ (0.5CM)//3,500//Date 13,12,2020//Master
+4//HonV10TLW//Honor V10-T+L(White)//T+L//25,000//Date 24,2,2021//Master
+5//ခဲရှင်းခွေ//USA SW18035//ခဲရှင်းခွေ//3,500//Date 30,11,2020//Master
+6//ခဲရည်//Mechanic XGSP50-183(42g)//ခဲရည်//4,000//Date 7,2,2021//Master
+7//AS002//ခဲတစ် (ဖြောင့်)(Black)//ခဲကောက်(Black)//3,500//Date 23,4,2021//Master
+8//ဓား//11#-ဓားထုပ်//ဓားထုပ်(1,500)//တစ်ချောင်း(300ks)_နှစ်ချောင်း(500ks)//Date 15,3,2021//Master
+9//Doubleတိပ်//Double တိပ်နီ (0.4CM)//Double တိပ်နီ (0.4CM)//3,000//Date 13,12,2020//Master
+10//Doubleတိပ်//Double တိပ်နီ (0.5CM)//Double တိပ်နီ (0.5CM)//3,500//Date 13,12,2020//Master
 5//MTခဲဖော်စကာ//Kaisi Multi_ခဲဖော်စကာ//ခဲဖော်စကာ//5,500//Date 31,1,2021//Master
 6//AS003//ခဲတစ် (ကောင့်)(Black)//ခဲကောက်(Black)//3,500//Date 6,11,2020//Master
 6//SSN8USBFLSSN950FUSBF//Samsung Note 8(N950F)-USB Flex//USB Flex//10,000//Date 4,2,2021//Master
