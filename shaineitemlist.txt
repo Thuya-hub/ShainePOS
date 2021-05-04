@@ -1326,7 +1326,7 @@
 1127//RMN5ARM5XRMS2BN31BT//RedmiNote5A-Mi5x-RedmiS2-BN31-Battery//Battery//6,000//Date 23,4,2021//H.X 
 1128//RMN5ASTG//Redminote5A-Sim Tray(Gold)//Sim Tray//3,500//Date//S.H.O.P
 1129//RMN5AUSB//Redminote5A-USB Board//USB Board//3,000//Date 23,4,2021//Master
-1130//RMN5BCG//RedmiNote5-Back Cover(Gold)//Back Cover//4,000//Date 7,1,2021//H.X
+1130//RMN5BCG//RedmiNote5-Back Cover(Gold)//Back Cover//7,000//Date 7,1,2021//H.X
 1131//RMN5FPRMN5PFP//Redminote5-Fingerprint//Fingerprints//5,000//Date//S.H.O.P
 1132//RMN5GBRMN5PGBRMN5GWRMN5PGW//Redminote5pro-RedmiNote5-Glass//Glass//3,000//Date 23,4,2021//H.X
 1133//RMN5MF//Redminote5-MaddleFlex//Maddle Flex//3,500//Date//S.H.O.P
