@@ -49,7 +49,7 @@
 29//CP5109LCD//5109-Coolpad-LCD//LCD//7,000//Date//S.H.O.P
 30//CP5218TB//Cp5218-Coolpad(Black)-Touch//Touch//5,000//Date//S.H.O.P
 31//CP7060LCD//7060-Coolpad-LCD//LCD//5,500//Date//S.H.O.P
-32//CP7060SLCD/7060s-Coolpad-LCD//LCD//6,500//Date//S.H.O.P
+32//CP7060SLCD//7060s-Coolpad-LCD//LCD//6,500//Date//S.H.O.P
 33//CP7060STB//Cp7060s-Coolpad(Black)-Touch//Touch//5,000//Date//S.H.O.P
 34//CP7060TB//Cp7060-Coolpad(Black)Touch//Touch//4,500//Date//S.H.O.P
 35//CP7232LCD//7232-Coolpad-LCD//LCD//7,500//Date//S.H.O.P
@@ -57,9 +57,9 @@
 37//CP7270LCD//7270-Coolpad-LCD//LCD//8,500//Date//S.H.O.P
 38//CP7275LCD//7275-Coolpad-LCD//LCD//9,500//Date//S.H.O.P
 39//CP7275TB//7275-CoolPad-Touch (Black)//Touch//5,000//Date//S.H.O.P
-40//CP8079LCD//8079-Coolpad-LCD//LCD/6,000//Date//S.H.O.P
+40//CP8079LCD//8079-Coolpad-LCD//LCD//6,000//Date//S.H.O.P
 41//CP8079TW//Cp8079-Coolpad(White)-Touch//Touch//4,000//Date//S.H.O.P
-42//CPG606W/G606-Huawei-Touch(White)//Touch//0//Date//S.H.O.P
+42//CPG606W//G606-Huawei-Touch(White)//Touch//0//Date//S.H.O.P
 43//CPK510W//K510-Coolpad-Touch(White)//Touch//0//Date//S.H.O.P
 44//CPY60TBCPY60C1TB//Y60-C1-coolpad(Black)Touch//Touch//5,500//Date//S.H.O.P
 45//heattate//မီးခံတိပ်//Default Category//4,000//Date//S.H.O.P
