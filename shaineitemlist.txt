@@ -78,8 +78,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 57//HON4XTB//Honor4x-Gplay//Black//TouchOnly//3,500//1,3,2021//Master
 58//HON4XTG//Honor4x-Gplay//Gold//TouchOnly//4,500//23,4,2021//H.X
 59//HON4XTLBHWGPLAYTLB//Honor4x-Gplay//Black//T+L//15,500//20,3,2021//H.X
-59//HON4XTLBHWGPLAYTLB//Honor4x-Gplay//Black//T+L//15,500//5,4,2021//Master
-60//HON4XTLGHWGPLAYTLG//Honor4x-Gplay//Gold//T+L//17,000//26,4,2021//H.X,Fone Club
+59//HON4XTLBHWGPLAYTLB//Honor4x-Gplay//Black//T+L//15,500//14,5,2021//FoneClub
+60//HON4XTLGHWGPLAYTLG//Honor4x-Gplay//Gold//T+L//15,500//14,5,2021//FoneClub
 61//HON4XTLWHWGPLAYTLW//Honor4x-Gplay//White//T+L//16,800//Null//Null
 62//HON4XTWGPLAYTW//Honor4x-Gplay//White//TouchOnly//4,500//10,11,2020//H.X
 63//HON6ATLB//Honor6A//Black//T+L//16,300//Null//Null
@@ -1024,16 +1024,17 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 883//RM3TLBRM3STLBRM3XTLB//RedMi3-3s-3X//Black//T+L//17,500//10,5,2021//H.X
 884//RM3TLGRM3STLGRM3XTLG//RedMi3-3s-3X//Gold//T+L//18,500//5,4,2021//Master
 884//RM3TLGRM3STLGRM3XTLG//RedMi3-3s-3X//Gold//T+L//17,500//10,5,2021//H.X
-885//RM3TLWRM3STLWRM3XTLW//RedMi3-3s-3X//White//T+L//17,500//20,1,2021//Fone Club
+884//RM3TLGRM3STLGRM3XTLG//RedMi3-3s-3X//Gold//T+L//17,500//14,5,2021//FoneClub//MI
+885//RM3TLWRM3STLWRM3XTLW//RedMi3-3s-3X//White//T+L//17,500//20,1,2021//FoneClub
 886//RM3TWRM3STWRM3XTW//RedMi3-3s-3x//White//TouchOnly//3500//Null//Null
 887//RM4ABDCG//RedMi4A//Gold,RoseGold//BodyCover//6,000//21,11,2020//Master
 888//RM4APW//RedMi4A//Null//Power Flex//1,500//30,1,2021//H.X
-889//RM4ATB//RedMi4A//Black//TouchOnly//3,500//31,1,2021//Master & H.X
-890//RM4ATG//RedMi4A//Gold//TouchOnly//3,500//31,1,2021//Master & H.X
-891//RM4ATLB//RedMi4A//Black//T+L//17,500//20,1,2021//Fone Club
+889//RM4ATB//RedMi4A//Black//TouchOnly//3,500//31,1,2021//Master,H.X
+890//RM4ATG//RedMi4A//Gold//TouchOnly//3,500//31,1,2021//Master,H.X
+891//RM4ATLB//RedMi4A//Black//T+L//17,500//14,5,2021//FoneClub//MI
 891//RM4ATLB//RedMi4A//Black//T+L//14,500//21,11,2020//H.X
 892//RM4ATLG//RedMi4A//Gold//T+L//15,500//8,9,2020//Hx
-893//RM4ATLW//RedMi4A//White//T+L//17,500//20,1,2021//Fone Club
+893//RM4ATLW//RedMi4A//White//T+L//17,500//14,5,2021//FoneClub//MI
 894//RM4ATW//RedMi4A//White//TouchOnly//3,500//23,4,2021//H.X
 895//RM4AUSB//RedMi4A//Null//USB Board//3,000//23,4,2020//Master
 896//RM4PW//RedMi4//Null//Power Flex//1,300//Null//Null
@@ -1099,7 +1100,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 955//RM5PSTG//RedMi5Plus//Gold//Sim Tray//2,000//Null//Null
 956//RM5PTLB//RedMi5Plus//Black//T+L//24,500//5,4,2021//Master
 957//RM5PTLW//Redmi5Plus//White//T+L//21,500//23,10,2020//Master
-957//RM5PTLW//Redmi5Plus//White//T+L//22,600//10,2,2021//Fone Club
+957//RM5PTLW//Redmi5Plus//White//T+L//22,600//10,2,2021//FoneClub
 956//RM5PTLB//Redmi5Plus//Black//T+L//24,000//29,4,2021//H.X
 957//RM5PTLW//Redmi5Plus//White//T+L//24,000//29,4,2021//H.X
 958//RM5PUSB//Redmi5Plus//Null//USB Board//3,500//5,4,2021//Master
@@ -1107,9 +1108,9 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 960//RM5STB//Redmi5//Black//Sim Tray//3,500//9,5,2021//Master
 961//RM5STGR//Redmi5//Gray//Sim Tray//3,500//9,5,2021//Master
 961//RM5STG//Redmi5//Gold//Sim Tray//3,500//9,5,2021//Master
-962//RM5TLB//Redmi5//Black//T+L//28,000//26,4,2021//Fone Club
+962//RM5TLB//Redmi5//Black//T+L//28,000//26,4,2021//FoneClub
 962//RM5TLB//Redmi5//Black//T+L//19,500//30,1,2021//H.X
-963//RM5TLW//Redmi5//White//T+L//28,000//26,4,2021//Fone Club
+963//RM5TLW//Redmi5//White//T+L//28,000//14,5,2021//FoneClub//MI
 964//RM5USB//Redmi5//Null//USB Board//3,500//5,4,2021//Master
 963//RM5TLW//Redmi5//White//T+L//23,000//20,3,2021//H.X
 966//RM5XBDCBMI5XBDCB//RedMi5x//Black//BodyCover//12500//Null//Null
@@ -1146,9 +1147,10 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 990//RM6PSTG//Redmi6pro//Gold//Sim Tray//2,300//Null//Null
 991//RM6PSTRG//Redmi6pro//RoseGold//Sim Tray//2,300//Null//Null
 992//RM6PTBMIa2LTB//Redmi6Pro-MiA2Lite//Black//TouchOnly//4,500//29,4,2021//H.X
-992//RM6PTBRMIA2LTB//Redmi6Pro-MiA2Lite//Black//TouchOnly//4,500//26,4,2021//Fone Club
+992//RM6PTBRMIA2LTB//Redmi6Pro-MiA2Lite//Black//TouchOnly//4,500//26,4,2021//FoneClub
 993//RM6PTLBMIA2LTLB//Redmi6Pro-MiA2Lite//Black//T+L//28,500//10,3,2021//H.X
 993//RM6PTLBMIA2LTLB//Redmi6Pro-MiA2Lite//Black//T+L//31,500//25,1,2021//Master
+993//RM6PTLBMIA2LTLB//Redmi6Pro-MiA2Lite//Black//T+L//32,500//14,5,2021//FoneClub//MI
 994//RM6PTW//Redmi6Pro//White//Touch Only//5,300//Null//Null
 995//RM6PUSB//Redmi6Pro//Null//USB Board//3,500//9,5,2021//Master
 996//RM6STBRM6ASTB//Redmi6-Redmi6a//Black//Sim Tray//3,000//Null//Null
@@ -1158,8 +1160,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 999//RM6TLBRM6ATLB//Redmi6-Redmi6A//Black//T+L//17,500//5,4,2021//Master
 1000//RM6TLGRM6ATLG//Redmi6-Redmi6A//Gold//T+L//13800//7,10,2020//Hx
 1001//RM6TLWRM6ATLW//Redmi6-Redmi6A//White//T+L//16,500//9,4,2021//H.X
-1001//RM6TLWRM6ATLW//Redmi6-Redmi6A//White//T+L//17,500//23,2,2021//Fone Club
-1002//RM6TWRM6ATWRM6TBRM6ATB//Redmi6-RedMi6A//White,Black//TouchOnly//3,500//10,2,2021//Fone Club
+1001//RM6TLWRM6ATLW//Redmi6-Redmi6A//White//T+L//17,500//23,2,2021//FoneClub
+1002//RM6TWRM6ATWRM6TBRM6ATB//Redmi6-RedMi6A//White,Black//TouchOnly//3,500//10,2,2021//FoneClub
 1003//RM6XBDCBMI6XBDCB//Redmi6x//Black//BodyCover//14,300//Null//Null
 1004//RM6XGBMI6XGB//Redmi6x//Black//Glass//3,000//Null//Null
 1005//RM6XGWMI6XGW//Redmi6x//White//Glass//3,000//Null//Null
@@ -1252,6 +1254,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 1073//RMN3TW//RedmiNote3//White//TouchOnly//3,500//7.1.2021//H.X
 1074//RMN3USB//Redminote3//Null//USB Board//3,500//9,5,2021//Master
 1070//RMN3TLB//Redminote3//Black//T+L//18,500//25,1,2021//Master
+1070//RMN3TLB//Redminote3//Black//T+L//19,500//14,5,2021//FoneClub//MI
 1071//RMN3TLG//Redminote3//Gold//T+L//18,500//25,1,2021//Master
 1071//RMN3TLG//Redminote3//Gold//T+L//18,500//23,2,2021//Fone Club
 1072//RMN3TLW//Redminote3//White//T+L//19,500//9,5,2021//Master
@@ -1299,7 +1302,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 1106//RMN4XTLB//Redminote4X//Black//T+L//18,500//5,4,2021//Master
 1107//RMN4XTLW//Redminote4X//White//T+L//16,000//23,4,2021//H.X
 1106//RMN4XTLB//Redminote4X//Black//T+L//18,500//25,1,2021//Master
-1107//RMN4XTLW//Redminote4X//White//T+L//17,000//3,4,2021//Fone Club
+1107//RMN4XTLW//Redminote4X//White//T+L//18,500//14,5,2021//FoneClub//MI
 1108//RMN4XTW//RedmiNote4x//White//TouchOnly//3,500//23,4,2021//H.X
 1108//VVY1519USBB//VIVO-Y15(2019)//Null//USB Board//4,500//1,1,2021//Master
 1109//RMN4XUSB//Redminote4x//Null//USB Board//3,000//8,9,2020//Hx
@@ -1308,8 +1311,9 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 1111//RMN5A32BDC//RedmiNote5A(32)//All Color//BodyCover//7,000//9,4,2021//H.X
 1112//RMN5ABDCRG//Redminote5A//RoseGold//BodyCover//9,500//Null//Null
 1113//RMN5ATB//RedmiNote5A//Black//TouchOnly//4,000//5,1,2021//Master
-1114//RMN5A16TLBRMN5A32TLB//Redminote5A(16GB)(32GB)//Black//T+L//21,500//1,3,2021//Master & Fone Club
+1114//RMN5A16TLBRMN5A32TLB//Redminote5A(16GB)(32GB)//Black//T+L//21,500//1,3,2021//Master,FoneClub
 1115//RMN5A16TLWRMN5A32TLW//Redminote5A(16GB)(32GB)//White//T+L//22,000//9,4,2021//Master
+1115//RMN5A16TLWRMN5A32TLW//Redminote5A(16GB)(32GB)//White//T+L//21,000//14,5,2021//FoneClub//MI
 1116//RMN5ATW//RedmiNote5A//white//TouchOnly//4,000//5,1,2021//Master
 1113//RMN5ATB//RedmiNote5A//Black//TouchOnly//3,500//31,1,2021//H.X
 1114//RMN5A16TLBRMN5A32TLB//Redminote5A(16GB)(32GB)//Black//T+L//19,000//23,4,2021//H.X
@@ -1535,7 +1539,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 1309//SSI9082PFSSI9082VF//I9082-Samsung//Null//Power Flex//1,500//Null//Null
 1310//SSI9082TB//I9082-Samsung//Black//Touch//3,500//7,10,2020//Hx
 1311//SSI9082TG//I9082-Samsung//Gold//Touch//3,500//7,10,2020//Hx
-1312//SSI9082TW//I9082-Samsung//White//Touch//3,500//1,3,2021//Master
+1312//SSI9082TW//I9082-Samsung//White//Touch//3,500//14,5,2021//Fone 
 1313//SSI9152BDCW//Samsung-I9152//White//BodyCover//0//Null//Null
 1314//SSI9152LCD//i9152-Samsung//Null//LCD//18,000//Null//Null
 1315//SSI9152PF//I9152-Samsung//Null//Power Flex//1,500//Null//Null
