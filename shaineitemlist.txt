@@ -2241,7 +2241,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1897//SSJ5PTLGSSJ530TLG//J5Pro-J530//Gold//T+L//43,500//18,11,2020//Nice
 1898//RMN9SBCW//RedMiNote9S//White//Back Cover//7,500//18,11,2020//Nice
 1898//RMN9STLBRMN9PTLB//RedMiNote9S-9Pro//Black//T+L//33,000//25,1,2021//Nice
-1898//RMN9STLBRMN9PTLB//RedMiNote9S-9Pro//Black//T+L//26,000//31,1,2021//H.X
+1898//RMN9STLBRMN9PTLB//RedMiNote9S-9Pro//T+L//26,000//31,1,2021//H.X
 1898//RMN9SBDCBL//RedMiNote9S//Blue//Body Cover//12,000//25,1,2021//Nice
 1898//RMN9SCM//RedMiNote9S//Null//Camera မှန်//1,500//25,1,2021//Nice
 1898//RMN9PBC//RedMiNote9Pro//Null//Back Cover//5,500//21,12,2020//H.X
