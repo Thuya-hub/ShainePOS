@@ -25,7 +25,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 12//BLP631BTOPF3BTOPF5BTOPA77BTF5YBT//Oppo-F3-F5-A77-F5Youth-BLP631//Null//Battery//6,500//16,11,2020//H.X
 12//BLP631BTOPF3BTOPF5BTOPA77BTF5YBT//Oppo-F3-F5-A77-F5Youth-BLP631//Battery//7,500//18,1,2021//Master
 13//BLP649BTOPA83BT//Oppo-A83-BLP649//Null//Battery//7,500//19,9,2020//Master
-BLP673BTOPA3SBT//Oppo-A3s-BLP673//Null//Battery//7,500//1,3,2021//Master
+14//BLP673BTOPA3SBT//Oppo-A3s-BLP673//Null//Battery//7,500//1,3,2021//Master
 15//BM3ABTMN3BT//MiNote3-BM3A//Null//Battery//7,500//9,4,2021//Fone Club & Master
 16//BM41BTRM1SBTRM2BT//Redmi1s-Redmi2-BM41//Null//Battery//5,500//Null//Null
 17//BM47BTRM3BTRM3SBTRM3XBTRM4XBT//Redmi3-3s-3x-Redmi4x-BM47//Null//Battery//5,500//14,3,2021//H.X
@@ -1867,10 +1867,10 @@ BLP673BTOPA3SBT//Oppo-A3s-BLP673//Null//Battery//7,500//1,3,2021//Master
 1604//VVY71BDCBVVY71BDCRG//Vivo-Y71//Black,RoseGold//BodyCover//7,000//Null//Null
 1605//VVY71BTBE1BT//Y71-B-E1-Vivo//Null//Battery//6,500//7,2,2021//H.X
 1606//VVY71GB//Y71-VIVO//Black//Glass//3,500//Null//Null
-1607//VVY71GW//Y71-VIVO/White//Glass//3,500//Null//Null
+1607//VVY71GW//Y71-VIVO//White//Glass//3,500//Null//Null
 1608//VVY71PF//Vivo-Y71//Null//Power Flex//2,000//Null//Null
 1609//VVY71STB//Vivo-Y71//Black//Sim Tray//2,500//Null//Null
-1610//VVY71TLB//Y71-VIVO//T+L//28,000//23,4,2021//H.X
+1610//VVY71TLB//Y71-VIVO//Black//T+L//28,000//23,4,2021//H.X
 1612//VVY81BTBE5BT//Y81-Vivo//Null//Battery//6000//7,10,2020//Hx
 1612//HWP40TLBY7P20TLBEJ10TLB//P40Lite-Y7P-Enjoy10//Black//T+L//32,000//10,2,2021//Fone Club
 1612//HWY7P20BDCB//Y7P(2020)//Black//Body Cover//12,000//20,1,2021//Fone Club
@@ -1911,7 +1911,7 @@ BLP673BTOPA3SBT//Oppo-A3s-BLP673//Null//Battery//7,500//1,3,2021//Master
 1646//IPH6SBDCGR//Iphone6s//Gray//BodyCover//14000//6,9,2020//ShweLattSaung
 1647//RM4ASTG//Redmi4a//Gold//Sim Tray//3,000//18,1,2021//Master
 1647//RM4ASTRG//Redmi4a//RoseGold//Sim Tray//3,000//18,1,2021//Master
-1647//RM4ASTB//Redmi4a//Black//Sim Tray//18,1,2021//Master
+1647//RM4ASTB//Redmi4a//Black//Sim Tray//3000//18,1,2021//Master
 1648//OPA1KMFRMEC2MF//Oppo-A1k-RealmeC2//Null//Middle Flex//3000//Null//Null
 1649//IPH8BT//IPhone8//Null//Battery//15500//Null//Null
 1650//HWG620SPW//Huawei-G620s//Null//PowerKey//2,000//23,4,2021//Master
@@ -2046,7 +2046,7 @@ BLP673BTOPA3SBT//Oppo-A3s-BLP673//Null//Battery//7,500//1,3,2021//Master
 1738//MI8LTLB//Mi8Lite//Black//T+L//23,600//30,10,2020//Master
 1738//MI8LTLB//Mi8Lite//Black//T+L//26,000//2,2,2021//Nice
 1738//MI8LTLB//Mi8Lite//Black//T+L//29,000//9,4,2021//Fone Club
-1739//HON8CTLB//Honor8C//Black//27,500//10,2,2021//Fone Club
+1739//HON8CTLB//Honor8C//Black//T+L//27,500//10,2,2021//Fone Club
 1740//HWY918TLWHWEJ8PTLW//Y9(2018)-Enjoy8Plus//White//T+L//18,000//30,10,2020//Master
 1741//OPF5TLBOPF5YTLBOPA73TLB//F5-F5Youth-A73//Black//T+L//22,000//30,10,2020//Master
 1742//OPF3PTLB//Oppo-F3Plus//Black//T+L//37,500//30,10,2020//Master
