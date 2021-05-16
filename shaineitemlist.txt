@@ -1,4 +1,4 @@
-No//CODE//Model//Color//Type//Price//Date//Shop
+No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 1//0.5MM//0.5mm//Null//Others//2,000//Null//Null
 2//37.5hb//Sunshine-0.10mm//Null//Others//2,500//Null//Null
 3//Alloy63-67//Quick-0.8mm//Null//Others//4,500//Null//Null
