@@ -1711,7 +1711,6 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 1017//RM7STB//Redmi7//Black//Sim Tray//3,500//9,5,2021//Master//MI
 1018//RM7STR//Redmi7//Red//Sim Tray//3,500//9,5,2021//Master//MI
 1018//RM7STBL//Redmi7//Blue//Sim Tray//3,500//9,5,2021//Master//MI
-1019//RM7TBRM7GB//Redmi7//Black//TouchOnly//3,500//4,2,2021//Master,HX//MI
 1020//RM7TLB//Redmi7//Black//T+L//23,000// 29,4,2021//HX//MI
 1020//RM7TLB//Redmi7//Black//T+L//26,500// 5,4,2021//Master//MI
 1020//RM7BCBRM7BCBL//Redmi7//Black,Blue//Back Cover//4,500// 19,12,2020//FoneClub//MI
@@ -3749,4 +3748,4 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 1902//SMA517STBSMA520STBSMA720STB//Samsung-A5(2017)-A520-A720//AllColor//SIM Tray//3,000//19,12,2020//Master
 1902//SMA517STBSMA520STBSMA720STB//Samsung-A5(2017)-A520-A720//Black//SIM+SD Tray//3,000//19,12,2020//Master
 1902//OPA520STBOPA520STBLOPA520STGOPA520STGN//A5(2020)-A9(2020)//AllColor//Sim Tray//3,500//9,5,2021//Master
->>>>>>> 4dd22d45f9c66d138b38c281407d5f4b59387e95
+1903//RM7TB//Redmi7//Black//TouchOnly//3,500//4,2,2021//Master,HX//MI
