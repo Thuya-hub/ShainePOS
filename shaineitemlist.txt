@@ -48,7 +48,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 29//CP5109LCD//5109-Coolpad//Null//LCD//7,000//Null//Null//COOLPAD
 30//CP5218TB//Cp5218-Coolpad//Black//Touch//5,000//Null//Null//COOLPAD
 31//CP7060LCD//7060-Coolpad//Null//LCD//5,500//Null//Null//COOLPAD
-32//CP7060SLCD/7060s-Coolpad//Null//LCD//6,500//Null//Null//COOLPAD
+32//CP7060SLCD//7060s-Coolpad//Null//LCD//6,500//Null//Null//COOLPAD
 33//CP7060STB//Cp7060s-Coolpad//Black//Touch//5,000//Null//Null//COOLPAD
 34//CP7060TB//Cp7060-Coolpad//Black//Touch//4,500//Null//Null//COOLPAD
 35//CP7232LCD//7232-Coolpad//Null//LCD//7,500//Null//Null//COOLPAD
@@ -56,7 +56,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 37//CP7270LCD//7270-Coolpad//Null//LCD//8,500//Null//Null//COOLPAD
 38//CP7275LCD//7275-Coolpad//Null//LCD//9,500//Null//Null//COOLPAD
 39//CP7275TB//7275-CoolPad//Black//Touch//5,000//Null//Null//COOLPAD
-40//CP8079LCD//8079-Coolpad//Null//LCD/6,000//Null//Null//COOLPAD
+40//CP8079LCD//8079-Coolpad//Null//LCD//6,000//Null//Null//COOLPAD
 41//CP8079TW//Cp8079-Coolpad//White//Touch//4,000//Null//Null//COOLPAD
 42//CPG606W/G606-Huawei//White//Touch//0//Null//Null//HUAWEI
 43//CPK510W//K510-Coolpad//White//Touch//0//Null//Null//COOLPAD
