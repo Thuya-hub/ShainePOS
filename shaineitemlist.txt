@@ -2,7 +2,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 1//0.5MM//0.5mm//Null//Others//2,000//Null//Null//Null
 2//37.5hb//Sunshine-0.10mm//Null//Others//2,500//Null//Null//Null
 3//Alloy63-67//Quick-0.8mm//Null//Others//4,500//Null//Null//Null
-4//HONV10TLW//Honor V10//White//T+L//25,000//24,2,2021//Master//HUAWEI
+4//HONV10TLW//Honor V10//White//TL//25,000//24,2,2021//Master//HUAWEI
 5//USA SW18035//USA SW18035//Null//Others//3,500//30,11,2020//Master//Null
 6//XGSP50//Mechanic XGSP50-183(42g)//Null//Others//4,000//7,2,2021//Master//Null
 7//AS002//ခဲတစ်,ခဲကောက်(ဖြောင့်)//Black//Others//3,500//23,4,2021//Master//Null
@@ -14,7 +14,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 6//SSN8USBFLSSN950FUSBF//Samsung Note 8(N950F)//Null//USB Flex//10,000//4,2,2021//Master//Samsung
 6//SSN8USBFLSSN950FUSBU//Samsung Note 8(N950U)//Null//USB Flex//10,000//4,2,2021//Master//SAMSUNG
 6//SSN8BTSSN950BT//Samsung Note 8(N950)//Null//Battery//8,500//4,2,2021//Master//SAMSUNG
-6//MZN9TLB//Meizue Note 9//Null//T+L//26,500//15,3,2021//Master//Meizu
+6//MZN9TLB//Meizue Note 9//Null//TL//26,500//15,3,2021//Master//Meizu
 6//RMN3PSIMSTRMN4SIMSTRMN4XSIMSTMMXSIMST//RMN3Pro-RMN4-RMN4X-MiMax//Null//Sim Stand//2,500//4,2,2021//Master//MI
 7//BLP567BTOPR1BTOPR8007BT//Oppo-R1-R8007-BLP567//Null//Battery//6,200//Null//Null//OPPO
 7//SmA516BTA510BTEBBA510ABEBT//Samsung-A5(2016)-(A510)-EB-BA510ABE//Null//Battery//6,500//5,1,2021//Master//SAMSUNG
