@@ -1,5 +1,4 @@
 No//CODE//Model//Color//Type//Price//Date//Shop//Brand
-<<<<<<< HEAD
 1//0.5MM//0.5mm//Null//Others//2,000//Null//Null//Null
 2//37.5hb//Sunshine-0.10mm//Null//Others//2,500//Null//Null//Null
 3//Alloy63-67//Quick-0.8mm//Null//Others//4,500//Null//Null//Null
@@ -1712,7 +1711,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//Brand
 1017//RM7STB//Redmi7//Black//Sim Tray//3,500//9,5,2021//Master//MI
 1018//RM7STR//Redmi7//Red//Sim Tray//3,500//9,5,2021//Master//MI
 1018//RM7STBL//Redmi7//Blue//Sim Tray//3,500//9,5,2021//Master//MI
-1019//RM7TB//Redmi7//Black//TouchOnly//3,500//4,2,2021//Master,HX//MI
+1019//RM7TBRM7GB//Redmi7//Black//TouchOnly//3,500//4,2,2021//Master,HX//MI
 1020//RM7TLB//Redmi7//Black//T+L//23,000// 29,4,2021//HX//MI
 1020//RM7TLB//Redmi7//Black//T+L//26,500// 5,4,2021//Master//MI
 1020//RM7BCBRM7BCBL//Redmi7//Black,Blue//Back Cover//4,500// 19,12,2020//FoneClub//MI
