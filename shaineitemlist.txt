@@ -582,7 +582,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 498//KBO41TLW//O41-Kenboo//White//T+L//29,000//Null//Null
 499//KBO51TLW//O51-Kenboo(with frame)//White//T+L//39,000//Null//Null
 500//MI3BTBM31BT//Mi3-BM31//Null//Battery//5,500//4,12,2020//HX
-500//MIK20BP40BT//MI K20-BP40//Null//Battery//7,500//18,1,2021//Master
+500//MIK20BTBP41BT//MI K20-BP40//Null//Battery//7,500//18,1,2021//Master
 501//MI3TLB//Mi3//Black//T+L//13,500//28,10,2020//Master
 502//MI4BTBM32BT//Mi4-BM32//Null//Battery//6,000//Null//Null
 503//MI4CBTBM35BT//Mi4c-BM35//Null//Battery//5,500//4,12,2020//HX
