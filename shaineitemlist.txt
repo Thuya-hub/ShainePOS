@@ -11,8 +11,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 10//DoubleTape//Double တိပ်နီ (0.5CM)//Null//Others//3,500//13,12,2020//Master
 5//MTခဲဖော်စကာ//Kaisi Multi_ခဲဖော်စကာ//Null//Others//5,500//31,1,2021//Master
 6//AS003//ခဲတစ်,ခဲကောက်(ကောက်)//Null//Others//3,500//6,11,2020//Master
-6//SSN8USBFLSSN950FUSBF//Samsung Note 8(N950F)//Null//USB Flex//10,000//4,2,2021//Master
-6//SSN8USBFLSSN950FUSBU//Samsung Note 8(N950U)//Null//USB Flex//10,000//4,2,2021//Master
+6//SSN8USBFLSSN950FUSBF//SamsungNote8(N950F)//Null//USB Flex//10,000//4,2,2021//Master
+6//SSN8USBFLSSN950FUSBU//SamsungNote8(N950U)//Null//USB Flex//10,000//4,2,2021//Master
 6//SSN8BTSSN950BT//Samsung Note 8(N950)//Null//Battery//8,500//4,2,2021//Master
 6//MZN9TLB//Meizue Note 9//Null//T+L//26,500//15,3,2021//Master
 6//RMN3PSIMSTRMN4SIMSTRMN4XSIMSTMMXSIMST//RMN3Pro-RMN4-RMN4X-MiMax//Null//Sim Stand//2,500//4,2,2021//Master
@@ -30,7 +30,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 16//BM41BTRM1SBTRM2BT//Redmi1s-Redmi2-BM41//Null//Battery//5,500//Null//Null
 17//BM47BTRM3BTRM3SBTRM3XBTRM4XBT//Redmi3-3s-3x-Redmi4x-BM47//Null//Battery//5,500//14,3,2021//HX
 17//BM47BTRM3BTRM3SBTRM3XBTRM4XBT//Redmi3-3s-3x-Redmi4x-BM47-(ORG)//Null//Battery//7,500//5,5,2021//FoneClub
-18//BM4ABTRMPBT//RedmiPro-BM4A//Null//Battery//6,500/17,5,2021//HX
+18//BM4ABTRMPBT//RedmiPro-BM4A//Null//Battery//6,500//17,5,2021//HX
 19//BN30BTRM4ABT//Redmi4A-BN30//Null//Battery//5,500//4,12,2020//HX
 19//RM4AMDF//Redmi4A//Null//Maddle Flex//3,000//14,3,2021//HX
 19//BN30BTRM4ABT//Redmi4A-BN30-(ORG)//Null//Battery//6,500//3,4,2021//FoneClub
