@@ -1433,7 +1433,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1208//SNZ4TLB//Z4-Sony//Black//T+L//27,000//Null//Null
 1209//SNZBCB//SonyZ//Black//Back Cover//3,500//Null//Null
 1210//SNZTLB//SonyZ//Black//T+L//25,000//Null//Null
-1211//SPR001//530-550ml-Spary//Orthers//3,500//Null//Null
+1211//SPR001//530-550ml-Spary//Null//Orthers//3,500//Null//Null
 1211//SSA8BTSSEBBA800ABEBT//Samsung-A8-EB-BA800ABE//Null//Battery//8,000//5,5,2021//FoneClub
 1212//SS-024multimeterpen//Sunshine-SS-024-MultimeterPen//Null//Others//0//Null//Null
 1213//SS109CUT//SUNSHINE-SS-109-Cutter//Null//Others//3,700//Null//Null
