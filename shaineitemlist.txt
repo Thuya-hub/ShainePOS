@@ -29,6 +29,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 15//BM3ABTMN3BT//MiNote3-BM3A//Null//Battery//7,500//9,4,2021//FoneClub,//Master
 16//BM41BTRM1SBTRM2BT//Redmi1s-Redmi2-BM41//Null//Battery//5,500//Null//Null
 17//BM47BTRM3BTRM3SBTRM3XBTRM4XBT//Redmi3-3s-3x-Redmi4x-BM47//Null//Battery//5,500//14,3,2021//HX
+17//BM47BTRM3BTRM3SBTRM3XBTRM4XBT//Redmi3-3s-3x-Redmi4x-BM47//Null//Battery//8,500//23,5,2021//Royal Star
 17//BM47BTRM3BTRM3SBTRM3XBTRM4XBT//Redmi3-3s-3x-Redmi4x-BM47-(ORG)//Null//Battery//7,500//5,5,2021//FoneClub
 18//BM4ABTRMPBT//RedmiPro-BM4A//Null//Battery//6,500//17,5,2021//HX
 19//BN30BTRM4ABT//Redmi4A-BN30//Null//Battery//5,500//4,12,2020//HX
@@ -878,6 +879,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 747//OPA71BDCB//A71-Oppo//Black//BodyCover//7,500//Null//Null
 748//OPA71PF//A71-Oppo//Null//Power Flex//1,500//Null//Null
 749//OPA71TLB//A71-Oppo//Black//T+L//17,000//5,4,2021//Master
+749//OPA71TLB//A71-Oppo//Black//T+L//19,000//23,5,2021//Royal Star
 750//OPA71TLW//A71-Oppo//White//T+L//16,100//17,10,2020//FoneClub
 750//OPA71TLW//A71-Oppo//White//T+L//17,500//7,1,2021//HX
 751//OPA77TLW//A77//White//T+L//18,500//Null//Null
@@ -1066,6 +1068,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 919//RM4XPK//RedMi4x//Null//Power Flex//2,000//23,4,2021//Master
 920//RM4XSPK//RedMi4X//Null//Speaker//4,500//Null//Null
 921//RM4XTB//RedMi4x//Black//TouchOnly//4,000//17,5,2021//HX
+921//RM4XTB//RedMi4x//Black//TouchOnly//5,500//23,5,2021//Royal Star
 922//RM4XTG//RedMi4X//Gold//TouchOnly//4,500//Null//Null
 923//RM4XTLB//RedMi4X//Black//T+L//16,000//14,3,2021//HX
 923//RM4XTLB//RedMi4X//Black//T+L//17,500//25,1,2021//Master
@@ -1105,7 +1108,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 957//RM5PTLW//Redmi5Plus//White//T+L//21,500//23,10,2020//Master
 957//RM5PTLW//Redmi5Plus//White//T+L//22,600//10,2,2021//FoneClub
 956//RM5PTLB//Redmi5Plus//Black//T+L//24,000//29,4,2021//HX
-957//RM5PTLW//Redmi5Plus//White//T+L//24,000//29,4,2021//HX
+957//RM5PTLWRM5PTLB//Redmi5Plus//White-Black//T+L//29,500//23,5,2021//Royal Star
 958//RM5PUSB//Redmi5Plus//Null//USB Board//3,500//5,4,2021//Master
 959//RM5SPPK//Redmi5sPlus//Null//Power Flex//1,300//Null//Null
 960//RM5STB//Redmi5//Black//Sim Tray//3,500//9,5,2021//Master
@@ -1165,6 +1168,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1001//RM6TLWRM6ATLW//Redmi6-Redmi6A//White//T+L//21,000//21,5,2021//HX
 1001//RM6TLWRM6ATLW//Redmi6-Redmi6A//White//T+L//17,500//23,2,2021//FoneClub
 1002//RM6TWRM6ATWRM6TBRM6ATB//Redmi6-RedMi6A//White,Black//TouchOnly//3,500//10,2,2021//FoneClub
+1002//RM6TWRM6ATWRM6TBRM6ATB//Redmi6-RedMi6A//White,Black//TouchOnly//5,000//10,2,2021//Royal Star 
 1003//RM6XBDCBMI6XBDCB//Redmi6x//Black//BodyCover//14,300//Null//Null
 1004//RM6XGBMI6XGB//Redmi6x//Black//Glass//3,000//Null//Null
 1005//RM6XGWMI6XGW//Redmi6x//White//Glass//3,000//Null//Null
@@ -1334,9 +1338,10 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1133//RMN5MF//Redminote5//Null//Maddle Flex//3,500//Null//Null
 1134//RMN5PMF//RedmiNote5Pro//Null//Maddle Flex//4,000//Null//Null
 1135//RMN5PPKRMN5PK//Redminote5pro//Null//Power Flex//2,000//23,4,2021//Master
-1136//RMN5PRBN45BT//RedmiNote5Pro-BN45//Null//Battery//6,500//17,5,2021//HX
+1136//RMN5BTRMN5PBTBN45BT//RedmiNote5Pro-BN45//Null//Battery//6,500//17,5,2021//HX
+1136//RMN5BTRMN5PBTBN45BT//RedmiNote5Pro-BN45//Null//Battery/8,500//23,5,2021//Royal Star
 1137//RMN5ST//Redminote5//AllColour//Sim Tray//2,500//Null//Null
-1138//RMN5TLB//Redminote5//Black)=//T+L//29,000//23,5,2021//Royal Star
+1138//RMN5TLB//Redminote5//Black//T+L//29,500//23,5,2021//Royal Star
 1138//RMN5TLWRMN5PTLW//Redminote5//White//T+L//24,500//9,5,2021//Master
 1139//RMN5TLW//Redminote5//White//T+L//23,500//10,3,2021//HX
 1140//RMN5USB//RedmiNote5//Null//USB Board//3,000//23,4,2021//Master
@@ -2198,6 +2203,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1859//OPA33TLBOPNEO7TLB//A33-Neo7-Oppo//Black//T+L//16,500//5,4,2021//Master
 1860//VVV5TLBVVY67TLB//V5-Y67-Vivo//Black//T+L//18,500//9,4,2021//HX
 1861//HWGR5BTHWY62BTHWG7PBTHB396481EBCBT//GR5-Y62-G7Plus-HB396481EBC//Null//Battery//5,500//14,3,2021//HX
+1861//HWGR5BTHWY62BTHWG7PBTHB396481EBCBT//GR5-Y62-G7Plus-HB396481EBC//Null//Battery//8,500//23,5,2021//Royal Star
 1862//BLP619BTOPA39BTA57BT//A39-A57-BLP619//Null//Battery//6,500//28,12,2020//HX
 1862//OPA57USBFL//OPPO-A57//Null//USB Flex//3,500//5,4,2021//Master
 1863//GPMNBT4CBTHON4XMNBTHB444199EBCBT//Gplaymini-4C-4xmini-HB444199EBC//Null//Battery//6,500//23,4,2021//Master
