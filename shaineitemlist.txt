@@ -1339,7 +1339,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1134//RMN5PMF//RedmiNote5Pro//Null//Maddle Flex//4,000//Null//Null
 1135//RMN5PPKRMN5PK//Redminote5pro//Null//Power Flex//2,000//23,4,2021//Master
 1136//RMN5BTRMN5PBTBN45BT//RedmiNote5Pro-BN45//Null//Battery//6,500//17,5,2021//HX
-1136//RMN5BTRMN5PBTBN45BT//RedmiNote5Pro-BN45//Null//Battery/8,500//23,5,2021//Royal Star
+1136//RMN5BTRMN5PBTBN45BT//RedmiNote5Pro-BN45//Null//Battery//8,500//23,5,2021//Royal Star
 1137//RMN5ST//Redminote5//AllColour//Sim Tray//2,500//Null//Null
 1138//RMN5TLB//Redminote5//Black//T+L//29,500//23,5,2021//Royal Star
 1138//RMN5TLWRMN5PTLW//Redminote5//White//T+L//24,500//9,5,2021//Master
