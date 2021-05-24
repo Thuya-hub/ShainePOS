@@ -258,7 +258,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 220//HWNV3ISPK//Nova3i//Null//Speaker//3,000//Null//Null
 221//HWNV3ITLBHWM20LTLB//Nova3i-Mate20Lite//Black//T+L//28,500//20,1,2021//FoneClub
 222//HWNV3ITLWHWM20LTLW//Nova3i-Mate20Lite//White//T+L//27,500//Null//Null
-221//HWNV3ITLBHWM20LTLB//Nova3i-Mate20Lite//Black////T+L//30,000//21,5,2021//HX
+221//HWNV3ITLBHWM20LTLB//Nova3i-Mate20Lite//Black//T+L//30,000//21,5,2021//HX
 222//HWNV3ITLWHWM20LTLW//Nova3i-Mate20Lite//White//T+L//21,000//7,10,2020//HX
 223//HWNVPTLB//NovaPlus-Huawei//Black//T+L//21,000//Null//Null
 224//HWP10LBDCB//P10lite//Black//BodyCover//10,000//Null//Null
