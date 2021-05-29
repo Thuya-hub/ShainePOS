@@ -560,6 +560,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 469//IPH6TLB//IPhone6G(ORG)//Black//T+L//22,000//17,5,2021//HX
 469//IPH6TLB//IPhone6G(A.A)//Black//T+L//17,500//10,3,2021//HX
 470//IPH6TLW//IPhone6G(A.A)//White//T+L//21,000//10,3,2021//HX
+470//IPH6TLW//IPhone6G(ORG)//White//T+L//30,000//28,5,2021//Master
 471//IPH6USB//IPhone6//Null//USB Board//4,000//Null//Null
 472//IPH7BT//IPhone7(ORG)//Null//Battery//12,500//23,4,2021//HX
 472//IPH7BT//IPhone7(A.A)//Null//Battery//8,500//23,4,2021//HX
