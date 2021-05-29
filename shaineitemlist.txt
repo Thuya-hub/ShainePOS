@@ -649,6 +649,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 550//MIPTLBRMPTLB//RedmiPlay-Miplay//Black//T+L//19,500//10,5,2021//HX
 550//MIPTBRMPTB//RedmiPlay-Miplay//Black//Touch//4,000//10,3,2021//Master
 551//MMIX2GB//MiMix2//Black//Glass//4,500//Null//Null
+551//MMIXBTBM4CBT//MiMix-(BM-4C)//Null//Battery//8,000//28,5,2021//Master
 552//MMT7069TBMMT796TB//7069-706-အဝိုင်း-MomoTablet//Black//Touch//3,500//15,10,2020//Master
 553//MMT7069TWMMT706TW//7069-706-707101-အဝိုင်း-MomoTablet//White//Touch//3,000//Null//Null
 554//MMT706TWMMT7069TW//7069-706-လေထောင့်-MomoTablet//White//Touch//3,500//7,9,2020//ShweLattSaung
