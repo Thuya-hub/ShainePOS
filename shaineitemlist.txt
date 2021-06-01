@@ -419,6 +419,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 358//HWY625TB//Y625-Huawei//Black//Touch//5,000//5,5,2021//FoneClub
 359//HWY625TG//Y625-Huawei//Gold//Touch//4,500//5,5,2021//FoneClub
 360//HWY625TW//Y625-Huawei//White//Touch//3,500//18,2,2021//HX
+360//HWY625TW//Y625-Huawei//White//Touch//4,000//31,5,2021//Master
 361//HWY62BDCG//Y62-Huawei//Gold//BodyCover//5,500//Null//Null
 362//HWY62BDCW//Y62-Huawei//White//BodyCover//6,000//Null//Null
 363//HWY62TB//Y62-Huawei//Black//TouchOnly//4,500//7,1,2021//HX
@@ -652,6 +653,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 549//MINTBMINLTETB//MiNoteLTE//Black//TouchOnly//5,000//20,1,2021//FoneClub
 550//MIPTLBRMPTLB//RedmiPlay-Miplay//Black//T+L//19,500//10,5,2021//HX
 550//MIPTBRMPTB//RedmiPlay-Miplay//Black//Touch//4,000//10,3,2021//Master
+550//RMPBKCRMPBKF//RedMiPro//Null//Back Key Cable-back Key Flex//3,500//31,5,2021//Master
 551//MMIX2GB//MiMix2//Black//Glass//4,500//Null//Null
 551//MMIXBTBM4CBT//MiMix-(BM-4C)//Null//Battery//8,000//31,5,2021//FoneClub
 552//MMT7069TBMMT796TB//7069-706-အဝိုင်း-MomoTablet//Black//Touch//3,500//15,10,2020//Master
@@ -1181,7 +1183,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 997//RM6STGRM6ASTG//Redmi6-RedmiMi6A//Gold//Sim Tray//3,000//Null//Null
 998//RM6STGRRM6ASTGR//Redmi6-Mi6A//Gray//Sim Tray//3,500//Null//Null
 999//RM6TLBRM6ATLB//Redmi6-Redmi6A//Black//T+L//21,000//21,5,2021//HX
-999//RM6TLBRM6ATLB//Redmi6-Redmi6A//Black//T+L//17,500//5,4,2021//Master
+999//RM6TLBRM6ATLB//Redmi6-Redmi6A//Black//T+L//22,000//31,5,2021//Master
 1000//RM6TLGRM6ATLG//Redmi6-Redmi6A//Gold//T+L//13800//7,10,2020//HX
 1001//RM6TLWRM6ATLW//Redmi6-Redmi6A//White//T+L//21,000//21,5,2021//HX
 1001//RM6TLWRM6ATLW//Redmi6-Redmi6A//White//T+L//17,500//23,2,2021//FoneClub
