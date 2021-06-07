@@ -46,7 +46,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 25//BN42BTRM4BT//Redmi4(16GB)-BN42//Null//Battery//6,600//15,12,2020//Master
 26//BN46BTRM7BTRMN8BT//RedMiNote8-RedMi7-BN46//Null//Battery//8,000//31,5,2021//FoneClub
 26//BN46BTRM7BTRMN8BT//RedMiNote8-RedMi7-BN46//Null//Battery//6,500//17,5,2021//HX
-26//RM7MDF//RedMi7//Null//Maddle Flex/3,500//5,6,2021//Nice
+26//RM7MDF//RedMi7//Null//Maddle Flex//3,500//5,6,2021//Nice
 27//BN47BTRM6PBT//Redmi6Pro-BN47//Null//Battery//6,500//18,2,2021//HX
 28//BN4ABTRMN7BT//RedmiNote7-BN4A//Null//Battery//8,500//28,5,2021//Master
 28//BN4ABTRMN7BT//RedmiNote7-BN4A//Null//Battery//6,500//5,6,2021//HX
