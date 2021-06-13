@@ -2,9 +2,9 @@ No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main
 
 1//RMN95G8128B//Red Mi Note 9(5G)//Black//8-128//335,000//2//19,12,2020//Android 10,MIUI 12//GSM_CDMA_HSPA_EVDO_LTE_5G//Dual SIM (Nano-SIM,Dual Stand-By)//48MP_8MP_2MP//13MP//USBType-C 2.0//Li-Po 5000 mAh,non-removable,Fast charging 18W//Date 1,December,2020//MediaTek Dimensity 800U 5G(7 nm)//6.53 inches,104.7cm2(~83.6%Screen-to-body ratio)-199g(7.02 oz)
 
-3//RM9A232GGR//Red Mi 9A(Globle)//Granite GRAY//2-32//165,000//1//7,6,2021//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable//Date 7,July,2020//MediaTek Helio G25(12nm)//6.53 inches,102.9cm2(~81.0%Screen-to-body ratio)-196g(6.91 oz)
+3//RM9A232GGR//Red Mi 9A(Globle)//Granite GRAY//2-32//150,000//6//7,6,2021//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable//Date 7,July,2020//MediaTek Helio G25(12nm)//6.53 inches,102.9cm2(~81.0%Screen-to-body ratio)-196g(6.91 oz)
 
-4//RM9A232GGN//Red Mi 9A(Globle)//Peacock Green//2-32//165,000//1//2,6,2021//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable//Date 7,July,2020//MediaTek Helio G25(12nm)//6.53 inches,102.9cm2(~81.0%Screen-to-body ratio)-196g(6.91 oz)
+4//RM9A232GGN//Red Mi 9A(Globle)//Peacock Green//2-32//150,000//1//2,6,2021//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable//Date 7,July,2020//MediaTek Helio G25(12nm)//6.53 inches,102.9cm2(~81.0%Screen-to-body ratio)-196g(6.91 oz)
 
 5//RMN10S8128GBL//Red Mi Note 10S(Global)//Ocean Blue//8-128//401,000//1//7,6,2021//Android 11,MIUI 12.5//GSM-HSPA-LTE//Dual SIM(nano-SIM,Dual Stand-By)//64MP,8MP,2MP,2MP//13MP//USB Type-C 2.0//Li-Po 5000mAh,non-removable,Fast Charging 33W//Date 28,April,2021//Mediatek Helio G95 (12nm)//6.43 inches,99.8cm2(~83.5%screen-to-body ratio)-178.8g(6.31oz)
 
@@ -22,7 +22,7 @@ No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main
 
 12//RM9464GPP//Red Mi 9(Global)//Sunset Purple//4-64//218,000//1//11,6,2021//Android 10,MIUI 11//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//13MP,8MP,5MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 5020 mAh,non-removable,Fast charging 18W//Date 10,June,2019//Mediatek Helio G80(12nm)//6.3 inches,104.7cm2(~83.2%Screen-to-body ratio)-198g(6.98 oz)
 
-13//RM9A464BL//Red Mi 9A//Blue//4-64//161,000//4//7,6,2021//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable,Charging 10W//Date 7,July,2020//MediaTek Helio G25(12nm)//6.53 inches,102.9cm2(~81.0%Screen-to-body ratio)-196g(6.91 oz)
+13//RM9A464BL//Red Mi 9A//Blue//4-64//161,000//1//7,6,2021//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable,Charging 10W//Date 7,July,2020//MediaTek Helio G25(12nm)//6.53 inches,102.9cm2(~81.0%Screen-to-body ratio)-196g(6.91 oz)
 
 14//RM8464B//Red Mi 8//BLACK,BLUE,GREEN,RED//4-64//200,000//1//7,6,2021//Android 9.0(Pie),MIUI 11//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//12MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable//Date 12,October,2019//Qualcomm SDM439 Snapdragon 439(12nm)//6.22 inches,96.6cm2(~81.8%Screen-to-body ratio)-188g(6.63 oz)
 
