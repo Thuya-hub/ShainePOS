@@ -1141,6 +1141,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 951//RM5PLCDF//RedMi5Plus//Null//LCD Flex//4,000//Null//Null
 952//RM5PPK//RedMi5Plus//Null//Power Flex//1,500//Null//Null
 953//RM5PRMN5BN44BT//RedMi5Plus-BN44-RedmiNote5//Null//Battery//5,500//30,1,2021//HX,ASM
+953//RM5PRMN5BN44BT//RedMi5Plus-BN44-RedmiNote5//Null//Battery//7,500//30,1,2021//Master
 954//RM5PSTB//RedMi5Plus//Black//Sim Tray//3,000//15,10,2020//Master
 955//RM5PSTG//RedMi5Plus//Gold//Sim Tray//2,000//Null//Null
 956//RM5PTLB//RedMi5Plus//Black//T+L//31,500//28,5,2021//Master
