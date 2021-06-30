@@ -28,7 +28,7 @@ No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main
 
 15//VVY20464BL//VIVO-Y20(2020)//Nebula Blue//4-64//247,000//2//14,6,2021//Android 10,Funtouch 10.5//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP,2MP,2MP//8MP//MicroUSB 2.0,USB ON-The-Go//Li-Po 5000 mAh,Non-Removable//Date 28,August,2020//Qualcomm SMM 4250 Snapdragon 460 (11 nm)//6.51 inches,102.3cm2(~81.6%Screen-to-body ratio)-192.3g(6.77 oz)
 
-16//RM9T6128GN//Red Mi 9T(Globle)//Ocean Green//6-128//271,000//1//14,6,2021//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//48MP,8MP,2MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 6000 mAh,non-removable,Fast charging 18W,Reverse Charging 2.5W//Date 18,January,2021//Qualcomm SM6115 Snapdragon 662(11nm)//6.53 inches,104.7 cm2(~83.4%Screen-to-body ratio)-198g(6.98 oz)
+16//RM9T6128GN//Red Mi 9T(Globle)//Ocean Green//6-128//278,000//1//14,6,2021//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//48MP,8MP,2MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 6000 mAh,non-removable,Fast charging 18W,Reverse Charging 2.5W//Date 18,January,2021//Qualcomm SM6115 Snapdragon 662(11nm)//6.53 inches,104.7 cm2(~83.4%Screen-to-body ratio)-198g(6.98 oz)
 
 16//RM9T464GNRM9T464BLRM9T464O//Red Mi 9T(Globle)//Ocean Green,Twilight Blue,Sunrise Orange//4-64//251,000//4//14,6,2021//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//48MP,8MP,2MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 6000 mAh,non-removable,Fast charging 18W,Reverse Charging 2.5W//Date 18,January,2021//Qualcomm SM6115 Snapdragon 662(11nm)//6.53 inches,104.7 cm2(~83.4%Screen-to-body ratio)-198g(6.98 oz)
 
