@@ -370,14 +370,14 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 305//HWY517TB//Y5(2017)-Huawei//Black//TouchOnly//5,200//Null//Null
 306//HWY517TG//Y5(2017)-Huawei//Gold//TouchOnly//4,000//10,3,2021//HX
 307//HWY517TLB//Y5(2017)-Huawei//Black//T+L//17,500//25,1,2021//Master
-308//HWY517TLG//Y5(2017)-Huawei//Gold//T+L//15000//Null//Null
-309//HWY517TLW//Y5(2017)-Huawei//White//T+L//15000//Null//Null
+308//HWY517TLG//Y5(2017)-Huawei//Gold//T+L//17,500//25,1,2021//Master
+309//HWY517TLW//Y5(2017)-Huawei//White//T+L//17,500//25,1,2021//Master
 310//HWY517TW//Y5(2017)-Huawei//White//TouchOnly//4,600//19,10,2020//HX
 311//HWY517USB//Y5(2017)-Huawei//Null//USB Board//2,500//Null//Null
 312//HWY518BDCB//Y518-Huawei//Black//BodyCover//6,000//Null//Null
 313//HWY518PTGHWY5LTG//Y5prime(2018)-Y5lite//Gold//TouchOnly//5,000//Null//Null
 314//HWY518TB//Y5(2018)-Huawei//Black//TouchOnly//4,500//Null//Null
-315//HWY518TLB//Y5(2018)-Huawei//Black//T+L//15,500//Null//Null
+315//HWY518TLB//Y5(2018)-Huawei//Black//T+L//19,000//1,7,2021//HX
 316//HWY518TLW//Y5(2018)-Huawei//White//T+L//15,500//Null//Null
 317//HWY518TW//Y518-Huawei//White//Touch//4,500//Null//Null
 318//HWY518USB//Y5(2018)-Huawei//Null//USB Board//3,500//Null//Null
@@ -1674,8 +1674,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1348//SSJ516BDCGSSJ5BDCG//J5(2016)-Samsung//Gold//BodyCover//7,500//Null//Null
 1349//SSJ516TGSSJ5TGSSJ510TG//J5(2016)-J510//Gold//Glass//7,500//Null//Null
 1350//SSJ516TWSSJ5TWSSJ510TW//J5(2016)-J510//White//Glass//7,500//Null//Null
-1351//SSJ517TLBSSJ530TLBSSJ5PTLB//J530-J5(17)-J5Pro(ORG)//Black//T+L//40,000//21,5,2021//HX
-1351//SSJ517TLGSSJ530TLGSSJ5PTLG//J530-J5(17)-J5Pro(ORG)//Gold//T+L//40,000//29,4,2021//HX
+1351//SSJ517TLBSSJ530TLBSSJ5PTLB//J530-J5(17)-J5Pro(ORG)//Black//T+L//40,000//1,7,2021//HX
+1351//SSJ517TLGSSJ530TLGSSJ5PTLG//J530-J5(17)-J5Pro(ORG)//Gold//T+L//40,000//1,7,2021//HX
 1352//SSJ5BDCB//J5-Samsung//Black//BodyCover//5,500//Null//Null
 1353//SSJ5BDCG//J5-Samsung//Gold//BodyCover//5,500//Null//Null
 1354//SSJ5HF//J5-Samsung//Null//Home Key//4,500//Null//Null
