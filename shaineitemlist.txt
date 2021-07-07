@@ -1764,7 +1764,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1424//SSON7TWSSG6000TW//On7-G600-Samsung//White//Touch//4,000//10,11,2020//HX
 1425//SSP5100BTSSP7500BTSSN8000BTSP3676B1ABT//Samsung-GlaxyTab2-P5100-P7500-N8000-SP3676B1A//Null//Battery//11,000//Null//Null
 1426//SSP5200TB//P5200-Samsung//Black//Touch//9,000//Null//Null
-1426//SSP5200BT//P5200-Samsung//Battery//12,500//7,2,2021//Master
+1426//SSP5200BT//P5200-Samsung//Null//Battery//12,500//7,2,2021//Master
 1427//SSS5830TB//S5830-Samsung//Black//Touch//4,000//Null//Null
 1428//SSS5830TW//S5830-Samsung//White//Touch//4,000//Null//Null
 1429//SSS5BDCB//Samsung-S5//Black//BodyCover//6,500//Null//Null
