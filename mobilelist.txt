@@ -32,7 +32,11 @@ No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main
 
 16//RMN10P6128G//Red Mi Note 10Pro//Carbon Gray//6-128//407,000//1//18,6,2021//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//108MP,8MP,5MP,2MP//16MP//USB Type-C 2.0,USB On-The-Go//Li-Po 5020 mAh,non-removable,Fast charging 33W,59% in 30 min (advertised)//Date 24,March,2021//Qualcomm SM7150 Snapdragon 732G (8 nm)//6.67 inches, 107.4 cm2 (~85.6% screen-to-body ratio)-193 g (6.81 oz)
 
+17//RMK305G6128PP//Red Mi K30(5G)//Purple//6-128//390,000//1//8,7,2021//Android 10,upgradable to Android 11,MIUI 12//GSM_HSPA_LTE_5G//Hybrid Dual SIM (Nano-SIM,Dual Stand-By)//12MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 4500 mAh,non-removable//Date 7,January,2019//Qualcomm SDM765 Snapdragon 765G(7nm)//6.67 inches,107.4cm2(~84.8%Screen-to-body ratio)-208g(7.34 oz)
 
+18//RMN95G6128B//Red Mi Note 9(5G)//Black//6-128//326,000//1//8,7,2021//Android 10,MIUI 12//GSM_CDMA_HSPA_EVDO_LTE_5G//Dual SIM (Nano-SIM,Dual Stand-By)//48MP_8MP_2MP//13MP//USBType-C 2.0//Li-Po 5000 mAh,non-removable,Fast charging 18W//Date 1,December,2020//MediaTek Dimensity 800U 5G(7 nm)//6.53 inches,104.7cm2(~83.6%Screen-to-body ratio)-199g(7.02 oz)
+
+19//RM94128B//Red Mi 9//Black//4-128//224,000//3//8,7,2021//Android 10,MIUI 11//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//13MP,8MP,5MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 5020 mAh,non-removable//Date 10,June,2019//Mediatek Helio G80(12nm)//6.3 inches,104.7cm2(~83.2%Screen-to-body ratio)-198g(6.98 oz)
 
 
 
