@@ -2357,7 +2357,6 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1869//VVY91PFB//Y91-Vivo//Black//Finger Print//8,500//6,11,2020//Master
 1870//VVY91MDF//Y91-VIVO//Null//Maddle Flex//3,000//21,11,2020//Master
 1871//MI8LPFBL//Mi8Lite//Blue//Finger Print//10,500//6,11,2020//Master
-1872//VVY81TLBVVY83TLBVVY81ITLB//Y81-Y83-Y81i//Black//T+L//31,000//23,1,2021//Master
 1872//VVY81TLBVVY83TLBVVY81ITLB//Y81-Y83-Y81i//Black//T+L//31,000//5,5,2021//FoneClub
 1873//MI8LSPK//Mi8Lite//Null//Speaker//3,500//6,11,2020//Master
 1874//RMN5AUSB//Redminote5A//Null//USB Board//2,500//14,2,2021//HX
