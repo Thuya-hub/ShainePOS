@@ -56,7 +56,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 29//CP5109LCD//5109-Coolpad//Null//LCD//7,000//Null//Null
 30//CP5218TB//Cp5218-Coolpad//Black//Touch//5,000//Null//Null
 31//CP7060LCD//7060-Coolpad//Null//LCD//5,500//Null//Null
-32//CP7060SLCD/7060s-Coolpad//Null//LCD//6,500//Null//Null
+32//CP7060SLCD//7060s-Coolpad//Null//LCD//6,500//Null//Null
 33//CP7060STB//Cp7060s-Coolpad//Black//Touch//5,000//Null//Null
 34//CP7060TB//Cp7060-Coolpad//Black//Touch//4,500//Null//Null
 35//CP7232LCD//7232-Coolpad//Null//LCD//7,500//Null//Null
