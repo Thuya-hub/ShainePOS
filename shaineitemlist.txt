@@ -1005,7 +1005,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 786//OPF3STB//F3-Oppo//Black//Sim Tray//3,000//Null//Null
 787//OPF3STG//F3-Oppo//Gold//Sim Tray//3,000//Null//Null
 788//OPF3TLWOPF3TLB//F3-Oppo//White,Black//T+L//23,000//29,4,2021//HX
-788//OPF3TLWOPF3TLB//F3-Oppo//White,Black//T+L//28,500//15,7,2021//Master
+788//OPF3TLWOPF3TLB//F3-Oppo//White,Black//T+L//28,500//3,8,2021//Master
 789//OPF5BDCBOPF5YBDCB//F5-F5Youth//Black//BodyCover//7,500//18,1,2021//Master
 789//OPF5BDCGOPF5YBDCG//F5-F5Youth//Gold//BodyCover//7,500//23,4,2021//Master
 789//OPF5BDCROPF5YBDCR//F5-F5Youth//Red//BodyCover//8,000//11,1,2021//Master
