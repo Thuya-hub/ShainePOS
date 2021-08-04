@@ -965,7 +965,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 756//OPA83USBF//A83-OPPO//Null//USB Board//3,500//28,12,2020//HX
 757//OPA83STBOPF5LSTB//A83-F5lite//Black,Red//Sim Tray//2,500//30,11,2020//Master
 757//OPA83BDCROPF5LBDCR//A83-F5lite//Red//Body Cover//7,500//30,11,2020//Master
-758//OPA83TLBOPF5LTLB//A83-F5Lite//Black//T+L//26,000//29,4,2021//HX
+758//OPA83TLBOPF5LTLB//A83-F5Lite//Black//T+L//33,500//3,8,2021//HX
 759//OPA83TLWOPF5LTLW//A83-F5lite//White//T+L//20,000//24,10,2020//BRIGHT
 759//OPA83TLWOPF5LTLW//A83-F5lite//White//T+L//33,500//3,8,2021//HX
 760//OPF11TLBOPF9PTLB//F11-F9Pro//Black//T+L//26,000//10,11,2020//Master
@@ -1014,6 +1014,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 792//OPF5TLBOPF5YTLBOPA73TLB//F5-F5Youth-A73//Black//T+L//33,000//3,8,2021//HX
 792//OPF5TLBOPF5YTLBOPA73TLB//F5-F5Youth-A73//Black//T+L//33,000//7,7,2021//Master
 793//OPF5TLWOPF5YTLWOPA73TLW//F5-F5Youth-A73//White//T+L//33,000//7,7,2021//Master
+793//OPF5TLWOPF5YTLWOPA73TLW//F5-F5Youth-A73//White//T+L//33,000//3,8,2021//HX
 794//OPF5TWOPF5YTW//F5-F5Youth//White//TouchOnly//4,800//Null//Null
 795//OPF5YBDCGOPF5BDCG//F5Youth-F5//Gold//BodyCover//7,000//Null//Null
 796//OPF7GBOPA3GB//F7-A3//Black//Glass//4,500//Null//Null
@@ -1451,7 +1452,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1136//RMN5BTRMN5PBTBN45BT//RedmiNote5Pro-BN45//Null//Battery//8,500//23,5,2021//Royal Star
 1137//RMN5ST//Redminote5//AllColour//Sim Tray//2,500//Null//Null
 1138//RMN5TLB//Redminote5//Black//T+L//29,500//23,5,2021//Royal Star
-1138//RMN5TLB//Redminote5//Black//T+L//30,000//16,6,2021//HX
+1138//RMN5TLB//Redminote5//Black//T+L//33,500//3,8,2021//HX
 1138//RMN5TLWRMN5PTLW//Redminote5//White//T+L//24,500//9,5,2021//Master
 1139//RMN5TLW//Redminote5//White//T+L//30,000//16,6,2021//HX
 1140//RMN5USB//RedmiNote5//Null//USB Board//3,000//23,4,2021//Master
