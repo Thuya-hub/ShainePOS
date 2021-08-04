@@ -70,7 +70,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 39//CP7275TB//7275-CoolPad//Black//Touch//5,000//Null//Null
 40//CP8079LCD//8079-Coolpad//Null//LCD/6,000//Null//Null
 41//CP8079TW//Cp8079-Coolpad//White//Touch//4,000//Null//Null
-42//CPG606W/G606-Huawei//White//Touch//0//Null//Null
+42//CPG606W//G606-Huawei//White//Touch//0//Null//Null
 43//CPK510W//K510-Coolpad//White//Touch//0//Null//Null
 44//CPY60TBCPY60C1TB//Y60-C1-coolpad//Black//Touch//5,500//Null//Null
 45//heattate//မီးခံတိပ်//Null//Others//4,000//Null//Null
