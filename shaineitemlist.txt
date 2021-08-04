@@ -1393,6 +1393,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1095//RMN4XBCB//Redminote4x//Black//BodyCover//7500//Null//Null
 1096//RMN4XBDCG//Redminote4x//Gold//BodyCover//7,500//20,1,2021//FoneClub
 1096//RMN4XBDCB//Redminote4x//Black//BodyCover//8,000//20,1,2021//FoneClub
+1096//RMN4XBDCRG//Redminote4x//Rose Gold//BodyCover//9,500//3,8,2021//Master
+1096//RMN4XBDCG//Redminote4x//Gold//BodyCover//9,500//3,8,2021//Master
 1096//RMN4X16BDCRG//Redminote4X(16GB)//Rold Gold//BodyCover//9,000//3,8,2021//Master
 1096//RMN4X16BDCG//Redminote4X(16GB)//Gold//BodyCover//8,500//3,8,2021//Master
 1097//RMN4XBTBN43BT//RedmiNote4x-BN43//Null//Battery//6,000//23,4,2021//HX
@@ -1571,7 +1573,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1217//SSA20BTSSA30BTSSA30SBTSSA50BT//Samsung-A20,A30,A30S,A50//Null//Battery//8,000//23,6,2021//Master
 1217//SSA20BTSSA30BTSSA30SBTSSA50BT//Samsung-A20,A30,A30S,A50//Null//Battery//8,000//1,7,2021//HX
 1217//SSA10SSTBSSA10SSTBL//Samsung-A10S//Black,Blue//Sim Tray//3,500//5,4,2021//Master
-1218//SSA10STLBSSA107TLB//A10S-A107(ORG)-Samsung//Black//T+L//33,500//3,8,2021//HX
+1218//SSA10STLBSSA107TLB//A10S-A107(ORG)-Samsung//Black//T+L//36,000//3,8,2021//HX
 1218//SSA10STLBSSA107TLB//A10S-A107-Samsung//Black//T+L//30,000//31,1,2021//Master
 1218//SSA10STLBSSA107TLB//A10S-A107(ORG)-Samsung//Black//T+L//35,500//9,7,2021//FoneClub
 1219//SSA10TLB//Samsung-A10-A105//Black//T+L//37,000//10,7,2021//Master
@@ -2069,7 +2071,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1638//SSJ3TLWSSJ316TLW//Samsung-J3(16)//White//T+L//39,500//7,7,2021//Master
 1638//SSJ3TLBSSJ316TLB//Samsung-J3(16)//Black//T+L//38,500//31,5,2021//Master
 1639//SSA30STLB//Samsung-A30s//Black//T+L//57,000//28,5,2021//Master
-1639//SSA30STLB//Samsung-A30s(ORG)//Black//T+L//58,500//16,8,2021//HX
+1639//SSA30STLB//Samsung-A30s(ORG)(ဘောင်ပါ)//Black//T+L//58,500//3,8,2021//HX
 1640//SSA30TLBSSA30//Samsung-A30-A305(ORG)//Black//T+L//57,000//10,7,2021//Master
 1640//SSA30TLBSSA30//Samsung-A30-A305(ORG)//Black//T+L//61,000//16,6,2021//Nice
 1640//SSA30TLBSSA30//Samsung-A30-A305(ORG)//Black//T+L//53,000//16,6,2021//HX
