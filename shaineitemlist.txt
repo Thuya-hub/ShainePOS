@@ -895,7 +895,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 706//OPA37BDCRG//A37-Oppo//RoseGold//BodyCover//6,500//Null//Null
 707//OPA37BTBLP615BT//A37-BLP615-Oppo//Null//Battery//7,500//11,6,2021//Master
 707//OPA37BTBLP615BT//A37-BLP615-Oppo//Null//Battery//6,000//14,2,2021//HX
-707//BLP577BTOPA33BTOPA51BT//A33-A51-BLP577//Null//Battery//,500//12,8,2021//Master
+707//BLP577BTOPA33BTOPA51BT//A33-A51-BLP577//Null//Battery//7,500//12,8,2021//Master
 709//OPA57STBOPA39STB//A57-A39-Oppo//Black//Sim Tray//3,000//27,6,2021//Master
 710//OPA37STGR//A37-Oppo//Gray//Sim Tray//2,800//Null//Null
 712//OPA37TLB//A37-Oppo//Black//T+L//18,000//10,8,2021//HX
