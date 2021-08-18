@@ -2165,7 +2165,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1670//SSA20TLBORG//Samsung-A20-A205(ORG)-Incell//Null//T+L//38,500//9,7,2021//FoneClub
 1671//SSA7TLSSA718TL//Samsung-A7(18)//Black//T+L//53000//17,9,2020//FoneClub
 1671//SSA718BCG//Samsung-A7(18)//Gold//Back Cover//5,500//15,7,2021//Master
-1671//SSA718BDCB//Samsung-A7(18)//Black//Body Cover//8,500//18,8,2021//ShaweLattSaung
+1671//SSA718BDCB//Samsung-A7(18)//Black//Body Cover//9,500//18,8,2021//ShaweLattSaung & Master
 1672//MIPLAYBTBN39BT//MiPlay-BN39//Null//Battery//7500//17,9,2020//FoneClub
 1673//IPH6SPBT//IPhone6SPlus(ORG)//Null//Battery//14,000//5,5,2021//FoneClub
 1674//SNL1BTLIP1621ERPCBT//SonyL1-LIP1621ERPC//Null//Battery//7000//15,9,2020//Master
