@@ -99,8 +99,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 62//HON4XTWGPLAYTW//Honor4x-Gplay//White//TouchOnly//4,500//10,11,2020//HX
 63//HON6ATLB//Honor6A//Black//T+L//16,300//Null//Null
 64//HON6ATLW//Honor6A//White//T+L//18,500//10,3,2021//HX
-65//HON6TBHON6ATB//Honor6-6A//Black//TouchOnly//0//Null//Null
-66//HON6TWHON6ATW//Honor6-6A//White//TouchOnly//0//Null//Null
+65//HON6TBHON6ATB//Honor6-6A//Black//TouchOnly//3,500//18,8,2021//Null
+66//HON6TWHON6ATW//Honor6-6A//White//TouchOnly//3,500//18,8,2021//Null
 67//HON7ASPK//Honor7A//Null//Speaker//3,500//Null//Null
 68//HON7ATB//Honor7A//Black//Touch//4,500//Null//Null
 69//HON8CTLB//Honor8C//Black//T+L//35,500//3,8,2021//HX
