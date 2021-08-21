@@ -1497,6 +1497,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1146//RMN7BDC//RedmiNote7//All Color//BodyCover//7,500//18,2,2021//HX
 1147//RMN7USBF//RedmiNote7//Null//USB Flex//3,500//3,8,2021//Master
 1147//RM9USBB//Redmi9//Null//USB Flex//3,500//9,5,2021//Master
+1147//RM9BDC//Redmi9//All Color//Body Cover//9,500//21,8,2021//Master
 1147//MICC9PTLBMIN10TLB//Xiaome MiCC9Pro-Xiaome Mi Note 10//Black//T+L//67,000//16,6,2021//HX
 1147//MICC9ECM//Xiaome MiCC9E//Null//Camera ဖုံး//1,500//27,6,2021//Master
 1147//MMX3CM//Xiaome Mi Max3//Null//Camera ဖုံး//1,500//27,6,2021//Master
