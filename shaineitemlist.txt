@@ -2051,7 +2051,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1594//VVY55ST//Vivo-Y55//Null//Sim Tray//2,500//Null//Null
 1595//VVY55TB//Vivo-Y55//Black//TouchOnly//3,500//10,8,2021//HX
 1595//VVY55TB//Vivo-Y55//Black//TouchOnly//3,500//12,8,2021//Master
-1596//VVY55TLB//Vivo-Y55//Black//T+L//18,500//16,5,2021//HX
+1596//VVY55TLB//Vivo-Y55//Black//T+L//22,000//22,8,2021//HX
 1596//VVY55TLB//Vivo-Y55//Black//T+L//20,500//12,8,2021//Master
 1597//VVY55TLW//Vivo-Y55//White//T+L//22,000//21,8,2021//HX
 1597//VVY55TLW//Vivo-Y55//White//T+L//20,000//5,6,2021//Master
