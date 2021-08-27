@@ -1053,7 +1053,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 800//OPF7YTLB//F7Youth//Black//T+L//25,000//15,12,2020//HX
 800//OPF7YTLB//F7Youth//Black//T+L//38,500//5,6,2021//Master
 801//OPF9BDCBOPF9BDCBL//Oppo-F9//Black,Voilet//BodyCover//0//Null//Null
-802//OPF9BTBLP681BT//F9-BLP681//Null//Battery//8,500//11,6,2021//Master
+802//OPF9BTBLP681BTOP9PBTRME2PBTBLP683BT//F9-F9Pro-Realme2Pro-BLP683-BLP681//Null//Battery//8,500//11,6,2021//Master
 803//OPF9GB//F9-Oppo//Black//Glass//3,000//15,12,2020//HX
 804//OPF9GW//F9-Oppo//White//Glass//4,500//Null//Null
 805//OPF9TLBOPF9PTLBOPA7XTLBRME2PTLBRMEU1TLB//F9-F9Pro-A7X-Realme2Pro-RealmeU1//Black//T+L//39,000//5,6,2021//Master
