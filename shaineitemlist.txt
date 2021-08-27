@@ -1,4 +1,4 @@
-No//CODE//Model//Color//Type//Price//Date//Shop
+﻿No//CODE//Model//Color//Type//Price//Date//Shop
 1//0.5MM//0.5mm//Null//Others//2,000//Null//Null
 2//37.5hb//Sunshine-0.10mm//Null//Others//2,500//Null//Null
 3//Alloy63-67//Quick-0.8mm//Null//Others//4,500//Null//Null
@@ -1392,7 +1392,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1071//RMN3TLG//Redminote3//Gold//T+L//16,000//23,4,2021//HX
 1072//RMN3TLW//Redminote3//White//T+L//14,500//20,12,2020//HX
 1073//RMN3TW//RedmiNote3//White//TouchOnly//3,500//16,6,2021//HX
-1074//RMN3USB//Redminote3//Null//USB Board//2,500//10,8,2021//Master
+1074//RMN3USB//Redminote3//Null//USB Board//3,000//25,8,2021//Master
 1070//RMN3TLB//Redminote3//Black//T+L//21,000//28,5,2021//Master
 1070//RMN3TLB//Redminote3//Black//T+L//19,500//14,5,2021//FoneClub
 1071//RMN3TLG//Redminote3//Gold//T+L//21,500//10,7,2021//Master
@@ -1928,7 +1928,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1489//VVV1STG//V1-Vivo//Gold//Sim Tray//3,500//Null//Null
 1490//VVV1TB//V1-Vivo//Black//TouchOnly//4,000//Null//Null
 1491//VVV1TLB//V1-Vivo//Black//T+L//16,500//Null//Null
-1492//VVV1TLW//V1-Vivo//White///T+L//15,500//24,11,2020//Master
+1492//VVV1TLW//V1-Vivo//White//T+L//15,500//24,11,2020//Master
 1493//VVV1TW//V1-Vivo//White//TouchOnly//3500//15,9,2020//Master
 1494//VVV3BDCG//V3-Vivo//Gold//BodyCover//18,000//Null//Null
 1495//VVV3MXBDCVVV3MAXBDCVVV3MBDC//V3Max//Null//BodyCover//0//Null//Null
