@@ -1928,7 +1928,7 @@
 1489//VVV1STG//V1-Vivo//Gold//Sim Tray//3,500//Null//Null
 1490//VVV1TB//V1-Vivo//Black//TouchOnly//4,000//Null//Null
 1491//VVV1TLB//V1-Vivo//Black//T+L//16,500//Null//Null
-1492//VVV1TLW//V1-Vivo//White///T+L//15,500//24,11,2020//Master
+1492//VVV1TLW//V1-Vivo//White//T+L//15,500//24,11,2020//Master
 1493//VVV1TW//V1-Vivo//White//TouchOnly//3500//15,9,2020//Master
 1494//VVV3BDCG//V3-Vivo//Gold//BodyCover//18,000//Null//Null
 1495//VVV3MXBDCVVV3MAXBDCVVV3MBDC//V3Max//Null//BodyCover//0//Null//Null
