@@ -24,9 +24,9 @@ No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main
 
 12//RM10X4G6128GR//Red Mi 10X(4G)(Stable)//Green//6-128//1//292,000 MMK//(3,8,2021)//Android 10,MIUI 11//GSM_CDMA_HSPA_LTE//Dual SIM(Nano-SIM,Dual Stand-By)//48MP,8MP,2MP,2MP//13MP//USB Type-C 2.0,USB On-The-Go//Li-po 5020 mAh,non-removable//Date 26,May,2020//Mediatek Helio G859(12nm)//6.53" inches,104.7cm2(~83.5%Screen-to-body ratio)-199G(7.02 oz)
 
-14//RM9464GGR//Red Mi 9(Global)//Carbon Grey//4-64//219,000 MMK//2//(10,8,2021)//Android 10,MIUI 11//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//13MP,8MP,5MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 5020 mAh,non-removable//Date 10,June,2019//Mediatek Helio G80(12nm)//6.3 inches,104.7cm2(~83.2%Screen-to-body ratio)-198g(6.98 oz)
+13//RM9464GGR//Red Mi 9(Global)//Carbon Grey//4-64//219,000 MMK//2//(10,8,2021)//Android 10,MIUI 11//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//13MP,8MP,5MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 5020 mAh,non-removable//Date 10,June,2019//Mediatek Helio G80(12nm)//6.3 inches,104.7cm2(~83.2%Screen-to-body ratio)-198g(6.98 oz)
 
-15//VVY20464W//VIVO-Y20(2020)//Dawn White//4-64//255,000 MMK//2//(10,8,2021)//Android 10,Funtouch 10.5//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP,2MP,2MP//8MP//MicroUSB 2.0,USB ON-The-Go//Li-Po 5000 mAh,Non-Removable//Date 28,August,2020//Qualcomm SMM 4250 Snapdragon 460 (11 nm)//6.51 inches,102.3cm2(~81.6%Screen-to-body ratio)-192.3g(6.77 oz)
+14//VVY20464W//VIVO-Y20(2020)//Dawn White//4-64//255,000 MMK//2//(10,8,2021)//Android 10,Funtouch 10.5//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP,2MP,2MP//8MP//MicroUSB 2.0,USB ON-The-Go//Li-Po 5000 mAh,Non-Removable//Date 28,August,2020//Qualcomm SMM 4250 Snapdragon 460 (11 nm)//6.51 inches,102.3cm2(~81.6%Screen-to-body ratio)-192.3g(6.77 oz)
 
 
 
