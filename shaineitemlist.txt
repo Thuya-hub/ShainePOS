@@ -1,4 +1,4 @@
-﻿fNo//CODE//Model//Color//Type//Price//Date//Shop
+fNo//CODE//Model//Color//Type//Price//Date//Shop
 1//0.5MM//0.5mm//Null//Others//2,000//Null//Null
 2//37.5hb//Sunshine-0.10mm//Null//Others//2,500//Null//Null
 3//Alloy63-67//Quick-0.8mm//Null//Others//4,500//Null//Null
@@ -1926,8 +1926,8 @@
 1483//VVV3PK//V3-Vivo//Null//Power Flex//1,500//18,8,2021//Master
 1484//VVS1PTLBVVV15PTLBVVX27TLB//Vivo-S1Pro(NoWaterdrop)-V15Pro-X27(With FP,ORG)//Black//T+L//65,000//3,4,2021//FoneClub
 1484//VVS1TLBVVS1PTLBVVY7STLBVVY9STLB//Vivo-S1-S1Pro-Y7S-Y9S//Black//T+L//33,000//4,12,2020//Nice
-1484//VVY50TLBVVY30TLB//VIVO-Y50-Y30//Black//T+L//26,500//25,1,2021//Master
-1484//VVY50TLBVVY30TLB//VIVO-Y50-Y30//Black//T+L//28,500//26,1,2021//Nice
+1484//VVY50TLBVVY30TLB//VIVO-Y50-Y30//Black//T+L//36,500//31,8,2021//Master
+1484//VVY50TLBVVY30TLB//VIVO-Y50-Y30//Black//T+L//37,000//31,8,2021//Nice
 1484//HWY9SBCB//Huawei Y9S//Black//Back Cover//7,000//12,8,2021//Master
 1484//VVY20TLB//VIVO-Y20//Black//T+L//33,000//10,3,2021//Master
 1484//VVY20TLB//VIVO-Y20//Black//T+L//38,000//3,8,2021//HX
