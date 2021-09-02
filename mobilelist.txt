@@ -6,27 +6,19 @@ No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main
 
 3//RMN10S8128GBL//Red Mi Note 10S(Global)//Ocean Blue//8-128//399,000 MMK//1//(7,6,2021)//Android 11,MIUI 12.5//GSM-HSPA-LTE//Dual SIM(nano-SIM,Dual Stand-By)//64MP,8MP,2MP,2MP//13MP//USB Type-C 2.0//Li-Po 5000mAh,non-removable,Fast Charging 33W//Date 28,April,2021//Mediatek Helio G95 (12nm)//6.43 inches,99.8cm2(~83.5%screen-to-body ratio)-178.8g(6.31oz)
 
-4//RM9T464GNRM9T464BLRM9T464ORM9T464GR//Red Mi 9T(Globle)//Ocean Green,Carbon Gray//4-64//249,000 MMK//3//(11,7,2021)//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//48MP,8MP,2MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 6000 mAh,non-removable,Fast charging 18W,Reverse Charging 2.5W//Date 18,January,2021//Qualcomm SM6115 Snapdragon 662(11nm)//6.53 inches,104.7 cm2(~83.4%Screen-to-body ratio)-198g(6.98 oz)
+4//RM9T464GNRM9T464BLRM9T464ORM9T464GR//Red Mi 9T(Globle)//Ocean Green,Carbon Gray//4-64//266,000 MMK//2//(11,7,2021)//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//48MP,8MP,2MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 6000 mAh,non-removable,Fast charging 18W,Reverse Charging 2.5W//Date 18,January,2021//Qualcomm SM6115 Snapdragon 662(11nm)//6.53 inches,104.7 cm2(~83.4%Screen-to-body ratio)-198g(6.98 oz)
 
-5//RMK305G6128PP//Red Mi K30(5G)(Stable)//Purple//6-128//389,000 MMK//1//(8,7,2021)//Android 10,upgradable to Android 11,MIUI 12//GSM_HSPA_LTE_5G//Hybrid Dual SIM (Nano-SIM,Dual Stand-By)//12MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 4500 mAh,non-removable//Date 7,January,2019//Qualcomm SDM765 Snapdragon 765G(7nm)//6.67 inches,107.4cm2(~84.8%Screen-to-body ratio)-208g(7.34 oz)
+5//RMK305G6128PP//Red Mi K30(5G)(Stable)//Purple//6-128//440,000 MMK//1//(8,7,2021)//Android 10,upgradable to Android 11,MIUI 12//GSM_HSPA_LTE_5G//Hybrid Dual SIM (Nano-SIM,Dual Stand-By)//12MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 4500 mAh,non-removable//Date 7,January,2019//Qualcomm SDM765 Snapdragon 765G(7nm)//6.67 inches,107.4cm2(~84.8%Screen-to-body ratio)-208g(7.34 oz)
 
-6//RM9C364GO//Red Mi 9C(Globle)//Sunrise Orange//3-64//199,000 MMK//3//(12,7,2021)//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable//Date 12,August,2020//MediaTek Helio G35(12 nm)//6.53 inches,102.9cm2(~81.1%Screen-to-body ratio)-196g(6.91 oz)
+6//RM9C364GO//Red Mi 9C(Globle)//Sunrise Orange//3-64//215,000 MMK//1//(12,7,2021)//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable//Date 12,August,2020//MediaTek Helio G35(12 nm)//6.53 inches,102.9cm2(~81.1%Screen-to-body ratio)-196g(6.91 oz)
 
 7//MI11L8128GB//MI 11 Lite(Global)//BroonBlack//8-128//479,000 MMK//1//(11,7,2021)//Android 11,MIUI 12//GSM_HSPA_LTE//Hybrid Dual SIM (Nano-SIM, dual stand-by)IP53, dust and splash protection//64MP,8MP,5MP//16MP//USB Type-C 2.0,USB On-The-Go//Li-Po 4250 mAh,non-removable//Date 16,Aprile,2021//Qualcomm SM7150 Snapdragon 732G (8 nm)//6.55 inches, 103.6 cm2 (~85.3% screen-to-body ratio)-157g(5.54 oz)
 
-8//RM9A232GGN//Red Mi 9A(Globle)//Peacock Green//2-32//159,000 MMK//1//(3,8,2021)//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable//Date 7,July,2020//MediaTek Helio G25(12nm)//6.53 inches,102.9cm2(~81.0%Screen-to-body ratio)-196g(6.91 oz)
+8//RM94128P//Red Mi 9(Stable)//Pink//4-128//239,000 MMK//2//(3,8,2021)//Android 10,MIUI 11//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//13MP,8MP,5MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 5020 mAh,non-removable//Date 10,June,2019//Mediatek Helio G80(12nm)//6.3 inches,104.7cm2(~83.2%Screen-to-body ratio)-198g(6.98 oz)
 
-9//RM9A232GBL//Red Mi 9A(Globle)//SKY Blue//2-32//159,000 MMK//1//(3,8,2021)//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable//Date 7,July,2020//MediaTek Helio G25(12nm)//6.53 inches,102.9cm2(~81.0%Screen-to-body ratio)-196g(6.91 oz)
+9//RM10X4G6128GR//Red Mi 10X(4G)(Stable)//Green//6-128//1//292,000 MMK//(3,8,2021)//Android 10,MIUI 11//GSM_CDMA_HSPA_LTE//Dual SIM(Nano-SIM,Dual Stand-By)//48MP,8MP,2MP,2MP//13MP//USB Type-C 2.0,USB On-The-Go//Li-po 5020 mAh,non-removable//Date 26,May,2020//Mediatek Helio G859(12nm)//6.53" inches,104.7cm2(~83.5%Screen-to-body ratio)-199G(7.02 oz)
 
-10//RM94128P//Red Mi 9(Stable)//Pink//4-128//239,000 MMK//2//(3,8,2021)//Android 10,MIUI 11//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//13MP,8MP,5MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 5020 mAh,non-removable//Date 10,June,2019//Mediatek Helio G80(12nm)//6.3 inches,104.7cm2(~83.2%Screen-to-body ratio)-198g(6.98 oz)
-
-11//RM9464BL//Red Mi 9(Global)//Blue//4-64//219,000 MMK//1//(3,8,2021)//Android 10,MIUI 11//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//13MP,8MP,5MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 5020 mAh,non-removable//Date 10,June,2019//Mediatek Helio G80(12nm)//6.3 inches,104.7cm2(~83.2%Screen-to-body ratio)-198g(6.98 oz)
-
-12//RM10X4G6128GR//Red Mi 10X(4G)(Stable)//Green//6-128//1//292,000 MMK//(3,8,2021)//Android 10,MIUI 11//GSM_CDMA_HSPA_LTE//Dual SIM(Nano-SIM,Dual Stand-By)//48MP,8MP,2MP,2MP//13MP//USB Type-C 2.0,USB On-The-Go//Li-po 5020 mAh,non-removable//Date 26,May,2020//Mediatek Helio G859(12nm)//6.53" inches,104.7cm2(~83.5%Screen-to-body ratio)-199G(7.02 oz)
-
-13//RM9464GGR//Red Mi 9(Global)//Carbon Grey//4-64//219,000 MMK//2//(10,8,2021)//Android 10,MIUI 11//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//13MP,8MP,5MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 5020 mAh,non-removable//Date 10,June,2019//Mediatek Helio G80(12nm)//6.3 inches,104.7cm2(~83.2%Screen-to-body ratio)-198g(6.98 oz)
-
-14//VVY20464W//VIVO-Y20(2020)//Dawn White//4-64//255,000 MMK//2//(10,8,2021)//Android 10,Funtouch 10.5//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP,2MP,2MP//8MP//MicroUSB 2.0,USB ON-The-Go//Li-Po 5000 mAh,Non-Removable//Date 28,August,2020//Qualcomm SMM 4250 Snapdragon 460 (11 nm)//6.51 inches,102.3cm2(~81.6%Screen-to-body ratio)-192.3g(6.77 oz)
+10//VVY20464W//VIVO-Y20(2020)//Dawn White//4-64//255,000 MMK//2//(10,8,2021)//Android 10,Funtouch 10.5//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP,2MP,2MP//8MP//MicroUSB 2.0,USB ON-The-Go//Li-Po 5000 mAh,Non-Removable//Date 28,August,2020//Qualcomm SMM 4250 Snapdragon 460 (11 nm)//6.51 inches,102.3cm2(~81.6%Screen-to-body ratio)-192.3g(6.77 oz)
 
 
 
