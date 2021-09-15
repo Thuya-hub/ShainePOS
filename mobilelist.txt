@@ -6,7 +6,7 @@ No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main
 
 3//RMN10S8128GBL//Red Mi Note 10S(Global)//Ocean Blue//8-128//420,000 MMK//1//(7,6,2021)//Android 11,MIUI 12.5//GSM-HSPA-LTE//Dual SIM(nano-SIM,Dual Stand-By)//64MP,8MP,2MP,2MP//13MP//USB Type-C 2.0//Li-Po 5000mAh,non-removable,Fast Charging 33W//Date 28,April,2021//Mediatek Helio G95 (12nm)//6.43 inches,99.8cm2(~83.5%screen-to-body ratio)-178.8g(6.31oz)
 
-4//RM9T464ORM9T464GR//Red Mi 9T(Globle)//Sunrise Orange,Carbon Gray//4-64//270,000 MMK//2//(11,7,2021)//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//48MP,8MP,2MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 6000 mAh,non-removable,Fast charging 18W,Reverse Charging 2.5W//Date 18,January,2021//Qualcomm SM6115 Snapdragon 662(11nm)//6.53 inches,104.7 cm2(~83.4%Screen-to-body ratio)-198g(6.98 oz)
+4//RM9T464ORM9T464GR//Red Mi 9T(Globle)//Sunrise Orange,Carbon Gray//4-64//275,000 MMK//2//(11,7,2021)//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//48MP,8MP,2MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 6000 mAh,non-removable,Fast charging 18W,Reverse Charging 2.5W//Date 18,January,2021//Qualcomm SM6115 Snapdragon 662(11nm)//6.53 inches,104.7 cm2(~83.4%Screen-to-body ratio)-198g(6.98 oz)
 
 5//RMK305G6128PP//Red Mi K30(5G)(Stable)//Purple//6-128//472,000 MMK//1//(8,7,2021)//Android 10,upgradable to Android 11,MIUI 12//GSM_HSPA_LTE_5G//Hybrid Dual SIM (Nano-SIM,Dual Stand-By)//12MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 4500 mAh,non-removable//Date 7,January,2019//Qualcomm SDM765 Snapdragon 765G(7nm)//6.67 inches,107.4cm2(~84.8%Screen-to-body ratio)-208g(7.34 oz)
 
