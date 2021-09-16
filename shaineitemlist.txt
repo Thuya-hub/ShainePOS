@@ -1,4 +1,4 @@
-﻿fNo//CODE//Model//Color//Type//Price//Date//Shop
+fNo//CODE//Model//Color//Type//Price//Date//Shop
 1//0.5MM//0.5mm//Null//Others//2,000//Null//Null
 2//37.5hb//Sunshine-0.10mm//Null//Others//2,500//Null//Null
 3//Alloy63-67//Quick-0.8mm//Null//Others//4,500//Null//Null
@@ -83,6 +83,7 @@
 48//HOLU10LCDHONU10LCDHONU19LCDHOLU19LCD//HOL-U10-U19-Huawei//Null//LCD//12,500//21,5,2021//Master
 49//HOLU10PKHONU10PKHONU19PKHOLU19PKHW3CPK//Hol-U10-U19-3c-Huawei//Null//Power Flex//2,000//23,4,2021//Master
 50//HOLU10TBHONU10TBHONU19TBHOLU19TB//Hol-U10-U19-Huawei//Black//Touch//4,500//15,7,2021//Master
+50//HOLU10TBHONU10TBHONU19TBHOLU19TB//Hol-U10-U19-Huawei//Black//Touch//5,500//16,9,2021//Naing Win
 51//HON4XBCBHWGPLAYBCB//Honor4x-Gplay//Black//Back Cover//3,500//19,12,2020//Master,//FoneClub
 52//HON4XBCGHWGPLAYBCGHON4XBCBHWGPLAYBCB//Honor4x-Gplay//Gold,Black//Back Cover//3,500//10,8,2021//HX
 53//HON4XBDCW//Honor4x-Gplay-Huawei//White//BodyCover//7,000//24,2,2021//Master
@@ -139,7 +140,7 @@
 91//HWC8813LCD//C8813-Huawei//Null//LCD//6,000//Null//Null
 92//HWC8813TB//C8813-Huawei//Black//Touch//3,600//Null//Null
 93//HWC8813TW//C8813-Huawei//White//Touch//3,600//Null//Null
-94//HWC8816LCDHWG610LCDHWG620LCDG620SLCD//C8816-G610-G620-Huawei//Null//LCD//5,500//24,12,2020//Master
+94//HWC8816LCDHWG610LCDHWG620LCDG620SLCD//C8816-G610-G620-Huawei//Null//LCD//9,500//16,9,2021//Naing Win
 95//HWC8816TBHWG615TB//C8816-G615-Huawei//Black//Touch//4,500//10,3,2021//Master
 95//HWC8816TBHWG615TB//C8816-G615(ORG)-Huawei//Black//Touch//4,500//5,6,2021//FoneClub
 96//HWC8816TWHWG615TW//C8816-G615-Huawei//White//Touch//5,000//6,11,2020//Master
@@ -172,7 +173,9 @@
 118//HWG620SBCWHWG620BCW//G620s-Huawei//White//Back Cover//32,000//Null//Null
 119//HWG620SBDCWHWG620BDCW//G620s-Huawei//White//BodyCover//7,500//Null//Null
 120//HWG620STB//G620s-Huawei//Black//Touch//3,500//16,6,2021//HX
+120//HWG620STB//G620s-Huawei//Black//Touch//5,500//16,9,2021//Naing Win
 121//HWG620STW//G620s-Huawei//White//Touch//3,500//9,4,2021//HX
+121//HWG620STW//G620s-Huawei//White//Touch//5,500//16,9,2021//Naing Win
 122//HWG620TB//G620-Huawei//Black//Touch//4,500//2,9,2021//HX
 123//HWG620TW//G620-Huawei//White//Touch//4,500//19,10,2020//HX
 124//HWG629LCD//G629-Huawei//Null//LCD//8,000//Null//Null
@@ -361,10 +364,12 @@
 275//HWY317TB//Y3(2017)-Huawei//Black//TouchOnly//4,000//31,5,2021//FoneClub
 276//HWY317TG//Y3(2017)-Huawei//Gold//TouchOnly//4,500//28,5,2021//Master
 276//HWY317TG//Y3(2017)-Huawei//Gold//TouchOnly//4,000//10,8,2021//HX
+276//HWY317TG//Y3(2017)-Huawei//Gold//TouchOnly//4,000//16,9,2021//Naing Win
 277//HWY317TLB//Y3(2017)-Huawei//Black//T+L//17,000//28,5,2021//Master
 278//HWY317TLG//Y3(2017)-Huawei//Gold//T+L//16,600//18,8,2021//Master
 279//HWY317TLW//Y3(2017)-Huawei//White//T+L//15,000//28,5,2021//Master
 280//HWY317TW//Y3(2017)-Huawei//White//TouchOnly//3,500//1,7,2021//HX
+280//HWY317TW//Y3(2017)-Huawei//White//TouchOnly//4,000//16,9,2021//Naing Win
 281//HWY320CTW//Y320C-Huawei//White//Touch//4,800//Null//Null
 282//HWY320LCD//Y320-Huawei//Null//LCD//5,300//Null//Null
 283//HWY320PF//Y320-Huawei//Null//Power Flex//1,300//Null//Null
@@ -377,9 +382,11 @@
 290//HWY32LCD//Y32-Huawei//Null//LCD//8,000//3,11,2020//Master
 291//HWY32PKHWY3IIPK//Y32-Huawei//Null//Power Flex//2,000//12,8,2021//Master
 292//HWY32TB//Y32-Huawei//Black//Touch//3,500//28,5,2021//Master
+292//HWY32TB//Y32-Huawei//Black//Touch//5,000//16,9,2021//Naing Win
 293//HWY32TG//Y32-Huawei//Gold//Touch//4,500//5,5,2021//FoneClub
 294//HWY32TW//Y32-Huawei//White//Touch//3,500//10,3,2021//Master
 294//HWY32TW//Y32-Huawei//White//Touch//4,500//5,5,2021//FoneClub
+294//HWY32TW//Y32-Huawei//White//Touch//5,000//16,9,2021//Naing Win
 295//HWY330LCD//Y330-Huawei//Null//LCD//5,800//Null//Null
 296//HWY336LCD//Y336-Huawei//Null//LCD//6,500//Null//Null
 297//HWY336TB//Y336-Huawei//Black//Touch//4,000//Null//Null
@@ -428,7 +435,7 @@
 334//HWY535TW//Y535-Huawei//White//Touch//4,000//Null//Null
 335//HWY541LCD//Y541-Huawei//Null//LCD//6,300//Null//Null
 336//HWY541TB//Y541-Huawei//Black//Touch//3,500//19,12,2020//Master
-337//HWY541TW//Y541-Huawei//White//Touch//3,500//Null//Null
+337//HWY541TW//Y541-Huawei//White//Touch//4,000//16,9,2021//Naing Win
 338//HWY5P18BDCBHWY5LBDCBHON7SBDCB//Y5Prime(18)-Y5Lite-Honor7s//Black//BodyCover//7,800//Null//Null
 339//HWY5P18TB//Y5Prime(2018)//Black//TouchOnly//4,000//Null//Null
 340//HWY5P18TLBHWY5LTLBHON7STLBHWY5PRTLB//Y5Prime(2018)-Y5Lite-Honor7s//Black//T+L//24,000//1,7,2021//HX
@@ -461,6 +468,7 @@
 362//HWY62BDCW//Y62-Huawei//White//BodyCover//6,000//Null//Null
 363//HWY62TB//Y62-Huawei//Black//TouchOnly//4,500//7,1,2021//HX
 364//HWY62TG//Y62-Huawei//Gold//TouchOnly//4,000//10,8,2021//HX
+364//HWY62TG//Y62-Huawei//Gold//TouchOnly//6,000//16,9,2021//Naing Win
 365//HWY62TLB//Y62-Huawei//Black//T+L//19,000//17,5,2021//HX
 365//OPR15XTLBOPK1TLBRNZTLBRMEX2TLB//R15X-K1-RenoZ-RealmeX2(TFT)//Black//T+L//36,000//29,4,2021//Master
 365//HWY62LCDFHWY62MDF//Y62-Huawei//Null//LCD Flex,Maddle Flex//2,500//29,4,2021//Master
@@ -472,6 +480,7 @@
 367//HWY62TLW//Y62-Huawei//White//T+L//22,000//28,5,2021//Master
 368//HWY62TW//Y62-Huawei//White//TouchOnly//4,500//10,3,2021//Master
 368//HWY62TW//Y62-Huawei//White//TouchOnly//4,000//10,8,2021//HX
+368//HWY62TW//Y62-Huawei//White//TouchOnly//6,000//16,9,2021//Naing Win
 369//HWY62USB//Y62-Huawei//Null//USB Board//3,000//27,6,2021//Master
 370//HWY6BDCWHW4ABDCW//Y6-4A(2 sim)-Huawei//White//BodyCover//0//Null//Null
 371//HWY6P17BTHWEJ5BTHONPLAY5XBTHWY6PBTHB526379EBC//Y6pro(17)-enjoy5-HonorPlay5X-Y6Pro-TIT-AL00-HB526379EBC//Null//Battery//0//Null//Null
@@ -734,6 +743,7 @@
 557//MMTBQ8TB//Q8-MoMoTablet//Black//Touch//3,500//Null//Null
 558//MMTWQ8TW//Q8-MoMoTablet//White//Touch//3,500//Null//Null
 559//MMX2BTBM50BT//MiMax2-BM50//Null//Battery//7,500//5,6,2021//HX
+559//MMX2BTBM50BT//MiMax2-BM50//Null//Battery//13,500//16,9,2021//Naing Win
 559//MMX2MFMMX2LCDF//MiMax2//Null//Middle Flex,LCD Flex//3,500//27,6,2021//Master
 559//MMX2BTBM50BT//MiMax2-BM50(ORG)//Null//Battery//10,500//31,5,2021//FoneClub
 560//MMX2PK//MiMax2//Null//Power Flex//2,000//12,8,2021//HX
@@ -743,11 +753,13 @@
 564//MMX2TB//MiMax2//Black//TouchOnly//5,500//27,6,2021//Master
 561//MMX2SPK//MiMax2//Null//Speaker//3,000//Null//Null
 564//MMX2TB//MiMax2//Black//TouchOnly//4,500//7,10,2020//HX
+564//MMX2TB//MiMax2//Black//TouchOnly//8,500//16,9,2021//Naing Win
 565//MMX2TLB//MiMax2//Black//T+L//40,000//7,7,2021//Master
 565//MMX2TLB//MiMax2//Black//T+L//33,500//25,8,2021//FoneClub
 566//MMX2TLW//MiMax2(AA)//White//T+L//32,000//3,8,2021//HX
 566//MMX2TLW//MiMax2//White//T+L//36,000//23,4,2021//Master
 567//MMX2TW//MiMax2//White//TouchOnly//5,500//21,8,2021//HX
+567//MMX2TW//MiMax2//White//TouchOnly//8,500//16,9,2021//Naing Win
 567//MMX2TW//MiMax2//White//TouchOnly//5,500//25,7,2021//Master
 567//MMX2TW//MiMax2//White//TouchOnly//5,500//26,4,2021//FoneClub
 568//MMX2USB//MiMax2//Null//USB Board//2,500//10,8,2021//HX
@@ -763,6 +775,7 @@
 576//MMX1BDCB//MiMax1//Black//BodyCover//17,000//16,2,2021//Nice
 577//MMX1BDCG//MiMax1//Gold//BodyCover//12,500//12,12,2020//HX
 578//MMX1BTBM49BT//MiMax1-BM49//Null//Battery//8,500//10,8,2021//HX
+578//MMX1BTBM49BT//MiMax1-BM49//Null//Battery//13,500//16,9,2021//Naing Win
 578//MMX1BTBM49BT//MiMax1-BM49-ORG//Null//Battery//9,500//6,9,2021//FoneClub
 579//MMX1FPG//MiMax1//Gold//Fingerprints//4,500//Null//Null
 580//MMX1FPGR//MiMax1//Gray//Fingerprints//4,500//Null//Null
@@ -771,6 +784,7 @@
 583//MMX1SPK//MiMax1//Null//Speaker//3,000//Null//Null
 584//MMX1STGMMX1STB//MiMax1//Black,Gold//Sim Tray//3,000//21,11,2020//Master
 586//MMX1TB//MiMax1//Black//TouchOnly//5,000//16,6,2021//HX
+586//MMX1TB//MiMax1//Black//TouchOnly//8,000//16,9,2021//Naing Win
 587//MMX1TLB//MiMax1//Black//T+L//35,000//15,12,2020//Master
 588//MMX1TLW//MiMax1//White//T+L//33,000//23,6,2021//FoneClub
 588//MMX1TLW//MiMax1//White//T+L//42,500//12,8,2021//Master
@@ -906,10 +920,12 @@
 699//OPA33TBOPNEO7TB//A33-Neo7-Oppo//Black//TouchOnly//3,000//15,12,2020//HX
 700//OPA33TLBOPNEO7TLB//A33-Neo7-Oppo//Black//T+L//18,500//21,5,2021//HX
 701//OPA33TLWOPNEO7TLW//A33-Neo7-Oppo//White//T+L//19,000//10,8,2021//HX
+701//OPA33TLWOPNEO7TLW//A33-Neo7-Oppo//White//T+L//22,500//16,9,2021//Naing Win
 701//OPA33TLWOPNEO7TLW//A33-Neo7-Oppo//White//T+L//19,500//15,7,2021//Master
 701//OPA33TLWOPNEO7TLW//A33-Neo7-Oppo//White//T+L//16,500//13,1,2021//FoneClub
 702//OPA33TWOPNEO7TW//A33-Neo7-Oppo//White//TouchOnly//4,000//2,9,2021//HX
 702//OPA33TWOPNEO7TW//A33-Neo7-Oppo//White//TouchOnly//4,000//16,6,2021//Master
+702//OPA33TWOPNEO7TW//A33-Neo7-Oppo//White//TouchOnly//4,000//16,9,2021//Naing Win
 703//OPA33USBFOPNEO7USBF//A33-Oppo//Null//USB Flex//3,500//10,3,2021//HX
 704//OPA33VFOPNEO7VF//A33-Oppo//Null//Volume Flex//1,500//14,2,2021//HX
 705//OPA37BDCG//A37-Oppo//Gold//BodyCover//7,000//Null//Null
@@ -921,6 +937,7 @@
 710//OPA37STGR//A37-Oppo//Gray//Sim Tray//2,800//Null//Null
 712//OPA37TLB//A37-Oppo//Black//T+L//18,000//10,8,2021//HX
 713//OPA37TLW//A37-Oppo//White//T+L//18,000//1,7,2021//HX
+713//OPA37TLW//A37-Oppo//White//T+L//24,500//16,9,2021//Naing Win
 713//OPA37TLW//A37-Oppo//White//T+L//20,000//18,8,2021//Master
 713//OPA37TLW//A37-Oppo//White//T+L//20,500//25,8,2021//FoneClub
 707//BLP577BTOPA33BTOPA51BT//A33-A51-BLP577//Null//Battery//5,500//10,11,2020//HX
@@ -929,6 +946,7 @@
 710//OPA37STGR//A37-Oppo//Gray//Sim Tray//2,800//Null//Null
 712//OPA37TLB//A37-Oppo//Black//T+L//20,000//18,8,2021//Master
 714//OPA37TWOPA37TB//A37-Oppo//White,Black//Touch Only//3,500//10,8,2021//HX
+714//OPA37TWOPA37TB//A37-Oppo//White,Black//Touch Only//5,000//16,9,2021//Naing Win
 715//OPA37USBFL//A37-Oppo//Null//USB Flex//3,500//18,8,2021//Master
 716//OPA39BDCBOPA57BDCB//A39-A57-Oppo//Black//BodyCover//7,000//Null//Null
 717//OPA39BDCGOPA57BDCG//A39-A57-Oppo//Gold//BodyCover//9,000//Null//Null
@@ -965,9 +983,11 @@
 740//OPA57TB//A57-Oppo//Black//TouchOnly//3,500//15,12,2020//HX
 741//OPA57TLB//A57-Oppo//Black//T+L//15,000//10,3,2021//HX
 741//OPA57TLB//A57-Oppo//Black//T+L//20,500//7,7,2021//Master
+741//OPA57TLB//A57-Oppo//Black//T+L//30,500//16,9,2021//Naing Win
 741//OPA57TLW//A57-Oppo//White//T+L//20,500//7,7,2021//Master
 741//OPA57TLW//A57-Oppo//White//T+L//20,500//25,8,2021//FoneClub
 742//OPA57TLW//A57-Oppo//White//T+L//22,500//11,9,2021//HX
+742//OPA57TLW//A57-Oppo//White//T+L//30,500//16,9,2021//Naing Win
 743//OPA57TW//A57-Oppo//White//TouchOnly//3,500//27,6,2021//Master
 744//OPA59PK//A59-Oppo//Null//Power Flex//1,500//31,1,2021//HX
 745//OPA5STLBOPA7TLBRME3TLB//A5s-A7-Realme3//Black//T+L//38,000//2,9,2021//HX
@@ -999,7 +1019,7 @@
 757//OPA83STBOPF5LSTB//A83-F5lite//Black,Red//Sim Tray//2,500//30,11,2020//Master
 757//OPA83BDCROPF5LBDCR//A83-F5lite//Red//Body Cover//7,500//30,11,2020//Master
 758//OPA83TLBOPF5LTLB//A83-F5Lite//Black//T+L//33,500//3,8,2021//HX
-759//OPA83TLWOPF5LTLW//A83-F5lite//White//T+L//20,000//24,10,2020//BRIGHT
+759//OPA83TLWOPF5LTLW//A83-F5lite//White//T+L//41,000//16,9,2021//Naing Win
 759//OPA83TLWOPF5LTLW//A83-F5lite//White//T+L//33,500//3,8,2021//HX
 760//OPF11TLBOPF9PTLB//F11-F9Pro//Black//T+L//35,500//30,8,2021//FoneClub
 760//OPF11BDCGN&B//F11//Green & Black//Body Cover//12,500//12,8,2021//Master
@@ -1152,12 +1172,15 @@
 883//RM3TLBRM3STLBRM3XTLB//RedMi3-3s-3X//Black//T+L//19,600//10,7,2021//Master
 884//RM3TLGRM3STLGRM3XTLG//RedMi3-3s-3X//Gold//T+L//19,600//5,4,2021//Master
 884//RM3TLGRM3STLGRM3XTLG//RedMi3-3s-3X//Gold//T+L//19,000//17,5,2021//HX
+884//RM3TLGRM3STLGRM3XTLG//RedMi3-3s-3X//Gold//T+L//21,500//16,9,2021//Naing Win
 884//RM3TLGRM3STLGRM3XTLG//RedMi3-3s-3X//Gold//T+L//17,500//9,7,2021//FoneClub
 885//RM3TLWRM3STLWRM3XTLW//RedMi3-3s-3X//White//T+L//19,600//10,7,2021//Master
 886//RM3TWRM3STWRM3XTW//RedMi3-3s-3x//White//TouchOnly//4,000//31,5,2021//Master
 887//RM4ABDCG//RedMi4A//Gold,RoseGold//BodyCover//6,000//21,11,2020//Master
 888//RM4APK//RedMi4A//Null//Power Flex//1,500//16,6,2021//HX
 889//RM4ATB//RedMi4A//Black//TouchOnly//3,500//10,8,2021//HX
+889//RM4ATB//RedMi4A//Black//TouchOnly//4,500//16,9,2021//Naing Win
+890//RM4ATG//RedMi4A//Gold//TouchOnly//4,500//16,9,2021//Naing Win
 890//RM4ATG//RedMi4A//Gold//TouchOnly//3,500//31,1,2021//Master,HX
 891//RM4ATLB//RedMi4A//Black//T+L//17,500//14,5,2021//FoneClub
 891//RM4ATLB//RedMi4A//Black//T+L//20,500//11,9,2021//HX
@@ -1165,6 +1188,7 @@
 892//RM4ATLG//RedMi4A//Gold//T+L//19,000//21,8,2021//HX
 893//RM4ATLW//RedMi4A//White//T+L//17,500//14,5,2021//FoneClub
 893//RM4ATLW//RedMi4A//White//T+L//18,500//3,8,2021//HX
+893//RM4ATLW//RedMi4A//White//T+L//21,500//16,9,2021//Naing Win
 894//RM4ATW//RedMi4A//White//TouchOnly//3,500//10,8,2021//HX
 895//RM4AUSB//RedMi4A//Null//USB Board//3,000//25,8,2021//Master
 896//RM4PK//RedMi4//Null//Power Flex//1,300//Null//Null
@@ -1195,15 +1219,17 @@
 920//RM4XSPK//RedMi4X//Null//Speaker//3,000//27,6,2021//Master
 921//RM4XTB//RedMi4x//Black//TouchOnly//4,000//10,7,2021//HX,Master
 921//RM4XTB//RedMi4x//Black//TouchOnly//5,500//23,5,2021//Royal Star
-922//RM4XTG//RedMi4X//Gold//TouchOnly//4,500//Null//Null
+922//RM4XTG//RedMi4X//Gold//TouchOnly//4,500//16,9,2021//Naing Win
 923//RM4XTLB//RedMi4X//Black//T+L//19,500//2,9,2021//HX
 923//RM4XTLB//RedMi4X//Black//T+L//18,500//23,6,2021//FoneClub 
 923//RM4XTLB//RedMi4X//Black//T+L//18,500//18,8,2021//Master
 924//RM4XTLG//RedMi4X//Gold//T+L//17,000//23,4,2021//HX
+924//RM4XTLG//RedMi4X//Gold//T+L//21,500//16,9,2021//Naing Win
 925//RM4XTLW//RedMi4X//White//T+L//19,500//28,8,2021//Master
 925//RM4XTLW//RedMi4X//White//T+L//17,000//29,4,2021//HX
 925//RM4XTLW//RedMi4X//White//T+L//18,500//23,6,2021//FoneClub
 926//RM4XTW//RedMi4X//White//TouchOnly//4,000//3,8,2021//HX
+926//RM4XTW//RedMi4X//White//TouchOnly//4,500//16,9,2021//Naing Win
 927//RM4XUSB//RedMi4x//Null//USB Board//3,500//2,9,2021//HX
 928//RM5ABDCG//RedMi5A//Gold//BodyCover//7,500//Null//Null
 929//RM5ABDCGR//RedMi5A//Grey//BodyCover//7,500//Null//Null
@@ -1257,12 +1283,14 @@
 969//RM5XTBMI5XTB//RedMi5x//Black//TouchOnly//4,500//26,4,2021//Master
 970//RM5XTLWMI5XTLWMIA1TLBMIA1TLW//Redmi5x-MIA1//White//T+L//25,500//11,9,2021//HX
 969//RM5XTBMI5XTB//RedMi5x//Black//TouchOnly//3,000//2,9,2021//HX
+969//RM5XTBMI5XTB//RedMi5x//Black//TouchOnly//5,500//16,9,2021//Naing Win
 970//RM5XTLBMI5XTLBMIA1TLB//Redmi5x-MIA1//Black//T+L//23,000//21,8,2021//HX
 970//MI5XTLBMIA1TLB//Mi5x-MIA1//Black//T+L//25,000//6,9,2021//FoneClub
 970//RM5XTLBMI5XTLBMIA1TLB//Redmi5x-MIA1-(Frame)//Black//T+L//33,000//21,5,2021//Master
 971//RM5XTLGMI5XTLGMIA1TLG//Redmi5x-MIA1//Gold//T+L//18,000//Null//Null
 972//RM5XTLWMIA1TLWMI5XTLW//Redmi5x//White//T+L//25,500//6,9,2021//FoneClub
 973//RM5XTWMI5XTW//RedMi5x//White//Touch//4,000//3,8,2021//HX
+973//RM5XTWMI5XTW//RedMi5x//White//Touch//5,500//16,9,2021//Naing Win
 973//RM5XTWMI5XTW//RedMi5x//White//Touch//3,500//30,11,2020//Master
 974//RM6ABDCSM1G//Redmi6A(Sim-1)//Gold//BodyCover//8,000//28,10,2020//Master
 974//RM6ABDCSM1GY//Redmi6A(Sim-1)//Gray//BodyCover//6,500//14,12,2020//HX
@@ -1367,6 +1395,7 @@
 1044//RMN2PK//RedMiNote2//Null//Power Flex//1,500//10,8,2021//Master
 1045//RMN2TB//RedMiNote2//Black//TouchOnly//4,500//5,5,2021//FoneClub
 1045//RMN2TB//RedMiNote2//Black//TouchOnly//4,500//5,5,2021//HX
+1045//RMN2TB//RedMiNote2//Black//TouchOnly//5,500//16,9,2021//Naing Win
 1046//RMN2TLB//RedMiNote2//Black//T+L//16,500//10,3,2021//HX
 1046//RMN2TLB//RedMiNote2//Black//T+L//19,000//28,5,2021//Master
 1047//RMN2USB//RedMiNote2//Null//USB Board//3,000//1,7,2021//HX
@@ -1375,6 +1404,7 @@
 1049//RMN3BDCG//RedMiNote3//Gold//BodyCover//9,500//19,12,2020//Master
 1050//RMN3BDCGRRMN3BDCB//RedMiNote3//Gray//BodyCover//12,000//18,8,2021//Master
 1051//RMN3BTBM46BT//RedMiNote3-BM46//Null//Battery//6,500//17,5,2021//HX
+1051//RMN3BTBM46BT//RedMiNote3-BM46//Null//Battery//9,500//16,9,2021//Naing Win
 1051//RMN3BTBM46BT//RedMiNote3-BM46//Null//Battery//7,500//5,6,2021//FoneClub
 1051//RMN3BTBM46BT//RedMiNote3-BM46//Null//Battery//8,000//12,8,2021//Master
 1052//RMN3FGPGR//RedMiNote3//Grey//Fingerprints//5,000//10,11,2020//Master
@@ -1396,13 +1426,16 @@
 1066//RMN3PUSB//Redminote3Pro//Null//USB Board//3,500//25,8,2021//S.L.S
 1067//RMN3STGRMN3STGRRMN3STB//Redminote3//Gray,Gold,Black//Sim Tray//3,000//21,11,2020//Master
 1068//RMN3TB//RedmiNote3//Black//TouchOnly//3,500//10,8,2021//HX
+1068//RMN3TB//RedmiNote3//Black//TouchOnly//5,500//16,9,2021//Naing Win
 1068//RMN3TB//RedmiNote3//Black//TouchOnly//3,500//1,3,2021//Nice
 1068//RMN3TB//RedmiNote3//Black//TouchOnly//3,500//25,1,2021//Master
 1069//RMN3TG//RedmiNote3//Gold//TouchOnly//3,500//16,6,2021//HX
+1069//RMN3TG//RedmiNote3//Gold//TouchOnly//5,500//16,9,2021//Naing Win
 1069//RMN3TG//RedmiNote3//Gold//TouchOnly//3,500//5,6,2021//FoneClub
 069//RMN3TG//RedmiNote3//Gold//TouchOnly//3,500//11,6,2021//Master
 1070//RMN3TLB//Redminote3//Black//T+L//19,500//16,6,2021//HX
 1071//RMN3TLG//Redminote3//Gold//T+L//16,000//23,4,2021//HX
+1071//RMN3TLG//Redminote3//Gold//T+L//26,000//16,9,2021//Naing Win
 1072//RMN3TLW//Redminote3//White//T+L//14,500//20,12,2020//HX
 1073//RMN3TW//RedmiNote3//White//TouchOnly//3,500//16,6,2021//HX
 1074//RMN3USB//Redminote3//Null//USB Board//3,000//25,8,2021//Master
@@ -1430,6 +1463,7 @@
 1088//RMN4STRG//Redminote4//Rose Gold//Sim Tray//3,000//12,8,2021//Master
 1089//RMN4STGR//Rdminote4//Gray//Sim Tray//3,000//12,8,2021//Master
 1090//RMN4TB//RedmiNote4//Black//TouchOnly//3,500//10,8,2021//HX
+1090//RMN4TB//RedmiNote4//Black//TouchOnly//5,500//16,9,2021//Naing Win
 1091//RMN4TLB//Redminote4//Black//T+L//20,500//10,8,2021//HX
 1092//RMN4TLW//Redminote4//White//T+L//22,500//3,8,2021//Master
 1092//RMN4TLW//Redminote4//White//T+L//23,500//25,8,2021//FoneClub
@@ -1458,6 +1492,7 @@
 1102//RMN4XSTG//Redminote4x//Gold//Sim Tray//3,000//28,12,2020//HX
 1103//RMN4XSTGR//Redminote4x//Gray//Sim Tray//3,000//Null//Null
 1104//RMN4XTB//RedmiNote4x//Black//TouchOnly//3,500//23,6,2021//HX,FoneClub
+1104//RMN4XTB//RedmiNote4x//Black//TouchOnly//3,500//16,9,2021//Naing Win
 1104//RMN4XTB//RedmiNote4x//Black//TouchOnly//4,500//27,6,2021//Master
 1105//RMN4XTG//RedmiNote4x//Gold//TouchOnly//4,300//Null//Null
 1106//RMN4XTLB//Redminote4X//Black//T+L//23,000//2,9,2021//HX
@@ -1469,6 +1504,7 @@
 1107//RMN4XTLW//Redminote4X//White//T+L//23,000//3,8,2021//Master
 1107//RMN4XTLW//Redminote4X//White//T+L//18,500//14,5,2021//FoneClub
 1108//RMN4XTW//RedmiNote4x//White//TouchOnly//3,500//23,6,2021//HX,FoneClub
+1108//RMN4XTW//RedmiNote4x//White//TouchOnly//5,500//16,9,2021//Naing Win
 1108//RMN4XTW//RedmiNote4x//White//TouchOnly//4,500//27,6,2021//Master
 1108//VVY1519USBB//VIVO-Y15(2019)//Null//USB Board//4,500//1,1,2021//Master
 1109//RMN4XUSB//Red Mi Note4X//Null//USB Board//3,500//28,8,2021//Master
@@ -1484,9 +1520,12 @@
 1115//RMN5A16TLWRMN5A32TLW//Redminote5A(16GB)(32GB)//White//T+L//21,000//14,5,2021//FoneClub
 1116//RMN5ATW//RedmiNote5A//white//TouchOnly//3,500//14,5,2021//FoneClub
 1113//RMN5ATB//RedmiNote5A//Black//TouchOnly//4,000//17,5,2021//HX
+1113//RMN5ATB//RedmiNote5A//Black//TouchOnly//5,500//16,9,2021//Naing Win
+1114//RMN5A16TLBRMN5A32TLB//Redminote5A(16GB)(32GB)//Black//T+L//29,500//16,9,2021//Naing Win
 1114//RMN5A16TLBRMN5A32TLB//Redminote5A(16GB)(32GB)//Black//T+L//21,500//17,5,2021//HX
 1115//RMN5A16TLWRMN5A32TLW//Redminote5A(16GB)(32GB)//White//T+L//23,500//2,9,2021//HX
 1116//RMN5ATW//RedmiNote5A//White//TouchOnly//4,000//3,8,2021//HX
+1116//RMN5ATW//RedmiNote5A//White//TouchOnly//5,500//16,9,2021//Naing Win
 1124//RMN5AFPG//Redminote5a//Gold//Fingerprints//4,500//28,5,2021//Master
 1125//RMN5AMF//RedmiNote5A//Null//Maddle Flex//2,500//13,9,2020//HX
 1126//RMN5APK//Redminote5A//Null//Power Flex//2,000//2,9,2021//HX
@@ -1512,7 +1551,7 @@
 1138//RMN5TLB//Redminote5,Note5Pro//Black//T+L//29,000//10,8,2021//HX
 1138//RMN5TLWRMN5PTLW//Redminote5//White//T+L//24,500//9,5,2021//Master
 1139//RMN5TLW//Redminote5//White//T+L//37,000//11,9,2021//HX
-1140//RMN5USB//RedmiNote5//Null//USB Board//3,000//6,9,2021//FoneClub
+1140//RMN5USB//RedmiNote5//Null//USB Board//3,500//16,9,2021//Naing Win
 1141//RMN6PGB//RedMiNote6Pro//Black//Glass//3,000//5,6,2021//FoneClub
 1141//RMN6PSTBLRMN6PSTB//RedMiNote6Pro//Blue,Black//Sim Tray//3,000//27,6,2021//Master
 1141//RMN6PBTBN48BT//RedMiNote6Pro-BN48//Null//Battery//8,500//3,8,2021//Master
@@ -1704,6 +1743,7 @@
 1275//SSG530TGSSGGPTGSSGPTG//G530-GrandPrime//Gold//Touch//4,000//17,7,2021//Master
 1276//SSG530TWSSG531TWSSGGPTWSSGPTW//G530-G531-Grandprime//White//Touch//4,000//7,7,2021//Master
 1276//SSG530TWSSG531TWSSGGPTWSSGPTW//G530-G531-Grandprime//White//Touch//4,500//28,5,2021//Master
+1277//SSG532LCDSSJ2PLCDSSG530LCDSSG531LCDSSGGPLCDSSGPLCD//G532-G530-G531-J2Prime//Null//LCD//18,500//16,9,2021//Naing Win
 1277//SSG532LCDSSJ2PLCDSSG530LCDSSG531LCDSSGGPLCDSSGPLCD//G532-G530-G531-J2Prime//Null//LCD//18,000//3,8,2021//Master
 1278//SSG7102BDCBSSG2BDCBSSG7106BDCB//G7102-Grand2-G7106//Black//BodyCover//4,500//Null//Null
 1279//SSG7102BDCGSSG7106BDCGSSG2BDCG//G7102-G7106-Grand2//Gold//BodyCover//4,500//Null//Null
@@ -1872,6 +1912,7 @@
 1422//SSON7TBSSG6000TB//On7-G600-Samsung//Black//Touch//4,500//3,8,2021//Master
 1423//SSON7TGSSG6000TG//On7-G600-Samsung//Gold//Touch//3,500//5,6,2021//Fone Club
 1424//SSON7TWSSG6000TW//On7-G600-Samsung//White//Touch//4,000//10,11,2020//HX
+1424//SSON7TWSSG6000TW//On7-G600-Samsung//White//Touch//5,000//16,9,2021//Naing Win
 1425//SSP5100BTSSP7500BTSSN8000BTSP3676B1ABT//Samsung-GlaxyTab2-P5100-P7500-N8000-SP3676B1A//Null//Battery//11,000//Null//Null
 1426//SSP5200TB//P5200-Samsung//Black//Touch//9,000//Null//Null
 1426//SSP5200BT//P5200-Samsung//Null//Battery//12,500//7,2,2021//Master
@@ -1943,6 +1984,7 @@
 1484//VVY20TLB//VIVO-Y20//Black//T+L//33,000//10,3,2021//Master
 1484//VVY20BCB//VIVO-Y20//Black//Back Cover//4,500//11,9,2021//Master
 1484//VVY20TLB//VIVO-Y20//Black//T+L//38,000//3,8,2021//HX
+1484//VVY20TLB//VIVO-Y20//Black//T+L//41,000//16,9,2021//Naing Win
 1485//VVV15USB//Vivo-V15//Null//Charging Flex//3,500//Null//Null
 1486//VVV1BTVVY35BTVVBB3BT//V1-Y35-B-B3-Vivo//Null//Battery//6,500//3,4,2021//FoneClub
 1487//VVV1MXTLWVVY37TLW//V1max-Y37-Vivo//White//T+L//17,000//Null//Null
@@ -1959,6 +2001,7 @@
 1497//VVV3MXUSBF//V3Max//Null//USB Flex//3,500//25,8,2021//Master
 1498//VVV3MXTLWVVV3MAXTLW//V3Max//White//T+L//19,500//24,12,2020//Master
 1498//VVV3MXTLWVVV3MAXTLW//V3Max//White//T+L//23,000//28,5,2021//Master
+1498//VVV3MXTLWVVV3MAXTLW//V3Max//White//T+L//25,500//16,9,2021//Naing Win
 1499//VVV3TB//V3-Vivo//Black//TouchOnly//4,000//14,2,2021//HX
 1500//VVV3TLB//Vivo-V3//Black//T+L//13,500//7,10,2020//HX
 1501//VVV3TLW//V3-Vivo//White//T+L//16,500//10,3,2021//HX
@@ -1980,6 +2023,7 @@
 1512//VVV5LTLB//V5Lite//Black//T+L//18,100//24,11,2020//FoneClub
 1512//VVV5LTLB//V5Lite//Black//T+L//22,500//25,8,2021//Master
 1513//VVV5LTLW//V5Lite//White//T+L//21,000//10,3,2021//HX
+1513//VVV5LTLW//V5Lite//White//T+L//30,000//16,9,2021//Naing Win
 1513//VVV5LTLW//V5Lite//White//T+L//23,000//31,5,2021//FoneClub
 1514//VVV5LTW//V5Lite//White//TouchOnly//4,000//3,8,2021//HX
 1517//VVV5STGVVY66STGVVV5STRGVVY66STRGVVV5STB//V5-Y66-Vivo//Gold,RoseGold,Black//Sim Tray//3,500//28,8,2021//Master
@@ -2053,7 +2097,7 @@
 1565//VVY31TLB//Y31-Vivo//Black//T+L//14,500//6,11,2020//Master
 1566//VVY31TLW//Y31-Vivo//White//T+L//14,500//6,11,2020//Master
 1567//VVY31TW//Y31-Vivo//White//TouchOnly//3,800//Null//Null
-1568//VVY31USBF//Y31-Vivo//Null//USB Flex//4,000//5,4,2021//Master
+1568//VVY31USBF//Y31-Vivo//Null//USB Flex//4,500//16,9,2021//Naing Win
 1569//VVY35AMF//Vivo-Y35a//Null//Maddle Flex//2,800//Null//Null
 1570//VVY51BDCBY52BDCB//Y51-Y52-Vivo//Black//BodyCover//12,000//18,1,2021//Master
 1571//VVY51BDCWVVY52BDCW//Y51-Y52-Vivo//White//BodyCover//12,000//23,4,2021//Master
@@ -2065,6 +2109,7 @@
 1575//VVY51TLBY52TLB//Y51-Y52-Vivo//Black//T+L//17,500//16,6,2021//HX
 1576//VVY51TLWY52TLW//Y51-Y52-Vivo//White//T+L//19,000//3,8,2021//HX
 1577//VVY51TWY52TW//Y51-Y52-Vivo//White//TouchOnly//3,500//3,8,2021//HX
+1577//VVY51TWY52TW//Y51-Y52-Vivo//White//TouchOnly//5,000//16,9,2021//Naing Win
 1578//VVY51USBFY52USBF//Y51-Y52-Vivo//Null//USB Flex//4,500//1,9,2021//HX
 1579//VVY53BDCG//Y53-Vivo//Gold//BodyCover//6,500//24,11,2020//FoneClub
 1579//VVY53BDCB//Y53-Vivo//Black//BodyCover//6,000//28,12,2020//HX
@@ -2091,9 +2136,11 @@
 1595//VVY55TB//Vivo-Y55//Black//TouchOnly//3,500//12,8,2021//Master
 1596//VVY55TLB//Vivo-Y55//Black//T+L//22,000//22,8,2021//HX
 1596//VVY55TLB//Vivo-Y55//Black//T+L//20,500//12,8,2021//Master
+1596//VVY55TLB//Vivo-Y55//Black//T+L//29,500//16,9,2021//Naing Win
 1597//VVY55TLW//Vivo-Y55//White//T+L//23,500//11,9,2021//HX
 1597//VVY55TLW//Vivo-Y55//White//T+L//20,000//5,6,2021//Master
 1598//VVY55TW//Vivo-Y55//White//TouchOnly//4,000//2,9,2021//HX
+1598//VVY55TW//Vivo-Y55//White//TouchOnly//5,500//16,9,2021//Naing Win
 1598//VVY55TW//Vivo-Y55//White//TouchOnly//4,500//20,1,2021//FoneClub
 1598//VVY55TW//Vivo-Y55//White//TouchOnly//3,500//28,5,2021//Master
 1600//VVY65TBVVY66TB//Y65-Y66-Vivo//Black//Touch//3500//Null//Null
@@ -2111,6 +2158,7 @@
 1609//VVY71STB//Vivo-Y71//Black//Sim Tray//2,500//Null//Null
 1610//VVY71TLB//Y71-VIVO//Black//T+L//38,500//11,9,2021//HX
 1610//VVY71TLB//Y71-VIVO//Black//T+L//34,000//18,8,2021//Master
+1610//VVY71TLB//Y71-VIVO//Black//T+L//39,500//16,9,2021//Naing Win
 1612//VVY81BTBE5BT//Y81-Vivo//Null//Battery//6,000//7,10,2020//HX
 1612//VVY81BDCG//VIVO-Y81(With FP)//Gold//Body Cover//8,000//11,9,2021//Master
 1612//VVY81BDCB//VIVO-Y81(With FP)//Black//Body Cover//8,000//11,9,2021//Master
@@ -2324,6 +2372,7 @@
 1742//OPF3PTLB//Oppo-F3Plus//Black//T+L//37,500//30,10,2020//Master
 1743//OPF3PTLW//Oppo-F3Plus//White//T+L//37,500//21,11,2020//Master
 1743//OPA37TWOPA37TB//A37-Oppo//White,Black//TouchOnly//3,500//31,5,2021//Master
+1743//OPA37TWOPA37TB//A37-Oppo//White,Black//TouchOnly//5,000//16,9,2021//Naing Win
 1744//VVV5PTLW//V5Plus-Vivo//White//T+L//19,500//30,10,2020//Master
 1745//HWY6TLGHW4ATLG//Y6-4A-Huawei//Gold//T+L//15,000//10,3,2021//HX
 1746//IPH6PTLBAA//Iphone6Plus//Black//T+L//18,500//30,10,2020//Master
@@ -2331,6 +2380,7 @@
 1748//MZM2NTB//M2note-Meizu//Black//TouchOnly//6,000//30,10,2020//Master
 1749//MMX1MDFMMX1LCDF//MiMax1//Null//MaddleFlex,LCD Flex//2,500//27,6,2021//Master
 1749//MMX1TW//MiMax//White//TouchOnly//6,000//5,5,2021//FoneClub
+1749//MMX1TW//MiMax//White//TouchOnly//8,000//16,9,2021//Naing Win
 1750//MMX1TB//MiMax//Black//TouchOnly//6,000//5,6,2021//Nice
 1751//MMX3TB//MiMax3//Black//TouchOnly//5,500//5,6,2021//Master
 1752//MMX3TW//MiMax3//White//TouchOnly//5,500//5,6,2021//Master
@@ -2350,6 +2400,7 @@
 1764//HWEJ6STLBHON6STLB//Enjoy6s-Honor6s//Black//T+L//17,000//30,10,2020//HX
 1765//HWEJ6STLGHON6STLG//Enjoy6s-Honor6s//Gold//T+L//17,000//30,10,2020//HX
 1766//HWY7P19TLB//Y7Pro(19)-Huawei//Black//T+L//22,000//31,1,2021//HX
+1766//HWY7P19TLB//Y7Pro(19)-Huawei//Black//T+L//33,500//16,9,2021//Naing Win
 1766//HWY7P19TB//Y7Pro(19)-Huawei//Black//Touch//4,500//7,1,2021//HX
 1767//HWP8LTLW//P8Lite-Huawei//White//T+L//15,500//30,10,2020//HX
 1768//HWP8LTLB//P8Lite-Huawei//Black//T+L//17,500//3,8,2021//HX
@@ -2361,6 +2412,7 @@
 1770//SSA50TLBSSA50STLBSSM30TLB//Samsung-A50-A50S-M30//Black//T+L//53,000//26,4,2021//FoneClub
 1771//OPA83TLWOPF5LTLW//A83-F5lite-Oppo//White//T+L//32,500//7,7,2020//Master
 1772//OPA83TLBOPF5LTLB//A83-F5lite-Oppo//Black//T+L//32,500//7,7,2021//Master
+1772//OPA83TLBOPF5LTLB//A83-F5lite-Oppo//Black//T+L//41,000//16,9,2021//Naing Win
 1772//OPA83TLBOPF5LTLB//A83-F5lite-Oppo//Black//T+L//27,000//10,2,2021//FoneClub
 1772//SSA515TLWA500HTLW//Samsung-A5(2015)-A500H//White//T+L//45,000//9,4,2021//Master
 1773//OPA31TLBOPA5TLBOPA9TLBOPA11XTLBRME5TLBOPA520TLBOPA920TLBRME5ITLBRME5STLBRME6ITLBRMEC3TLB//A31-A5-A9(2020)-A11X-REALME5-5i-5S-6i-C3//Black//T+L//40,000//11,9,2021//HX
@@ -2415,8 +2467,9 @@
 1816//RM3TWRM3STWRM3XTW//Redmi3-3s-3x//White//TouchOnly//3,500//5,6,2021//HX
 1817//RM3TBRM3STBRM3XTB//Redmi3-3s-3x//Black//TouchOnly//3,500//5,6,2021//HX
 1818//RM3TGRM3STGRM3XTG//Redmi3-3s-3x//Gold//TouchOnly//3,500//25,6,2021//HX
+1818//RM3TGRM3STGRM3XTG//Redmi3-3s-3x//Gold//TouchOnly//5,000//16,9,2021//Naing Win
 1819//RMS2TBMIS2TB//RedmiS2//Black//TouchOnly//3,500//18,2,2021//Master
-1819//RMS2USBB//RedmiS2//Null//USB Board//2,500//10,8,2021//HX
+1819//RMS2USBB//RedmiS2//Null//USB Board//3,000//16,9,2021//Naing Win
 1820//MINTWMINLTETW//MiNoteLTE//White//TouchOnly//5,000//30,10,2020//HX
 1821//MMX1TLW//Mimax1//White//T+L//30,000//10,5,2021//HX
 1822//MMX1TLB//Mimax1//Black//T+L//29,000//30,10,2020//HX
@@ -2446,7 +2499,7 @@
 1844//HWY719TB//Y7(2019)-Huawei//Black//Touch//4,500//10,3,2021//HX
 1845//RM4ATLW//Redmi4A//White//T+L//14,800//30,1,2021//HX
 1846//RMN1USB//Redminote1(4G)(3G)//Null//USB Board//2,500//10,8,2021//HX
-1847//RM8USB//RedMi8//Null//USB Board//4,000//21,5,2021//Master
+1847//RM8USB//RedMi8//Null//USB Board//4,500//16,9,2021//Naing Win
 1848//HWY5IIUSBHWY52USBB//Huawei-Y5II-Y52//Null//USB Board//4,500//23,4,2021//Master
 1849//VVY71TLB//Y71-VIVO//Black//T+L//31,500//5,5,2021//FoneClub
 1849//VVY71TLB//Y71-VIVO//Black//T+L//34,000//11,6,2021//Master
@@ -2471,6 +2524,7 @@
 1856//SSJ4PTLBSSJ6PTLBSSJ415TLBSSJ615TLB//J4Plus(J415)-J6Plus(J615)//Black//T+L//30,500//27,6,2021//Master
 1857//RMN1TB//Redminote1//Black//TouchOnly//4,000//12,8,2021//Master
 1857//RMN1TB//Redminote1//Black//TouchOnly//3,500//14,5,2021//FoneClub
+1857//RMN1TB//Redminote1//Black//TouchOnly//5,500//16,9,2021//Naing Win
 1858//RM8BDCGR//RedMi8//Gray//Body Cover//9,500//25,1,2021//Master
 1858//RM8BDCR//RedMi8//Red//Body Cover//9,500//25,1,2021//Master
 1859//OPA33TLBOPNEO7TLB//A33-Neo7-Oppo//Black//T+L//19,500//12,68,2021//Master
