@@ -6,16 +6,16 @@ No//CODE//Model//Color//Error//ServicePrice//Date//WtyPrice//ItemPrice
 5//HWP20T//Huuawei P20//Black//Touch Only/23,000//18,9,2021//Null//Null
 6//NV3ITLM20LTL//Nova3i-Mate20Lite//Null//Touch+LCD/45,000//18,9,2021//80,000//37,500
 7//NV3ITM20LT//Nova3i-Mate20Lite//Null//Touch Only/30,000//18,9,2021//Null//Null
-8//Y317TL//Huawei Y3(2017)//Null//TL// 23,000//18,9,2012//40,000//Null 
-9//Y317T//Huawei Y3(2017)//Null//T// 15,000//18,9,2012//28,000//Null  
-10//GR317TL//Huawei GR3(2017)//Null//TL//23,000//18,9,2021//40,000//Null 
+8//Y317TL//Huawei Y3(2017)//Null//TL// 23,000//18,9,2012//40,000//Null
+9//Y317T//Huawei Y3(2017)//Null//T// 15,000//18,9,2012//28,000//Null
+10//GR317TL//Huawei GR3(2017)//Null//TL//23,000//18,9,2021//40,000//Null
 11//GR317T//Huawei GR3(2017)//Null//T//15,000//18,9,2021//28,000//Null
 12//GR3MNTL//Huaewi GR3mini//Null//TL//23,000//18,9,2021//40,000//Null
 13//GR3MNT//Huaewi GR3mini//Null//T//15,000//18,9,2021//28,000//Null
 14//NV3ETL//Huawei Nova3e//Null/TL//33,000//18,9,2021//60,000//Null
 15//NV3ET//Huawei Nova3e//Null//T//23,000//18,9,2021//40,000//Null
 16//NV3ITLM20LTL//Huawei Nova3i-Mate20lite//Null//TL//45,000//18,9,2021//80,000//Null
-17//NV3ITM20LT//Huawei Nova3i-Mate20lite//Null//T//35,000//18,9,2021//Null/Null  
+17//NV3ITM20LT//Huawei Nova3i-Mate20lite//Null//T//35,000//18,9,2021//Null/Null
 18//HON4XTL//Honor4X//Null//TL//25,000//18,9,2021//40,000//Null
 19//HON4XT//Honor4X//Null//T//16,000//18,9,2021//25,000//Null
 20//HON4CTLGPMNTL//G Playmini-Honor4C//Null//TL//23,000//18,9,2021//40,000//Null
@@ -24,8 +24,46 @@ No//CODE//Model//Color//Error//ServicePrice//Date//WtyPrice//ItemPrice
 23//GR5MNT//GR5min//Null//T//16,000//18,9,2021//25,000//Null
 24//GR5TLGR515TLGR516TLHON5XTL//GR5-GR5(2015)-GR5(2016)-Honor5X-Huawei//Null//TL//28,000//18,9,2021//45,000//Null
 25//GR5TGR515TGR516THON5XT//GR5-GR5(2015)-GR5(2016)-Honor5X-Huawe//Null//T//16,000//18,9,2021//30,000//Null
-26//Y518TLY5PR18TLY5LTLHON7CTL//Y5Prime(2018)-Y5Lite-Honor7s//Null//TL//30,000//18,9,2021//50,000//Null
- 
+26//Y519TLY5PR19TLY5LTLHON8STL//Y5Prime(2019)-Y5(2019)-Honor8S//Null//TL//30,000//18,9,2021//50,000//Null
+27//Y517TL//Huawei Y5(2017)//Null//TL//28,000//18,9,2021//50,000//Null
+28//Y517T//Huawei Y5(2017)//Null//T//16,000//18,9,2021//30,000//Null
+29//Y518TL//Huawei Y5(2018)//Null//TL/23,000//18,9,2021//40,000//Null
+30//Y518T//Huawei Y5(2018)//Null//T//16,000//18,9,2021//30,000//Null
+31//HON8STLY519TLY5PR19TL//Honor8s-Y5(2019)-Y5Prime(2019)//Null//TL//33,000//18,9,2021//50,000//Null
+32//HON8STY519TY5PR19T//Honor8s-Y5(2019)-Y5Prime(2019)//Null//T//18,000//18,9,2021//30,000//Null
+33//Y52TLU29TL//Y52-U29-Huawei//Null//TL//25,000//18,9,2021//40,000//Null
+34//Y52TLU29T//Y52-U29-Huawei//Null//T//16,000//18,9,2021//30,000//Null
+35//Y62TL//Huawei Y62//Null//TL//30,000//18,9,2021//50,000//Null
+36//Y62T//Huawei Y62//Null//T//18,000//18,9,2021//30,000//Null
+37//Y6TL4ATL//Huawei Y6-4A//Null//TL//23,000//18,9,2021//40,000//Null
+38//Y6T4AT//Huawei Y6-4A//Null//T//14,000//18,9,2021//25,000//Null
+39//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
