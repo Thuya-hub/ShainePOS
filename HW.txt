@@ -1,11 +1,11 @@
 No//CODE//Model//Color//Error//ServicePrice//Date//WtyPrice//ItemPrice
 1//HWNV2iTLWHWNV2iTLBM10LTLWM10LTLB//Nova2i-Mate10Lite//White,Black//Touch+LCD//43,000//18,9,2021//70,000//34,000
-2//HWNV2iT//Nova2i//Null//Touch Only/28,000//18,9,2021//40,000//3,000(G)
-3//EJ8TNV2LTY7PR18TY7P18THON7CT//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-Honor7C//Null//Touch Only/28,000//18,9,2021//40,000//3,000(G)
-4//HWP20TL//Huuawei P20//Black//Touch+LCD/33,000//18,9,2021//60,000//Null
-5//HWP20T//Huuawei P20//Black//Touch Only/23,000//18,9,2021//Null//Null
-6//NV3ITLM20LTL//Nova3i-Mate20Lite//Null//Touch+LCD/45,000//18,9,2021//80,000//37,500
-7//NV3ITM20LT//Nova3i-Mate20Lite//Null//Touch Only/30,000//18,9,2021//Null//Null
+2//HWNV2iT//Nova2i//Null//Touch Only//28,000//18,9,2021//40,000//3,000(G)
+3//EJ8TNV2LTY7PR18TY7P18THON7CT//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-Honor7C//Null//Touch Only//28,000//18,9,2021//40,000//3,000(G)
+4//HWP20TL//Huuawei P20//Black//Touch+LCD//33,000//18,9,2021//60,000//Null
+5//HWP20T//Huuawei P20//Black//Touch Only//23,000//18,9,2021//Null//Null
+6//NV3ITLM20LTL//Nova3i-Mate20Lite//Null//Touch+LCD//45,000//18,9,2021//80,000//37,500
+7//NV3ITM20LT//Nova3i-Mate20Lite//Null//Touch Only//30,000//18,9,2021//Null//Null
 8//Y317TL//Huawei Y3(2017)//Null//TL// 23,000//18,9,2012//40,000//Null 
 9//Y317T//Huawei Y3(2017)//Null//T// 15,000//18,9,2012//28,000//Null  
 10//GR317TL//Huawei GR3(2017)//Null//TL//23,000//18,9,2021//40,000//Null 
