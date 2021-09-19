@@ -1529,7 +1529,7 @@
 1113//RMN5ATB//RedmiNote5A//Black//TouchOnly//4,500//19,9,2021//Master
 1114//RMN5A16TLB//Redminote5A(16GB)//Black//T+L//29,500//19,9,2021//Master
 1114//RMN5A32TLB//Redminote5A(32GB)//Black//T+L//24,500//12,8,2021//Master
-1115//RMN5A16TLW//Redminote5A(16GB)//White//T+L//24,000//3,8,2021//Master
+1115//RMN5A16TLW//Redminote5A(16GB)//White//T+L//29,500//19,9,2021//Master
 1115//RMN5A32TLW//Redminote5A(32GB)//White//T+L//29,500//19,9,2021//Master
 1115//RMN5A16TLWRMN5A32TLW//Redminote5A(16GB)(32GB)//White//T+L//21,000//14,5,2021//FoneClub
 1116//RMN5ATW//RedmiNote5A//white//TouchOnly//3,500//14,5,2021//FoneClub
