@@ -12,7 +12,7 @@ No//CODE//Model//Color//Error//ServicePrice//Date//WtyPrice//ItemPrice
 11//GR317T//Huawei GR3(2017)//Null//T//15,000//18,9,2021//28,000//Null
 12//GR3MNTL//Huaewi GR3mini//Null//TL//23,000//18,9,2021//40,000//Null
 13//GR3MNT//Huaewi GR3mini//Null//T//15,000//18,9,2021//28,000//Null
-14//NV3ETL//Huawei Nova3e//Null/TL//33,000//18,9,2021//60,000//Null
+14//NV3ETL//Huawei Nova3e//Null//TL//33,000//18,9,2021//60,000//Null
 15//NV3ET//Huawei Nova3e//Null//T//23,000//18,9,2021//40,000//Null
 16//NV3ITLM20LTL//Huawei Nova3i-Mate20lite//Null//TL//45,000//18,9,2021//80,000//Null
 17//NV3ITM20LT//Huawei Nova3i-Mate20lite//Null//T//35,000//18,9,2021//Null/Null  
