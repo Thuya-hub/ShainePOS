@@ -1080,7 +1080,7 @@
 792//OPF5TLBOPF5YTLBOPA73TLB//F5-F5Youth-A73//Black//T+L//33,500//6,9,2021//FoneClub
 793//OPF5TLWOPF5YTLWOPA73TLW//F5-F5Youth-A73//White//T+L//32,500//25,8,2021//Master
 793//OPF5TLWOPF5YTLWOPA73TLW//F5-F5Youth-A73//White//T+L//33,000//3,8,2021//HX
-794//OPF5TWOPF5YTW//F5-F5Youth//White//TouchOnly//4,800//Null//Null
+794//OPF5TWOPF5YTWOPA73TW//F5-F5Youth-A73//White//TouchOnly//4,800//Null//Null
 795//OPF5YBDCGOPF5BDCG//F5Youth-F5//Gold//BodyCover//7,000//Null//Null
 796//OPF7GBOPA3GB//F7-A3//Black//Glass//4,500//Null//Null
 797//OPF7GWOPA3GW//F7-A3//White//Glass//4,500//Null//Null
@@ -1852,8 +1852,8 @@
 1355//SSJ5PBDCG//J5Prime-Samsung//Gold//Body Cover//0//Null//Null
 1355//SSJ5PBDCB//J5Prime-Samsung//Black//Body Cover//8,500//26,4,2021//Master
 1356//SSJ5PBLG//J5Pro-Samsung//Blue//Glass//4,500//Null//Null
-1357//SSJ5PSTB//J5Prime//Black//Sim Tray//3,000//Null//Null
-1358//SSJ5PTLB//J5Prime-Samsung//Black//T+L//21,500//21,11,2020//HX
+1357//SSJ5PRSTB//J5Prime//Black//Sim Tray//3,000//Null//Null
+1358//SSJ5PRTLB//J5Prime-Samsung//Black//T+L//21,500//21,11,2020//HX
 1359//SSJ5PTLBLJ530TLBL//J5Pro-J530(ORG)//Blue//T+L//61,000//Null//Null
 1362//SSJ5PTLG1//J5Prime-Samsung//Gold//T+L//17,500//Null//Null
 1363//SSJ5PTLW//J5Prime-Samsung//White//T+L//30,000//26,4,2021//FoneClub
@@ -2220,7 +2220,7 @@
 1638//SSJ3TLBSSJ316TLB//Samsung-J3(16)//Black//T+L//38,500//31,5,2021//Master
 1639//SSA30STLB//Samsung-A30s//Black//T+L//57,000//28,5,2021//Master
 1639//SSA30STLB//Samsung-A30s(ORG)(ဘောင်ပါ)//Black//T+L//59,000//3,8,2021//HX
-1640//SSA30TLBSSA30//Samsung-A30-A305(ORG)//Black//T+L//57,000//10,7,2021//Master
+1640//SSA30TLBSSA305TLB//Samsung-A30-A305(ORG)//Black//T+L//57,000//10,7,2021//Master
 1640//SSA30TLBSSA30//Samsung-A30-A305(ORG)//Black//T+L//61,000//16,6,2021//Nice
 1640//SSA30TLBSSA30//Samsung-A30-A305(ORG)//Black//T+L//53,000//16,6,2021//HX
 1641//MI8SEGB//Mi8SE//Black//Glass//3000//Null//Null
