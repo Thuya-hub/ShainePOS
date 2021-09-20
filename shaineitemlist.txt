@@ -1027,7 +1027,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 758//OPA83TLBOPF5LTLB//A83-F5Lite//Black//T+L//33,500//3,8,2021//HX
 759//OPA83TLWOPF5LTLW//A83-F5lite//White//T+L//41,000//16,9,2021//Naing Win
 759//OPA83TLWOPF5LTLW//A83-F5lite//White//T+L//33,500//3,8,2021//HX
-760//OPF11TLBOPF9PTLB//F11-F9Pro//Black//T+L//35,500//30,8,2021//FoneClub
+760//OPF11TLBOPF9PTLB//F11-F9Pro//Black//T+L//42,000//20,9,2021//FoneClub
 760//OPF11BDCGN&B//F11//Green & Black//Body Cover//12,500//12,8,2021//Master
 760//OPF11BDCW&PP//F11//White & Purple//Body Cover//12,500//12,8,2021//Master
 760//OPF11BDCBL&PP//F11//Blue & Black//Body Cover//12,500//12,8,2021//Master
