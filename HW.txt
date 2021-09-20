@@ -203,7 +203,7 @@ No//CODE//Model//Color//Error//ServicePrice//Date//WtyPrice//ItemPrice
 198//RM4XTWRM4XTBRM4XTG//RedMi4X//White,Black,Gold//T//16,000//18,9,2021//25,000//Null
 199//RMM4ATLWRM4ATLBRM4ATLG//RedMi4A//White,Black,Gold//TL//25,000//18,9,2021//40,000//Null     
 200/RMM4ATWRM4ATBRM4ATG//RedMi4A//White,Black,Gold///T//16,000//18,9,2021//25,000//Null
-201//RM5TLWRM5TLB//Redmi5//White,Black//TL//40,000//18,9,2021//70,000/Null  
+201//RM5TLWRM5TLB//Redmi5//White,Black//TL//40,000//18,9,2021//70,000//Null  
 202//RM5GWRM5GB//Redmi5//White,Black//Glass//28,000//18,9,2021//Null//Null
 203//RM5PTLWRM5PTLB//Redmi5Plus//White-Black//TL//40,000//18,9,2021//70,000//Null      
 204//RM5PGWRM5PGB//Redmi5Plus//White-Black//Glass//28,000//18,9,2021//Null//Null
@@ -240,14 +240,14 @@ No//CODE//Model//Color//Error//ServicePrice//Date//WtyPrice//ItemPrice
 233//MI8LGB//Mi8Lite//Black//Glass//30,000//18,9,2021//Null//Null
 234//RM9TLB//RedMi9//Black//TL//45,000//18,9,2021//80,000//Null 
 235//RM9GB//RedMi9//Black//Glass//30,000//18,9,2021//Null//Null
-236//RM9ATLBRM9CTLB//RedMi9A-9C//Black//TL//45,000//18,9,2021//80,000)  
+236//RM9ATLBRM9CTLB//RedMi9A-9C//Black//TL//45,000//18,9,2021//80,000//Null  
 237//RM9ATLBRM9CTLB//RedMi9A-9C//Black//Glass//30,000//18,9,2021//Null//Null
 238//RMN9TLBRM10X4GTLB//REDMINOTE9-REDMI10X(4G)//Black//TL//40,000//18,9,2021//70,000//Null
 239//RMN9GBRM10X4GGB//REDMINOTE9-REDMI10X(4G)//Black//Glass//28,000//18,9,2021//Null//Null
-240//MICC9PTLBMIN10TLB//Xiaome MiCC9Pro-Xiaome Mi Note 10//Black//TL100,000//18,9,2021//180,000) 
-241//MICC9PGBMIN10GB//Xiaome MiCC9Pro-Xiaome Mi Note 10//Black//T75,000//18,9,2021//Null//Null
+240//MICC9PTLBMIN10TLB//Xiaome MiCC9Pro-Xiaome Mi Note 10//Black//TL//100,000//18,9,2021//180,000//Null
+241//MICC9PGBMIN10GB//Xiaome MiCC9Pro-Xiaome Mi Note 10//Black//T//75,000//18,9,2021//Null//Null
 
-
+241//MICC9PGBMIN10GB//Xiaome MiCC9Pro-Xiaome Mi Note 10//Black//T//75,000//18,9,2021//Null//Null
 
 
 
