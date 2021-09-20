@@ -5,13 +5,13 @@ No//CODE//Model//Color//Error//ServicePrice//Date//WtyPrice//ItemPrice
 3//EJ8TWNV2LTWY7PR18TWY7P18TWHON7CTWEJ8TBNV2LTBY7PR18TBY7P18TBHON7CTB//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-Honor7C//White,Black//T//28,000//18,9,2021//40,000//3,000(G)
 4//HWP20TLB//Huuawei P20//Black//T//33,000//18,9,2021//60,000//Null
 5//HWP20TB//Huuawei P20//Black//T//23,000//18,9,2021//Null//Null
-6//NV3ITLM20LTL//Nova3i-Mate20Lite//Null//TL//45,000//18,9,2021//80,000//37,500
-7//NV3ITM20LT//Nova3i-Mate20Lite//Null//T//30,000//18,9,2021//Null//Null
-8//Y317TL//Huawei Y3(2017)//Null//TL// 23,000//18,9,2012//40,000//Null
-9//Y317T//Huawei Y3(2017)//Null//T// 15,000//18,9,2012//28,000//Null
-10//GR317TL//Huawei GR3(2017)//Null//TL//23,000//18,9,2021//40,000//Null
-11//GR317T//Huawei GR3(2017)//Null//T//15,000//18,9,2021//28,000//Null
-12//GR3MNTL//Huaewi GR3mini//Null//TL//23,000//18,9,2021//40,000//Null
+6//NV3ITLBM20LTLB//Nova3i-Mate20Lite//Black//TL//45,000//18,9,2021//80,000//37,500
+7//NV3ITBM20LTB//Nova3i-Mate20Lite//Black//T//30,000//18,9,2021//Null//Null
+8//Y317TLWY317TLBY317TLG//Huawei Y3(2017)//White,Black,Gold//TL// 23,000//18,9,2012//40,000//Null
+9//Y317TWY317TBY317TG//Huawei Y3(2017)//White,Black,Gold//T// 15,000//18,9,2012//28,000//Null
+10//GR317TLWGR317TLBGR317TLG//Huawei GR3(2017)//White,Black,Gold//TL//23,000//18,9,2021//40,000//Null
+11//GR317TWGR317TBGR317TG//Huawei GR3(2017)//White,Black,Gold//T//15,000//18,9,2021//28,000//Null
+12//GR3MNTLW//Huaewi GR3mini//White,Black,Gold//TL//23,000//18,9,2021//40,000//Null
 13//GR3MNT//Huaewi GR3mini//Null//T//15,000//18,9,2021//28,000//Null
 14//NV3ETL//Huawei Nova3e//Null//TL//33,000//18,9,2021//60,000//Null
 15//NV3ET//Huawei Nova3e//Null//T//23,000//18,9,2021//40,000//Null
@@ -174,6 +174,8 @@ No//CODE//Model//Color//Error//ServicePrice//Date//WtyPrice//ItemPrice
 172//IPH8PTLBIPH8PTLW//IPhone8Plus-ORG//Black,White//TL//Null//18,9,2021//Null//Null
 173//RMN1TLB//RedMiNote1//Black//TL//26,000//18,9,2021//40,000//Null
 174//RMN1TB//RedMiNote1//Black//T//16,000//18,9,2021//30,000//Null
+174//RMN2TLB//RedMiNote2//Black//TL//26,000//18,9,2021//40,000//Null
+174//RMN2TB//RedMiNote2//Black//T//16,000//18,9,2021//30,000//Null
 175//MMX1TLWMMX1TLB//Mi Max1//White,Black//TL//55,000//18,9,2021//90,000//Null
 176//MMX1TWMMX1TB//Mi Max1//White,Black//T//35,000//18,9,2021//60,000//Null
 177//RMS2TLWRMS2TLB//RED MI S2//White,Black//TL//38,000//18,9,2021//60,000//Null
