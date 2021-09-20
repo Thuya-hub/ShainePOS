@@ -941,7 +941,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 713//OPA37TLW//A37-Oppo//White//T+L//18,000//1,7,2021//HX
 713//OPA37TLW//A37-Oppo//White//T+L//24,500//16,9,2021//Naing Win
 713//OPA37TLW//A37-Oppo//White//T+L//20,000//18,8,2021//Master
-713//OPA37TLW//A37-Oppo//White//T+L//20,500//25,8,2021//FoneClub
+713//OPA37TLW//A37-Oppo//White//T+L//22,500//20,9,2021//FoneClub
 707//BLP577BTOPA33BTOPA51BT//A33-A51-BLP577//Null//Battery//5,500//10,11,2020//HX
 709//OPA37STGOPA39STG//A57-A39-Oppo//Gold//Sim Tray//3,000//Null//Null
 709//OPA37PK//A37-Oppo//Null//Power Flex//2,000//2,9,2021//HX
