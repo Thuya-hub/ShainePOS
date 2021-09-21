@@ -1,4 +1,4 @@
-No//CODE//Model//Color//Type//Price//Date//Shop
+﻿No//CODE//Model//Color//Type//Price//Date//Shop
 1//0.5MM//0.5mm//Null//Others//2,000//Null//Null
 2//37.5hb//Sunshine-0.10mm//Null//Others//2,500//Null//Null
 3//Alloy63-67//Quick-0.8mm//Null//Others//4,500//Null//Null
@@ -72,7 +72,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 37//CP7270LCD//7270-Coolpad//Null//LCD//8,500//Null//Null
 38//CP7275LCD//7275-Coolpad//Null//LCD//9,500//Null//Null
 39//CP7275TB//7275-CoolPad//Black//Touch//5,000//Null//Null
-40//CP8079LCD//8079-Coolpad//Null//LCD/6,000//Null//Null
+40//CP8079LCD//8079-Coolpad//Null//LCD//6,000//Null//Null
 41//CP8079TW//Cp8079-Coolpad//White//Touch//4,000//Null//Null
 42//CPG606W//G606-Huawei//White//Touch//0//Null//Null
 43//CPK510W//K510-Coolpad//White//Touch//0//Null//Null
