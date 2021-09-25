@@ -14,7 +14,7 @@ No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main
 
 7//RM9A232GNRM9A232BLM9A232GR//Red Mi 9A(GOLBAL)//Green,Blue,Gray//2-32//188,900 MMK//3//(7,9,2021)//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable,Charging 10W//Date 7,July,2020//MediaTek Helio G25(12nm)//6.53 inches,102.9cm2(~81.0%Screen-to-body ratio)-196g(6.91 oz)
 
-8//RM9C364BL//Red Mi 9C(Globle)//Twilight Blue//3-64//240,000 MMK//1//(12,7,2021)//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable//Date 12,August,2020//MediaTek Helio G35(12 nm)//6.53 inches,102.9cm2(~81.1%Screen-to-body ratio)-196g(6.91 oz)
+8//RM9C364BL//Red Mi 9C(Globle)//Twilight Blue//3-64//248,500 MMK//1//(12,7,2021)//Android 10,MIUI 12//GSM_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//13MP//5MP//Micro USB 2.0,USB On-The-Go//Li-Po 5000 mAh,non-removable//Date 12,August,2020//MediaTek Helio G35(12 nm)//6.53 inches,102.9cm2(~81.1%Screen-to-body ratio)-196g(6.91 oz)
 
 9//RMN94G4128BLRMN94G4128GN//Red Mi Note 9(4G)//Blue,Green//4-128//299,900 MMK//2//(15,9,2021)//Android 10,MIUI 12//GSM_CDMA_HSPA_LTE//Dual SIM (Nano-SIM,Dual Stand-By)//48MP,8MP,2Mp//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 6000 mAh,non-removable//Date 26,November,2020//Qualcomm SM6115 Snapdragon 662 (11nm)//6.53 inches,104.7cm2(~83.4% Screen-to-body ratio)-198g(6.98 oz)
 
