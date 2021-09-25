@@ -1858,14 +1858,14 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1352//SSJ5BDCB//J5-Samsung//Black//BodyCover//5,500//Null//Null
 1353//SSJ5BDCG//J5-Samsung//Gold//BodyCover//5,500//Null//Null
 1354//SSJ5HF//J5-Samsung//Null//Home Key//4,500//Null//Null
-1355//SSJ5PBDCG//J5Prime-Samsung//Gold//Body Cover//0//Null//Null
-1355//SSJ5PBDCB//J5Prime-Samsung//Black//Body Cover//8,500//26,4,2021//Master
+1355//SSJ5PRBDCG//J5Prime-Samsung//Gold//Body Cover//0//Null//Null
+1355//SSJ5PRBDCB//J5Prime-Samsung//Black//Body Cover//8,500//26,4,2021//Master
 1356//SSJ5PBLG//J5Pro-Samsung//Blue//Glass//4,500//Null//Null
 1357//SSJ5PRSTB//J5Prime//Black//Sim Tray//3,000//Null//Null
 1358//SSJ5PRTLB//J5Prime-Samsung//Black//T+L//21,500//21,11,2020//HX
 1359//SSJ5PTLBLJ530TLBL//J5Pro-J530(ORG)//Blue//T+L//61,000//Null//Null
-1362//SSJ5PTLG1//J5Prime-Samsung//Gold//T+L//17,500//Null//Null
-1363//SSJ5PTLW//J5Prime-Samsung//White//T+L//30,000//26,4,2021//FoneClub
+1362//SSJ5PRTLWSSJ5PRTLG//J5Prime-Samsung//White,Gold//T+L//48,000//24,9,2021//HX
+1363//SSJ5PRTLW//J5Prime-Samsung//White//T+L//30,000//26,4,2021//FoneClub
 1364//SSJ5TB//J5-Samsung//Black//Glass//5,500//Null//Null
 1365//SSJ5TG//J5-Samsung//Gold//Glass//5,500//Null//Null
 1366//SSJ5TW//J5-Samsung//White//Glass//5,500//Null//Null
@@ -2378,9 +2378,9 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1724//SSJ5PTLBLSSSJ530TLB//J5Pro-J530-Samsung//Black//T+L//41,000//24,11,2020//Master
 1725//HWEJ8TBHWNV2LTBHWY7P18TBHWY7P18TBHON7CTB//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-Honor7C//Black//Touch//4,500//28,10,2020//HX
 1725//HWEJ8TBHWNV2LTBHWY7P18TBHWY7P18TBHON7CTB//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-Honor7C//Black//Touch//4,500//27,6,2021//Master
-1726//SSJ5PGB//J5Prime-Samsung//Black//Glass//3,500//28,10,2020//HX
-1727//SSJ5PGW//J5Prime-Samsung//White//Glass//3,500//28,10,2020//HX
-1728//SSJ5PGG//J5Prime-Samsung//Gold//Glass//3,500//28,10,2020//HX
+1726//SSJ5PRGB//J5Prime-Samsung//Black//Glass//3,500//28,10,2020//HX
+1727//SSJ5PRGW//J5Prime-Samsung//White//Glass//3,500//28,10,2020//HX
+1728//SSJ5PRGG//J5Prime-Samsung//Gold//Glass//3,500//28,10,2020//HX
 1729//HWY9PR19TLBHON9XTLBHWY9STLB//Y9Prime(2019)(ORG)-Honor9X-Y9S//Black//T+L//49,000//11,9,2021//HX
 1729//HWY9PR19TLBHON9XTLBHWY9STLB//Y9Prime(2019)-Honor9X-Y9S//Black//T+L//43,500//12,8,2021//Master
 1729//HWY9P19SFCMHON9XSFCM//Y9Prime(2019)-Honor9X//Null//Front Camera//7,000//13,12,2020//Master
