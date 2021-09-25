@@ -1481,7 +1481,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1090//RMN4TB//RedmiNote4//Black//TouchOnly//4,500//19,9,2021//Master
 1090//RMN4TB//RedmiNote4//Black//TouchOnly//5,500//16,9,2021//Naing Win
 1090//RMN4TB//RedmiNote4//Black//TouchOnly//5,000//18,9,2021//SLS
-1091//RMN4TLB//Redminote4//Black//T+L//20,500//10,8,2021//HX
+1091//RMN4TLB//Redminote4//Black//T+L//26,000//24,9,2021//HX
 1092//RMN4TLW//Redminote4//White//T+L//22,500//3,8,2021//Master
 1092//RMN4TLW//Redminote4//White//T+L//23,500//25,8,2021//FoneClub
 1092//RMN4TLW//Redminote4//White//T+L//26,000//24,9,2021//HX
