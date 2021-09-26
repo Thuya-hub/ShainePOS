@@ -1313,7 +1313,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 979//RM6APK//RedMi6A//Null//Power Flex//1,500//13,9,2020//HX
 979//RM6AMF//RedMi6A//Null//Middle Flex//3,000//1,7,2021//HX
 979//RM6ACM//RedMi6//Null//Camera မှန်//1,000//1,7,2021//HX
-979//RMK30CM//RedMi K30//Null//Camera မှန်//2,000//24,9,2021//SLS
+979//RMK30CM//RedMi K30//Null//Camera မှန်//2,000//25,9,2021//Master
 981//RM6AUSBRM6USB//Redmi6A-Redmi6//Null//USB Board//3,500//25,8,2021//Master
 982//RM6BDCG//Redmi6//Gold,Black//BodyCover//6,500//Null//Null
 983//RM6BDCRG//Redmi6//RoseGold//BodyCover//6,500//Null//Null
@@ -1368,9 +1368,9 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1015//RM7BDCBLRM7BDCB//RedMi7//Blue,Black//BodyCover//7,000//1,7,2021//HX
 1015//RM7BDCBRM7BDCBL//RedMi7//Black,Blue//BodyCover//8,000//31,5,2021//Master
 1016//RM7PK//Redmi7//Null//Power Flex//2,000//2,9,2021//HX
-1017//RM7STB//Redmi7//Black//Sim Tray//3,500//9,5,2021//Master
-1018//RM7STR//Redmi7//Red//Sim Tray//3,500//9,5,2021//Master
-1018//RM7STBL//Redmi7//Blue//Sim Tray//3,500//9,5,2021//Master
+1017//RM7STB//Redmi7//Black//Sim Tray//3,500//25,9,2021//Master
+1018//RM7STR//Redmi7//Red//Sim Tray//3,500//25,9,2021//Master
+1018//RM7STBL//Redmi7//Blue//Sim Tray//3,500//25,9,2021//Master
 1019//RM7TB//Redmi7//Black//TouchOnly//3,500//4,2,2021//Master,HX
 1020//RM7TLB//Redmi7//Black//T+L//33,000//24,9,2021//HX
 1020//RM7TLB//Redmi7//Black//T+L//30,500//12,8,2021//Master
@@ -2363,6 +2363,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1716//OPF11PTLB//Oppo-F11Pro//Black//T+L//42,000//30,8,2021//FoneClub
 1716//OPF11PTLB//Oppo-F11Pro//Black//T+L//40,000//18,9,2021//SLS
 1717//K30TLB//RedmiK30(4G,5G)//Black//T+L//27,500//21,12,2020//Master
+1717//K30PK//RedmiK30//Black//Power Key//2,000//25,9,2021//Master
 1717//K30TLB//RedmiK30(4G,5G)//Black//T+L//27,000//29,4,2021//HX
 1717//K30BC//RedmiK30(4G,5G)//AllColor//Back Cover//5,500//31,1,2021//HX
 1717//K30BDC//RedmiK30(4G,5G)//AllColor//Body Cover//20,000//31,1,2021//Master
