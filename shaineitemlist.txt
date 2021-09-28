@@ -1316,6 +1316,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 979//RMK30CM//RedMi K30//Null//Camera မှန်//2,000//25,9,2021//Master
 981//RM6AUSBRM6USB//Redmi6A-Redmi6//Null//USB Board//3,500//25,8,2021//Master
 982//RM6BDCG//Redmi6//Gold,Black//BodyCover//6,500//Null//Null
+982//RM6BDCGR//Redmi6(2SIM)//Gray//BodyCover//9,500//25,9,2021//Master
 983//RM6BDCRG//Redmi6//RoseGold//BodyCover//6,500//Null//Null
 984//RM6CFRM6ACF//Redmi6-Redmi6A//Null//Charging Flex//2,000//Null//Null
 985//RM6PBDCB//Redmi6pro//Black//BodyCover//7,500//18,1,2021//Master
@@ -1596,7 +1597,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1147//MICC9PTLBMIN10TLB//Xiaome MiCC9Pro-Xiaome Mi Note 10//Black//T+L//67,000//16,6,2021//HX
 1147//MICC9ECM//Xiaome MiCC9E//Null//Camera ဖုံး//1,500//27,6,2021//Master
 1147//MMX3CM//Xiaome Mi Max3//Null//Camera ဖုံး//1,500//27,6,2021//Master
-1147//MICC9PTLBMIN10TLB//Xiaome MiCC9Pro-Xiaome Mi Note 10//Black//T+L//85,000//16,6,2021//Nice
+1147//MICC9PTLBMIN10TLB//Xiaome MiCC9Pro-Xiaome Mi Note 10//Black//T+L//90,000//16,6,2021//Nice
 1148//RMN7CM//Redminote7//Null//Camera မှန်//1,500//20,9,2021//Fone Club
 1149//RMN7GB//Redminote7//Black//Glass//3,000//21,5,2021//HX
 1149//RMN7MDFRMN7LCDF//Redminote7-Redminote7Pro//Null//Maddle Flex,LCD Flex//2,500//16,6,2021//HX
