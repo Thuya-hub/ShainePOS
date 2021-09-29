@@ -1681,7 +1681,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1194//SNE4TLB//SonyE4//Black//T+L//26,000//Null//Null
 1195//SNM4TLB//M4-Sony//Black//T+L//23,000//Null//Null
 1196//SNMYBCB//SonyM5//Black//Back Cover//4,500//Null//Null
-1197//SNXATLBSNXADTLB//SonyXA-XADuo//Black//T+L//17,000//5,1,2021//Master,//FoneClub
+1197//SNXATLBSNXADTLB//SonyXA-XADuo//Black//T+L//17,000//5,1,2021//Master
 1198//SNXAUTLB//SonyXAUltra//Black//T+L//31,000//Null//Null
 1199//SNZ1BCB//Z1-Sony//Black//Back Cover//4,000//Null//Null
 1200//SNZ1BTLIS1525ERPCBT//Z1-LIS1525ERPC-Sony//Null//Battery//7,200//Null//Null
@@ -2577,7 +2577,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1851//RM9ABDCGNRM9CBDCGN//RedMi9A-9C//Green//Body Cover//8,500//18,8,2021//Master
 1851//RM9TLB//RedMi9//Black//T+L//36,000//28,8,2021//Master
 1851//RM9TLB//RedMi9//Black//T+L//37,500//18,8,2021//ShweLattSaung
-1852//RM5PBDCB//Redmi5Plus//Black//BodyCover//8,500//3,11,2020//HX,//Master
+1852//RM5PBDCB//Redmi5Plus//Black//BodyCover//8,500//3,11,2020//HX
 1853//MZU10PF//Meizu-U10//Null//Power Flex//2,500//3,11,2020//Master
 1854//VVY51TLBY52TLB//Y51-Y52-Vivo//Black//T+L//26,500//20,9,2021//FoneClub
 1854//VVY51TLBY52TLB//Y51-Y52-Vivo//Black//T+L//19,500//12,8,2021//Master
