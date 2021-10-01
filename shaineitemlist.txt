@@ -8,8 +8,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 6//XGSP50//Mechanic XGSP50-183(42g)//Null//Others//4,000//7,2,2021//Master
 7//AS002//ခဲတစ်,ခဲကောက်(ဖြောင့်)//Black//Others//3,500//23,4,2021//Master
 8//BLADE//11#-ဓားထုပ်//Null//Others//1,500//15,3,2021//Master
-9//DoubleTape//Double တိပ်နီ (0.4CM)//NULL//Others//3,000//13,12,2020//Master
-10//DoubleTape//Double တိပ်နီ (0.5CM)//Null//Others//3,500//13,12,2020//Master
+9//DoubleTape//Double တိပ်နီ (0.4CM)//NULL//Others//3,000//13,12,2020//Mastery10//DoubleTape//Double တိပ်နီ (0.5CM)//Null//Others//3,500//13,12,2020//Master
 5//MTခဲဖော်စကာ//Kaisi Multi_ခဲဖော်စကာ//Null//Others//5,500//31,1,2021//Master
 6//AS003//ခဲတစ်,ခဲကောက်(ကောက်)//Null//Others//3,500//6,11,2020//Master
 6//MZM2USBB//Meizu M2//Null//USB Board//3,500//6,9,2021//Master
