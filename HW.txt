@@ -287,7 +287,7 @@ No//CODE//Model//Color//Error//ServicePrice//Date//WtyPrice//ItemPrice
 202//RM5GWRM5GB//Redmi5//White,Black//Glass//28,000//18,9,2021//Null//3,000
 203//RM5PTLWRM5PTLB//Redmi5Plus//White-Black//TL//50,000//24,9,2021//80,000//40,500//2300      
 204//RM5PGWRM5PGB//Redmi5Plus//White-Black//Glass//28,000//18,9,2021//Null//3,000//2300
-203//RM5ATLWRM5PTLB//Redmi5Plus//White-Black//TL//30,000//24,9,2021//55,000//275 
+203//RM5ATLWRM5PTLB//Redmi5Plus//White-Black//TL//30,000//24,9,2021//55,000//27000 
 205//RMN5TLWRMN5PTLWRMN5TLBRMN5PTLB//Redminote5//White,Black//TL//50,000//24,9,2021//75,000//41,500//2300    
 206//RMN5GWRMN5PGWRMN5GBRMN5PGB//Redminote5//White,Black//Glass//30,000//18,9,2021//Null//2,500//2300
 207//RMN5A16TLWRMN5ATL16B//RedMiNote5A(16GB)//White,Black//TL//40,000//18,9,2021//70,000//29,500   
