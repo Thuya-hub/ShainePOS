@@ -1636,7 +1636,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1161//RMN8PTLB//RedmiNote8Pro//Black//T+L//46,000//1,10,2021//HX
 1162//RMN8TLB//RedmiNote8//Black//T+L//37,500//25,8,2021//FoneClub
 1162//RMN8TLB//RedmiNote8//Black//T+L//35,000//3,8,2021//Master
-1162//RMN8TLB//RedmiNote8//Black//T+L//46,000/1,10,2021//HX
+1162//RMN8TLB//RedmiNote8//Black//T+L//46,000//1,10,2021//HX
 1162//RMN8ST//RedmiNote8//AllColor//Sim Tray//2,500//31,1,2021//HX
 1163//RMN8USB//RedmiNote8//Null//USB Board//4,500//2,9,2021//HX
 1164//RMPBDCG//RedmiPro//Gold//BodyCover//14,000//Null//Null
