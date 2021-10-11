@@ -752,7 +752,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 556//MMBTMMBT//MoMoTablet-7"//Null//Battery//4,500//18,1,2021//FoneClub
 557//MMTBQ8TB//Q8-MoMoTablet//Black//Touch//3,500//Null//Null
 558//MMTWQ8TW//Q8-MoMoTablet//White//Touch//3,500//Null//Null
-559//MMX2BTBM50BT//MiMax2-BM50//Null//Battery//11,500//10,10,2021//HX
+559//MMX2BTBM50BT//MiMax2-BM50//Null//Battery//12,500//10,10,2021//HX
 559//MMX2BTBM50BT//MiMax2-BM50//Null//Battery//13,500//16,9,2021//Naing Win
 559//MMX2MFMMX2LCDF//MiMax2//Null//Middle Flex,LCD Flex//3,500//27,6,2021//Master
 559//MMX2BTBM50BT//MiMax2-BM50(ORG)//Null//Battery//10,500//31,5,2021//FoneClub
