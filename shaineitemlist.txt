@@ -1324,7 +1324,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 620//MZM3NTBL681TB//M3Note-L681-//Black//TouchOnly//5,000//Null//Null
 621//MZM3NTBMZM681TB//M3Note-M681-Socket//Black//TouchOnly//6,000//Null//Master
 626//MZM3NTWMZL681TW//M3Note-L681-KyoeHtoe//White//TouchOnly//6,000//Null//Master
-627//MZM3NTWMZM681TW//M3Note-M681-Socket//White//TouchOnly//6,500//Null//Null631//MZM3STB//M3S-Meizu//Black//Touch//4000//Null//Null
+627//MZM3NTWMZM681TW//M3Note-M681-Socket//White//TouchOnly//6,500//Null//Null
+631//MZM3STB//M3S-Meizu//Black//Touch//4000//Null//Null
 634//MZM3STW//M3S-Meizu//White//TouchOnly//4000//Null//Null
 639//MZM5CTB//M5C-Meizu//Black//TouchOnly//3800//18,9,2020//HX
 642//MZM5CTW//M5C-Meizu//White//TouchOnly//4,500//17,5,2021//HX
@@ -1670,9 +1671,6 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1857//RMN1TB//Redminote1//Black//TouchOnly//5,000//24,9,2021//HX//2300
 
 
-
-
-
 70//HON8XGLB//Honor8x//Black//Glass//3,000//14,3,2021//HX
 100//HWEJ6SGBHON6SGB//Enjoy6s-Honor6s//Black//Glass//3,000//Null//Null
 101//HWEJ6SGWHON6SGW//Enjoy6s-Honor6s//White//Glass//3,000//Null//Null
@@ -1778,10 +1776,6 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1898//RMN9PGB//RedMiNote9Pro//Black//Glass//3,000//21,12,2020//HX
 1149//RMN7GB//Redminote7//Black//Glass//3,000//17,5,2021//HX
 
-
-
-BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY
-
 6//SSN8BTSSN950BT//Samsung Note 8(N950)//Null//Battery//8,500//4,2,2021//Master
 7//BLP567BTOPR1BTOPR8007BT//Oppo-R1-R8007-BLP567//Null//Battery//6,200//Null//Null
 7//SmA516BTA510BTEBBA510ABEBT//Samsung-A5(2016)-(A510)-EB-BA510ABE//Null//Battery//6,500//5,1,2021//Master
@@ -1828,7 +1822,7 @@ BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY
 55//HON4XBTHB4242B4EBW//Honor4x-Gplay-HB4242B4EBW//Null//Battery//6,500//10,5,2021//FoneClub
 55//HON4XBTHB4242B4EBW//Honor4x-Gplay-HB4242B4EBW//Null//Battery//8,000//3,8,2021//Master
 55//HON4XBTHB4242B4EBW//Honor4x-Gplay-HB4242B4EBW//Null//Battery//6,500//10,8,2021//HX
-80//HTC8816BT//HTC8816//Null//Battery//7,000//Null//Null//HTC
+80//HTC8816BT//HTC8816//Null//Battery//7,000//Null//Null
 98//HWEJ6BTHB496183ECCBT//Enjoy6-HB496183ECC-Battery//Null//Battery//7,500//Null//Null
 130//HWG6BTHWG6BTHB3742A0EBCBT//G6-G620S-HB3742A0EBC//Null//Battery//6,000//25,8,2021//Master
 145//HWG7BTHB3748B8EBCBGS011379CSHUC199XL//G7-HB3748B8EBC-Huawei-Battery//Null//Battery//5500//18,9,2020//HX
@@ -2042,7 +2036,8 @@ BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY
 6//XGSP50//Mechanic XGSP50-183(42g)//Null//Others//4,000//7,2,2021//Master
 7//AS002//ခဲတစ်,ခဲကောက်(ဖြောင့်)//Black//Others//3,500//23,4,2021//Master
 8//BLADE//11#-ဓားထုပ်//Null//Others//1,500//15,3,2021//Master
-9//DoubleTape//Double တိပ်နီ (0.4CM)//NULL//Others//3,000//13,12,2020//Mastery10//DoubleTape//Double တိပ်နီ (0.5CM)//Null//Others//3,500//13,12,2020//Master
+9//DoubleTape//Double တိပ်နီ (0.4CM)//NULL//Others//3,000//13,12,2020//Mastery
+10//DoubleTape//Double တိပ်နီ (0.5CM)//Null//Others//3,500//13,12,2020//Master
 5//MTခဲဖော်စကာ//Kaisi Multi_ခဲဖော်စကာ//Null//Others//5,500//31,1,2021//Master
 6//AS003//ခဲတစ်,ခဲကောက်(ကောက်)//Null//Others//3,500//6,11,2020//Master
 45//Hittite//မီးခံတိပ်//Null//Others//4,000//Null//Null
@@ -2568,7 +2563,7 @@ BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY//BATTERY
 1404//SSN4BDCW//Note4-Samsung//White//BodyCover//7,500//Null//Null
 1409//SSN7000BDCWSSGNBDCW//GalaxyNote-N7000//White//BodyCover//0//Null//Null
 1410//SSN7100BDCBSSN2BDCB//N7100-Note2-Samsung//Black//BodyCover//4,500//Null//Null
-1411//SSN7100BDCWSSN2BDCW//N7100-Note2-Samsung//White//Bodycover//BodyCover//4,500//Null//Null
+1411//SSN7100BDCWSSN2BDCW//N7100-Note2-Samsung//White//Bodycover//4,500//Null//Null
 1417//SSON7BDCBSSG600BDCB//On7-Samsung//Black//BodyCover//5,000//Null//Null
 1418//SSON7BDCGSSG6000BDCG//On7-Samsung//Gold//BodyCover//5,000//Null//Null
 1419//SSON7BDCWSSG6000BDCW//On7-Samsung//White//BodyCover//4,500//Null//Null
