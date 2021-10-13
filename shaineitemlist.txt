@@ -143,7 +143,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 
 113//RMN5TLB//Redminote5,Note5Pro//Black//T+L//29,500//23,5,2021//Royal Star
 114//RMN5TLWRMN5PTLW//Redminote5-Redminote5Pro//White//T+L//24,500//9,5,2021//Master
-115/RMN5TLWRMN5PTLWRMN5TLBRMN5PTLB//Redminote5-Redminote5Pro//White,Black//T+L//46,000//10,10,2021//FoneClub
+115//RMN5TLWRMN5PTLWRMN5TLBRMN5PTLB//Redminote5-Redminote5Pro//White,Black//T+L//46,000//10,10,2021//FoneClub
 116//RMN5TLWRMN5PTLW//Redminote5-Redminote5Pro//White//T+L//45,000//10,10,2021//HX
 117//RMN5TLBRMN5PTLB//Redminote5-Redminote5Pro//Black//T+L//45,000//10,10,2021//HX
 
