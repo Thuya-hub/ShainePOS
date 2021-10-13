@@ -687,7 +687,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 59//VVY55TLB//Vivo-Y55//Black//T+L//29,500//16,9,2021//Naing Win
 60//VVY55TLW//Vivo-Y55//White//T+L//31,500//10,10,2021//FoneClub
 61//VVY55TLB//Vivo-Y55//Black//T+L//31,500//10,10,2021//FoneClub
-62/VVY55TLW//Vivo-Y55//White//T+L//30,000//10,10,2021//HX
+62//VVY55TLW//Vivo-Y55//White//T+L//30,000//10,10,2021//HX
 63//VVY55TLB//Vivo-Y55//Black//T+L//30,000//10,10,2021//HX
 
 64//VVY65TLWVVY66TLW//Y65-Y66-Vivo//White//T+L//23,500//12,8,2021//Master
