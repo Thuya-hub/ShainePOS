@@ -2250,8 +2250,6 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 
 
 
-
-
 166//HWGR5STHWGR516STGHWGR5STGHON5XSTG//GR5-GR5(2015)-GR5(2016)-Honor5X//Go/.ld//Sim Tray//4,000//Null//Null
 202//HWNV2ISTGHWNV2ISTBHWNV2ISTW//Nova2i//Gold,Black,White//Sim Tray//3,500//9,5,2021//Master
 222//HWNV3ISTBHWNV3ISTBL//Huawei Nova3i//Black,Blue//Sim Tray//3,000//28,8,2021//Master
@@ -2735,6 +2733,14 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 209//HWNV3EBCBL//Nova3e//Blue//BackCover//3,500//31,1,2021//HX
 1687//IPH6BCG//IPhone6//Gold//BackCover//11,000//26.4.2021//Master
 1687//IPH6BCRG//IPhone6//RoseGold//BackCover//11,000//26.4.2021//Master
+1239//SSA717BCBSSA7BCB//A7(2017)-Samsung//Black//BackCover//3,500//Null//Null
+1240//SSA717BCWSSA7BCW//A7(2017)-Samsung//White//BackCover//5,000//Null//Null
+1538//OPRN2BCB//OPPO-Reno2-BackCover//Black//BackCover//65,00//1,3,2021//Master
+1663//RMEC2BCBL//RealmeC2//Blue//BackCover//5,500//16,11,2020//Nice
+1664//VVY93SBCB//Vivo-Y93s//Black//BackCover//9,000//12,9,2020//Nice
+1642//MI8LBCBL//Mi8Lite//Blue//BackCover//3,500//24,12,2020//FoneClub
+1642//MICC9PBCB//MiCC9Pro//Black//BackCover//7,500//22,6,2021//Master
+1636//SSNOTE5BC//SamsungNote5//Null//Backcover//5000//Null//Null
 
 
 49//HOLU10PKHONU10PKHONU19PKHOLU19PKHW3CPK//Hol-U10-U19-3c-Huawei//Null//Power Flex//2,000//23,4,2021//Master
@@ -2895,14 +2901,6 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 753//OPA7VFOPA5sVFRME3VF//A5s-A7-Realme3//Null//Volume Flex//1,500//14,2,2021//HX
 756//OPA83PKOPF5LPK//F5lite-A83-OPPO//Null//Power Flex//2,000//20,9,2021//Fone Club
 
-561//MMX2SPK//MiMax2//Null//Speaker//3,000//Null//Null
-561//MMX2SPK//MiMax2//Null//Speaker//3,000//Null//Null
-570//MMX3SPK//Mi Max3//Null//Speaker//3,500//27,6,2021//Master
-220//HWNV3ISPK//Nova3i//Null//Speaker//3,000//Null//Null
-201//HWNV2ISPK//Nova2i//Null//Speaker//3,000//27,6,2021//Master
-67//HON7ASPK//Honor7A//Null//Speaker//3,500//Null//Null
-520//MI5SPK//Mi5//Null//Speaker//3,000//22,6,2021//Master
-528//MI5XSPKRM5XSPK//Redmi5x-Mi5x//Null//Speaker//3,000//21,11,2020//Master
 
 174//HWGR517FGPBHON6XFGPB//GR5(2017)-Honor6X//Black//FingerPrintCable//4,500//21,11,2020//Master
 200//HWNV2IFPHWNV3FPHWNV3IFP//Nova2i-Nova3-Nova3i//Null//Fingerprint//3,500//26,1,2021//Nice
@@ -2912,17 +2910,11 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 422//HWY919FM//Y9(2019)//Null//Finger Print ကြားဆက်ကြိုး//3,000//31,1,2021//Master
 444//IPH5FPCW//IPhone5s//White//Fingerprints//3,500//Null//Null
 446//IPH5SHK//IPhone5s//Null//Home Key//3,500//Null//Null
-475//IPH8PCG//IPhone8Plus//Gold//Camera-Cover-Frame//5,000//Null//Null
 509//MI4SFPG//Mi4s//Gold//Fingerprints//5,000//Null//Null
 514//MI5FPB//Mi5//Black//Fingerprints//5,000//Null//Null
 579//MMX1FPG//MiMax1//Gold//Fingerprints//4,500//Null//Null
 580//MMX1FPGR//MiMax1//Gray//Fingerprints//4,500//Null//Null
-583//MMX1SPK//MiMax1//Null//Speaker//3,000//Null//Null
-637//MZM5CSPK//M5C-Meizu//Null//Speaker//4,500//Null//Null
 652//MZM5SFGPK//M5s-Meizu//White//Finger Print//5,500//21,11,2020//Master
-697//OPA33MBG//A33-Oppo//Gold//Middle Body//0//Null//Null
-698//HWP8FCM//HUAWEI-P8//Null//Front Camera//5,000//1,1,2021//Master
-698//RMN9CMRM10X4GCMRMN9SCM//RedMiNote9-RedMi10X(4G)-RedMiNote9S//Null//Front Camera//1,500//2,9,2021//HX
 737//OPA57HKW//A57//White//Home Key//3,500//Null//Null
 768//OPF1SHFWOPA59HFW//F1s-A59//White//Home Key//4,500//Null//Null
 781//OPF3HKW//F3-Oppo//White//Home Key//4,500//Null//Null
@@ -2930,44 +2922,22 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 897//RM4PGPG//RedMi4pro//Gold//Fingerprints//4,500//Null//Null
 916//RM4XFPB//RedMi4X//Black//Fingerprints//4,000//Null//Null
 917//RM4XFPG//RedMi4x//Gold//Fingerprints//4,000//27,6,2021//Master
-920//RM4XSPK//RedMi4X//Null//Speaker//3,000//27,6,2021//Master
 943//RM5FPGRM5FPB//RedMi5//Gold,Black//Fingerprints//3,700//Null//Null
-959//RM5SPK//Redmi5//Null//Speaker//3,000//27,6,2021//master
 967//RM5XFGPRMI5XFGPRRM5XFPBMI5XFPB//Redmi5X//Red,Black//Fingerprints//6,500//9,5,2021//Master
-979//RM6ACM//RedMi6//Null//Camera မှန်//1,000//1,7,2021//HX
-979//RMK30CM//RedMi K30//Null//Camera မှန်//2,000//25,9,2021//Master
-987//RM6PFGP//Redmi6Pro//Null//Fingerprints//8,000//Null//Null
-988//RM6PSPK//RedMi6Pro//Null//Speaker//3,000//25,1,2021//Master
-1007//RM6XSKBMI6XSKB//Mi6X//Null//Speaker Box//3,500//28,12,2020//HX
 1052//RMN3FGPGR//RedMiNote3//Grey//Fingerprints//5,000//10,11,2020//Master
 1053//RMN3FGPG//RedMiNote3//Gold//Fingerprints//5,000//10,11,2020//Master
-1043//RMN2MB//RedMiNote2//Null//Middle Body//0//Null//Null
+987//RM6PFGP//Redmi6Pro//Null//Fingerprints//8,000//Null//Null
 1082//RMN4FPG//Redminote4//Gold//Fingerprints//4,500//4,12,2020//HX
 1083//RMN4FPGR//Redminote4//Gray//Fingerprints//5,000//Null//Null
 1084//RMN4FPRG//RedMiNote4//RoseGold//Fingerprints//3,500//Null//Null
 1098//RMN4XFPG//Redminote4X//Gold//Fingerprints//4,300//Null//Null
-1100//RM4XSPK//Redmi4X//Null//Speaker//3,000//22,6,2021//Master
-1101//RMN4XSPKBX//Redminote4X//Null//Speaker Box//4,000//18,8,2021//Master
 1124//RMN5AFPG//Redminote5a//Gold//Fingerprints//4,500//28,5,2021//Master
-1129//RMN5ASPKBX//Redminote5A//Null//Speaker Box//3,500//2,9,2021//Master
 1131//RMN5FPRMN5FGP//Redminote5//Null//Fingerprints//5,000//Null//Null
-1137//RMN5SPKBX//Redminote5//Null//Speaker BOX//4,000//18,9,201//SLS
-1147//MICC9ECM//Xiaome MiCC9E//Null//Camera ဖုံး//1,500//27,6,2021//Master
-1147//MMX3CM//Xiaome Mi Max3//Null//Camera ဖုံး//1,500//27,6,2021//Master
-1148//RMN7CM//Redminote7//Null//Camera မှန်//1,500//20,9,2021//Fone Club
-1150//RMN7SPK//RedmiNote7//Null//Speaker//3,000//Null//Null
 1168//RMPHF//Redmipro//Null//Home Key//3,000//Null//Null
 1175//RMS2FPB//MiS2-RedmiS2//Black//Fingerprints//11,000//Null//Null
-1183//SCDVQK8600//ScrewDriver-QK8600//Null//ဝက်အူလှည့်//4,500//9,4,2021//FoneClub
-1183//SCDVMCNP8//ScrewDriver-Mechanic Pro 8(1.5)//Null//ဝက်အူလှည့်//4,000//11,9,2021//Master
-1211//SPR001//530-550ml-Spary//Null//Orthers//3,500//Null//Null
-1210//SSA80SPKSSA805SPK//Samsung A80(A805)//Null//Speaker//3,500//12,8,2021//Master
-1239//SSA717BCBSSA7BCB//A7(2017)-Samsung//Black//BackCover//3,500//Null//Null
-1240//SSA717BCWSSA7BCW//A7(2017)-Samsung//White//BackCover//5,000//Null//Null
-1298//SSI9060HK//I9060-Samsung//Null//Home Key//3,500//Null//Null
-1308//SSI9082MB//I9082-Samsung//Null//Middle Body//0//Null//Null
 1340//SSJ4HF//J4-samsung//Null//Home_Flex//4,000//Null//Null
 1354//SSJ5HF//J5-Samsung//Null//Home Key//4,500//Null//Null
+1298//SSI9060HK//I9060-Samsung//Null//Home Key//3,500//Null//Null
 1368//SSJ700FHC//J700F-Samsung//Null//Home Cable//4,000//6,12,2020//Master
 1374//SSJ7HF//J7-Samsung//Null//Home Key//4,000//Null//Null
 1380//SSJ7PRFPGSSON7FPG//J7Prime-On7//Gold//Fingerprints//4,000//Null//Null
@@ -2976,25 +2946,35 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1385//SSJ7PRHF//J7prime//AllColor//Home Flex//5,000//10,3,2021//Master
 1386//SSJ7CHC//J7Core//Null//Home Cable//3,000//13,12,2020//Master
 1387//SSJ7PRIFPB//J7prime//Black//Fingerprints//4,500//Null//Null
-
 1420//SSON7HKSSG6000HK//On7-Smasung//Null//Home Key//3,500//Null//Null
 1508//VVV5HFWVVY67HFW//V5-Home//White//Fingerprints//5,500//Null//Null
-
 1539//VVY1219FPRVVY1519FPRVVY1719FPR//Vivo-Y12-Y15-Y17-(2019)//Red//FingerPrints//6,500//28,5,2021//Master
-1538//OPRN2BCB//OPPO-Reno2-BackCover//Black//BackCover//65,00//1,3,2021//Master
-
-1594//VVY55SPK//Vivo-Y55//Null//Speaker//3,500//24,9,2021//Master
+1869//VVY91PFB//Y91-Vivo//Black//Finger Print//8,500//6,11,2020//Master
+1733//OPF7FGPGFBA3FGPFB//F7-A3-Oppo//Black//Finger Print//6,500//24,12,2020//Master
+1871//MI8LPFBL//Mi8Lite//Blue//Finger Print//10,500//6,11,2020//Master
+1881//RMN3FGPB//RedMiNote3//Black//Finger Prints//5,000//10,11,2020//Master
+1899//SSA20SFGFGN//Samsung-A20s//Green//Finger Prints//7,500//11,1,2021//Master
 1634//IPH7HFIPH7PHFIPH8HFIPH8PHF//Iphone7-Iphone7PLUS-Iphone8-Iphone8PLUS//Null//HomeFlex//20700//Null//Null
+1652//RM6FGPCBGRRM6FGPCBG//RedMi6//Gray,Gold//Finger Prints Cable//6,500//5,4,2021//Master
+1678//MMX2FP//MiMax2//Null//FingerPrint//4500//23,9,2020//HX
+1711//RMN8FGFLBRMN8FGFLWRMN8FGFLBL//RedMiNote8//AllColor//Finger Prints//7,000//11,1,2021//Master
 
-1636//SSNOTE5BC//SamsungNote5//Null//Backcover//5000//Null//Null
-1642//MI8LBCBL//Mi8Lite//Blue//BackCover//3,500//24,12,2020//FoneClub
-1642//MICC9PBCB//MiCC9Pro//Black//BackCover//7,500//22,6,2021//Master
+
+
+475//IPH8PCM//IPhone8Plus//Gold//Camera-Cover-Frame//5,000//Null//Null
+698//HWP8FCM//HUAWEI-P8//Null//Front Camera//5,000//1,1,2021//Master
+698//RMN9CMRM10X4GCMRMN9SCM//RedMiNote9-RedMi10X(4G)-RedMiNote9S//Null//Front Camera//1,500//2,9,2021//HX
+979//RM6ACM//RedMi6//Null//Camera မှန်//1,000//1,7,2021//HX
+979//RMK30CM//RedMi K30//Null//Camera မှန်//2,000//25,9,2021//Master
+1147//MICC9ECM//Xiaome MiCC9E//Null//Camera ဖုံး//1,500//27,6,2021//Master
+1147//MMX3CM//Xiaome Mi Max3//Null//Camera ဖုံး//1,500//27,6,2021//Master
+1148//RMN7CM//Redminote7//Null//Camera မှန်//1,500//20,9,2021//Fone Club
 1652//HWNV3ICM//Nova3i//Null//Camera ဖုံး//1,500//30,11,2020//Master
 1652//HWNV3ECM//Nova3E//Null//Camera ဖုံး//1,500//30,11,2020//Master
 1652//HWY919CM//Y9(2019)//Null//Camera ဖုံး//1,500//30,11,2020//Master
-1652//RM6PCMRMS2CMRMN5CM//RedMi6Pro-RedMiS2-RedMiNote5//Null//Camera ဖုံး//1,500//20,1,2021//FoneClub
-
-1652//RM6FGPCBGRRM6FGPCBG//RedMi6//Gray,Gold//Finger Prints Cable//6,500//5,4,2021//Master
+1665//RM7CM//Redmi7//Null//Camera မှန်//1,500//26,4,2021//Master
+1665//RMN8CM//RedMiNote8//Null//Camera မှန်//1,500//19,9,2021//Nice
+1665//MI9SECM//Mi9SE//Null//Camera မှန်//1,500//2,9,2021//HX
 1652//RM5PCM//RedMi5Plus//Null//Camera ဖုံး//1,500//18,1,2021//Master
 1652//RM6ACM//RedMi6A//Null//Camera ဖုံး//1,500//19,9,2021//Nice
 1652//HWY718CM//Huawei-Y7(2018)//Null//Camera ဖုံး//1,500//30,1,2021//HX
@@ -3003,25 +2983,57 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1652//RMN5ACM//RedMiNote5A//Null//Camera ဖုံး//1,500//18,1,2021//Master
 1652//MIMIX2SCMMI6XCMMI8CM//MiMix2-MI6X-MI8//Null//Camera ဖုံး//1,500//30,1,2021//HX
 1652//VVY91CMVVY95CM//VIVO-Y91-Y95//Null//Camera ဖုံး//1,500//30,11,2020//Master
-1657//OPA1KSPK//Oppo-A1k//Null//Speaker//3000//5,9,2020//Master
-1663//RMEC2BCBL//RealmeC2//Blue//BackCover//5,500//16,11,2020//Nice
-1664//VVY93SBCB//Vivo-Y93s//Black//BackCover//9,000//12,9,2020//Nice
-1665//RM7CM//Redmi7//Null//Camera မှန်//1,500//26,4,2021//Master
-1665//RMN8CM//RedMiNote8//Null//Camera မှန်//1,500//19,9,2021//Nice
-1665//MI9SECM//Mi9SE//Null//Camera မှန်//1,500//2,9,2021//HX
-1667//IPH6PEP//IPhone6plus//Null//Earpice//2,000//12,8,2021//Master
-1667//IPH6PCMIPH6PFCM//IPhone6plus//Null//Front Camera//7,000//12,8,2021//Master
-1678//MMX2FP//MiMax2//Null//FingerPrint//4500//23,9,2020//HX
-1711//RMN8FGFLBRMN8FGFLWRMN8FGFLBL//RedMiNote8//AllColor//Finger Prints//7,000//11,1,2021//Master
-1738//HWEJ6SSPK//Huawei Enjoy6S//Null//Speaker//1,500//27,6,2021//Master
-1869//VVY91PFB//Y91-Vivo//Black//Finger Print//8,500//6,11,2020//Master
-1733//OPF7FGPGFBA3FGPFB//F7-A3-Oppo//Black//Finger Print//6,500//24,12,2020//Master
-1871//MI8LPFBL//Mi8Lite//Blue//Finger Print//10,500//6,11,2020//Master
-1881//RMN3FGPB//RedMiNote3//Black//Finger Prints//5,000//10,11,2020//Master
-1899//SSA20SFGFGN//Samsung-A20s//Green//Finger Prints//7,500//11,1,2021//Master
-1873//MI8LSPK//Mi8Lite//Null//Speaker//3,500//6,11,2020//Master
 1898//RMN9SCM//RedMiNote9S//Null//Camera မှန်//2,500//11,9,2021//Nice
 1898//RM9ACM//RedMi9A//Null//Camera မှန်//1,500//2,9,2021//SLS
 1898//IPH6SPCM//I Phonr6SPlus//Null//Camera မှန်//1,500//5,9,2021//SLS
 1729//HWY9P19SFCMHON9XSFCM//Y9Prime(2019)-Honor9X//Null//Front Camera//7,000//13,12,2020//Master
+1652//RM6PCMRMS2CMRMN5CM//RedMi6Pro-RedMiS2-RedMiNote5//Null//Camera ဖုံး//1,500//20,1,2021//FoneClub
+1667//IPH6PCMIPH6PFCM//IPhone6plus//Null//Front Camera//7,000//12,8,2021//Master
+
+
+583//MMX1SPK//MiMax1//Null//Speaker//3,000//Null//Null
+637//MZM5CSPK//M5C-Meizu//Null//Speaker//4,500//Null//Null
+920//RM4XSPK//RedMi4X//Null//Speaker//3,000//27,6,2021//Master
+959//RM5SPK//Redmi5//Null//Speaker//3,000//27,6,2021//Master
+988//RM6PSPK//RedMi6Pro//Null//Speaker//3,000//25,1,2021//Master
+1007//RM6XSKBMI6XSKB//Mi6X//Null//Speaker Box//3,500//28,12,2020//HX
+1100//RM4XSPK//Redmi4X//Null//Speaker//3,000//22,6,2021//Master
+1101//RMN4XSPKBX//Redminote4X//Null//Speaker Box//4,000//18,8,2021//Master
+1129//RMN5ASPKBX//Redminote5A//Null//Speaker Box//3,500//2,9,2021//Master
+1137//RMN5SPKBX//Redminote5//Null//Speaker BOX//4,000//18,9,201//SLS
+1150//RMN7SPK//RedmiNote7//Null//Speaker//3,000//Null//Null
+1210//SSA80SPKSSA805SPK//Samsung A80(A805)//Null//Speaker//3,500//12,8,2021//Master
+1738//HWEJ6SSPK//Huawei Enjoy6S//Null//Speaker//1,500//27,6,2021//Master
+1873//MI8LSPK//Mi8Lite//Null//Speaker//3,500//6,11,2020//Master
+1594//VVY55SPK//Vivo-Y55//Null//Speaker//3,500//24,9,2021//Master
+1657//OPA1KSPK//Oppo-A1k//Null//Speaker//3000//5,9,2020//Master
+1667//IPH6PEP//IPhone6plus//Null//Earpice//2,000//12,8,2021//Master
+561//MMX2SPK//MiMax2//Null//Speaker//3,000//Null//Null
+561//MMX2SPK//MiMax2//Null//Speaker//3,000//Null//Null
+570//MMX3SPK//Mi Max3//Null//Speaker//3,500//27,6,2021//Master
+220//HWNV3ISPK//Nova3i//Null//Speaker//3,000//Null//Null
+201//HWNV2ISPK//Nova2i//Null//Speaker//3,000//27,6,2021//Master
+67//HON7ASPK//Honor7A//Null//Speaker//3,500//Null//Null
+520//MI5SPK//Mi5//Null//Speaker//3,000//22,6,2021//Master
+528//MI5XSPKRM5XSPK//Redmi5x-Mi5x//Null//Speaker//3,000//21,11,2020//Master
+
+697//OPA33MBG//A33-Oppo//Gold//Middle Body//0//Null//Null
+1043//RMN2MB//RedMiNote2//Null//Middle Body//0//Null//Null
+1308//SSI9082MB//I9082-Samsung//Null//Middle Body//0//Null//Null
+
+1183//SCDVQK8600//ScrewDriver-QK8600//Null//ဝက်အူလှည့်//4,500//9,4,2021//FoneClub
+1183//SCDVMCNP8//ScrewDriver-Mechanic Pro 8(1.5)//Null//ဝက်အူလှည့်//4,000//11,9,2021//Master
+1211//SPR001//530-550ml-Spary//Null//Orthers//3,500//Null//Null
+
+
+
+
+
+
+
+
+
+
+
+
 
