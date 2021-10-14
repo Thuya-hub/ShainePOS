@@ -1919,6 +1919,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 953//RM5PRMN5BN44BT//RedMi5Plus-BN44-RedmiNote5//Null//Battery//6,500//1,7,2021//HX,ASM
 953//RM5PRMN5BN44BT//RedMi5Plus-BN44-RedmiNote5//Null//Battery//8,500//30,1,2021//Master
 1011//RM7ABTBN49BT//Redmi7A-BN49//Null//Battery//7,000//14,12,2020//HX
+1011//RM7ABTBN49BT//Redmi7A-BN49//Null//Battery//7,200//14,10,2021//Master
 1028//OPA1KBTBLP711BT//A1k-BLP711//Null//Battery//7,500//13,1,2021//FoneClub
 1028//OPA1KBTBLP711BT//A1k-BLP711//Null//Battery//6,500//30,1,2021//HX,ASM
 1028//RMEC2BTBLP721BT//RealmeC2-BLP721//Null//Battery//7,500//13,1,2021//FoneClub
