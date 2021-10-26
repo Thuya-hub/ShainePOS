@@ -1,6 +1,6 @@
 No//CODE//Model//Color//Type//Price//Date//Shop
 
-3//MMX1TLB//Mimax1(AA)//Black//T+L//41,000//10,8,2021//HX
+3//MMX1TLB//Mimax1(AA)//Black//T+L//41,000//11,8,2021//HX
 5//MMX1TLW//Mimax1(ORG)//White//T+L//49,000//22,10,2021//HX//3000
 6//MMX1TLB//Mimax1(ORG)//Black//T+L//49,000//22,10,2021//HX//3000
 
