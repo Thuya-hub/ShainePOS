@@ -2752,6 +2752,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 756//OPA83PKOPF5LPK//F5lite-A83-OPPO//Null//Power Flex//2,000//20,9,2021//Fone Club
 
 
+444//Y81FGP//VIVO Y81//Null//Fingerprints//8,500//null//Master
+444//Y83PFGPY85FGP//VIVO Y83Pro-Y85//Null//Fingerprints//9,000//Null//Null
 174//HWGR517FGPBHON6XFGPB//GR5(2017)-Honor6X//Black//FingerPrintCable//4,500//21,11,2020//Master
 200//HWNV2IFPHWNV3FPHWNV3IFP//Nova2i-Nova3-Nova3i//Null//Fingerprint//3,500//26,1,2021//Nice
 247//HWP9LFGCBB//P9Lite//Black//Finger Print//3,500//19,12,2020//Master
