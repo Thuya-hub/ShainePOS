@@ -1490,7 +1490,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1749//MMX1TW//MiMax//White//TouchOnly//7,000//18,9,2021//SLS
 1750//MMX1TB//MiMax//Black//TouchOnly//6,000//5,6,2021//Nice
 1751//MMX3TB//MiMax3//Black//TouchOnly//6,500//19,11,2021//Master
-1752//MMX3TW//MiMax3//MMX3TB//MiMax3//White,Black//TouchOnly//6,500//19,11,2021//HX//3000
+1752//MMX3TWMMX3TB//MiMax3//White,Black//TouchOnly//6,500//19,11,2021//HX//3000
 1753//MI4TB//Mi4//Black//TouchOnly//6,600//30,10,2020//Master
 1754//MI3TB//Mi3//Black//Touch Only//6,500//30,10,2020//Master
 1755//RMN2TB//RedmiNote2//Black//TouchOnly//4,500//8,9,2020//Master
