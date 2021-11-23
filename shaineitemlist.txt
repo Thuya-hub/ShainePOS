@@ -623,7 +623,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 
 1208//SNZ4TLB//Z4-Sony//Black//T+L//27,000//Null//Null
 
-1715//SNC3TLB//SonyC3//Black//Touch+LCD//22,500//19,10,2020//HX
+1715//SNC3TLB//SonyC3//Black//T+L//22,500//19,10,2020//HX
 
 1189//SNC4TLB//C4-Sony//Black//T+L//18500//23,9,2020//HX
 
@@ -984,18 +984,16 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 
 
 
-
-
+46//HLP9TB//P9-Hello//Black//Touch//13,000//Null//Null
 30//CP5218TB//Cp5218-Coolpad//Black//Touch//5,000//Null//Null
 33//CP7060STB//Cp7060s-Coolpad//Black//Touch//5,000//Null//Null
 34//CP7060TB//Cp7060-Coolpad//Black//Touch//4,500//Null//Null
 36//CP7232TB//Cp7232-Coolpad//Black//Touch//5,000//Null//Null
 39//CP7275TB//7275-CoolPad//Black//Touch//5,000//Null//Null
 41//CP8079TW//Cp8079-Coolpad//White//Touch//4,000//Null//Null
-42//CPG606W//G606-Huawei//White//Touch//0//Null//Null
 43//CPK510W//K510-Coolpad//White//Touch//0//Null//Null
 44//CPY60TBCPY60C1TB//Y60-C1-coolpad//Black//Touch//5,500//Null//Null
-46//HLP9TB//P9-Hello//Black//Touch//13,000//Null//Null
+42//HWG606W//G606-Huawei//White//Touch//0//Null//Null
 50//HOLU10TBHONU10TBHONU19TBHOLU19TB//Hol-U10-U19-Huawei//Black//Touch//4,500//15,7,2021//Master
 50//HOLU10TBHONU10TBHONU19TBHOLU19TB//Hol-U10-U19-Huawei//Black//Touch//5,500//16,9,2021//Naing Win
 57//HON4XTB//Honor4x-Gplay//Black//TouchOnly//5,000//24,9,2021//HX
