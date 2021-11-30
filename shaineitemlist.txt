@@ -2492,7 +2492,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1328//SSJ2BDCG//J2-Samsung//Gold//BodyCover//5,000//Null//Null
 1329//SSJ2PBDCBSSG532BDCB//J2prime-G532//Black//BodyCover//4,500//Null//Null
 1330//SSJ2PBDCGRSSG532BDCGR//J2Prime-G532//Gray//BodyCover//4,500//Null//Null
-1331//SSJ2PBDCGSSG532BDCG//J2prime-G532//Gold//BodyCover//4,000//18,1,2021//Master
+1331//SSJ2PBDCGSSG532BDCG//J2prime-G532//Gold,Black//BodyCover//6,000//18,1,2021//Master//2250
 1332//SSJ2PBDCWSSG532BDCW//J2prime-G532//White//BodyCover//4,500//Null//Null
 1341//SSJ4PBDCGSSJ4PBDCB//J4PLUS-Samsung//Gold,Black//Body Cover//7,000//12,12,2020//HX
 1348//SSJ516BDCGSSJ5BDCG//J5(2016)-Samsung//Gold//BodyCover//7,500//Null//Null
