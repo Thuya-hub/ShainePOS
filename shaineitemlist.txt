@@ -1227,7 +1227,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 418//HWY7PRGW//Y7Prime//White//Glass//3,000//19,10,2020//HX
 1637//HWY919GBHWY9GB//Huawei-Y9(19)//Black//Glass//3,000//28,5,2021//Master
 1722//HWY9PR19GBHON9XGBHWY9SGB//Y9Prime(2019)-Honor9X-Y9S//Black//Glass//3,000//19,9,2021//Master
-
+1722//SSJ6GB//Samsung J6//Black//Glass//3,500//19,9,2021//HX//2250
 
 505//MI4ITBMI4CTB//Mi4i-Mi4c//Black//TouchOnly//6,000//18,2,2021//HX
 505//MI4ITBMI4CTB//Mi4i-Mi4c//Black//TouchOnly//5,000//18,9,2021//SLS
