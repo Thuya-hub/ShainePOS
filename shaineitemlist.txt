@@ -1100,6 +1100,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 276//HWY317TG//Y3(2017)-Huawei//Gold//TouchOnly//4,000//16,9,2021//Naing Win
 280//HWY317TW//Y3(2017)-Huawei//White//TouchOnly//3,500//1,7,2021//HX
 280//HWY317TW//Y3(2017)-Huawei//White//TouchOnly//4,000//16,9,2021//Naing Win
+76//HWHON8STBHWY519TBHWY5P19TB//Honor8s-Y5(2019)-Y5Prime(2019)//Black//TouchOnly//5,000//Null//HX//2250
 281//HWY320CTW//Y320C-Huawei//White//Touch//4,800//Null//Null
 284//HWY320TB//Y320U-Huawei//Black//Touch//3,500//Null//Null
 285//HWY320TW//Y320-U01-Huawei//White//Touch//3,500//Null//Null
