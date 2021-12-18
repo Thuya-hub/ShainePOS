@@ -141,6 +141,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 148//RMN6PTLB//RedMiNote6Pro//Black//T+L//47,000//22,10,2021//HX//2250
 
 149//RM7TLBRMS3TLBRMY3TLB//Redmi7-S3-Y3//Black//T+L//30,500//12,8,2021//Master
+151//RM7TLBRMS3TLBRMY3TLB//Redmi7-S3-Y3//Black//T+L//32,500//17,12,2021//Nice//2250
 150//RM7TLBRMS3TLBRMY3TLB//Redmi7-S3-Y3//Black//T+L//31,000//16,12,2021//FoneClub//2250
 151//RM7TLBRMS3TLBRMY3TLB//Redmi7-S3-Y3//Black//T+L//32,000//19,11,2021//HX//2250
 
@@ -263,6 +264,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 72//HWY5P18TLBHWY5LTLBHON7STLBHWY5PRTLB//Y5(2018)-Y5Prime(2018)-Y5Lite-Honor7s//Black//T+L//32,000//(21)22,10,2021//Master//2250
 
 74//HWHON8STLBHWY519TLBHWY5P19TLB//Honor8s-Y5(2019)-Y5Prime(2019)//Black//T+L//19,500//18,1,2021//Master
+76//HWHON8STLBHWY519TLBHWY5P19TLB//Honor8s-Y5(2019)-Y5Prime(2019)//Black//T+L//31,000//17,12,2021//Nice//2250
 75//HWHON8STLBHWY519TLBHWY5P19TLB//Honor8s-Y5(2019)-Y5Prime(2019)//Black//T+L//29,000//29,11,2021//FoneClub//2250
 76//HWHON8STLBHWY519TLBHWY5P19TLB//Honor8s-Y5(2019)-Y5Prime(2019)//Black//T+L//26,000//3,8,2021//HX
 
@@ -642,6 +644,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1789//IPH5TLB//Iphone5G(ORG)//Black//T+L//31,000//(21)19,11,2021//HX//2250
 1789//IPH5TLW//Iphone5G(ORG)//White//T+L//31,000//(21)22,10,2021//HX//2250
 
+448//IPH5STLWIPH5STLB//IPhone5s(AA)//White,Black//T+L//28,000//17,12,2021//SLS//2250
 448//IPH5STLWIPH5STLB//IPhone5s(AA)//White,Black//T+L//27,000//(21)22,10,2021//HX//2250
 448//IPH5STLWIPH5STLB//IPhone5s(ORG)//White,Black//T+L//31,000//(21)22,10,2021//HX//2250
 
@@ -1351,6 +1354,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1116//RMN5ATW//RedmiNote5A//White//TouchOnly//5,500//16,9,2021//Naing Win
 1179//RMS2TBMIS2TB//RedmiS2//Black//TouchOnly//3,500//1,7,2021//HX
 1182//RMS2TWMIS2TW//RedmiS2//White//TouchOnly//3,500//10,8,2021//HX
+1179//RMS2TBMIS2TB//RedmiS2//Black//TouchOnly//5,000//17,12,2021//Master//2250
+1182//RMS2TWMIS2TW//RedmiS2//White//TouchOnly//5,000//17,12,2021//Master//2250
 1474//MI3TB//Mi3//Black//TouchOnly//0//Null//Null
 1475//Mi4TB//Mi4//Black//TouchOnly//6,500//27,6,2021//Master
 1476//MI4iTW//Mi4i-Mi4c//White//TouchOnly//7,000//Null//Null
@@ -1781,7 +1786,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 23//BN37BTRM6BTRM6ABT//Redmi6-Redmi6A-BN37//Null//Battery//8,000//10,7,2021//Master
 24//BN40BTRM4PBT//Redmi4Pro-BN40//Null//Battery//5,500//16,11,2020//HX
 25//BN42BTRM4BT//Redmi4(16GB)-BN42//Null//Battery//6,500//17,5,2021//HX
-25//BN42BTRM4BT//Redmi4(16GB)-BN42//Null//Battery//8,000//25,8,2021//Master
+25//BN42BTRM4BT//Redmi4(16GB)-BN42//Null//Battery//9,500//17,12,2021//Master//2250
 
 26//BN46BTRM7BTRMN8BT//RedMiNote8-RedMi7-BN46//Null//Battery//10,500//29,11,2021//FoneClub//2250
 26//BN46BTRM7BTRMN8BT//RedMiNote8-RedMi7-BN46//Null//Battery//10,500//18,9,2021//Nice
@@ -2368,7 +2373,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 
 
 
-
+76//HWHON8SBDCBHWY519BDCBHWY5P19BDCB//Honor8s-Y5(2019)-Y5Prime(2019)//Black//Body Cover//11,000//17,12,2021//Nice//2250
 47//HOLU10BDCWHONU10BDCWHONU19BDCWHOLU19BDCW//Hol-U10//White//BodyCover//0//Null//Null
 53//HON4XBDCW//Honor4x-Gplay-Huawei//White//BodyCover//7,000//24,2,2021//Master
 53//HON4XBDCB//Honor4x-Gplay-Huawei//Black//BodyCover//7,000//24,2,2021//Master
@@ -2634,6 +2639,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 
 1142//RMN6ProBDCRG//RedmiNote6Pro//RoseGold//BodyCover//7,600//Null//Null
 
+51//IPH12PMXBCG//I Phone12ProMax//Gold//Back Cover//18,000//17,12,2021//SLS//2250
 
 51//HON4XBCBHWGPBCBHON4XBCWHWGPBCW//Honor4x-Gplay//Black,Whiet//Back Cover//4,000//19,9,2021//Master
 52//HON4XBCGHWGPBCGHON4XBCBHWGPBCB//Honor4x-Gplay//Gold,Black//Back Cover//3,500//10,8,2021//HX
@@ -3030,6 +3036,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1738//HWEJ6SSPK//Huawei Enjoy6S//Null//Speaker//1,500//27,6,2021//Master
 1873//MI8LSPK//Mi8Lite//Null//Speaker//3,500//6,11,2020//Master
 1594//VVY55SPK//Vivo-Y55//Null//Speaker//3,500//24,9,2021//Master
+1594//VVV5LSPK//Vivo-V5Lite//Null//Speaker//3,500//17,12,2021//Master//2250
 1657//OPA1KSPK//Oppo-A1k//Null//Speaker//2250//5,9,2020//Master
 1667//IPH6PEP//IPhone6plus//Null//Earpice//2,000//12,8,2021//Master
 561//MMX2SPK//MiMax2//Null//Speaker//3,000//Null//Null
@@ -3088,12 +3095,12 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1466//Tate1//DoubleTate-နီ//Null//Others//3,000//Null//Null
 1467//Tate2//DoubleTate-ဖြူ//Null//Others//3,500//Null//Null
 1631//F933//Mechanic F933 (10CC)-ထင်းရူးဆီ//Null//Others//7,000//14,10,2021//Master//2250
-1631//F933//Mechanic XGS40-158_ခဲရည်(42g)//Null//Others//7,500//14,10,2021//Master//2250
+1631//F933//Mechanic XGS40-158_ခဲရည်(42g)//Null//Others//6,500//17,12,2021//Master//2250
 1631//RM6CPRM6ACPRM6PCP//Redmi6-6A-6Pro//Null//Charging Port//500//14,10,2021//Master//2250
 1631//ကော်ထိုးအပ်//ကော်ထိုးအပ်//Null//Others//4,500//14,10,2021//Master//2250
 1631//zj-18//SolderingPaste-ထင်းရူးဆီ-ဘူးသေး//Null//Others//2,000//Null//Null
 1632//zj-181//SolderingPaste-ထင်းရူးဆီ-150g//Null//Others//3,000//Null//Null
-
+1632//AMAOခံဖော်စကာ//Amao ခဲဖော်စကာ//Null//Others//8,0500//17,12,2021//2250
 
 1632//SSJ7MIC//Samsung J7//Null//Mic//1,000//16,12,2021//Master//2250
 1632//HW5PMIC//Huawei 5ငုပ်-5Pin//Null//Mic//1,000//16,12,2021//Master//2250
