@@ -1,7 +1,8 @@
 No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main Camera//Selfi Camera//USB//Battery//Release Date//Chipset//Size-Weight
 
 
-1//RMN105G8128GBL//Red Mi Note 10(5G)(Global)//Nighttime Blue//8-128//447,000//1//(27)(24,6,2021)//Android 11,MIUI 12//GSM-HSPA-LTE-5G//Hybrid Dual SIM (Nano-SIM, dual stand-by//48MP,2MP,2MP//8MP//USB Type-C 2.0//Li-Po 5000mAh,non-removable,Fast Charging 18W//Date 28,April,2021//MediaTek MT6833 Dimensity 700 5G (7 nm)//6.5 inches, 102.0 cm2 (~83.7% screen-to-body ratio)-190g(6.70oz)//2250
+1//RMN105G8128GBL//Red Mi Note 10(5G)(Global)-
+https://www.gsmarena.com/xiaomi_redmi_note_10s-10769.php//Nighttime Blue//8-128//447,000//1//(27)(24,6,2021)//Android 11,MIUI 12//GSM-HSPA-LTE-5G//Hybrid Dual SIM (Nano-SIM, dual stand-by//48MP,2MP,2MP//8MP//USB Type-C 2.0//Li-Po 5000mAh,non-removable,Fast Charging 18W//Date 28,April,2021//MediaTek MT6833 Dimensity 700 5G (7 nm)//6.5 inches, 102.0 cm2 (~83.7% screen-to-body ratio)-190g(6.70oz)//2250
 
 3//RMN10S8128GBL//Red Mi Note 10S(Global)//Ocean Blue//8-128//468,000//1//(27)(7,6,2021)//Android 11,MIUI 12.5//GSM-HSPA-LTE//Dual SIM(nano-SIM,Dual Stand-By)//64MP,8MP,2MP,2MP//13MP//USB Type-C 2.0//Li-Po 5000mAh,non-removable,Fast Charging 33W//Date 28,April,2021//Mediatek Helio G95 (12nm)//6.43 inches,99.8cm2(~83.5%screen-to-body ratio)-178.8g(6.31oz)//2250
 
