@@ -651,7 +651,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 
 
 469//IPH6TLWIPH6TLB//IPhone6G(A.A)//White,Black//T+L//28,000//19,11,2021//FoneClub//2250
-469//IPH6TLB//IPhone6G(A.A)//Black//T+L//30,500//22,10,2021//HX//2250
+469//IPH6TLB//IPhone6G(A.A)//Black//T+L//28,000//24,9,2021//HX//2250
 
 
 468//IPH6STLBIPH6STLW//IPhone6s(AA)//Black,White//T+L//36,000//(21)22,10,2021//HX//2250
