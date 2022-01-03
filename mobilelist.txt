@@ -2,7 +2,6 @@ No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main
 
 00//VVY93R//Vivo Y93//Red//4-64//176000//1//2.1.2021//OS//Network//SIM//Main Camera//Selfi Camera//USB//Battery//Release Date//Chipset//Size-Weight//2250
 01//VVY81G//Vivo Y81//Gold//3-64//156000//1//2.1.2021//OS//Network//SIM//Main Camera//Selfi Camera//USB//Battery//Release Date//Chipset//Size-Weight//2250
-02//VVY85B//Vivo Y85//Black//4-64//175000//1//2.1.2021//OS//Network//SIM//Main Camera//Selfi Camera//USB//Battery//Release Date//Chipset//Size-Weight//2250
 
 
 1//RMN10S8128GBL//Red Mi Note 10S(Global)//Ocean Blue//8-128//468,000//1//(27)(7,6,2021)//Android 11,MIUI 12.5//GSM-HSPA-LTE//Dual SIM(nano-SIM,Dual Stand-By)//64MP,8MP,2MP,2MP//13MP//USB Type-C 2.0//Li-Po 5000mAh,non-removable,Fast Charging 33W//Date 28,April,2021//Mediatek Helio G95 (12nm)//6.43 inches,99.8cm2(~83.5%screen-to-body ratio)-178.8g(6.31oz)//2250
@@ -13,7 +12,7 @@ No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main
 
 4//VVY91R//VIVO Y91//RED//4-64//185,000//1//(22,12,2021)//Android 8.1(Oreo),Funtouch 4.5//GSM_HSPA_LTE//Dual SIM(Nano-SIM,Dual Stand-By)//13 MP, f\2.2, PDAF//2 MP, f\2.4, (depth)//MicroUSB 2.0, USB On-The-Go//Li-Po 4030 mAh, non-removable//Date November,2018//Qualcomm SDM439 Snapdragon 439 (12 nm)//6.22 inches, 96.6 cm2 (~82.9% screen-to-body ratio),163.5 g (5.78 oz)//2250
 
-5//VVY85R//VIVO Y85//RED//4-64//180,000//1//(26,12,2021)//Android 8.1(Oreo),Funtouch 4//GSM_CDMA_HSPA_LTE//Dual SIM(Nano-SIM,Dual Stand-By)//13 MP, f\2.2, PDAF//8 MP, f\2.2, (depth)//MicroUSB 2.0, USB On-The-Go//Li-Ion 3260 mAh, non-removable//Date May,2018//Mediatek MT6762 Helio P22 (12 nm)//6.22 inches, 96.6 cm2 (~82.7% screen-to-body ratio),150 g (5.29 oz)//2250
+5//VVY85R//VIVO Y85//RED//4-64//175000//1//(02,01,2021)//Android 8.1(Oreo),Funtouch 4//GSM_CDMA_HSPA_LTE//Dual SIM(Nano-SIM,Dual Stand-By)//13 MP, f\2.2, PDAF//8 MP, f\2.2, (depth)//MicroUSB 2.0, USB On-The-Go//Li-Ion 3260 mAh, non-removable//Date May,2018//Mediatek MT6762 Helio P22 (12 nm)//6.22 inches, 96.6 cm2 (~82.7% screen-to-body ratio),150 g (5.29 oz)//2250
 
 6//OPF1SPOPA59P//OPPO F1S,A59//PINK//4-32//130,000//1//(22,12,2021)//Android 5.1 (Lollipop), upgradable to 6.0 (Marshmallow), ColorOS 3//GSM_HSPA_LTE//Dual SIM(Nano-SIM,Dual Stand-By)//13 MP, f\2.2, 1\3", PDAF,Video	1080p@30fps//16 MP, f\2.0, 26mm (wide), 1\3.06", 1.0µm,Video	1080p@30fps//MicroUSB 2.0, USB On-The-Go//Li-Po 3075 mAh, non-removable//Date 3,August,2016//Mediatek MT6755 (28 nm) or MTK7650 (28 nm)//5.5 inches, 83.4 cm2 (~71.0% screen-to-body ratio),160 g (5.64 oz)//2250
 
