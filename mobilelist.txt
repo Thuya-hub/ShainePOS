@@ -1,5 +1,10 @@
 No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main Camera//Selfi Camera//USB//Battery//Release Date//Chipset//Size-Weight
 
+00//VVY93R//Vivo Y93//Red//4-64//176000//1//2.1.2021//OS//Network//SIM//Main Camera//Selfi Camera//USB//Battery//Release Date//Chipset//Size-Weight//2250
+01//VVY81G//Vivo Y81//Gold//3-64//156000//1//2.1.2021//OS//Network//SIM//Main Camera//Selfi Camera//USB//Battery//Release Date//Chipset//Size-Weight//2250
+02//VVY85B//Vivo Y85//Black//4-64//175000//1//2.1.2021//OS//Network//SIM//Main Camera//Selfi Camera//USB//Battery//Release Date//Chipset//Size-Weight//2250
+
+
 1//RMN10S8128GBL//Red Mi Note 10S(Global)//Ocean Blue//8-128//468,000//1//(27)(7,6,2021)//Android 11,MIUI 12.5//GSM-HSPA-LTE//Dual SIM(nano-SIM,Dual Stand-By)//64MP,8MP,2MP,2MP//13MP//USB Type-C 2.0//Li-Po 5000mAh,non-removable,Fast Charging 33W//Date 28,April,2021//Mediatek Helio G95 (12nm)//6.43 inches,99.8cm2(~83.5%screen-to-body ratio)-178.8g(6.31oz)//2250
 
 2//RMK305G6128PP//Red Mi K30(5G)(Stable)//Purple//6-128//446,000//1//(27)(2,11,2021)//Android 10,upgradable to Android 11,MIUI 12//GSM_HSPA_LTE_5G//Hybrid Dual SIM (Nano-SIM,Dual Stand-By)//12MP,2MP//8MP//USB Type-C 2.0,USB On-The-Go//Li-Po 4500 mAh,non-removable//Date 7,January,2019//Qualcomm SDM765 Snapdragon 765G(7nm)//6.67 inches,107.4cm2(~84.8%Screen-to-body ratio)-208g(7.34 oz)//2250
@@ -12,6 +17,6 @@ No//ID//Model//Colour//Ram-Rom//Price//Balance//LastDate//OS//Network//SIM//Main
 
 6//OPF1SPOPA59P//OPPO F1S,A59//PINK//4-32//130,000//1//(22,12,2021)//Android 5.1 (Lollipop), upgradable to 6.0 (Marshmallow), ColorOS 3//GSM_HSPA_LTE//Dual SIM(Nano-SIM,Dual Stand-By)//13 MP, f\2.2, 1\3", PDAF,Video	1080p@30fps//16 MP, f\2.0, 26mm (wide), 1\3.06", 1.0µm,Video	1080p@30fps//MicroUSB 2.0, USB On-The-Go//Li-Po 3075 mAh, non-removable//Date 3,August,2016//Mediatek MT6755 (28 nm) or MTK7650 (28 nm)//5.5 inches, 83.4 cm2 (~71.0% screen-to-body ratio),160 g (5.64 oz)//2250
 
-7//OPA83BL//OPPO A83//BLUE//4-32//145,000//1//(26,12,2021)//Android 7.1 (Nougat), ColorOS 3.2//GSM- CDMA-HSPA-LTE//Dual SIM(Nano-SIM,Dual Stand-By)//13 MP, f\2.2, AF//8 MP, f\2.2//MicroUSB 2.0, USB On-The-Go//Li-Ion 3180 mAh, non-removable//Date January,2018//Mediatek MT6763T Helio P23 (16 nm)//5.7 inches, 83.8 cm2 (~76.2% screen-to-body ratio),143 g (5.04 oz)//2250
+7//OPA83BL//OPPO A83//BLUE//3-32//137000//1//(26,12,2021)//Android 7.1 (Nougat), ColorOS 3.2//GSM- CDMA-HSPA-LTE//Dual SIM(Nano-SIM,Dual Stand-By)//13 MP, f\2.2, AF//8 MP, f\2.2//MicroUSB 2.0, USB On-The-Go//Li-Ion 3180 mAh, non-removable//Date January,2018//Mediatek MT6763T Helio P23 (16 nm)//5.7 inches, 83.8 cm2 (~76.2% screen-to-body ratio),143 g (5.04 oz)//2250
 
 8//RM9A464BRM9A464BL//Red Mi 9A//BLACK,BLUE//4-64//214,000//2//(27,12,2021)//Android 10, MIUI 12//GSM_HSPA_LTE//Dual SIM(nano-SIM,Dual Stand-By)//13 MP, f\2.2, 28mm (wide), 1.0µm, PDAF,(Features)LED flash, HDR,(Video)1080p@30\60fps//5 MP, f\2.2, (wide), 1.12µm,(Features)HDR,(Video)1080p@30fps//microUSB 2.0, USB On-The-Go//Li-Po 5000 mAh, non-removable,Charging 10W//Date 7,July,2020//MediaTek MT6762G Helio G25 (12 nm)//6.53 inches, 102.9 cm2 (~81.0% screen-to-body ratio)-196 g (6.91 oz)//2250
