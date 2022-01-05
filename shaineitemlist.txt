@@ -7,14 +7,14 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 
 10//MMX2TLWMMX2TLB//MiMax2(ORG)//White,Black//T+L//42,500//6,12,2021//HX//2250
 10//MMX2TLWMMX2TLB//MiMax2(ORG)//White,Black//T+L//44,000//(21)19,11,2021//FoneClub//2250
-10//MMX2TLWMMX2TLB//MiMax2(ORG)//White,Black//T+L//53,000//(21)3,1,2022//MASTER//2250
+10//MMX2TLWMMX2TLB//MiMax2(ORG)//White,Black//T+L//53,000//3,1,2022//MASTER//2250
 11//MMX3TLB//MiMax3//Black//T+L//32,500//18,1,2021//Master
 12//MMX3TLW//MiMax3//White//T+L//60,000//10,10,2021//FoneClub//2250
 13//MMX3TLB//MiMax3//Black//T+L//60,000//22,10,2021//HX//2250
 14//MMX3TLW//MiMax3//White//T+L//60,000//22,10,2021//HX//2250
 
 15//MINTLWMINLTETLW//MiNoteLTE//White//T+L//40,000//10,10,2021//HX//2250
-15//MINTLWMINLTETLW//MiNoteLTE//White//T+L//43,500//3,1,2022//MASTER//2250
+15//MINTLWMINLTETLW//MiNoteLTE//White//T+L//44,500//3,1,2022//MASTER//2250
 
 17//RMPRTLB//Redmipro//Black//T+L//56,000//22,10,2021//HX//2250
 
@@ -130,7 +130,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 139//RM6TLBRM6ATLB//Redmi6-Redmi6A//Black//T+L//30,000//(21)22,10,2021//HX//2250
 139//RM6TLBRM6ATLB//Redmi6-Redmi6A//Black//T+L//27,500//16,12,2021//FoneClub//2250
 
-142//RM6XTLBMI6XTLBMIA2TL//Redmi6X-Mia2//Black//T+L//48,000//3,1,2022//MASTER//2250
+142//RM6XTLBMI6XTLBMIA2TL//Redmi6X-Mia2//Black//T+L//48,500//3,1,2022//MASTER//2250
 
 145//RM6PTLBMIA2LTLB//Redmi6Pro-MiA2Lite//Black//T+L//33,000//22,12,2021//FoneClub//2250
 145//RM6PTLBMIA2LTLB//Redmi6Pro-MiA2Lite//Black//T+L//33,000//19,11,2021//HX//2250
@@ -154,7 +154,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 159//MI8TLB//MI8//Black//T+L//69,000//10,10,2021//CITY//2250
 
 
-162//RM8TLBRM8ATLB//RedMi8-RedMi8A//Black//T+L//39,500//3,1,2022//Master//2250
+162//RM8TLBRM8ATLB//RedMi8-RedMi8A//Black//T+L//40,500//3,1,2022//Master//2250
 162//RM8TLBRM8ATLB//RedMi8-RedMi8A//Black//T+L//44,000//(21)24,10,2021//FoneClub//2250
 162//RM8TLBRM8ATLB//RedMi8-RedMi8A//Black//T+L//37,500//6,12,2021//HX//2250
 
@@ -989,7 +989,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1300//SSI9060LCDSSI9060ILCDSSI9082LCD//i9060-i9060i-9082//Null//LCD//11,800//Null//Null
 1314//SSI9152LCD//i9152-Samsung//Null//LCD//18,000//Null//Null
 1325//SSJ1LCD//J1-Samsung//Null//LCD//8,000//Null//Null
-1421//SSON7LCDSSG600LCDSSG6000LCD//G600-ON7-G6000-Samsung//Null//LCD//24500//3,1,2022//Master//2250
+1421//SSON7LCDSSG600LCDSSG6000LCD//G600-ON7-G6000-Samsung//Null//LCD//24,500//3,1,2022//Master//2250
 1451//SST111LCDSST110LCDSST116LCD//T111-T110-T116-Samsung//Null//LCD//14,500//Null//Null
 1455//SST211LCD//T211-Samsung//Null//LCD//17,000//Null//Null
 1460//SST231LCD//T231-Samsung//Null//LCD//18,000//31,1,2021//HX
@@ -1952,7 +1952,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1051//RMN3BTBM46BT//RedMiNote3-BM46//Null//Battery//10,000//14,10,2021//Master//2250
 
 1081//RMN4BTBN41BT//RedmiNote4-BN41//Null//Battery//9,000//10,10,2021//HX//2250
-1081//RMN4BTBN41BT//RedmiNote4-BN41//Null//Battery//9,000//3,1,20212//Master//2250
+1081//RMN4BTBN41BT//RedmiNote4-BN41//Null//Battery//9,000//3,1,2022//Master//2250
 1081//RMN4BTBN41BT//RedmiNote4-BN41(ORG)//Null//Battery//10,000//16,12,2021//FoneClub//2250
 1097//RMN4XBTBN43BT//RedmiNote4x-BN43//Null//Battery//9,000//10,10,2021//HX
 1097//RMN4XBTBN43BT//RedmiNote4x-BN43(ORG)//Null//Battery//9,000//11,9,2021//Master//2250
@@ -2481,7 +2481,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 789//OPF5BDCGOPF5YBDCG//F5-F5Youth//Gold//BodyCover//9,500//23,4,2021//Master
 789//OPF5BDCROPF5YBDCR//F5-F5Youth//Red//BodyCover//9,000//11,1,2021//Master
 795//OPF5YBDCGOPF5BDCG//F5Youth-F5//Gold//BodyCover//7,000//Null//Null
-801//OPF9BDCBOPF9BDCBL//Oppo-F9//WHITE,GREEN//BodyCover//14000//3.1.2022//MASTER//2250
+801//OPF9BDCBOPF9BDCBL//Oppo-F9//WHITE,GREEN//BodyCover//16,000//3,1,2022//MASTER//2250
 809//OPR1001BDCB//R1001//Black//BodyCover//9,500//Null//Null
 810//OPR1001BDCW//R1001//White//BodyCover//9,500//Null//Null
 815//OPR2001BDCW//R2001//White//BodyCover//10,000//Null//Null
@@ -3085,7 +3085,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 7//KAISI936//Kaisi 936_ခဲဂေါက်//Null//Others//32,000//14,10,2021//Master//2250
 7//L951T1//L951-T-1ခဲတေ့,ခဲကောက်(အကောက်)//Black//Others//4,500//14,10,2021//Master//2250
 7//ISM5JAMPLEခဲရည်//ISm5_Jample ခဲရည်(3ml)//Null//Others//7,000//14,10,2021//Master//2250
-8//BLADE//11#-ဓားထုပ်//Null//Others//1,500//15,3,2021//Master
+8//BLADE//11#-ဓားထုပ်//Null//Others//1,500//3,1,2022//Master
 9//DoubleTape//Double တိပ်နီ (0.5cm)//Null//Others//5,500//14,10,2021//Master//2250
 9//DoubleTape//Double တိပ်နီ (0.4cm)//Null//Others//3,000//13,12,2020//Master
 10//DoubleTape//Double တိပ်နီ (0.5cm)//Null//Others//3,500//13,12,2020//Master
@@ -3120,8 +3120,95 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1632//zj-181//SolderingPaste-ထင်းရူးဆီ-150g//Null//Others//3,000//Null//Null
 1632//AMAOခံဖော်စကာ//Amao ခဲဖော်စကာ//Null//Others//8,0500//17,12,2021//2250
 
+1632//VVY71FCM//VIVO Y71//Null//Front Camera//6,000//3,1,2022//Master//2250
+
 1632//SSJ7MIC//Samsung J7//Null//Mic//1,000//16,12,2021//Master//2250
 1632//HW5PMIC//Huawei 5ငုပ်-5Pin//Null//Mic//1,000//16,12,2021//Master//2250
 1632//SSN900MIC//Samsung N900//Null//Mic//1,000//16,12,2021//Master//2250
 1632//MI6PMIC//MI 6ငုပ်-6Pin//Null//Mic//1,000//16,12,2021//Master//2250
 1665//RMN8MCM//RedMiNote8//Null//Main Camera//17,000//22,12,2021//FoneClub//2250
+
+1632//MT6358VWPWIC//MT6358VW//Null//Power IC//6,500//3,1,2022//Master//2250
+1632//MT6331PPWIC//MT6331P//Null//Power IC//5,500//Null//Null//2250
+1632//MT6350VPWIC//MT6350V//Null//Power IC//6,500//Null//Null//2250
+1632//MT6625LNWFIC//MT6625LN//Null//WIFI IC//5,500//Null//Null//2250
+1632//MT6353PWCTIC//MT6353V//Null//Power Control IC//6,500//Null//Null//2250
+1632//MT6351PWCTIC//MT6351V//Null//Power Control IC//5,500//Null//Null//2250
+1632//MT6358WPWIC//MT6358W//Null//Power IC//6,000//Null//Null//2250
+1632//MT6323GAPWIC//MT6323GA//Null//Power IC//6,500//Null//Null//2250
+1632//MT6357CRVPWIC//MT6357CRV//Null//Power IC//6,500//Null//Null//2250
+1632//MT6176VPWIC//MT6176V//Null//Power IC//5,500//Null//Null//2250
+1632//MT6177MVPWICMT6177PWIC//MT6177MV,MT6177//Null//Power IC//4,500//Null//Null//2250
+1632//MT6320GAPWIC//MT6320GA//Null//Power IC//6,000//Null//Null//2250
+1632//MT6328VPWICMT6328PWIC//MT6328V,MT6328//Null//Power IC//6,500//Null//Null//2250
+1632//MT6356WPWIC//MT6356W//Null//Power IC//6,500//Null//Null//2250
+1632//MT6359PPWIC//MT6359P//Null//Power IC//6,500//Null//Null//2250
+1632//MT6357VPWIC//MT6357V//Null//Power IC//6,500//Null//Null//2250
+1632//MT6371PPWIC//MT6371P//Null//Power IC//6,000//Null//Null//2250
+
+
+1632//WTR3925PAIC//WTR3925//Null//PA IC//3,500//3,1,2022//Master//2250
+1632//WTR1605LADIC//WTR1605L//Null//Audio IC//4,500//Null//Null//2250
+1632//WTR2965NWIC//WTR2965//Null//Network IC//6,500//Null//Null//2250
+1632//WTR3925NWIC//WTR3925//Null//Network IC//4,500//Null//Null//2250
+1632//WTR2955ADIC//WTR2955//Null//Audio IC//4,500//Null//Null//2250
+1632//WTR660RFIC//WTR660RF//Null//IC//4,500//Null//Null//2250
+
+
+1632//PMI8940PWICMI5XPWIC//PMI8940(Mi5X)//Null//Power IC//6,000//3,1,2022//Master//2250
+1632//PMI632502PWIC//PMI632(502)//Null//Power IC//5,500//Null//Null//2250
+1632//PMI632602PWIC//PMI632(602)//Null//Power IC//6,500//Null//Null//2250
+1632//PMI632902PWIC//PMI632(902)//Null//Power IC//6,500//Null//Null//2250
+1632//PMI8952PWIC//PMI8952//Null//Power IC//6,000//Null//Null//2250
+1632//PMI8940PWIC//PMI8940//Null//Power IC//6,000//Null//Null//2250
+1632//PMI632PWIC//PMI632//Null//Power IC//8,000//Null//Null//2250
+
+1632//HI6522PWIC//HI6522//Null//Power IC//4,500//Null//Null//2250
+1632//HI6522ORGPWIC//HI6522 ORG//Null//Power IC//6,500//Null//Null//2250
+1632//HI6422PWIC//HI6422//Null//Power IC//4,500//Null//Null//2250
+1632//HI1102WFIC//HI1102//Null//WIFI IC//4,500//Null//Null//2250
+
+1632//MAX8997PWIC//Max8997//Null//Power IC//4,500//Null//Null//2250
+
+1632//WCN6320WFIC//WCN6320//Null//WIFI IC//5,500//Null//Null//2250
+1632//WCN3980WFIC//WCN3980//Null//WIFI IC//5,500//Null//Null//2250
+
+1632//HI6422PWALFIC//77643-21//Null//Power Amplifier IC//4,500//Null//Null//2250
+
+1632//BQ24296CGIC//BQ24296//Null//Charger IC//5,500//Null//Null//2250
+
+
+1632//PM6125001PWIC//PM6125(001)//Null//Power IC//6,500//3,1,2022//Master//2250
+1632//PM8953PWIC//PM8953//Null//Power IC//4,500//Null//Null//2250
+1632//PM7150PWIC//PM7150//Null//Power IC//4,500//Null//Null//2250
+1632//PM6125PWIC//PM6125//Null//Power IC//6,000//Null//Null//2250
+1632//PM7150PWIC//PM7150//Null//Power IC//4,500//Null//Null//2250
+1632//PM8952PWIC//PM8952//Null//Power IC//6,000//Null//Null//2250
+1632//PM8940PWIC//PM8940//Null//Power IC//6,000//Null//Null//2250
+1632//PM660PWIC//PM660//Null//Power IC//6,000//Null//Null//2250
+1632//PM660LPWIC//PM660L//Null//Power IC//5,500//Null//Null//2250
+1632//PM8937PWIC//PM8937//Null//Power IC//5,500//Null//Null//2250
+1632//PM6125PWIC//PM6125//Null//Power IC//6,500//Null//Null//2250
+1632//PM439PWIC//PM439//Null//Power IC//4,500//Null//Null//2250
+1632//PM670APWIC//PM670A//Null//Power IC//5,500//Null//Null//2250
+1632//PM8909PWIC//PM8909//Null//Power IC//4,500//Null//Null//2250
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
