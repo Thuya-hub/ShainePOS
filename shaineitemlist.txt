@@ -146,6 +146,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 
 
 154//RM7ATLB//Redmi7A//Black//T+L//28,000//19,11,2021//HX//2000
+3//RM7ATLB//RedMi7A//Black//T+L//40,000//20,1,2022//RS
 
 
 157//RMN7TLBRMN7PTLB//RedMiNote7-RedMiNote7Pro//Black//T+L//39,000//25,11,2021//HX//2000
@@ -544,6 +545,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 21//VVY31TLB//Y31-Vivo//Black//T+L//14,500//6,11,2020//Master
 22//VVY31TLW//Y31-Vivo//White//T+L//14,500//6,11,2020//Master
 23//VVY31TLWVVY31TL//Y31-Vivo//White,Black//T+L//23,000//10,10,2021//FoneClub//2000
+23//VVY31TLWVVY31TL//Y31-Vivo//White,Black//T+L//21,500//20,1,2022//RS
 
 24//VVX9PTLW//VIVO-X9Plus//White//T+L//22,000//5,1,2021//Master
 
@@ -732,7 +734,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 
 1801//MZU10TLB//Meizu-U10//Black//T+L//15,000//30,10,2020//HX
 
-
+3//SSA11TLB//Samsung A11//Black//T+L//40,000//20,1,2022//RS
 
 1//SSA10TLB//Samsung-A10-A105//Black//T+L//42,000//19,9,2021//Master
 2//SSA10TLB//Samsung-A10-A105//Black//T+L//45,500//10,10,2021//FoneClub//2000
