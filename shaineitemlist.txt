@@ -1351,6 +1351,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 069//RMN3TG//RedmiNote3//Gold//TouchOnly//3,500//11,6,2021//Master
 1069//RMN3TG//RedmiNote3//Gold//TouchOnly//5,500//16,9,2021//Naing Win
 1068//RMN3TB//RedmiNote3//Black//TouchOnly//5,500//16,9,2021//Naing Win
+1068//RMN3TB//RedmiNote3//Black//TouchOnly//5,500//4,11,2021//FoneClub//2000
 1069//RMN3TG//RedmiNote3//Gold//TouchOnly//5,500//4,11,2021//FoneClub//2000
 1073//RMN3TW//RedmiNote3//White//TouchOnly//6,000//4,11,2021//FoneClub//2000
 1073//RMN3TW//RedmiNote3//White//TouchOnly//6,000//4,11,2021//FoneClub//2000
