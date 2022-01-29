@@ -3129,7 +3129,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop
 1898//RM9ACM//RedMi9A//Null//Camera မှန်//1,500//2,9,2021//SLS
 1898//IPH6SPCM//I Phonr6SPlus//Null//Camera မှန်//1,500//5,9,2021//SLS
 1729//HWY9P19SFCMHON9XSFCM//Y9Prime(2019)-Honor9X//Null//Front Camera//7,000//13,12,2020//Master
-1652//RM6PCMRMS2CMRMN5CM//RedMi6Pro-RedMiS2-RedMiNote5//Null//Camera ဖုံး//1,500//28,1,2022//JL1667//IPH6PCMIPH6PFCM//IPhone6plus//Null//Front Camera//7,000//12,8,2021//Master
+1652//RM6PCMRMS2CMRMN5CM//RedMi6Pro-RedMiS2-RedMiNote5//Null//Camera ဖုံး//1,500//28,1,2022//JL
+1667//IPH6PCMIPH6PFCM//IPhone6plus//Null//Front Camera//7,000//12,8,2021//Master
 
 
 583//MMX1SPK//MiMax1//Null//Speaker//3,000//Null//Null
