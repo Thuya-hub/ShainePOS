@@ -2220,7 +2220,9 @@ Master//2000
 542//MI8SEBCR//Mi8SE//Red//Back Cover//3,000//9,4,2021//HX//2500
 542//MI8SEBCR//Mi8SE//Red//Back Cover//4,000//17,1,2022//KK//3500
 
-545//MICC9BCW//MiCC9//White//Back Cover//6,500//30,1,2022//Master//4500
+545//MICC9BCW//MiCC9//White//Back Cover//6,500//30,1,2022//KK//4500
+
+545//MICC9EBCBL//MiCC9E//BLUE//Back Cover//6,500//30,1,2022//KK//4500
 
 591//MIN3BCB//MINote3//Black//Back Cover//3,500//4,12,2020//HX//3000
 592//MIN3BCB//MiNote3//Black//Back Cover//3,000//27,6,2021//Master//2300
