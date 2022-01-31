@@ -1,4 +1,4 @@
-No//CODE//Model//Color//Type//Price//Date//Shop//Parchurse
+No//CODE//Model//Color//Type//Price//Date//Shop//
 
 #Xiaomi T+L
 
