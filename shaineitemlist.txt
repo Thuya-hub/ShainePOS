@@ -1069,7 +1069,6 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1068//RMN3TB//RedmiNote3//Black//TouchOnly//5,000//4,11,2021//FoneClub//3700
 1069//RMN3TG//RedmiNote3//Gold//TouchOnly//5,000//4,11,2021//FoneClub//3700
 1073//RMN3TW//RedmiNote3//White//TouchOnly//5,000//4,11,2021//FoneClub//3700
-1073//RMN3TW//RedmiNote3//White//TouchOnly//5,000//4,11,2021//FoneClub//3700
 
 1093//RMN4TW//RedmiNote4//White//TouchOnly//3,500//6,12,2021//HX//2500
 1090//RMN4TB//RedmiNote4//Black//TouchOnly//3,500//10,8,2021//HX//2500
