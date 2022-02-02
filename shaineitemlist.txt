@@ -28,7 +28,6 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 17//MI8TLB//MI8//Black//T+L//69,000//10,10,2021//CITY//53750
 159//MI8TLB//XIAOMI MI8//Black//T+L//58,500//28,1,2022//HX//54500
 
-
 510//MI4TLB//Mi4//Black//T+L//23,000//Null//Null//15,250
 
 540//MI8LiteTLW//Mi8Lite//White//T+L//27,800//Null//Null//25950
