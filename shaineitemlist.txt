@@ -671,6 +671,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 #Samsung T+L
 
+3//SSJ2PTLBSSJ250TLB//Samsung J2Pro,J250//Black//T+L//49,000//7,2,2022//FONECLUB//45500
+
 3//SSA52TLB//Samsung A52(Frame)(ORG)//Black//T+L//172,000//28,1,2022//FONECLUB//165000
 
 31//SSA516TLBSSA510FTLB//Samsung A5(2016),A510F//Black//T+L//51,000//22,1,2022//HX//47500
@@ -1045,6 +1047,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 890//RM4ATG//RedMi4A//Gold//TouchOnly//4,000//16,9,2021//Naing Win//3000
 890//RM4ATG//RedMi4A//Gold//TouchOnly//3,000//31,1,2021//Master//2000
 894//RM4ATWRM4ATBRM4ATG//RedMi4A//White,Black,Gold//TouchOnly//4,000//25,11,2021//HX//2800
+
+894//RM416TWRM4TW//RedMi4(16G)//White//TouchOnly//5,000//7,2,2022//HX//3300
 
 926//RM4XTW//RedMi4X//White//TouchOnly//3,500//25,9,2021//Master//2400
 921//RM4XTB//RedMi4X//Black//TouchOnly//3,500//19,9,2021//Master//2400
@@ -1774,6 +1778,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 #SAMSUNG BATTERY
 
+1211//SSTBBTSST7000BTSST705BT//Samsung-Tablet T7000-T705//Null//Battery//12,000//7,2,2022//Master//10300
+
 1211//SSJ7PBTSSEBBJ731ABEBT//Samsung-J7PLUS-EB-BJ731ABE//Null//Battery//9,500//30,1,2022//KK//7400
 
 1211//SSA8BTSSEBBA800ABEBT//Samsung-A8-EB-BA800ABE//Null//Battery//7,000//5,5,2021//FoneClub//5100
@@ -2063,6 +2069,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 577//MMX1BDCG//MiMax1//Gold//BODY COVER//12,000//12,12,2020//HX//10000
 
 #SAMSUNG(BODY COVER)
+
+1279//SSA10BDCBLSSA10SBDCBL//Samsung A10-A10S//Blue//BODY COVER//10,000//7,2,2022//Master//6800
 
 1225//SSA30BDCWSSA20BDCWSSA30BDCBLSSA20BDCBLSSA30BDCR//Samsung-A20-A30//Black//BODY COVER//11,500//7,7,2021//Master//9300
 
@@ -3179,6 +3187,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 #PMI
 
+1632//PM8916PWIC//PM8916//Null//Power IC//3,500//7,2,2022//Master//1300
+
 1632//PMI8940PWICMI5XPWIC//PMI8940(Mi5X)//Null//Power IC//5,000//3,1,2022//Master//3300
 1632//PMI8940PWICMI5XPWIC//PMI8940(Mi5X)//Null//Power IC//5,500//28,1,2022/JL//4000
 1632//PMI6150LPWIC//PMI6150L//Null//Power IC//6,800//10,1,2022//Master//0
@@ -3694,7 +3704,9 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 484//KB006//T7000-Mechanic-50ML//Null//Other//3,500//18,8,2021//Master//1400
 481//KB003//B7000-50Ml//Null//Other//3,500//18,8,2021//Master//1400
 435//ခဲဖော်စကာ//Amaoe 45_Multi ခဲဖော်စကာ//Null//Others//7,500//10,1,2022//Master//5700
-1183//SCDVMCNP8//ScrewDriver-Mechanic Pro 8(1.5)//Null//ဝက်အူလှည့်//4,000//11,9,2021//Master//2200
+
+1183//SCDVMCNP8R//ScrewDriver-Mechanic Pro 8(0.8)//Red//ဝက်အူလှည့်//5,000//7,2,2022//Master//2800
+1183//JP//TOOLS Jumper ကြိုး//Null//Jumper//1,000//7,2,2022//Master//300
 
 698//HWP8FCM//HUAWEI-P8//Null//Front Camera//4,500//1,1,2021//Master//3000
 1729//HWY9P19SFCMHON9XSFCM//Y9Prime(2019)-Honor9X//Null//Front Camera//7,000//13,12,2020//Master//5000
@@ -3704,6 +3716,9 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1632//HW5PMIC//Huawei 5ငုပ်-5Pin//Null//Mic//1,000//16,12,2021//Master//500
 1632//SSN900MIC//Samsung N900//Null//Mic//1,000//16,12,2021//Master//500
 1632//MI6PMIC//MI 6ငုပ်-6Pin//Null//Mic//1,000//16,12,2021//Master//500
+
+1665//HWSPK//Huawei အကြီး//Null//Speaker//1,000//7,2,2022//FoneClub//350
+1665//VVX23SPKVVX27SPKVVS1SPKVVS1PSPK//VIVO X23,X27,S1,S1Pro//Null//Speaker//1,000//7,2,2022//Master//300
 
 1665//RMN8MCM//RedMiNote8//Null//Main Camera//16,000//22,12,2021//FoneClub//14000
 1183//SCDVQK8600//ScrewDriver-QK8600//Null//ဝက်အူလှည့်//4,000//9,4,2021//FoneClub//1600
