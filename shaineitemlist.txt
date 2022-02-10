@@ -70,6 +70,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 38//RM4XTLW//RedMi4X//White//T+L//22,500//6,12,2021//HX//21000
 39//RM4XTLB//RedMi4X//Black//T+L//22,500//6,12,2021//HX//21000
+39//RM4XTLB//RedMi4X//Black//T+L//21,000//8,2,2022//FoneClub//19600
 
 40//RMN4TLB//RedMiNote4(ORG)//Black//T+L//22,000//12,8,2021//MASTER//20200
 
@@ -460,8 +461,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 81//OPF11PTLB//Oppo-F11Pro//Black//T+L//40,500//22,10,2021//HX//37500
 82//OPF11PTLB//Oppo-F11Pro//Black//T+L//41,000//18,9,2021//SHWELATTSAUNG//38000
-
 803//OPF11PTLBOPF9PTLB//OPPO F11,F9PRO//Black//T+L//41,500//24,9,2020//HX//38000
+803//OPF11PTLBOPF9PTLB//OPPO F11,F9PRO//Black//T+L//42,500//8,2,2022//FoneClub//39200
 
 85//OPRME3PTLB//Realme3PRO-Oppo//Black//T+L//42,000//10,10,2021//HX//39000
 
@@ -670,6 +671,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 
 #Samsung T+L
+
+3//SSN5TLGSSN920TLG//Samsung NOTE5,N920//Gold//T+L//136,000//8,2,2022//FONECLUB//126500
 
 3//SSJ2PTLBSSJ250TLB//Samsung J2Pro,J250//Black//T+L//49,000//7,2,2022//FONECLUB//45500
 
@@ -1070,7 +1073,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 969//RM5XTBMI5XTB//RedMi5x//Black//TouchOnly//5,000//16,9,2021//Naing Win//4000
 973//RM5XTWMI5XTW//RedMi5x//White//Touch//5,000//16,9,2021//Naing Win//4000
 
-992//RM6PTBRMIA2LTB//Redmi6Pro-MiA2Lite//Black//TouchOnly//4,500//7,2,2022//FoneClub//3500
+992//RM6PTBRMIA2LTB//Redmi6Pro-MiA2Lite//Black//TouchOnly//4,500//8,2,2022//FoneClub//3500
 992//RM6PTBRMIA2LTB//Redmi6Pro-MiA2Lite//Black//TouchOnly//5,500//5,2,2022//KK//4500
 
 980//RM6ATBRM6TBRM6ATWRM6TW//Redmi6-RedmiMi6A//Black,White//TouchOnly//3,500//7,7,2021//Master//2300
@@ -1467,6 +1470,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1478//KBO41TB//Kenbo-O41//Black//TouchOnly//4,500//17,10,2020//FoneClub//3100
 
 #I PHONE & APPLE TOUCH & TOUCH ONLY
+
+447//IPMNTW//I Pad Mini1,2//White//TouchOnly//9,000//15,12,2020//Master//8300
 
 447//IPH5GBIPH5GW//IPhone5G(3 In 1)//White,Black//Glass//3,500//15,12,2020//Master//2500
 457//IPH6GBIPH6GW//IPhone6-6G//Black,White//Glass//5,500//Null//Null//3500
@@ -2289,6 +2294,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1159//RMN8PBCB//RedmiNote8Pro//Black//Back Cover//4,500//6,12,2021//HX//3600
 
 1717//K30BCRK30BCPPK30BCBL//RedmiK30(4G,5G)//Red,Purple,Blue//Back Cover//4,500//19,11,2021//HX//3600
+1717//K30BCVlK30BCBL//RedmiK30(4G,5G)//Violet,Blue//Back Cover//7,500//8,2,2022//FoenClub//5200
 
 1660//RM8BCB//Redmi8//Black//Back Cover//7,500//7,2,2022//FoneClub//4500
 
