@@ -3615,6 +3615,14 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 1632//MMX2BTCNT//Mi Max2//Null//Battery connector//1,000//22,1,2022//JL//400
 
+#Charger Poart
+
+482//HWG610CGPHWG730CGP//Huawei G610,G730//Null//Charger Port//500//13,2,2022//Master//150
+482//HWG620SCGPHON4XCGP//Huawei G620S,Honor4X//Null//Charger Port//500//13,2,2022//Master//150
+482//HWY511CGP//Huawei Y511//Null//Charger Port//500//13,2,2022//Master//150
+482//HWG7CGPHWY32CGPRMN5ACGP//Huawei G7,Y32,RMN5A//Null//Charger Port//500//13,2,2022//Master//150
+482//RM5PCGP//RedMi5Plus//Null//Charger Port//500//13,2,2022//Master//200
+
 #XIAOMI & REDMI(SPEAKER)
 
 583//MMX1SPK//MiMax1//Null//SPEAKER//3,000//Null//Null//0
