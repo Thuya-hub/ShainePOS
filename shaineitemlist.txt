@@ -68,6 +68,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 33//RM4TLG//RedMi4//Gold//T+L//26,000//22,10,2021//HX//24000
 
 35//RM4ATLW//RedMi4A//White//T+L//20,500//(21)16,9,2021//Naing Win//19,000
+35//RM4ATLW//RedMi4A//White//T+L//23,500//17,2,2022//Master//21,500
 36//RM4ATLB//RedMi4A//Black//T+L//22,000//22,10,2021//HX//20000
 37//RM4ATLG//RedMi4A//Gold//T+L//22,000//22,10,2021//HX//20000
 
@@ -668,7 +669,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 660//MZM5TLW//M5-Meizu//White//T+L//14,500//15,12,2020//HX//13500
 
 646//MZM5NTLB//M5note-Meizu//Black//T+L//25,000//15,7,2021//MASTER//22900
-647//MZM5NTLW//M5Note-Meizu//White//T+L//19,500//15,7,2021//MASTER//18200
+647//MZM5NTLW//M5Note-Meizu//White//T+L//29,000//17,2,2022//MASTER//26500
 647//MZM5NTLW//M5Note-Meizu//White//T+L//18,000//4,12,2020//NICE//16800
 
 656//MZM5STLW//M5s-Meizu//White//T+L//14,500//16,11,2020//MASTER//13300
@@ -736,6 +737,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 38//SSJ3TLWSSJ316TLW//Samsung-J3(16)//White//T+L//54,000//22,10,2021//HX//51000
 
 38//SSJ3PTLWSSJ317TLW//Samsung-J3(2017)-J3Pro//SKY Blue//T+L//40,500//3,2,2022//HX//40500
+
+41//SSJ515TLGSSJ500TLG//Samsung J5(2015),J500//Gold//T+L//46,500//17,2,2022//MASTER//44500
 
 41//SSJ5PTLBLSSSJ530TLB//J5Pro-J530-Samsung//Black//T+L//41,000//24,11,2020//MASTER//38000
 42//SSJ5PTLGSSJ530TLG//J5Pro-J530//Gold//T+L//41,000//18,11,2020//NICE//38000
@@ -1641,7 +1644,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1672//MIPLAYBTBN39BT//MiPlay-BN39//Null//Battery//6,500//17,9,2020//FoneClub//5500
 
 1685//RMN5ARM5XRMS2BN31BT//RedmiNote5A-Mi5x-RedmiS2-BN31//Null//Battery//7,500//6,9,2021//FoneClub//6300
-1685//RMN5ARM5XRMS2BN31BT//RedmiNote5A-Mi5x-RedmiS2-BN31(ORG)//Null//Battery//8,500//3,1,2022//Master//7500
+1685//RMN5ARM5XRMS2BN31BT//RedmiNote5A-Mi5x-RedmiS2-BN31(ORG)//Null//Battery//10,500//17,2,2022//Master//8100
 1127//RMN5ARM5XRMS2BN31BT//RedmiNote5A-Mi5x-RedmiS2-BN31//Null//Battery//9,500//24,12,2021//KK//8500
 
 1136//RMN5PRBN45BT//RedmiNote5Pro-BN45//Null//Battery//8,000//10,5,2021//HX//7000
@@ -1793,6 +1796,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1649//IPH8BTAA//IPhone8(AA)//Null//Battery//11,000//6,12,2021//HX//9000
 
 1673//IPH6SPBT//IPhone6SPlus(ORG)//Null//Battery//13,000//5,5,2021//FoneClub//10900
+1673//IPH6SPBT//IPhone6SPlus(ORG)//Null//Battery//16,500//17,2,2022//Master//13700
 1673//IPH6SPBT//IPhone6SPlus(ORG)//Null//Battery//13,500//9,2,2022//HX//11000
 
 
@@ -1926,6 +1930,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 #HUAWEI(BODY COVER)
 
 125//HWEJ8BDCBLHWNV2LBDCBLHWY7PR18BDCBLHWY7P18BDCBLHON7CBDCBL//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-Honor7C//Blue//Body Cover//9,500//11,2,2022//SLS//7000
+125//HWEJ8BDCBLHWNV2LBDCBLHWY7PR18BDCBLHWY7P18BDCBLHON7CBDCBL//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-Honor7C//Blue//Body Cover//11,000//17,2,2022//Master//7800
 
 76//HWNV3IBDCBLHWNV3IBDCB//Huawei Nova3i//Blue,Black//Body Cover//17,000//11,2,2022//SLS//14500
 
@@ -2015,7 +2020,9 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 #XIAOMI & REDMI(BODY COVER)
 
-1048//RMN1BDCWRMN14GBDCWRMN1BDCBRMN14GBDCB//RedMiNote1(4G)//White,Black//BODY COVER//7,000//13,22022//MASTER//5200
+1048//RMN6PBDCB//RedMiNote6Pro//Black//BODY COVER//11,000//17,2,2022//MASTER//8600
+
+1048//RMN1BDCWRMN14GBDCWRMN1BDCBRMN14GBDCB//RedMiNote1(4G)//White,Black//BODY COVER//7,000//13,2,2022//MASTER//5200
 
 887//RM4ABDCG//RedMi4A//Gold,RoseGold//BODY COVER//7,500//21,11,2020//Master//4200
 914//RM4XBDCB//RedMi4X//Black//BODY COVER//8,500//12,8,2021//Master//6200
@@ -2126,6 +2133,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 577//MMX1BDCG//MiMax1//Gold//BODY COVER//12,000//12,12,2020//HX//10000
 
 #SAMSUNG(BODY COVER)
+
+38//SSJ515BDCGSSJ500BDCG//Samsung-J5(2015)-J500//Gold//Body Cover//4,000//17,2,2022//Master//2500
 
 1279//SSA10BDCBLSSA10SBDCBL//Samsung A10-A10S//Blue//BODY COVER//10,000//7,2,2022//Master//6800
 
@@ -2453,7 +2462,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 1199//SNZ1BCB//Z1-Sony//Black//Back Cover//4,000//Null//Null//0
 
-1202//SNZ2BCB//Z2-Sony//Black//Back Cover//3,500//Null//Null//0
+1202//SNZ2BCWSNZ2BCB//Z2-Sony//White,Black//Back Cover//3,000//17,2,2022//Master//1500
 
 1207//SNZ4BCG//Z4-Sony//Gold//Back Cover//0//Null//Null//0
 
@@ -2700,8 +2709,10 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1220//SSA10USB//Samsung-A10//Null//USB Board//4,500//2,9,2021//Master//4000
 1220//SSA10SUSBBD//Samsung-A10S(A107)//Null//USB Board//5,000//27,6,2021//Master//3800
 1223//SSA70USBBSSA705FUSBB//Samsung-A70(A705F)//Null//USB Board//8,000//21,5,2021//Master//7200
-1224//SSA20USBSSA205FUSBB//Samsung-A20-(A205F)//Null//USB Board//7,500//28,5,2021//Master//7000
+
+1224//SSA20USBSSA205FUSBB//Samsung-A20-(A205F)//Null//USB Board//6,500//17,2,2022//Master//4300
 1224//SSA20USBSSA205FUSBB//Samsung-A20-(A205F)//Null//USB Board//5,500//29,11,2021//FoneClub//4700
+
 1230//SSA50USB//Samsung-A50//Null//USB Board//6,000//27,6,2021//Master//4100
 1432//SSS5USB//S5-Samsung//Null//USB Board//4,500//Null//Null//0
 
@@ -3576,7 +3587,9 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 7//L951T1//L951-T-1ခဲတေ့,ခဲကောက်(အကောက်)//Black//Others//3,500//14,10,2021//Master//2300
 7//ISM5JAMPLEခဲရည်//ISm5_Jample ခဲရည်(3ml)//Null//Others//5,500//14,10,2021//Master//3600
 8//BLADE//11#-ဓားထုပ်//Null//Others//1,500//3,1,2022//Master//800
-9//DoubleTape//Double တိပ်နီ (0.5cm)//Null//Others//3,500//14,10,2021//Master//2500
+
+9//DoubleTape//Double တိပ်နီ (0.4cm,25M)//Null//Others//3,500//17,2,2022//Master//1700
+
 5//MTခဲဖော်စကာ//Kaisi Multi_ခဲဖော်စကာ//Null//Others//5,500//31,1,2021//Master//2700
 1631//F933//Mechanic F933 (10CC)-ထင်းရူးဆီ//Null//Others//7,000//14,10,2021//Master//3600
 1631//F933//Mechanic XGS40-158_ခဲရည်(42g)//Null//Others//6,500//17,12,2021//Master//4500
@@ -3614,6 +3627,9 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 865//OCARL//OCA Rollor//Null//Others//4,500//16,12,2021//JL//3000
 
 1632//MMX2BTCNT//Mi Max2//Null//Battery connector//1,000//22,1,2022//JL//400
+
+1508//HXT100ခဲခွေ//HX-T100 ခဲခွေ(0.03mm)//Null//ခဲခွေ//5,500//17,2,2022//Master//3900
+1508//NTခဲတို့ဆီ//NT ခဲတို့ဆီ//Null//ခဲတို့ဆီ//1,500//17,2,2022//Master//1000
 
 #Charger Poart
 
