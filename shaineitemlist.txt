@@ -1243,7 +1243,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 743//OPA57TW//A57-Oppo//White//TouchOnly//3,500//27,6,2021//Master//2200
 
 774//OPF1STWOPA59TW//F1s-A59//White//TouchOnly//4,000//22,1,2022//HX//2700
-774//OPF1STWOPA59TW//F1s-A59//White//TouchOnly/4,000//19,11,2021//FoneClub//2900
+774//OPF1STWOPA59TW//F1s-A59//White//TouchOnly//4,000//19,11,2021//FoneClub//2900
 784//OPF3PTB//F3Plus//Black//TouchOnly//3,500//Null//Null//2500
 785//OPF3PTW//F3plus//White//TouchOnly//5,000//Null//Null//3000
 
