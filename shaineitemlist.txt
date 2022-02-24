@@ -2295,7 +2295,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 229//HWP7BCW//P7-Huawei//White//Back Cover//3,500//Null//Null//0
 
-233//HWP8LBCB//P8Lite-Huawei//Black//Back Cover//3,500//Null//Null/***
+233//HWP8LBCB//P8Lite-Huawei//Black//Back Cover//3,500//Null//Null//0
 234//HWP8LBCW//P8lite-Huawei//White//Back Cover//3,500//Null//Null//0
 
 259//HWU10BCWHOLU10BCWHONU10BCWHONU19BCWHOLU19BCW//HOl-U10//White//Back Cover//3,500//Null//Null//0
