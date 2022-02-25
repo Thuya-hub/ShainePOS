@@ -2367,7 +2367,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1153//RMN8BCR//RedmiNote8//Red//Back Cover//4,500//28,1,2022//HX//2800
 
 1159//RMN8PBCW//RedmiNote8Pro//White//Back Cover//4,500//6,12,2021//HX//3600
-1159//RMN8PBCGN//RedmiNote8Pro//Green//Back Cover/4,500//6,12,2021//HX//3600
+1159//RMN8PBCGN//RedmiNote8Pro//Green//Back Cover//4,500//6,12,2021//HX//3600
 1159//RMN8PBCB//RedmiNote8Pro//Black//Back Cover//4,500//6,12,2021//HX//3600
 
 1717//K30BCRK30BCPPK30BCBL//RedmiK30(4G,5G)//Red,Purple,Blue//Back Cover//4,500//19,11,2021//HX//3600
