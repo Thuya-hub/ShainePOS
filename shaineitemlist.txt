@@ -1616,7 +1616,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 26//BN46BTRM7BTRMN8BT//RedMiNote8-RedMi7-BN46//Null//Battery//11,500//23,1,2022//ATP//9500
 26//BN46BTRM7BTRMN8BT//RedMiNote8-RedMi7-BN46//Null//Battery//9,000//9,2,2022//HX//7200
 
-26//RMN8PBTBN4JBT//Redminote8Pro-BN4J(ORG)//Null//Battery/12,000//13,2,2022//Master//9400
+26//RMN8PBTBN4JBT//Redminote8Pro-BN4J(ORG)//Null//Battery//12,000//13,2,2022//Master//9400
 
 27//BN47BTRM6PBT//Redmi6Pro-BN47//Null//Battery//8,000//19,11,2021//HX//7000
 27//BN47BTRM6PBT//Redmi6Pro-BN47(ORG)//Null//Battery//11,000//13,2,2022//Master//8700
