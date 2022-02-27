@@ -3612,7 +3612,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 435//ခဲဖော်စကာ//Amaoe 45_Multi ခဲဖော်စကာ//Null//Others//7,500//10,1,2022//Master//5700
 
 1183//SCDVMCNP8R//ScrewDriver-Mechanic Pro 8(0.8)//Red//ဝက်အူလှည့်//5,000//7,2,2022//Master//2800
-1183//JP//TOOLS Jumper ကြိုး//Null//Jumper//1,000//7,2,2022//Master//300
+1183//JP//TOOLS Jumper ကြိုး//Null//Jumper//1,000//26,2,2022//Master//400
 
 698//HWP8FCM//HUAWEI-P8//Null//Front Camera//4,500//1,1,2021//Master//3000
 1729//HWY9P19SFCMHON9XSFCM//Y9Prime(2019)-Honor9X//Null//Front Camera//7,000//13,12,2020//Master//5000
@@ -3646,8 +3646,10 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 #Charger Poart
 
 482//HWG610CGPHWG730CGP//Huawei G610,G730//Null//Charger Port//500//13,2,2022//Master//150
-482//HWG620SCGPHON4XCGP//Huawei G620S,Honor4X//Null//Charger Port//500//13,2,2022//Master//150
-482//HWY511CGP//Huawei Y511//Null//Charger Port//500//13,2,2022//Master//150
+482//HWG620SCGPHON4XCGP//Huawei G620S,Honor4X//Null//Charger Port//500//26,2,2022//Master//150
+482//VVY51CGPVVY52CGP//VIVO Y51,Y52//Null//Charger Port//500//26,2,2022//Master//200
+482//SSJ5CGPSSJ7PRCGPSSJ120CGPSSJ4PCGP//SAMSUNG J5,J7Prime,J120,J4Plus//Null//Charger Port//500//26,2,2022//Master//200
+482//HWY511CGP//Huawei Y511//Null//Charger Port//500//26,2,2022//Master//150
 482//HWG7CGPHWY32CGPRMN5ACGP//Huawei G7,Y32,RMN5A//Null//Charger Port//500//13,2,2022//Master//150
 482//RM5PCGP//RedMi5Plus//Null//Charger Port//500//13,2,2022//Master//200
 1846//RMN1USB//Redminote1(4G)(3G)//Null//Charger Port//2,000//23,2,2022//HX//1000
