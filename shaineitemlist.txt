@@ -1215,7 +1215,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 1149//RMN7GB//Redminote7//Black//Glass//2,000//21,5,2021//HX//1000
 1165//RMPGB//RedmiPro//Black//Glass//4,000//Null//Null//2200
-1717//RMK30GBK30GB//RedmiK30//Black//Glass//2,000//21,12,2020//HX//1000
+1717//RMK30GBK30GB//RedmiK30//Black//Glass//2,000//26,02,2022//HX//1100
 
 #OPPO TOUCH & TOUCH LCD
 
@@ -2377,9 +2377,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 1660//RM8BCB//Redmi8//Black//Back Cover//7,500//7,2,2022//FoneClub//4500
 
-1719//MI8LBCB//Mi8Lite//Black//Back Cover//4,000//19,10,2020//HX//3500
-1719//MI8LBCBL//Mi8Lite//Blue//Back Cover//4,000//22,6,2021//Master//3200
-1719//MI8LBCBL//Mi8Lite//Purple & Gold//Back Cover//5,500//12,8,2021//Master//4600
+1719//MI8LBCB//Mi8Lite//Black//Back Cover//4,000//26,02,2022//HX/2500
 
 1898//RMN9SBCW//RedMiNote9S//White//Back Cover//5,500//18,11,2020//Nice//5000
 1898//RMN9SBCBL//RedMiNote9S//Blue//Back Cover//4,500//11,9,2021//Master//4000
@@ -2389,8 +2387,6 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1898//RMN9BCBRM10X4GBCB//REDMINOTE9-REDMI10X(4G)//Gray//Back Cover//5,500//1,3,2021//Master//4800
 1898//RMN9BCBRM10X4GBCB//REDMINOTE9-REDMI10X(4G)//White,Green//Back Cover//5,500//1,3,2021//Master//4800
 1898//RMN9BCBRM10X4GBCB//REDMINOTE9-REDMI10X(4G)//White,Green//Back Cover//8,500//29,11,2021//FoneClub//0
-
-1642//MI8LBCBL//Mi8Lite//Blue//BACK COVER//3,500//24,12,2020//FoneClub//0
 
 1642//MICC9PBCB//MiCC9Pro//Black//BACK COVER//5,500//22,6,2021//Master//4700
 
