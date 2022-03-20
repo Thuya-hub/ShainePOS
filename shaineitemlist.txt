@@ -871,8 +871,6 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 170//HWGR517TGHON6XTG//GR5(2017)-Honor6X//Gold//TouchOnly//4,000//9,2,2022//HX//3000
 174//HWGR517TWHON6XTW//GR5(2017)-Honor6X//White//Touch Only//4,000//3,8,2021//Master//3000
 
-180//HWGR5MNTB//GR5mini//Black//TouchOnly//4,800//Null//Null//2600
-
 187//HWGR5TBHWGR515TBHWGR516TBHON5XTB//GR5-GR5(2015)-GR5(2016)-Honor5X-Huawei//Black//TouchOnly//4,000//5,6,2021//HX//2800
 188//HWGR5TGHWGR515TGHWGR516TGHON5XTG//GR5-GR5(2015)-GR5(2016)-Honor5X-Huawei//Gold//TouchOnly//3,600//1,7,2021//HX//2600
 192//HWGR5TWHWGR515TWHWGR516TWHON5XTW//GR5-GR5(2015)-GR5(2016)-Honor5X-Huawei//White//TouchOnly//4,000//5,6,2021//HX//2800
@@ -988,6 +986,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1834//HWGR317TW//GR3(2017)-Huawei//White//TouchOnly//3,500//10,11,2020//HX//2300
 
 1836//HWGPLAYMNTBHW4CTB//Gplaymini-4C//Black//TouchOnly//4,000//10,8,2021//HX//2800
+180//HWGR5MNTB//GR5mini//Black//TouchOnly//4,800//Null//Null//2600
 
 1841//HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATW//Y6pro(18)-Y6Prime(2018)-Honor7A//White//TouchOnly//3,500//23,4,2021//HX//2500
 
@@ -2126,7 +2125,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1146//RMN7BDCRRMN7PBDCR//RedmiNote7,RedminNote7Pro//Red//Body Cover//10,500//11,1,2021//Master//7800
 1146//RMN7BDCRMN7PBDC//RedmiNote7,RedminNote7Pro//All Color//BODY COVER//7,500//18,2,2021//HX//5000
 
-1147//RM9BDC//Redmi9//All Color//Body Cover//10,000/13,2,2022//Master//7900
+1147//RM9BDC//Redmi9//All Color//Body Cover//10,000//13,2,2022//Master//7900
 
 1898//RMN9SBDCBL//RedMiNote9S//Blue//Body Cover//11,000//25,1,2021//Nice//8500
 
