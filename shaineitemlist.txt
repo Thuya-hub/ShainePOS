@@ -2734,6 +2734,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 #HUAWEI(USB BOARD)
 
+105//HWY9PR19USBB//Huawei Y9Prime19//Null//USB Board//4,500//22,03,2022//ATP//3000
+
 105//HWY7AUSBB//Huawei Y7A//Null//USB Board//4,500//22,03,2022//Master//2700
 
 105//HWEJ7USB//Enjoy7//Null//USB Board//3,500//Null//Null//0
@@ -2933,6 +2935,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1569//VVY85MDF//Vivo-Y85//Null//Middle Flex//3,000//15,2,2022//MASTER//2000
 
 #HUAWEI(MIDDLE FLEX & LCD FLEX)
+
+254//HWY9PR19LCDF//Huawei Y9Prime(19)//Null//LCD Flex//3,500//24,3,2022//ATP//2500
 
 254//HWT1701ULCDFHWT1LCDF//T1-701U//Null//LCD Flex//4,000//Null//Null//0
 256//HWT3LCDF//T3-7"(3G)//Null//LCD Flex//2,500//21,12,2020//Master//1700
