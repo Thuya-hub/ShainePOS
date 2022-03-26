@@ -2909,7 +2909,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1711//RM7AMDFRM7ALCDF//Redmi7A//Null//Middle Flex//2,500//28,8,2021//Master//1600
 1759//RM5AMDFRM5LCDF//Redmi5A//Null//Middle Flex//2,500//30,11,2020//Master//0
 1851//RM9MDF//RedMi9//Black//Middle Flex//2,500//24,9,2021//Master//1700
-951//RM5PLCDF//RedMi5Plus//Null//LCD Flex//4,000//Null//Null//0
+951//RM5PLCDF//RedMi5Plus//Null//LCD Flex//2,500//26,3,2022//Master//1800
 977//RM6ALCDFRM6LCDFRM6AMDFRM6MDF//Redmi6-Redmi6A//Null//Middle Flex//3,000//14,3,2022//Master//1600
 1160//RMN8PLCDF//RedmiNote8Pro//Null//LCD Flex//4,000//Null//Null//0
 19//RM4AMDF//Redmi4A//Null//Middle Flex//2,000//14,3,2021//HX//1200
