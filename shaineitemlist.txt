@@ -133,6 +133,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 81//RM6XTLBMI6XTLBMIA2TL//Redmi6X-MI6X-MiA2//Black//T+L//53,500//24,3,2022//MASTER//49600
 
 82//RM6PTLBMIA2LTLB//Redmi6Pro-MiA2Lite//Black//T+L//32,000//22,12,2021//FONECLUB//29600
+82//RM6PTLBMIA2LTLB//Redmi6Pro-MiA2Lite//Black//T+L//36,000//30,03,2021//Master//32900
 145//RM6PTLBMIA2LTLB//Redmi6Pro-MiA2Lite//Black//T+L//33,500//26,2,2022//HX//30500
 
 84//RMN6PTLB//RedMiNote6Pro//Black//T+L//38,700//3,8,2021//MASTER//36000
@@ -823,6 +824,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 6//TCSP5PTLB//Tecno Spark5Pro//Null//T+L//50,500//30,11,2021//NICE//47000
 
+6//TCSP6ATLBTCPV4TLB//Tecno Spark6Air,Pouvior4//Null//T+L//48,000//30,03,2022//NICE//45000
+
 #HUAWEI Touch & TouchOnly & Glass 
 
 50//HOLU10TBHONU10TBHONU19TBHOLU19TB//Hol-U10-U19-Huawei//Black//Touch//4,000//15,7,2021//Master//2700
@@ -1161,7 +1164,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1069//RMN3TG//RedmiNote3//Gold//TouchOnly//5,000//16,9,2021//Naing Win//4000
 1068//RMN3TB//RedmiNote3//Black//TouchOnly//5,000//16,9,2021//Naing Win//4000
 1068//RMN3TB//RedmiNote3//Black//TouchOnly//5,000//4,11,2021//FoneClub//3700
-1069//RMN3TG//RedmiNote3//Gold//TouchOnly//5,000//4,11,2021//FoneClub//3700
+1069//RMN3TG//RedmiNote3//Gold//TouchOnly//4,500//30,03,2022//FoneClub//3100
 1073//RMN3TW//RedmiNote3//White//TouchOnly//5,000//4,11,2021//FoneClub//3700
 
 1093//RMN4TW//RedmiNote4//White//TouchOnly//4,000//26,2,2022//HX//2900
@@ -1705,7 +1708,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 1136//MI8LBTBN3JBT//Mi8Lite,BN3J//Null//Battery//8,500//28,2,2022//HX//6800
 
-1136//RMK30BTRMK304GBTRMK305GBT//REDMI K30(4G,5G)(ORG)//Null//Battery//16,000//8,3,2022//Master//13300
+1136//RMK30BTRMK304GBTRMK305GBTBM4PBT//REDMI K30(4G,5G),BM4P(ORG)//Null//Battery//16,000//30,03,2022//Master//13300
 
 #XIAOMI & REDMI (BM) BATTERY
 
@@ -1841,7 +1844,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 445//IPH5SBT//IPhone5s//Null//Battery//7,500//6,12,2021//HX//6000
 
 456//IPH6BT//IPhone6 GECKO PREMIUM(ORG)//Null//Battery//16,500//14,12,2021//Fone Club//13700
-456//IPH6BT//IPhone6(ORG)//Null//Battery//12,000//5,5,2021//FoneClub//9600
+456//IPH6BT//IPhone6(ORG)//Null//Battery//14,500//30,03,2022//Master//11800
 456//IPH6BT//IPhone6(ORG)//Null//Battery//15,500//24,2,2022//KK//13500
 1720//IPH6BTORG//IPhone6(ORG)//Null//Battery//11,500//26,2,2022//HX//8500
 1720//IPH6BT//IPhone6//Null//Battery//8,000//23,4,2021//HX//6500
@@ -2097,6 +2100,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 #XIAOMI & REDMI(BODY COVER)
 
+1898//RMN9BDCBLRM10X4GBDCBL//REDMINOTE9-REDMI10X(4G)//Blue//Body Cover//15,500//30,03,2022//FoneClub//12100
+
 1048//RMN6PBDCB//RedMiNote6Pro//Black//BODY COVER//11,000//17,2,2022//MASTER//8600
 
 1048//RMN1BDCWRMN14GBDCWRMN1BDCBRMN14GBDCB//RedMiNote1(4G)//White,Black//BODY COVER//7,000//13,2,2022//MASTER//5200
@@ -2117,7 +2122,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 982//RM6BDCG//Redmi6(2SIM,WFP)//GOLD//BODY COVER//7,500//13,2,2022//MASTER//5600
 983//RM6BDCRG//Redmi6(2SIM,WFP)//RoseGold//BODY COVER//7,500//13,2,2022//MASTER//5600
 
-985//RM6PBDCB//Redmi6pro//Black//BODY COVER//7,500//18,1,2021//Master//5600
+985//RM6PBDCB//Redmi6pro//Black//BODY COVER//12,000//30,03,2022//Master//8600
 985//RM6PBDCB//Redmi6pro//Black//BODY COVER//11,500//5,2,2022//KK//9500
 
 1011//RM7ABDCBLRM7ABDCB//Redmi7A//Blue,Black//Body Cover//7,000//30,11,2020//Master//4700
@@ -2876,7 +2881,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 1485//VVV15USB//Vivo-V15//Null//USB Flex//3,500//Null//Null//0
 1497//VVV3MXUSBF//V3Max//Null//USB Flex//2,500//25,8,2021//Master//1800
-1503//VVV3USBF//V3-Vivo//Null//USB Flex//3,500//9,4,2021//Master//2800
+1503//VVV3USBF//V3-Vivo//Null//USB Flex//5,500//30,03,2022//FoneClub//3600
 1507//VVV5USBVVV5LUSBVVY66USB//Y66-V5-V5Lite//Null//USB Flex//4,000//28,03,2022//Master//2400
 1547//VVY15USBFLVVY13LUSBFL//Y15-Y13L//Null//USB Flex//3,000//3,1,2022//MASTER//2100
 1553//VVY21USBF//Y21-VIVO//Null//USB Flex//3,500//3,11,2020//HX//0
@@ -3249,6 +3254,8 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1722//HWY9PR19STB//Huawei-Y9Prime(19)//Black//SIM TRAY//2,000//28,12,2020//Master//1500
 
 #XIAOMI & REDMI SIM TRAY
+
+1647//RMN9STBLRM10X4GSTBl//Redminote9,Redmi10X(4G)//Blue//SIM TRAY//3,500//30,03,2022//Master//1300
 
 1647//RM4ASTG//Redmi4a//Gold//SIM TRAY//2,000//18,1,2021//Master//1500
 1647//RM4ASTRG//Redmi4a//RoseGold//SIM TRAY//2,000//18,1,2021//Master//1500
