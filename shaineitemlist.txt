@@ -3058,7 +3058,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1053//RMN3FGPB//RedMiNote3//BLACK//Fingerprints//4,500//13,2,2022//Master//3300
 1053//RMN3FGPGR//RedMiNote3//GRAY//Fingerprints//4,500//13,2,2022//Master//3300
 
-987//RM6PGP//Redmi6Pro//Gold//Fingerprints//8,000//Null//Null//6000
+987//RM6PFGP//Redmi6Pro//Gold//Fingerprints//11,500//Null//Null//6000
 
 1082//RMN4FGPG//Redminote4//Gold//Fingerprints//4,500//4,12,2020//HX//2800
 
