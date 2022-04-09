@@ -3012,7 +3012,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 #SAMSUNG(MIDDLE FLEX & LCD FLEX)
 
-1656//SSA20LCDF//Samsung-A20//Null//LCD Flex//0//5,9,2020//ShweLattSaung//0
+1656//SSA20LCDF//Samsung-A20//Null//LCD Flex//3,500//5,9,2020//ShweLattSaung//2000
 
 #APPLE & I PHONE (FINGER MIDDLE FLEX)
 
