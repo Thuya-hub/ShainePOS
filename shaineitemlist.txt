@@ -20,7 +20,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 13//MINTLWMINLTETLW//MiNoteLTE//White//T+L//42,000//3,1,2022//MASTER//41800
 
 14//MIPTLBRMPTLB//RedmiPlay-Miplay//Black//T+L//29,500//07,04,2022//Master//27200
-14//MIPTLBRMPTLB//RedmiPlay-Miplay//Black//T+L//28,500//1,3,2022//KK//26000
+14//MIPTLBRMPTLB//RedmiPlay-Miplay//Black//T+L//33,000//05,05,2022//KK//30000
 
 15//MI3TLB//Mi3//Black//T+L//20,000//7,7,2020//MASTER//18100
 
@@ -160,6 +160,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 87//RM7TLBRMS3TLBRMY3TLB//Redmi7-S3-Y3//Black//T+L//33,000//17,12,2021//NICE//30500
 88//RM7TLBRMS3TLBRMY3TLB//Redmi7-S3-Y3//Black//T+L//33,000//09,05,2022//FONECLUB//29700
 89//RM7TLBRMS3TLBRMY3TLB//Redmi7-S3-Y3//Black//T+L//29,500//25,04,2022//HX//27500
+89//RM7TLBRMS3TLBRMY3TLB//Redmi7-S3-Y3//Black//T+L//35,000//11,05,2022//KK//31000
 
 90//RM7ATLB//Redmi7A//Black//T+L//26,500//10,2,2022//HX//24500
 90//RM7ATLB//Redmi7A//Black//T+L//27,500//24,3,2022//FoneClub//25200
@@ -819,7 +820,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 19//SSA30TLBSSA30//Samsung-A30-A305(OLED)//Black//T+L//61,000//26,2,2022//HX//58500
 
 23//SSA30STLB//Samsung-A30s(ORG)//Black//T+L//66,500//4,11,2021//FONECLUB//61500
-23//SSA30STLB//Samsung-A30s(ORG)//Black//T+L//67,000//04,04,2022//KK//64000
+23//SSA30STLB//Samsung-A30s(ORG)//Black//T+L//68,500//04,04,2022//KK//66000
 
 27//SMA11TLBSMA115TLB//SAMSUNG-A11-A115//Black//T+L//34,500//12,8,2021//MASTER//32000
 
@@ -1749,7 +1750,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 26//BN46BTRM7BTRMN8BTRMN6BT//RedMi7-RedMiNote8-RedMiNote6-BN46(ORG)//Null//Battery//10,500//22,03,2022//Master//9000
 26//BN46BTRM7BTRMN8BTRMN6BT//RedMi7-RedMiNote8-RedMiNote6-BN46//Null//Battery//11,500//23,1,2022//ATP//9500
 26//BN46BTRM7BTRMN8BTRMN6BT//RedMi7-RedMiNote8-RedMiNote6-BN46//Null//Battery//9,500//25,04,2022//HX//7500
-26//BN46BTRM7BTRMN8BTRMN6BT//RedMi7-RedMiNote8-RedMiNote6-BN46//Null//Battery//12,000//06,04,2022//KK//9200
+26//BN46BTRM7BTRMN8BTRMN6BT//RedMi7-RedMiNote8-RedMiNote6-BN46//Null//Battery//12,000//05,05,2022//KK//9200
 
 26//RMN8PBTBN4JBT//Redminote8Pro-BN4J(ORG)//Null//Battery//12,000//13,2,2022//Master//9400
 
@@ -1759,6 +1760,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 28//BN4ABTRMN7BT//RedmiNote7-BN4A//Null//Battery//8,500//3,8,2021//Master//7500
 28//BN4ABTRMN7BT//RedmiNote7-BN4A KIWI//Null//Battery//11,500//20,04,2022//FoneClub//8900
 28//BN4ABTRMN7BT//RedmiNote7-BN4A//Null//Battery//9,000//22,1,2022//HX//7200
+28//BN4ABTRMN7BT//RedmiNote7-BN4A//Null//Battery//12,500//05,05,2022//KK//10000
 
 953//RM5PBTRMN5BN44BT//RedMi5Plus-BN44-RedmiNote5//Null//Battery//8,500//6,12,2021//HX//7200
 953//RM5PBTRMN5BN44BT//RedMi5Plus-BN44-RedmiNote5 KIWI//Null//Battery//11,500//20,04,2022//FONECLUB//8200
@@ -2400,6 +2402,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1579//VVY53BDCG//Y53-Vivo//Gold//BODY COVER//6,500//24,11,2020//FoneClub//3900
 1579//VVY53BDCB//Y53-Vivo//Black//BODY COVER//6,000//28,12,2020//HX//3900
 1579//VVY53BDCRG//Y53-Vivo//ROSEGOLD//BODY COVER//7,000//13,2,2022//MASTER//5400
+1579//VVY53BDCRG//Y53-Vivo//ROSEGOLD//BODY COVER//9,000//05,05,2022//KK//7000
 
 1591//VVY55BDCB//Vivo-Y55//BLACK//BODY COVER//7,000//13,2,2022//MATER//5600
 
@@ -2529,6 +2532,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 1020//RM7BCBRM7BCBL//Redmi7//Black,Blue//Back Cover//3,000//19,12,2020//FoneClub//2300
 1020//RM7BCBRM7BCBLRM7BCR//Redmi7//Red,Black,Blue//Back Cover//2,500//19,11,2021//HX//2000
+1020//RM7BCBRM7BCBLRM7BCR//Redmi7//Red,Black,Blue//Back Cover//5,500//05,05,2022//KK//4500
 
 1032//RMN1BCWRMN1BCB//RedMiNote1//White,Black//Back Cover//3,500//25,04,2022//HX//1400
 
@@ -2551,6 +2555,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 1159//RMN8PBCW//RedmiNote8Pro//White//Back Cover//6,500//25,04,2022//HX//3500
 1159//RMN8PBCGN//RedmiNote8Pro//Green//Back Cover//6,500//25,04,2022//HX//3500
 1159//RMN8PBCB//RedmiNote8Pro//Black//Back Cover//6,500//25,04,2022//HX//3500
+1159//RMN8PBCGN//RedmiNote8Pro//Green//Back Cover//8,000//05,05,2022//KK//6000
 
 1717//K30BCRK30BCPPK30BCBL//RedmiK30(4G,5G)//Red,Purple,Blue//Back Cover//6,500//25,04,2022//HX//3500
 1717//K30BCBL//RedmiK30(4G,5G)//Blue//Back Cover//6,500//28,03,2022//Master//4000
@@ -2565,6 +2570,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 1898//RMN9SBCW//RedMiNote9S//White//Back Cover//5,500//18,11,2020//Nice//5000
 1898//RMN9SBCBL//RedMiNote9S//Blue//Back Cover//4,500//11,9,2021//Master//4000
+1898//RMN9SBCBL//RedMiNote9S//Blue//Back Cover//8,000//05,05,2022//KK//6000
 
 1898//RMN9PBC//RedMiNote9Pro//Null//Back Cover//4,000//21,12,2020//HX//3400
 
@@ -3147,7 +3153,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 
 1652//HWY8P18CM//Huawei-Y8P(2018)//Null//CAMERA မှန်//1,500//09,05,2022//Master//600
 
-1652//HWNV3ICM//Nova3i//Null//CAMERA မှန်//1,000//30,11,2020//Master//600
+1652//HWNV3ICM//Nova3i//Null//CAMERA မှန်//2,500//05,05,2022//KK//1500
 
 1652//HWNV3ECM//Nova3E//Null//CAMERA မှန်//1,000//30,11,2020//Master//500
 
