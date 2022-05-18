@@ -73,8 +73,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 31//RMN3PTLG//Redminote3Pro(Big)//Gold//T+L//41,000//16,05,2022//HX//38500
 
 32//RM4TLB//RedMi4//Black//T+L//26,000//22,10,05021//HX//24000
-33//RM4TLG//RedMi4//Gold//T+L//21,500//18
-6f,5,2022//HX//19500
+33//RM4TLG//RedMi4//Gold//T+L//21,500//18,05,2022//HX//19000
 
 35//RM4ATLW//RedMi4A//White//T+L//20,500//(21)16,9,2021//Naing Win//19,000
 35//RM4ATLW//RedMi4A//White//T+L//23,500//17,2,2022//Master//21,500
