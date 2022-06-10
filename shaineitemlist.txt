@@ -3211,7 +3211,7 @@ Ack
 380//HWY6P17USBHWP9LMNUSB//Y6pro(2017)-P9Litemini//Null//USB Board//2500//5,4,2021//Master//1800
 422//HWY919USBB//Y9(2019)//Null//USB Board//2500//10,7,2021//Master//1600
 423//HWY7PRUSB//Y7prime//Null//USB Board//3500//9,6,2022//Foneclub//0
-425//HWY7USB//Y7-Huawei//USB//USB Board//4500//9,6,2022//Foneclub//0
+425//HWY7USB//Y7-Huawei//Null//USB Board//4500//9,6,2022//Foneclub//0
 1848//HWY5IIUSBHWY52USBB//Huawei-Y5II-Y52//Null//USB Board//3500//23,4,2021//Master//2800
 
 1666//HWNV3IUSB//Nova3i//Null//USB Board//3000//13,2,2022//Master//2000
