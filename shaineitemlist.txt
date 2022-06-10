@@ -35,7 +35,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 17//MI8TLB//MI8//Black//T+L//57,000//10,10,2021//CITY//53750
 159//MI8TLB//XIAOMI MI8//Black//T+L//57,500//28,1,2022//HX//54500
 
-510//MI4TLB//Mi4//Black//T+L//16,000//Null//Null//15,250
+510//MI4TLB//Mi4//Black//T+L//16,000//9,6,2022//Foneclub//15,250
 
 540//MI8SETLB//Mi8SE(AA)//BLACK//T+L//68,000//25,04,2022//HX//64500
 
@@ -831,7 +831,7 @@ Ack
 
 610//MZM2TLB//M2-Meizu//Black//T+L//18,000//21,12,2020//MASTER//17000
 
-608//MZM2NTLB//M2note-Meizu//Black//T+L//18,000//Null//Null//17000
+608//MZM2NTLB//M2note-Meizu//Black//T+L//18,000//9,6,2022//Foneclub//17000
 
 624//MZM3NTLWMZL681TLW//M3Note-L681-KyoeHtoe//White//T+L//18,000//8,3,2022//MASTER//16900
 622//MZM3NTLBMZL681TLB//M3Note-L681-KyoeHtoe//Black//T+L//18,000//8,3,2022//MASTER//16900
@@ -1012,12 +1012,12 @@ Ack
 
 65//HON6TBHON6ATB//Honor6-6A//Black//TouchOnly//3,500//18,8,2021//Null//2000
 
-74//HON9LITETB//Honor9lite//Black//TouchOnly//4,500//Null//Null//2500
-1482//HWY330CTBHWY330TB//Y330C-Huawei//Black//Touch//3,800//Null//Null//2200
+74//HON9LITETB//Honor9lite//Black//TouchOnly//4,500//9,6,2022//Foneclub//2500
+1482//HWY330CTBHWY330TB//Y330C-Huawei//Black//Touch//3,800//9,6,2022//Foneclub//2200
 
 81//HW3CTBHWH30TBHWH30U10TB//3C-H30-U10//Black//TouchOnly//5,500//18,8,2021//Master//4600
 
-93//HWC8813TW//C8813-Huawei//White//Touch//3,000//Null//Null//2000
+93//HWC8813TW//C8813-Huawei//White//Touch//3,000//9,6,2022//Foneclub//2000
 95//HWC8816TBHWG615TB//C8816-G615-Huawei//Black//Touch//4,000//10,3,2021//Master//3200
 95//HWC8816TBHWG615TB//C8816-G615(ORG)-Huawei//Black//Touch//4,000//5,6,2021//FoneClub//2900
 96//HWC8816TWHWG615TW//C8816-G615-Huawei//White//Touch//4,000//6,11,2020//Master//3200
@@ -1037,23 +1037,23 @@ Ack
 122//HWG620TB//G620-Huawei//Black//Touch//4,000//2,9,2021//HX//3000
 123//HWG620TW//G620-Huawei//White//Touch//4,000//19,10,2020//HX//3000
 
-128//HWG630TB//G630-Huawei//Black//Touch//3,000//Null//Null//1500
-129//HWG630TW//G630-Huawei//White//Touch//3,500//Null//Null//2500
+128//HWG630TB//G630-Huawei//Black//Touch//3,000//9,6,2022//Foneclub//1500
+129//HWG630TW//G630-Huawei//White//Touch//3,500//9,6,2022//Foneclub//2500
 
-131//HWG6TB//G6-Huawei//Black//TouchOnly//4,000//Null//Null//3000
-134//HWG6TW//G6-Huawei//White//TouchOnly//4,000//Null//Null//3000
+131//HWG6TB//G6-Huawei//Black//TouchOnly//4,000//9,6,2022//Foneclub//3000
+134//HWG6TW//G6-Huawei//White//TouchOnly//4,000//9,6,2022//Foneclub//3000
 
 143//HWG730TB//G730(ORG)-Huawei//Black//Touch//4,800//11,6,2021//Master//3800
 143//HWG730TB//G730(ORG)-Huawei//Black//Touch//4,500//24,9,2021//HX//3500
 144//HWG730TW//G730-Huawei//White//Touch//4,500//2,9,2021//HX//3200
 
-150//HWGPMNTBHW4CTB//Gplaymini-4C//Black//TouchOnly//3,500//Null//Null//2500
+150//HWGPMNTBHW4CTB//Gplaymini-4C//Black//TouchOnly//3,500//9,6,2022//Foneclub//2500
 151//HWGPMNTGHW4CTG//Gplaymini-4C//Gold//TouchOnly//4,500//19,11,2021//HX//3200
 153//HWGPMNTWHW4CTW//Gplaymini-4C//White//TouchOnly//4,500//19,11,2021//HX//3200
 
-160//HWGR3TB//GR3-Huawei//Black//TouchOnly//4,000//Null//Null//3100
-161//HWGR3TG//GR3-Huawei//Gold//TouchOnly//4,000//Null//Null//3100
-165//HWGR3TW//GR3-Huawei//White//TouchOnly//4,000//Null//Null//3100
+160//HWGR3TB//GR3-Huawei//Black//TouchOnly//4,000//9,6,2022//Foneclub//3100
+161//HWGR3TG//GR3-Huawei//Gold//TouchOnly//4,000//9,6,2022//Foneclub//3100
+165//HWGR3TW//GR3-Huawei//White//TouchOnly//4,000//9,6,2022//Foneclub//3100
 
 174//HWGR517TWHON6XTW//GR5(2017)-Honor6X//White//Touch Only//4,000//9,2,2022//HX//3000
 169//HWGR517TBHON6XTB//GR5(2017)-Honor6X//Black//TouchOnly//4,000//9,2,2022//HX//3000
@@ -1082,7 +1082,7 @@ Ack
 
 76//HWHON8STBHWY519TBHWY5P19TB//Honor8s-Y5(2019)-Y5Prime(2019)//Black//TouchOnly//4,500//3,1,2022//MASTER//3200
 
-285//HWY320TW//Y320-U01-Huawei//White//Touch//3,000//Null//Null//2000
+285//HWY320TW//Y320-U01-Huawei//White//Touch//3,000//9,6,2022//Foneclub//2000
 
 292//HWY32TB//Y32-Huawei//Black//Touch//3,000//28,5,2021//Master//2000
 292//HWY32TB//Y32-Huawei//Black//Touch//4,500//16,9,2021//Naing Win//3500
@@ -1094,7 +1094,7 @@ Ack
 300//HWY511TB//Y511-Huawei//Black//Touch//4,500//28,5,2021//Master//3700
 162//HWY511TW//Y511-Huawei//White//Touch//4,500//28,5,2021//Master//3700
 
-305//HWY517TB//Y5(2017)-Huawei//Black//TouchOnly//4,000//Null//Null//3000
+305//HWY517TB//Y5(2017)-Huawei//Black//TouchOnly//4,000//9,6,2022//Foneclub//3000
 306//HWY517TG//Y5(2017)-Huawei//Gold//TouchOnly//3,500//10,3,2021//HX//2600
 310//HWY517TW//Y5(2017)-Huawei//White//TouchOnly//3,600//19,10,2020//HX//2600
 
@@ -1119,8 +1119,8 @@ Ack
 343//HWY5P18TWHWY5LTW//Y5Prime(2018),Y5lite//White//TouchOnly//4,000//5,6,2021//Nice//2800
 343//HWY5P18TWHWY5LTW//Y5Prime(2018),Y5lite//White//TouchOnly//4,000//3,8,2021//Master//2800
 
-350//HWY610TB//Y610-Huawei//Black//Touch//6,000//Null//Null//4800
-351//HWY610TW//Y610-Huawei//White//Touch//6,000//Null//Null//4800
+350//HWY610TB//Y610-Huawei//Black//Touch//6,000//9,6,2022//Foneclub//4800
+351//HWY610TW//Y610-Huawei//White//Touch//6,000//9,6,2022//Foneclub//4800
 
 358//HWY625TB//Y625-Huawei//Black//Touch//4,500//5,5,2021//FoneClub//3400
 359//HWY625TG//Y625-Huawei//Gold//Touch//3,500//5,5,2021//FoneClub//2500
@@ -1136,8 +1136,8 @@ Ack
 368//HWY62TW//Y62-Huawei//White//TouchOnly//5,500//16,9,2021//Naing Win//4500
 368//HWY62TW//Y62-Huawei//White//TouchOnly//3,500//10,3,2021//Master//2700
 
-373//HWY6P17TBY6P17TB//Y6Pro(2017)-Huawei//Black//TouchOnly//4,500//Null//Null//3500
-374//HWY6P17TG//Y6pro(17)-Huawei//Gold//Touch//3,500//Null//Null//2500
+373//HWY6P17TBY6P17TB//Y6Pro(2017)-Huawei//Black//TouchOnly//4,500//9,6,2022//Foneclub//3500
+374//HWY6P17TG//Y6pro(17)-Huawei//Gold//Touch//3,500//9,6,2022//Foneclub//2500
 
 390//HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATW//Y6pro(18)-Y6Prime(2018)-Honor7A//White//TouchOnly//3,500//25,8,2021//Master//2700
 386//HWY6PR18TBHWY6PR18TBHWY6P18TBHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//TouchOnly//4,500//03,5,2022//Master//3300
@@ -1152,8 +1152,8 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 391//HWY619TBHWY6P19TBHON8ATB//Y6PRO(2019)-Y6(2019)-Honor8A//Black//Touch Only//4,500//25,11,2021//HX//3300
 391//HWY619TBHWY6P19TBHON8ATB//Y6PRO(2019)-Y6(2019)-Honor8A//Black//Touch Only//3,500//11,6,2021//Master//2500
 
-396//HWY6PTB//Y6pro//Balck//TouchOnly//4,500//Null//Null//3500
-397//HWY6PTG//Y6pro//Gold//Touch//4,500//Null//Null//3500
+396//HWY6PTB//Y6pro//Balck//TouchOnly//4,500//9,6,2022//Foneclub//3500
+397//HWY6PTG//Y6pro//Gold//Touch//4,500//9,6,2022//Foneclub//3500
 
 402//HWY6TBHW4ATB//Y6-4a-Huawei//Black//TouchOnly//4,500//19,11,2021//HX//3200
 402//HWY6TBHW4ATB//Y6-4a-Huawei//Black//TouchOnly//3,500//25,8,2021//Master//2400
@@ -1161,16 +1161,16 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 408//HWY718TB//Y7(2018)-Huawei//Black//TouchOnly//4,500//19,11,2021//HX//3500
 409//HWY718TG//Y7(2018)//Gold//TouchOnly//4,500//19,11,2021//HX//3500
-410//HWY718TW//Y7(2018)//White//TouchOnly//5,500//Null//Null//4200
+410//HWY718TW//Y7(2018)//White//TouchOnly//5,500//9,6,2022//Foneclub//4200
 
-427//HWY918TG//Y9(2018)//Gold//TouchOnly//2,500//Null//Null//1500
+427//HWY918TG//Y9(2018)//Gold//TouchOnly//2,500//9,6,2022//Foneclub//1500
 430//HWY918TW//Y9(2018)//White//TouchOnly//3,500//10,11,2020//HX//2500
 
 434//HWYMXTBHWYMAXTB//Y-Max-Huawei//Black//Touch//4,600//2,2,2021//Nice//3600
 
 1471//HWGR317TBH//GR3(2017)-Honor8Lite//Black//TouchOnly//4,000//22,6,2021//Master//3100
-1472//HWGR317TGH//GR3(2017)-Honor8Lite//Gold//TouchOnly//4,000//Null//Null//3000
-1473//HWGR317TWH//GR3(2017)-Honor8Lite//White//TouchOnly//4,000//Null//Null//3000
+1472//HWGR317TGH//GR3(2017)-Honor8Lite//Gold//TouchOnly//4,000//9,6,2022//Foneclub//3000
+1473//HWGR317TWH//GR3(2017)-Honor8Lite//White//TouchOnly//4,000//9,6,2022//Foneclub//3000
 
 1829//HWNV2ITW//Nova2i-Huawei//White//TouchOnly//3,500//29,4,2021//HX//2400
 1830//HWNV2ITB//Nova2i-Huawei//Black//TouchOnly//4,500//24,9,2021//HX//3500
@@ -1185,7 +1185,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1834//HWGR317TW//GR3(2017)-Huawei//White//TouchOnly//3,500//10,11,2020//HX//2300
 
 1836//HWGPLAYMNTBHW4CTB//Gplaymini-4C//Black//TouchOnly//4,000//10,8,2021//HX//2800
-180//HWGR5MNTB//GR5mini//Black//TouchOnly//3,500//Null//Null//2600
+180//HWGR5MNTB//GR5mini//Black//TouchOnly//3,500//9,6,2022//Foneclub//2600
 
 1841//HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATW//Y6pro(18)-Y6Prime(2018)-Honor7A//White//TouchOnly//3,500//23,4,2021//HX//2500
 
@@ -1207,7 +1207,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 219//HWNV3IGB//Huawei-Nova3i//Black//Glass//2,000//17,5,2021//HX//1000
 
 244//HWP9GBHWP9TB//P9-Huawei//Black//Glass//2,000//14,3,2021//HX//1000
-246//HWP9GWHWP9TW//P9-Huawei//White//Glass//3,000//Null//Null//2000
+246//HWP9GWHWP9TW//P9-Huawei//White//Glass//3,000//9,6,2022//Foneclub//2000
 
 392//HWY6P20GLBHWY620GLB//Y6P-Y6(2020)//Black//Glass//2,500//1,3,2021//Nice//1200
 392//HWY6P20GLBHWY620GLB//Y6P-Y6(2020)//Black//Glass//2,500//3,8,2021//Master//1500
@@ -1229,12 +1229,12 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 550//MIPGBRMPGB//RedmiPlay-Miplay//Black//GLASS//5,000//19,05,2022//HX//3700
 
 552//MMT7069TBMMT796TB//7069-706-အဝိုင်း-MomoTablet//Black//Touch//3,000//15,10,2020//Master//1800
-553//MMT7069TWMMT706TW//7069-706-707101-အဝိုင်း-MomoTablet//White//Touch//2,000//Null//Null//1000
+553//MMT7069TWMMT706TW//7069-706-707101-အဝိုင်း-MomoTablet//White//Touch//2,000//9,6,2022//Foneclub//1000
 554//MMT706TWMMT7069TW//7069-706-လေထောင့်-MomoTablet//White//Touch//2,000//7,9,2020//ShweLattSaung//1800
 
-555//MMT86VTB//86V-MoMoTablet//Black//Touch//2,000//Null//Null//1000
-557//MMTBQ8TB//Q8-MoMoTablet//Black//Touch//2,500//Null//Null//1500
-558//MMTWQ8TW//Q8-MoMoTablet//White//Touch//2,500//Null//Null//1500
+555//MMT86VTB//86V-MoMoTablet//Black//Touch//2,000//9,6,2022//Foneclub//1000
+557//MMTBQ8TB//Q8-MoMoTablet//Black//Touch//2,500//9,6,2022//Foneclub//1500
+558//MMTWQ8TW//Q8-MoMoTablet//White//Touch//2,500//9,6,2022//Foneclub//1500
 
 567//MMX2TW//Mi Max2//White//TouchOnly//4,500//25,7,2021//Master//3700
 564//MMX2TB//Mi Max2//Black//TouchOnly//4,500//27,6,2021//Master//3700
@@ -1257,7 +1257,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1750//MMX1TB//Mi Max1//Black//TouchOnly//5,000//5,6,2021//Nice//4000
 1749//MMX1TW//Mi Max1//White//TouchOnly//5,600//19,11,2021//FoneClub//4600
 
-1474//MI3TB//Mi3//Black//TouchOnly//3,500//Null//Null//2300
+1474//MI3TB//Mi3//Black//TouchOnly//3,500//9,6,2022//Foneclub//2300
 
 1475//Mi4TB//Mi4//Black//TouchOnly//5,600//27,6,2021//Master//4600
 
@@ -1269,13 +1269,13 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1812//MI4TW//Mi4//White//TouchOnly//5,600//30,10,2020//HX//4600
 1812//MI4TB//Mi4//Black//TouchOnly//5,600//30,10,2020//HX//4600
 
-515//MI5GB//Mi5//Black//Glass//3,500//Null//Null//2500
+515//MI5GB//Mi5//Black//Glass//3,500//9,6,2022//Foneclub//2500
 538//MI8LGB//Mi8lite//Black//Glass//3,000//26,4,2021//HX//2000
-539//MI8LGW//Mi8Lite//White//Glass//3,000//Null//Null//2000
-551//MMIX2GB//MiMix2//Black//Glass//4,000//Null//Null//3000
-593//MN5PGB//MiNote5Pro//Black//Glass//3,000//Null//Null//2000
+539//MI8LGW//Mi8Lite//White//Glass//3,000//9,6,2022//Foneclub//2000
+551//MMIX2GB//MiMix2//Black//Glass//4,000//9,6,2022//Foneclub//3000
+593//MN5PGB//MiNote5Pro//Black//Glass//3,000//9,6,2022//Foneclub//2000
 
-1641//MI8SEGB//Mi8SE//Black//Glass//2000//Null//Null//1000
+1641//MI8SEGB//Mi8SE//Black//Glass//2000//9,6,2022//Foneclub//1000
 
 #REDMI TOUCH & TOUCH ONLY
 
@@ -1345,9 +1345,9 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1045//RMN2TB//RedMiNote2//Black//TouchOnly//4,500//9,3,2022//FoneClub//3400
 1045//RMN2TB//RedMiNote2//Black//TouchOnly//5,000//16,9,2021//Naing Win//4000
 
-1060//RMN3PTB//RedmiNote3Pro//Black//TouchOnly//4,500//Null//Null//3500
-1061//RMN3PTG//RedmiNote3Pro//Gold//TouchOnly//3,500//Null//Null//2500
-1065//RMN3PTW//RedmiNote3Pro//White//TouchOnly//4,500//Null//Null//3500
+1060//RMN3PTB//RedmiNote3Pro//Black//TouchOnly//4,500//9,6,2022//Foneclub//3500
+1061//RMN3PTG//RedmiNote3Pro//Gold//TouchOnly//3,500//9,6,2022//Foneclub//2500
+1065//RMN3PTW//RedmiNote3Pro//White//TouchOnly//4,500//9,6,2022//Foneclub//3500
 
 1073//RMN3TW//RedmiNote3//White//TouchOnly//4,000//25,04,2022//HX//2800
 1068//RMN3TB//RedmiNote3//Black//TouchOnly//4,000//25,04,2022//HX//2800
@@ -1381,7 +1381,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1104//RMN4XTB//RedmiNote4x//Black//TouchOnly//4,500//18,9,2021//SLS//3500
 1108//RMN4XTW//RedmiNote4x//White//TouchOnly//4,000//19,9,2021//Master//2900
 1104//RMN4XTB//RedmiNote4x//Black//TouchOnly//4,000//19,9,2021//Master//2900
-1105//RMN4XTG//RedmiNote4x//Gold//TouchOnly//4,500//Null//Null//3200
+1105//RMN4XTG//RedmiNote4x//Gold//TouchOnly//4,500//9,6,2022//Foneclub//3200
 
 1116//RMN5ATW//RedmiNote5A//White//TouchOnly//4,500//13,2,2022//Master//3200
 1113//RMN5ATB//RedmiNote5A//Black//TouchOnly//4,500//13,2,2022//Master//3200
@@ -1406,7 +1406,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1803//RM5ATG//Redmi5A//Gold//TouchOnly//4,000//9,2,2022//HX//2900
 937//RM5ATW//RedMi5A//White//TouchOnly//3,500//16,6,2021//Master//2600
 933//RM5ATB//RedMi5A//Black//TouchOnly//3,500//19,9,2021//Master//2600
-934//RM5ATG//RedMi5A//Gold//TouchOnly//5,000//Null//Null//3000
+934//RM5ATG//RedMi5A//Gold//TouchOnly//5,000//9,6,2022//Foneclub//3000
 
 1813//RMN3PTW//RedmiNote3Pro//White//TouchOnly//5,000//30,10,2020//HX//3000
 1814//RMN3PTB//RedmiNote3Pro//Black//TouchOnly//5,000//30,10,2020//HX//3000
@@ -1442,7 +1442,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1023//RMN94GGB//REDMINOTE9(4G) (OCA)//Black//Glass//3,500//05,06,2022//Master//1700
 
-1029//RMEC3TBOPA7TBOPA5STB//A7-A5s-RealmeC3//Black//Glass//3,000//Null//Null//1500
+1029//RMEC3TBOPA7TBOPA5STB//A7-A5s-RealmeC3//Black//Glass//3,000//9,6,2022//Foneclub//1500
 
 1132//RMN5GBRMN5PGBRMN5GWRMN5PGW//Redminote5pro-RedmiNote5//Null//Glass//2,000//16,05,2022//HX//1000
 
@@ -1451,7 +1451,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 
 1149//RMN7GB//Redminote7//Black//Glass//2,000//21,5,2021//HX//1000
-1165//RMPGB//RedmiPro//Black//Glass//3,500//Null//Null//2200
+1165//RMPGB//RedmiPro//Black//Glass//3,500//9,6,2022//Foneclub//2200
 1717//RMK30GBK30GB//RedmiK30//Black//Glass//2,000//26,02,2022//HX//1100
 
 #OPPO TOUCH & TOUCH LCD
@@ -1486,11 +1486,11 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 774//OPF1STWOPA59TW//F1s-A59//White//TouchOnly//4,000//26,2,2022//HX//2700
 774//OPF1STWOPA59TW//F1s-A59//White//TouchOnly//4,000//19,11,2021//FoneClub//2900
 
-784//OPF3PTB//F3Plus//Black//TouchOnly//3,500//Null//Null//2500
-785//OPF3PTW//F3plus//White//TouchOnly//5,000//Null//Null//3000
+784//OPF3PTB//F3Plus//Black//TouchOnly//3,500//9,6,2022//Foneclub//2500
+785//OPF3PTW//F3plus//White//TouchOnly//5,000//9,6,2022//Foneclub//3000
 
-819//OPR2001TW//R2001//White//Touch//4,000//Null//Null//2500
-823//OPR829TW//R829-Oppo//White)//TouchOnly//5,000//Null//Null//3200
+819//OPR2001TW//R2001//White//Touch//4,000//9,6,2022//Foneclub//2500
+823//OPR829TW//R829-Oppo//White)//TouchOnly//5,000//9,6,2022//Foneclub//3200
 826//OPR831KTB//R831k-Oppo//Black//Touch//2000//5,9,2020//ShweLattSaung//1000
 827//OPR831KTW//R831k-Oppo//White//Touch//2000//5,9,2020//ShweLattSaung//1000
 
@@ -1511,7 +1511,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 796//OPF7GBOPA3GB//F7-A3//Black//Glass//4,500//9,2,2022//HX//1100
 797//OPF7GWOPA3GW//F7-A3//White//Glass//4,500//9,2,2022//HX//1100
 
-799//OPF7YGB//F7Youth//Black//Glass//3,000//Null//Null//2000
+799//OPF7YGB//F7Youth//Black//Glass//3,000//9,6,2022//Foneclub//2000
 
 803//OPF9GB//F9-Oppo//Black//Glass//2,500//9,2,2022//HX//1100
 804//OPF9GW//F9-Oppo//White//Glass//2,500//9,2,2022//HX//1100
@@ -1530,7 +1530,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1023//VVV20GB//VIVO V20//Black//Glass//3,500//26,1,2022//Nice//2500
 
-1490//VVV1TB//V1-Vivo//Black//TouchOnly//3,500//Null//Null//2500
+1490//VVV1TB//V1-Vivo//Black//TouchOnly//3,500//9,6,2022//Foneclub//2500
 1493//VVV1TW//V1-Vivo//White//TouchOnly//2500//15,9,2020//Master//1500
 
 1499//VVV3TB//V3-Vivo//Black//TouchOnly//3,000//14,2,2021//HX//2100
@@ -1547,7 +1547,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1543//VVY15TBVVY13LTB//Y15-Y13L//Black//Touch//2,500//28,5,2021//Master//1600
 1546//VVY15TWVVY13LTW//Y15-Y13L//White//Touch//3,800//25,8,2021//S.L.S//2800
 
-1549//VVY21TB//Y210-Huawei//Black//Touch//3,500//Null//Null//2800
+1549//VVY21TB//Y210-Huawei//Black//Touch//3,500//9,6,2022//Foneclub//2800
 1549//VVY31TB//Y31-Huawei//Black//Touch//4,000//29,5,2022//Master//3000
 1549//VVY31TW//Y31-Huawei//White//Touch//4,000//29,5,2022//Master//3000
 
@@ -1579,16 +1579,16 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1623//VVY91GBVVY93GBVVY95GB//Y91-Y93-Y95//Black//Glass//2,000//16,6,2021//HX//1000
 1623//VVY91GBVVY93GBVVY95GB//Y91-Y93-Y95//Black//Glass//2,500//20,04,2022//FoneClub//1700
 
-1525//VVV7GBVVY75GB//V7-Y75-Vivo//Black//Glass//3,000//Null//Null//1300
-1526//VVV7GWVVY75GW//V7-Y75-Vivo//White//Glass//3,500//Null//Null//1500
+1525//VVV7GBVVY75GB//V7-Y75-Vivo//Black//Glass//3,000//9,6,2022//Foneclub//1300
+1526//VVV7GWVVY75GW//V7-Y75-Vivo//White//Glass//3,500//9,6,2022//Foneclub//1500
 
-1527//VVV7PGBVVY79GB//V7Plus-Y79-Vivo//Black//Glass//3,500//Null//Null//2500
-1528//VVV7PGWVVY79GW//V7Plus-Y79-Vivo//White//Glass//3,500//Null//Null//2500
+1527//VVV7PGBVVY79GB//V7Plus-Y79-Vivo//Black//Glass//3,500//9,6,2022//Foneclub//2500
+1528//VVV7PGWVVY79GW//V7Plus-Y79-Vivo//White//Glass//3,500//9,6,2022//Foneclub//2500
 
 1606//VVY71GB//Y71-VIVO//Black//Glass//3,500//16,05,2022//HX//1000
 
 1613//VVY81GBVVY83GBVVY83IGB//Y81-83-83i-Vivo//Black//Glass//2,500//25,1,2021//Master//1300
-1614//VVY81GWVVY83GWVVY83IGW//Y81-Y83-Y83i-Vivo//White//Glass//3,200//Null//Null//2000
+1614//VVY81GWVVY83GWVVY83IGW//Y81-Y83-Y83i-Vivo//White//Glass//3,200//9,6,2022//Foneclub//2000
 
 1618//VVY85GBVVV9GB//Y85-V9-Vivo//Black//Glass//2,500//9,2,2022//HX//1100
 1619//VVY85GWVVV9GW//Y85-V9-Vivo//White//Glass//2,500//9,2,2022//HX//1100
@@ -1608,14 +1608,14 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1221//SSA20SGBSSA207GB//Samsung-A20S,A207(OCA)//Black//Touch//3,000//13,2,2022//MASTER//1800
 
-1235//SSA5TW//A5-Samsung//White//Touch//7,500//Null//Null//4800
+1235//SSA5TW//A5-Samsung//White//Touch//7,500//9,6,2022//Foneclub//4800
 
-1247//SSA7TB//A7-Samsung//Black//TouchOnly//7,000//Null//Null//5000
-1248//SSA7TG//A7-Samsung//Gold//TouchOnly//7,000//Null//Null//5000
-1250//SSA7TW//A7-Samsung//White//TouchOnly//7,000//Null//Null//5000
+1247//SSA7TB//A7-Samsung//Black//TouchOnly//7,000//9,6,2022//Foneclub//5000
+1248//SSA7TG//A7-Samsung//Gold//TouchOnly//7,000//9,6,2022//Foneclub//5000
+1250//SSA7TW//A7-Samsung//White//TouchOnly//7,000//9,6,2022//Foneclub//5000
 
-1263//SSG355TB//G355//Black//Touch//3,500//Null//Null//2500
-1264//SSG355TW//G355//White//Touch//3,500//Null//Null//2500
+1263//SSG355TB//G355//Black//Touch//3,500//9,6,2022//Foneclub//2500
+1264//SSG355TW//G355//White//Touch//3,500//9,6,2022//Foneclub//2500
 
 1267//SSG360TBSSG361TB//G360-G361-Samsung//Black//Touch//4,500//28,8,2021//Master//3300
 1268//SSG360TWSSG361TW//G360-G361-Samsung//White//Touch//4,500//28,8,2021//Master//3300
@@ -1637,7 +1637,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1290//SSGLMG6.3TWSSI9200TW//GalaxyMega6.3-I9200//White//Touch//6,000//30,1,2021//HX//5000
 
-1290//SSI8262TB//I8262-Samsung//Black//Touch//3,500//Null//Null//2300
+1290//SSI8262TB//I8262-Samsung//Black//Touch//3,500//9,6,2022//Foneclub//2300
 
 1303//SSI9060TWSSGNEOTW//I9060-GranNeo//White//Touch//3,000//23,4,2021//HX//1900
 1301//SSI9060TBSSGNTB//I9060-GrandNeo-Samsung//Black//Touch//3,000//23,4,2021//HX//1900
@@ -1651,8 +1651,8 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1317//SSI9152TW//I9152-Samsung//White//Touch//4,000//10,11,2020//HX//2700
 
 
-1326//SSJ1TB//J1-Smsung//Black//Touch//3,800//Null//Null//2200
-1327//SSJ1TW//J1-Smsung//White//Touch//3,800//Null//Null//2200
+1326//SSJ1TB//J1-Smsung//Black//Touch//3,800//9,6,2022//Foneclub//2200
+1327//SSJ1TW//J1-Smsung//White//Touch//3,800//9,6,2022//Foneclub//2200
 
 1333//SSJ2PTGSSG532TG//J2Prime-G532//Gold//Touch//6,000//22,12,2021//FoneClub//4700
 1335//SSJ2PTWSSG532TW//J2Prime-G532//White//Touch//6,000//4,11,2021//FoneClub//5000
@@ -1672,13 +1672,13 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1424//SSON7TWSSG6000TW//On7-G600-Samsung//White//Touch//4,500//16,9,2021//Naing Win//3500
 
 1452//SST111TB//T111-Samsung//Black//Touch//4,000//29,4,2021//HX//2900
-1453//SST111TW//T111-Samsung//White//Touch//5,000//Null//Null//3000
+1453//SST111TW//T111-Samsung//White//Touch//5,000//9,6,2022//Foneclub//3000
 1454//SST116TW//T116-Samsung//White//Touch//4,500//21,11,2020//Master//3500
 1456//SST211TB//T211-Samsung//Black//Touch//4,500//3,11,2020//Master//3500
 1457//SST211TW//T211-Samsung//White//Touch//4,500//16,11,2020//Master//3500
 1459//SST231TB//T231-Samsung//Black//Touch//4,500//5,1,2021//Master//3500
 1460//SST231TW//T231-Samsung//White//Touch//4,500//5,1,2021//Master//3500
-1461//SST285TG//T285-Samaung//Gold//Touch//5,000//Null//Null//3000
+1461//SST285TG//T285-Samaung//Gold//Touch//5,000//9,6,2022//Foneclub//3000
 1704//SST116TB//T116-Samsung//Black//Touch//4,500//15,10,2020//Master//3500
 1704//SST116TB//T116-Samsung//Black//Touch//4,000//22,10,2020//Bright//3000
 
@@ -1692,20 +1692,20 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1226//SSA30GB//Samsung-A30//Black//Glass//2,500//28,5,2021//Master//1500
 1226//SSA30GB//Samsung-A30//Black//Glass//2,500//9,2,2022//HX//1100
 
-1245//SSA7GW//A7-Samsung//White//Glass//3,000//Null//Null//1800
-1349//SSJ516TGSSJ5TGSSJ510TG//J5(2016)-J510//Gold//Glass//6,500//Null//Null//5500
-1350//SSJ516TWSSJ5TWSSJ510TW//J5(2016)-J510//White//Glass//6,500//Null//Null//5500
-1356//SSJ5PBLG//J5Pro-Samsung//Blue//Glass//4,500//Null//Null//3200
-1364//SSJ5TB//J5-Samsung//Black//Glass//4,500//Null//Null//3500
-1366//SSJ5TW//J5-Samsung//White//Glass//4,500//Null//Null//3500
+1245//SSA7GW//A7-Samsung//White//Glass//3,000//9,6,2022//Foneclub//1800
+1349//SSJ516TGSSJ5TGSSJ510TG//J5(2016)-J510//Gold//Glass//6,500//9,6,2022//Foneclub//5500
+1350//SSJ516TWSSJ5TWSSJ510TW//J5(2016)-J510//White//Glass//6,500//9,6,2022//Foneclub//5500
+1356//SSJ5PBLG//J5Pro-Samsung//Blue//Glass//4,500//9,6,2022//Foneclub//3200
+1364//SSJ5TB//J5-Samsung//Black//Glass//4,500//9,6,2022//Foneclub//3500
+1366//SSJ5TW//J5-Samsung//White//Glass//4,500//9,6,2022//Foneclub//3500
 1382//SSJ7PRGB//J7Prime//Black//Glass//2,000//28,10,2020//HX//1000
 1382//SSJ7PRGB//J7Prime//WHITE//Glass//3,000//15,2,2022//MASTER//2000
 
-1398//SSJ8GB//J8-Samsung//Black//Glass//2,500//Null//Null//1500
-1402//SSN2GBSSN7100GB//Samsun-Note2-N7100//Black//Glass//4,500//Null//Null//3500
-1408//SSN5GG//Note5-Samsung(OCA)//Gold//Glass//5,500//Null//Null//4300
-1430//SSS5GBSSI9600GB//S5-i9600//Black//Glass//4,000//Null//Null//3000
-1431//SSS5GWSSI9600GW//S5-i9600//White//Glass//4,000//Null//Null//3000
+1398//SSJ8GB//J8-Samsung//Black//Glass//2,500//9,6,2022//Foneclub//1500
+1402//SSN2GBSSN7100GB//Samsun-Note2-N7100//Black//Glass//4,500//9,6,2022//Foneclub//3500
+1408//SSN5GG//Note5-Samsung(OCA)//Gold//Glass//5,500//9,6,2022//Foneclub//4300
+1430//SSS5GBSSI9600GB//S5-i9600//Black//Glass//4,000//9,6,2022//Foneclub//3000
+1431//SSS5GWSSI9600GW//S5-i9600//White//Glass//4,000//9,6,2022//Foneclub//3000
 1643//SSA20GBA205GB//Samsung-A20-A205//Black//Glass//2,500//29,4,2021//HX//1500
 1726//SSJ5PRGB//J5Prime-Samsung//Black//Glass//2,000//28,10,2020//HX//1000
 1727//SSJ5PRGW//J5Prime-Samsung//White//Glass//2,000//28,10,2020//HX//1000
@@ -1713,17 +1713,17 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #MEIZU TOUCH & TOUCH ONLY
 
-607//MZM2NoteTB//M2Note-Meizu//Black//Touch//4,500//Null//Null//3300
-609//MZM2TB//M2-Meizu//Black//TouchOnly//4,500//Null//Null//3500
+607//MZM2NoteTB//M2Note-Meizu//Black//Touch//4,500//9,6,2022//Foneclub//3300
+609//MZM2TB//M2-Meizu//Black//TouchOnly//4,500//9,6,2022//Foneclub//3500
 
-614//MZM3ETW//M3E-Meizu//White//TouchOnly//4,000//Null//Null//3000
+614//MZM3ETW//M3E-Meizu//White//TouchOnly//4,000//9,6,2022//Foneclub//3000
 
-620//MZM3NTBL681TB//M3Note-L681-//Black//TouchOnly//4,000//Null//Null//3000
+620//MZM3NTBL681TB//M3Note-L681-//Black//TouchOnly//4,000//9,6,2022//Foneclub//3000
 621//MZM3NTBMZM681TB//M3Note-M681-Socket//Black//TouchOnly//5,000//Null//Master//4000
 626//MZM3NTWMZL681TW//M3Note-L681-KyoeHtoe//White//TouchOnly//5,000//Null//Master//4000
 627//MZM3NTWMZM681TW//M3Note-M681-Socket//White//TouchOnly//4,000//22,04,2022//KK//3000
 
-631//MZM3STB//M3S-Meizu//Black//Touch//3,500//Null//Null//2300
+631//MZM3STB//M3S-Meizu//Black//Touch//3,500//9,6,2022//Foneclub//2300
 642//MZM5CTW//M5C-Meizu//White//TouchOnly//4,000//17,5,2021//HX//3000
 642//MZM5CTW//M5C-Meizu//White//TouchOnly//4,500//20,04,2022//MASTER//3300
 
@@ -1735,30 +1735,30 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #COOLPAD TOUCH & TOUCH ONLY
 
-30//CP5218TB//Cp5218-Coolpad//Black//Touch//4,500//Null//Null//3200
-39//CP7275TB//7275-CoolPad//Black//Touch//3,500//Null//Null//2300
-44//CPY60TBCPY60C1TB//Y60-C1-coolpad//Black//Touch//5,000//Null//Null//3800
-1465//CP7275TW//7275-CoolPad//White//Touch//4,500//Null//Null//3200
+30//CP5218TB//Cp5218-Coolpad//Black//Touch//4,500//9,6,2022//Foneclub//3200
+39//CP7275TB//7275-CoolPad//Black//Touch//3,500//9,6,2022//Foneclub//2300
+44//CPY60TBCPY60C1TB//Y60-C1-coolpad//Black//Touch//5,000//9,6,2022//Foneclub//3800
+1465//CP7275TW//7275-CoolPad//White//Touch//4,500//9,6,2022//Foneclub//3200
 
 #OOREDOO TOUCH & TOUCH ONLY
 
-690//OOS12TB//Smart12-Ooredoo//Black//Touch//4,500//Null//Null//3200
+690//OOS12TB//Smart12-Ooredoo//Black//Touch//4,500//9,6,2022//Foneclub//3200
 
 #TRUE TOUCH & TOUCH ONLY
 
-1480//TR4.0TB//True4.0(4G)//Black//Touch//4,200//Null//Null///2500
+1480//TR4.0TB//True4.0(4G)//Black//Touch//4,200//9,6,2022//Foneclub///2500
 
 
 #KENBOO TOUCH & TOUCH ONLY
 
-1469//KBE121TWk//Kenboo-E121//White//TouchOnly//7,000//Null//Null//5100
-1470//KBE61TB//Kenbo-E61//Black//Touch//4,000//Null//Null//2200
+1469//KBE121TWk//Kenboo-E121//White//TouchOnly//7,000//9,6,2022//Foneclub//5100
+1470//KBE61TB//Kenbo-E61//Black//Touch//4,000//9,6,2022//Foneclub//2200
 485//KBE111TB//E111-Kenboo//Black//Touch//4,000//17,10,2020//FoneClub//2700
-486//KBE111TW//E111-Kenboo//White//Touch//4,000//Null//Null//2200
+486//KBE111TW//E111-Kenboo//White//Touch//4,000//9,6,2022//Foneclub//2200
 490//KBE71TB//E71-Kenboo//Black//Touch//3,500//18,1,2021//FoneClub//2400
 491//KBE71TW//E71-Kenboo//White//Touch//3,500//17,10,2020//FoneClub//2400
 493//KBE81TBKBE91TB//E81-E91-Kenbo//Black//Touch//4,500//21,11,2020//FoneClub//2500
-494//KBE81TWKBE91TW//E81-E91-Kenbo//White//Touch//4,500//Null//Null//2500
+494//KBE81TWKBE91TW//E81-E91-Kenbo//White//Touch//4,500//9,6,2022//Foneclub//2500
 1478//KBO41TB//Kenbo-O41//Black//TouchOnly//4,500//17,10,2020//FoneClub//3100
 
 #I PHONE & APPLE TOUCH & TOUCH ONLY
@@ -1768,13 +1768,13 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 447//IPH5GW//IPhone5G(3 In 1)//White//Glass//3,500//15,12,2020//Master//2500
 447//IPH5GB//IPhone5G(3 In 1)//Black//Glass//3,500//15,12,2020//Master//2500
 
-457//IPH6GW//IPhone6-6G//White//Glass//4,500//Null//Null//3500
-457//IPH6GB//IPhone6-6G//Black//Glass//4,500//Null//Null//3500
+457//IPH6GW//IPhone6-6G//White//Glass//4,500//9,6,2022//Foneclub//3500
+457//IPH6GB//IPhone6-6G//Black//Glass//4,500//9,6,2022//Foneclub//3500
 
 459//IPH6PGW//IPhone6splus//White//Glass//3,000//7,2,2021//HX//2000
 464//IPH6SPGW//IPhone6sPlus(3 In 1)//White//Glass//6,000//15,12,2020//Master//5000
 464//IPH6SPGB//IPhone6sPlus(3 In 1)//Black//Glass//6,000//15,12,2020//Master//5000
-476//IPH8PGW//IPhone8Plus//White//Glass//6,000//Null//Null//5000
+476//IPH8PGW//IPhone8Plus//White//Glass//6,000//9,6,2022//Foneclub//5000
 
 #OPPO BATTERY
 
@@ -1972,7 +1972,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 504//MI4IBTBM33BT//Mi4i-BM33//Null//Battery//7,500//3,8,2021//Null//5700
 
-508//MI4SBTBM38BT//Mi4s-BM38//Null//Battery//7,500//Null//Null//6000
+508//MI4SBTBM38BT//Mi4s-BM38//Null//Battery//7,500//9,6,2022//Foneclub//6000
 
 513//MI5BTBM22BT//Mi5(ORG)-BM22//Null//Battery//10,000//13,2,2022//Master//8500
 
@@ -2139,7 +2139,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 603//MZBA721BTMZM6NBT//M6Note-BA721//Null//Battery//7,500//23,10,2020//HX//4800
 603//MZBA721BTMZM6NBT//M6Note-BA721//Null//Battery//11000//07,06,2022//FONECLUB//8900
-605//MZBT43CBTMZM2BT//M2-BT43C//Null//Battery//7,500//Null//Null//6100
+605//MZBT43CBTMZM2BT//M2-BT43C//Null//Battery//7,500//9,6,2022//Foneclub//6100
 608//MZM2NBT//M2note-Meizu//Null//Battery//7,500//1,1,2021//Master//6100
 611//MZM3BTMZM3SBTMZ//M3s-M3-Meizu//Null//Battery//7,500//7,10,2020//HX//4800
 636//MZM5CBTMZBA710BT//M5C-BA710-Meizu//Null//Battery//7,500//9,4,2021//Master//6100
@@ -2151,7 +2151,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 662//MZM681BTMZM3NBTMZL685BMZBA61BT//M3NOTE-M681-L685-BA61-Meizu//Null//Battery//7,000//6,11,2020//Master//5400
 663//MZM6BTMZBA711BT//M6-BA711-Meizu//Null//Battery//7,000//23,10,2020//HX//4800
 665//MZM6SBTMZBA712BT//M6s-BA712(ORG)-Meizu//Null//Battery//7,000//15,12,2020//Master//5600
-673//MZBU15BTMZU20BT//U20-BU15-Meizu//Null//Battery//8,500//Null//Null//6900
+673//MZBU15BTMZU20BT//U20-BU15-Meizu//Null//Battery//8,500//9,6,2022//Foneclub//6900
 
 616//MZM3NBTL681BTMZL685BTBA61BT//M3note-L681-L685-BA61//Null//Battery//10,000//7,6,2022//Master//8600
 617//MZM3NBTL681BTMZL685BTBA61BT//M3note-L681-L685-BA61//Null//Battery//7,500//9,7,2021//FoneClub//6100
@@ -2178,9 +2178,9 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1379//SSJ7PRBTEBBG610ABEBT//J7Prime-EBBG610ABE//Null//Battery//10,000//4,3,2022//KK//8500
 
-1399//SSLT02BTGLXT3BTSMT217SBTSMT211BTTabletBTT217ABTT217TBT//LT02-GalaxyTab3-SM-T217S-SM-T211-T217A-T217T//Null//Battery//7,500//Null//Null//5200
+1399//SSLT02BTGLXT3BTSMT217SBTSMT211BTTabletBTT217ABTT217TBT//LT02-GalaxyTab3-SM-T217S-SM-T211-T217A-T217T//Null//Battery//7,500//9,6,2022//Foneclub//5200
 
-1416//SSNFEBTSSN935BT//SamsungNote-FE-N935SG-N935-BA-20171//Null//Battery//8,000//Null//Null//6500
+1416//SSNFEBTSSN935BT//SamsungNote-FE-N935SG-N935-BA-20171//Null//Battery//8,000//9,6,2022//Foneclub//6500
 
 1426//SSP5200BT//P5200-Samsung//Null//Battery//12,000//7,2,2021//Master//10500
 
@@ -2258,7 +2258,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1186//SNZ5BTSNE6653BTLIS1593ERPCBT//Sony-Z5-E6653-LIS1593ERPC//Null//Battery//7,500//11,1,2021//Master//5600
 
 1193//SNE4BTSNE2115BTLIS1574ERPCBT//E4-E2115-LIS1574ERPC-Sony//Null//Battery//8,000//13,12,2020//FoneClub//6500
-1200//SNZ1BTLIS1525ERPCBT//Z1-LIS1525ERPC-Sony//Null//Battery//7,500//Null//Null//5200
+1200//SNZ1BTLIS1525ERPCBT//Z1-LIS1525ERPC-Sony//Null//Battery//7,500//9,6,2022//Foneclub//5200
 
 
 #HUAWEI(BODY COVER)
@@ -2286,14 +2286,14 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 198//HWNV2IBDCBL//Nova2i-Huawei//Blue,Black//BODY COVER//13,500//10,8,2021//HX//11500
 
 272//HWY317BDCG//Y3(2017)-Huawei//Gold//BODY COVER//7,500//5,9,2020//Master//5500
-273//HWY317BDCGR//Y3(2017)-Huawei//Gray//BODY COVER//7,500//Null//Null//5500
+273//HWY317BDCGR//Y3(2017)-Huawei//Gray//BODY COVER//7,500//9,6,2022//Foneclub//5500
 
-301//HWY517BDCG//Y5(2017)-Huawei//Gold)//BODY COVER//8,000//Null//Null//6000
-302//HWY517BDCGR//Y5(2017)-Huawei//Gray//BODY COVER//8,000//Null//Null//6000
+301//HWY517BDCG//Y5(2017)-Huawei//Gold)//BODY COVER//8,000//9,6,2022//Foneclub//6000
+302//HWY517BDCGR//Y5(2017)-Huawei//Gray//BODY COVER//8,000//9,6,2022//Foneclub//6000
 
-370//HWY6BDCWHW4ABDCW//Y6-4A(2 sim)-Huawei//White//Body Cover//8,500//Null//Null//6300
+370//HWY6BDCWHW4ABDCW//Y6-4A(2 sim)-Huawei//White//Body Cover//8,500//9,6,2022//Foneclub//6300
 
-381//HWY6PRBDCB//Y6pro2018-Huawei//Black//Body Cover//8,500//Null//Null//6300
+381//HWY6PRBDCB//Y6pro2018-Huawei//Black//Body Cover//8,500//9,6,2022//Foneclub//6300
 381//HWY6PRBDCB//Y6pro2019-Huawei//Black//Body Cover//13,000//13,2,2022//MASTER//11000
 
 381//HWEJ6SBDCGN//Huawei Enjoy6S//Gray//Body Cover//8,000//7,2,2022//Nice//6000
@@ -2312,7 +2312,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 815//RMN94GBDCWRMN9BDCWRM10X4GBDCWMI10XBDCWMI10X4GBDCW//REDMINOTE9,MI10X(4G)//White//Body Cover//14,000//26,04,2022//NICE//12000
 
-815//OPR2001BDCW//R2001//White//Body Cover//8,500//Null//Null//6500
+815//OPR2001BDCW//R2001//White//Body Cover//8,500//9,6,2022//Foneclub//6500
 
 695//OPA33BDCBOPNEO7BDCB//A33-Oppo//Black//BODY COVER//7,000//24,11,2020//FoneClub//4800
 696//OPA33BDCWOPNEO7BDCW//A33-Oppo//White//BODY COVER//7,000//24,2,2021//Master//4800
@@ -2345,7 +2345,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 789//OPF5BDCRGOPF5YBDCRG//F5-F5Youth//Rose Gold//BODY COVER//9,500//2,9,2021//SLS//7500
 789//OPF5BDCGOPF5YBDCG//F5-F5Youth//Gold//BODY COVER//7,500//23,4,2021//Master//5500
 789//OPF5BDCROPF5YBDCR//F5-F5Youth//Red//BODY COVER//8,000//11,1,2021//Master//6000
-795//OPF5YBDCGOPF5BDCG//F5Youth-F5//Gold//BODY COVER//7,000//Null//Null//5000
+795//OPF5YBDCGOPF5BDCG//F5Youth-F5//Gold//BODY COVER//7,000//9,6,2022//Foneclub//5000
 
 801//OPF9BDCBOPF9BDCBL//Oppo-F9//WHITE,GREEN//BODY COVER//15,000//3,1,2022//MASTER//12900
 801//OPF9BDCBL//OPPO-F9//Blue//Body Cover//15,000//22,1,2022//SLS//13000
@@ -2404,7 +2404,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1030//RMEC3BDCR//RealmeC3//Red//Body Cover//8,500//23,4,2020//Master//6500
 
-1042//RMN2BDCB//RedMiNote2//Black//BODY COVER//7,500//Null//Null//5500
+1042//RMN2BDCB//RedMiNote2//Black//BODY COVER//7,500//9,6,2022//Foneclub//5500
 
 1048//RMN3BDC//RedMiNote3//Black//BODY COVER//13,500//28,04,2022//Master//11400
 1049//RMN3BDCG//RedMiNote3//Gold//BODY COVER//10,000//19,12,2020//Master//8000
@@ -2426,7 +2426,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1110//RMN5A16BDCG//RedmiNote5A(16GB)//Gold//BODY COVER//7,500//25,1,2021//Master,Nice//5500
 1111//RMN5A16BDCGR//RedmiNote5A(16GB)//Gray//BODY COVER//7,500//25,1,2021//Master,Nice//5500
 1111//RMN5A32BDCGRMN5A32BDCGRRMN5APRBDCGRMN5APRBDCGR//RedmiNote5A(32),RedmiNote5APRIME//GOLD,GRAY//BODY COVER//7,500//13,2,2022//Master//6000
-1112//RMN5ABDCRG//Redminote5A//RoseGold//BODY COVER//8,500//Null//Null//6500
+1112//RMN5ABDCRG//Redminote5A//RoseGold//BODY COVER//8,500//9,6,2022//Foneclub//6500
 
 110//RMN5BDCBRMN5BDCB//RedmiNote5-RedMiNote5Pro//BLACK//BODY COVER//11,000//13,2,2022//Master//9200
 
@@ -2483,7 +2483,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1885//MMX2BDCG//MiMax2//Gold//Body Cover//16,500//16,2,20201//Nice//14500
 
-1164//RMPBDCG//RedmiPro//Gold//BODY COVER//12,000//Null//Null//10000
+1164//RMPBDCG//RedmiPro//Gold//BODY COVER//12,000//9,6,2022//Foneclub//10000
 
 1173//RMS2BDCGR//RedMiS2//GRAY//BODY COVER//8,500//24,3,2022//SLS//6500
 1173//RMS2BDCG//RedMiS2//Gold//BODY COVER//8,000//23,4,2021//Master//6000
@@ -2508,7 +2508,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1225//SSA30BDCWSSA305BDCW SSA30BDCBSSA305BDCB//Samsung A30(A305)//White,Black//BODY COVER//11,000//14,3,2022//Master//9200
 
-1242//SSA7BDCG//A7-Samsung//Gold//BODY COVER//6,500//Null//Null//4500
+1242//SSA7BDCG//A7-Samsung//Gold//BODY COVER//6,500//9,6,2022//Foneclub//4500
 
 1269//SSG530BDCBSSGGPBDCBSSGPBDCB//G530-Samsung//Black//BODY COVER//4,000//21,5,2021//HX//2000
 1271//SSG530BDCGSSGGPBDCGSSGPBDCG//G530-Samsung//Gold//BODY COVER//4,000//21,5,2021//HX//2000
@@ -2520,20 +2520,20 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1305//SSI9082BDCB//I9082-Samsung//Black//BODY COVER//4,000//2,2,2021//Nice//2500
 1307//SSI9082BDCW//I9082-Samsung//White//BODY COVER//4,000//2,2,2021//Nice//2500
 
-1319//SSI9200BDCBSSM6.3BDCB//Mega6.3-i9200-Samsung//Black//BODY COVER//8,500//Null//Null//6500
+1319//SSI9200BDCBSSM6.3BDCB//Mega6.3-i9200-Samsung//Black//BODY COVER//8,500//9,6,2022//Foneclub//6500
 
-1328//SSJ2BDCG//J2-Samsung//Gold//BODY COVER//5,000//Null//Null//3000
+1328//SSJ2BDCG//J2-Samsung//Gold//BODY COVER//5,000//9,6,2022//Foneclub//3000
 
-1329//SSJ2PBDCBSSG532BDCB//J2prime-G532//Black//BODY COVER//4,500//Null//Null//2500
+1329//SSJ2PBDCBSSG532BDCB//J2prime-G532//Black//BODY COVER//4,500//9,6,2022//Foneclub//2500
 1331//SSG532BDCBSSG532BDCB//J2prime-G532// Black//BODY COVER//4,500//18,1,2021//Master//2000
 1331//SSJ2PBDCGSSG532BDCG//J2prime-G532//Gold//BODY COVER//4,500//18,1,2021//Master//2000
 
 1341//SSJ4PBDCG//Samsung-J4PLUS//Gold//Body Cover//8,500//07,04,2022//NICE//6500
 
-1348//SSJ516BDCGSSJ5BDCG//J5(2016)-Samsung//Gold//BODY COVER//7,500//Null//Null//5500
+1348//SSJ516BDCGSSJ5BDCG//J5(2016)-Samsung//Gold//BODY COVER//7,500//9,6,2022//Foneclub//5500
 1350//SSJ516BDCGSSJ5BDCGSSJ510BDCG//J5(2016)-J510//Gold//Body Cover//8,500//18,8,2021//ShweLattSaung//6500
 
-1352//SSJ5BDCB//J5-Samsung//Black//BODY COVER//5,000//Null//Null//3000
+1352//SSJ5BDCB//J5-Samsung//Black//BODY COVER//5,000//9,6,2022//Foneclub//3000
 
 1355//SSJ5PRBDCB//J5Prime-Samsung//Black//Body Cover//8,000//26,4,2021//Master//6000
 
@@ -2542,9 +2542,9 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1398//SSJ8BDCG//J8-Samsung//Gold//Body Cover//10,000//2,2,2021//Nice//8500
 
-1409//SSN7000BDCWSSGNBDCW//GalaxyNote-N7000//White//BODY COVER//6,500//Null//Null//4500
+1409//SSN7000BDCWSSGNBDCW//GalaxyNote-N7000//White//BODY COVER//6,500//9,6,2022//Foneclub//4500
 
-1429//SSS5BDCB//Samsung-S5//Black//BODY COVER//6,000//Null//Null//4000
+1429//SSS5BDCB//Samsung-S5//Black//BODY COVER//6,000//9,6,2022//Foneclub//4000
 
 1899//SSA20SBDCB//Samsung-A20s//Black//Body Cover//7,000//18,11,2020//FoneClub//5500
 1899//SSA20SBDCB//Samsung-A20s//Black//Body Cover//7,000//21,11,2020//HX//5000
@@ -2566,7 +2566,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1495//VVV5BDCB//VIVO V5/BLACK//Body Cover//11,000//20,2,2022//KK//9000
 
-1495//VVV3MXBDCRGVVV3MAXBDCRGVVV3MBDCRG//V3Max/Rose Gold//Body Cover//8,500//Null//Null//6500
+1495//VVV3MXBDCRGVVV3MAXBDCRGVVV3MBDCRG//V3Max/Rose Gold//Body Cover//8,500//9,6,2022//Foneclub//6500
 
 1507//VVY66BDCG//VIVO Y66//Gold//Body Cover//10,000//25,9,2021//Master//8000
 
@@ -2606,7 +2606,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1900//IPH6PBDCRG//IPhone6Plus//RoseGold//BODY COVER//13,000//25,1,2021//Master//11000
 
-455//IPH6BDCG//IPhone6//Gold//BODY COVER//13,000//Null//Null//11000
+455//IPH6BDCG//IPhone6//Gold//BODY COVER//13,000//9,6,2022//Foneclub//11000
 
 463//IPH6SPBDC//IPhone6sPlus//Null//BODY COVER//12,000//26,21,2021//Nice//10000
 
@@ -2618,7 +2618,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #(MIDDLE BODY COVER)
 
-697//OPA33MBG//A33-Oppo//Gold//Middle//7,000//Null//Null//5200
+697//OPA33MBG//A33-Oppo//Gold//Middle//7,000//9,6,2022//Foneclub//5200
 
 #HUAWEI BACK COVER
 
@@ -2633,26 +2633,26 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 70//HON8XBCBL//Honor8x//Blue//Back Cover//3,000//31,1,2021//Master//2400
 70//HON8XBCB//Honor8x//Black//Back Cover//3,000//31,1,2021//Master//2200
 
-72//HON9LBCGR//Honor-9Lite//Gray//Back Cover//3,500//Null//Null//0
+72//HON9LBCGR//Honor-9Lite//Gray//Back Cover//3,500//9,6,2022//Foneclub//0
 
-78//HONU10BCBHONU10BCBHONU19BCBHOLU19BCBHOLU10BCBHWU10BCB//HOl-U10//Black//Back Cover//3,500//Null//Null//2500
+78//HONU10BCBHONU10BCBHONU19BCBHOLU19BCBHOLU10BCBHWU10BCB//HOl-U10//Black//Back Cover//3,500//9,6,2022//Foneclub//2500
 
-83//HW4CBCBHWGPLAYMNBCBHON4XMNBCB//Huawei 4c-Gplaymini-4xmini//Black//Back Cover//3,500//Null//Null//2000
+83//HW4CBCBHWGPLAYMNBCBHON4XMNBCB//Huawei 4c-Gplaymini-4xmini//Black//Back Cover//3,500//9,6,2022//Foneclub//2000
 84//HW4CBCGHWGPLAYMNBCGHON4XMNBCG//Huawei 4c-Gplaymini-4xmini//Gold//Back Cover//2,500//24,12,2020//Master//1800
-85//HW4CBCWHWGPLAYMNBCWHON4XMNBCW//Huawei 4c-Gplaymini-4xmini//White//Back Cover//2,500//Null//Null//1800
+85//HW4CBCWHWGPLAYMNBCWHON4XMNBCW//Huawei 4c-Gplaymini-4xmini//White//Back Cover//2,500//9,6,2022//Foneclub//1800
 
-88//HWBCP7//P7-Huawei//Black//Back Cover//3,000//Null//Null//0
+88//HWBCP7//P7-Huawei//Black//Back Cover//3,000//9,6,2022//Foneclub//0
 
-111//HWG610BCB//G610-U00//Black//Back Cover//3,500//Null//Null//0
-112//HWG610BCW//G610-U00//White//Back Cover//3,500//Null//Null//0
+111//HWG610BCB//G610-U00//Black//Back Cover//3,500//9,6,2022//Foneclub//0
+112//HWG610BCW//G610-U00//White//Back Cover//3,500//9,6,2022//Foneclub//0
 
-118//HWG620SBCWHWG620BCW//G620s-Huawei//White//Back Cover//32,000//Null//Null//0
+118//HWG620SBCWHWG620BCW//G620s-Huawei//White//Back Cover//32,000//9,6,2022//Foneclub//0
 
-135//HWG730BCB//G730-U00//Black//Back Cover//4,000//Null//Null//0
-136//HWG730BCW//G730-U00//White//Back Cover//4,000//Null//Null//0
+135//HWG730BCB//G730-U00//Black//Back Cover//4,000//9,6,2022//Foneclub//0
+136//HWG730BCW//G730-U00//White//Back Cover//4,000//9,6,2022//Foneclub//0
 
-193//HWH30U10BCBHWH30BCB//H30-U10//Black//Back Cover//3,000//Null//Null//0
-194//HWH30U10BCWHWH30BCW//H30-U10//White//Back Cover//3,000//Null//Null//0
+193//HWH30U10BCBHWH30BCB//H30-U10//Black//Back Cover//3,000//9,6,2022//Foneclub//0
+194//HWH30U10BCWHWH30BCW//H30-U10//White//Back Cover//3,000//9,6,2022//Foneclub//0
 
 216//HWNV3IBCBL//Nova3i//Blue//Back Cover//4,000//25,04,2022//HX//3000
 216//HWNV3IBCW//Nova3i//White//Back Cover//4,000//25,04,2022//HX//3000
@@ -2667,17 +2667,17 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 216//HWNV3IBCW//Nova3i//White//Back Cover//5,500//21,05,2022//KK//4500
 216//HWNV3IBCB//Nova3i//Black//Back Cover//5,500//21,05,2022//KK//4500
 
-227//HWP30LBCBL//HuaweiP30Lite//Blue//Back Cover//5,500//Null//Null//0
+227//HWP30LBCBL//HuaweiP30Lite//Blue//Back Cover//5,500//9,6,2022//Foneclub//0
 
-229//HWP7BCW//P7-Huawei//White//Back Cover//3,500//Null//Null//0
+229//HWP7BCW//P7-Huawei//White//Back Cover//3,500//9,6,2022//Foneclub//0
 
-233//HWP8LBCB//P8Lite-Huawei//Black//Back Cover//3,500//Null//Null//0
-234//HWP8LBCW//P8lite-Huawei//White//Back Cover//3,500//Null//Null//0
+233//HWP8LBCB//P8Lite-Huawei//Black//Back Cover//3,500//9,6,2022//Foneclub//0
+234//HWP8LBCW//P8lite-Huawei//White//Back Cover//3,500//9,6,2022//Foneclub//0
 
-259//HWU10BCWHOLU10BCWHONU10BCWHONU19BCWHOLU19BCW//HOl-U10//White//Back Cover//3,500//Null//Null//0
+259//HWU10BCWHOLU10BCWHONU10BCWHONU19BCWHOLU19BCW//HOl-U10//White//Back Cover//3,500//9,6,2022//Foneclub//0
 
-324//HWY52BCG//Y52-Huawei//Gold//Back Cover//3,500//Null//Null//0
-325//HWY52BCW//Y52-Huawei//White//Back Cover//3,500//Null//Null//0
+324//HWY52BCG//Y52-Huawei//Gold//Back Cover//3,500//9,6,2022//Foneclub//0
+325//HWY52BCW//Y52-Huawei//White//Back Cover//3,500//9,6,2022//Foneclub//0
 
 408//HWY8PBCP//Y8P-Huawei//Pink//Back Cover//2,700//31,1,2021//Master//2200
 
@@ -2706,7 +2706,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 533//MI6BCB//Mi6//Black//Back Cover//3,000//9,4,2021//HX//2300
 
-536//MI8BC//MI8//Null//Back Cover//4,000//Null//Null//0
+536//MI8BC//MI8//Null//Back Cover//4,000//9,6,2022//Foneclub//0
 536//MI8BC//MI8//Null//Back Cover//4,500//28,1,2022//JL//3500
 
 542//MI8SEBCR//Mi8SE//Red//Back Cover//3,000//9,4,2021//HX//2500
@@ -2728,7 +2728,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 594//MNBCBMNLTEBCB//MiNoteLTE(A.A)//Black//Back Cover//3,000//10,3,2021//Master//0
 595//MNBCWMNLTEBCW//MiNoteLTE(A.A)//White//Back Cover//3,000//10,3,2021//Master//0
 
-913//RM4XBCB//RedMi4x//Black//Back Cover//5,500//Null//Null//0
+913//RM4XBCB//RedMi4x//Black//Back Cover//5,500//9,6,2022//Foneclub//0
 
 1020//RM7BCBL//Redmi7//Blue//Back Cover//3,000//19,12,2020//FoneClub//2300
 1020//RM7BCB//Redmi7//Black//Back Cover//3,000//19,12,2020//FoneClub//2300
@@ -2745,7 +2745,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1032//RMN1BCB//RedMiNote1//Black//Back Cover//3,500//29,05,2022//Nice//2000
 1032//RMN1BCW//RedMiNote1//White//Back Cover//3,500//29,05,2022//Nice//2000
 
-1041//RMN2BC//RedMiNote2//Null//Back Cover//3,500//Null//Null//0
+1041//RMN2BC//RedMiNote2//Null//Back Cover//3,500//9,6,2022//Foneclub//0
 
 1130//RMN5BCG//RedmiNote5//Gold//Back Cover//3,000//7,1,2021//HX//2300
 
@@ -2802,7 +2802,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1185//SSS8PBCOG//SAMSUNG S8Plus-G955F//OG//Back Cover//4000//28,03,2022//Master//3000
 1185//SSS8PBCSV//SAMSUNG S8Plus-G955F//Silver//Back Cover//4000//28,03,2022//Master//2700
 
-1185//SMN7BCB//SamsungNote7//Black//Back Cover//6,000//Null//Null//5000
+1185//SMN7BCB//SamsungNote7//Black//Back Cover//6,000//9,6,2022//Foneclub//5000
 
 682//SSA510BCB//Samsung-A510//Black//Back Cover//2,500//6,12,2020//Master//1500
 
@@ -2812,34 +2812,34 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1225//SSA30BCWSSA20BCWSSA30BCBLSSA20BCBLSSA30BCR//Samsung-A20-A30//All Colour//Back Cover//3,500//16,2,2021//Nice//2500
 
-1227//SSA30SBCB//Samsung-A30s//Black//Back Cover//3,000//Null//Null//0
-1227//SSA30SBCVL//Samsung-A30s//Violet//Back Cover//3,000//Null//Null//0
+1227//SSA30SBCB//Samsung-A30s//Black//Back Cover//3,000//9,6,2022//Foneclub//0
+1227//SSA30SBCVL//Samsung-A30s//Violet//Back Cover//3,000//9,6,2022//Foneclub//0
 
 1229//SSA50BCWSSA50BCBSSA50BCBL//Samsung-A50//AllColor//Back Cover//6,500//22,04,2022//KK//4000
 
-1231//SSA51BCWSSA51BCBSSA51BCBL//Samsung-A51//AllColor//Back Cover//3,000//Null//Null//0
+1231//SSA51BCWSSA51BCBSSA51BCBL//Samsung-A51//AllColor//Back Cover//3,000//9,6,2022//Foneclub//0
 
-1237//SSA70BCWSSA70BCBSSA70BCBL//Samsung-A70//AllColor//Back Cover//3,000//Null//Null//0
+1237//SSA70BCWSSA70BCBSSA70BCBL//Samsung-A70//AllColor//Back Cover//3,000//9,6,2022//Foneclub//0
 
 1238//SSA710WCPSSA7BCPSSA716BCW//Samsung-A710-A7(2016)-A7//White//Back Cover//2,000//29,4,2021//HX//1500
 1238//SSA710BCPSSA7GCPSSA716BCG//Samsung-A710-A7(2016)-A7//Gold//Back Cover//2,000//29,4,2021//HX//1500
 
-1241//SSA71BCBSSA71BCBLSSA71BCW//Samsung-A71//AllColor//Back Cover//4,000//Null//Null//0
+1241//SSA71BCBSSA71BCBLSSA71BCW//Samsung-A71//AllColor//Back Cover//4,000//9,6,2022//Foneclub//0
 
-1288//SSG900BCBSSS5BCB//G900-Samsung//Black//Back Cover//3,000//Null//Null//0
+1288//SSG900BCBSSS5BCB//G900-Samsung//Black//Back Cover//3,000//9,6,2022//Foneclub//0
 
-1345//SSJ500HBCWSSJ5BCW//J500H-Samsung//White//Back Cover//4,000//Null//Null//0
+1345//SSJ500HBCWSSJ5BCW//J500H-Samsung//White//Back Cover//4,000//9,6,2022//Foneclub//0
 
-1368//SSJ700HBCBSSJ7BCB//J700H-Samsung//Black//Back Cover//6,500//Null//Null//0
+1368//SSJ700HBCBSSJ7BCB//J700H-Samsung//Black//Back Cover//6,500//9,6,2022//Foneclub//0
 
-1406//SSN5BCG//Samsung-Note5//Gold//Back Cover//5,500//Null//Null//0
+1406//SSN5BCG//Samsung-Note5//Gold//Back Cover//5,500//9,6,2022//Foneclub//0
 
-1414//SSN8BCB//Samsung-Note8//Black//Back Cover//4,000//Null//Null//0
+1414//SSN8BCB//Samsung-Note8//Black//Back Cover//4,000//9,6,2022//Foneclub//0
 
 1434//SSS6BCG//S6-Samsung//Gold//Back Cover//3,000//5,1,2021//Master//2300
-1435//SSS6BCW//S6-Samsung//White//Back Cover//5,300//Null//Null//0
+1435//SSS6BCW//S6-Samsung//White//Back Cover//5,300//9,6,2022//Foneclub//0
 
-1437//SSS6EBCW//S6edge//White//Back Cover//4,000//Null//Null//0
+1437//SSS6EBCW//S6edge//White//Back Cover//4,000//9,6,2022//Foneclub//0
 
 1448//SSS7EBCB//SAMSUNG-S7Edge//Black//Back Cover//4000//24,12,2020//Master//3000
 
@@ -2847,15 +2847,15 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1864//SSS8PBCRG//Samsung-S8Plus//RoseGold//Back Cover//3,500//19,12,2020//Master//2700
 
-1636//SSNOTE5BC//SamsungNote5//Null//BACK COVER//5000//Null//Null//0
+1636//SSNOTE5BC//SamsungNote5//Null//BACK COVER//5000//9,6,2022//Foneclub//0
 
 1636//SSS8BCB//Samsung S8 (G950F)//Black//BACK COVER//5,000//29,11,2021//FoneClub//0
 1636//SSS8BCBL//Samsung S8 (G950F)//Blue//BACK COVER//5,000//29,11,2021//FoneClub//0
 1636//SSS8BCG//Samsung S8 (G950F)//Gold//BACK COVER//5,000//29,11,2021//FoneClub//0
 1636//SSS8BCOG//Samsung S8 (G950F)//OG//BACK COVER//5,000//29,11,2021//FoneClub//0
 
-1239//SSA717BCBSSA7BCB//A7(2017)-Samsung//Black//BACK COVER//3,500//Null//Null//0
-1240//SSA717BCWSSA7BCW//A7(2017)-Samsung//White//BACK COVER//5,000//Null//Null//0
+1239//SSA717BCBSSA7BCB//A7(2017)-Samsung//Black//BACK COVER//3,500//9,6,2022//Foneclub//0
+1240//SSA717BCWSSA7BCW//A7(2017)-Samsung//White//BACK COVER//5,000//9,6,2022//Foneclub//0
 
 1484//VVY20BCB//VIVO-Y20//Black//Back Cover//2,500//11,9,2021//Master//1800
 1484//VVY20BCW//VIVO-Y20//White//Back Cover//6,500//26,05,2022//Nice//5500
@@ -2867,16 +2867,16 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1540//VVY15BCBVVY13LBCB//VIVOY15-Y13L//Black//Back Cover//3000//13,2,2022//MASTER//2100
 1540//VVY15BCBVVY13LBCB//VIVOY15-Y13L//Black//Back Cover//4500//10,05,2022//DGL//3500
 
-1620//VVY91BCBVVY93BCBVVY95BCB//Vivo-Y91-Y93-Y95//Black//Back Cover//2,500//Null//Null//0
+1620//VVY91BCBVVY93BCBVVY95BCB//Vivo-Y91-Y93-Y95//Black//Back Cover//2,500//9,6,2022//Foneclub//0
 
 257//VVV15BCBL//VIVO-V15//Blue//Back Cover//4500//5,1,2021//FoneClub//3200
 
 1664//VVY93SBCB//Vivo-Y93s//Black//BACK COVER//7500//12,9,2020//Nice//6500
 
-438//IPH4SBCB//IPhone4s//Black//Back Cover//5,000//Null//Null//0
-439//IPH4SBCW//IPhone4s//White//Back Cover//6,500//Null//Null//0
+438//IPH4SBCB//IPhone4s//Black//Back Cover//5,000//9,6,2022//Foneclub//0
+439//IPH4SBCW//IPhone4s//White//Back Cover//6,500//9,6,2022//Foneclub//0
 
-474//IPH8PBCW//IPhone8Plus//White//Back Cover//5,000//Null//Null//0
+474//IPH8PBCW//IPhone8Plus//White//Back Cover//5,000//9,6,2022//Foneclub//0
 
 51//IPH12PMXBCG//I Phone12ProMax//Gold//Back Cover//17,000//17,12,2021//SLS//15000
 
@@ -2889,91 +2889,91 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 760//OPF9BC//Oppo-F9//AllColor//Back Cover//2500//18,2,2021//HX//1500
 
-820//OPR829BCB//R829-Oppo//Black//Back Cover//3,500//Null//Null//0
+820//OPR829BCB//R829-Oppo//Black//Back Cover//3,500//9,6,2022//Foneclub//0
 
 1898//OPA3SBCBOPA3S64GBCB//OPPO A3S(64G)//Black//Back Cover//9000//10,1,2022//Nice//8000
 
 
-1196//SNMYBCB//SonyM5//Black//Back Cover//4,500//Null//Null//0
+1196//SNMYBCB//SonyM5//Black//Back Cover//4,500//9,6,2022//Foneclub//0
 
-1199//SNZ1BCB//Z1-Sony//Black//Back Cover//4,000//Null//Null//0
+1199//SNZ1BCB//Z1-Sony//Black//Back Cover//4,000//9,6,2022//Foneclub//0
 
 1202//SNZ2BCWSNZ2BCB//Z2-Sony//White,Black//Back Cover//2500//17,2,2022//Master//1500
 
-1207//SNZ4BCG//Z4-Sony//Gold//Back Cover//0//Null//Null//0
+1207//SNZ4BCG//Z4-Sony//Gold//Back Cover//0//9,6,2022//Foneclub//0
 
-1209//SNZBCB//SonyZ//Black//Back Cover//3,500//Null//Null//0
+1209//SNZBCB//SonyZ//Black//Back Cover//3,500//9,6,2022//Foneclub//0
 
 674//MZU20BCW//U20-Meizu//White//Back Cover//2,500//21,11,2020//Master//1500
 674//MZU20BCB//U20-Meizu//Black//Back Cover//2,500//21,11,2020//Master//1500
 
 #COOLPAD LCD
 
-29//CP5109LCD//5109-Coolpad//Null//LCD//7,000//Null//Null//0
-31//CP7060LCD//7060-Coolpad//Null//LCD//5,500//Null//Null//0
-32//CP7060SLCD//7060s-Coolpad//Null//LCD//6,500//Null//Null//0
-35//CP7232LCD//7232-Coolpad//Null//LCD//7,500//Null//Null//0
-37//CP7270LCD//7270-Coolpad//Null//LCD//8,500//Null//Null//0
-38//CP7275LCD//7275-Coolpad//Null//LCD//9,500//Null//Null//0
-40//CP8079LCD//8079-Coolpad//Null//LCD//6,000//Null//Null//0
+29//CP5109LCD//5109-Coolpad//Null//LCD//7,000//9,6,2022//Foneclub//0
+31//CP7060LCD//7060-Coolpad//Null//LCD//5,500//9,6,2022//Foneclub//0
+32//CP7060SLCD//7060s-Coolpad//Null//LCD//6,500//9,6,2022//Foneclub//0
+35//CP7232LCD//7232-Coolpad//Null//LCD//7,500//9,6,2022//Foneclub//0
+37//CP7270LCD//7270-Coolpad//Null//LCD//8,500//9,6,2022//Foneclub//0
+38//CP7275LCD//7275-Coolpad//Null//LCD//9,500//9,6,2022//Foneclub//0
+40//CP8079LCD//8079-Coolpad//Null//LCD//6,000//9,6,2022//Foneclub//0
 
 #HUAWEI LCD
 
 48//HOLU10LCDHONU10LCDHONU19LCDHOLU19LCD//HOL-U10-U19-Huawei//Null//LCD//11,500//21,5,2021//Master//9300
-91//HWC8813LCD//C8813-Huawei//Null//LCD//6,000//Null//Null//0
+91//HWC8813LCD//C8813-Huawei//Null//LCD//6,000//9,6,2022//Foneclub//0
 94//HWC8816LCDHWG610LCDHWG620LCDG620SLCD//C8816-G610-G620S-Huawei//Null//LCD//9,500//16,9,2021//Naing Win//7000
-97//HWC8825LCD//C8825-Huawei//Null//LCD//6,500//Null//Null//0
-124//HWG629LCD//G629-Huawei//Null//LCD//8,000//Null//Null//0
-127//HWG630LCDHWG620SLCD//G630-G620s-Huawei//Null//LCD//5,500//Null//Null//0
+97//HWC8825LCD//C8825-Huawei//Null//LCD//6,500//9,6,2022//Foneclub//0
+124//HWG629LCD//G629-Huawei//Null//LCD//8,000//9,6,2022//Foneclub//0
+127//HWG630LCDHWG620SLCD//G630-G620s-Huawei//Null//LCD//5,500//9,6,2022//Foneclub//0
 139//HWG730LCD//G730-Huawei//Null//LCD//8,000//21,11,2020//Master//6000
 252//HWS8LCDHWS8701ULCD//S8-701u//Null//LCD//20,000//2,2,2021//Nice//18000
-268//HWY310LCD//Y310-Huawei//Null//LCD//8,500//Null//Null//0
-274//HWY317LCD//Y3(2017)-Huawei//Null//LCD//0//Null//Null//0
-282//HWY320LCD//Y320-Huawei//Null//LCD//5,300//Null//Null//0
-287//HWY325LCD//Y325-Huawei//Null//LCD//5,000//Null//Null//0
+268//HWY310LCD//Y310-Huawei//Null//LCD//8,500//9,6,2022//Foneclub//0
+274//HWY317LCD//Y3(2017)-Huawei//Null//LCD//0//9,6,2022//Foneclub//0
+282//HWY320LCD//Y320-Huawei//Null//LCD//5,300//9,6,2022//Foneclub//0
+287//HWY325LCD//Y325-Huawei//Null//LCD//5,000//9,6,2022//Foneclub//0
 290//HWY32LCD//Y32-Huawei//Null//LCD//7,500//3,11,2020//Master//5700
-295//HWY330LCD//Y330-Huawei//Null//LCD//5,800//Null//Null//0
-296//HWY336LCD//Y336-Huawei//Null//LCD//6,500//Null//Null//0
-299//HWY511LCD//Y511-Huawei//Null//LCD//5,300//Null//Null//0
-321//HWY520LCD//Y520-Huawei//Null//LCD//6,000//Null//Null//0
-335//HWY541LCD//Y541-Huawei//Null//LCD//6,300//Null//Null//0
-345//HWY600LCD//Y600-Huawei//Null//LCD//7,000//Null//Null//0
-349//HWY610LCDHWY600LCDHWY600DLCD//Y610-Y600D-Huawei//Null//LCD//7,000//Null//Null//0
-353//HWY618LCD//Y618-Huawei//Null//LCD//7,000//Null//Null//0
-357//HWY625LCD//Y625-Huawei//Null//LCD//7,000//Null//Null//0
+295//HWY330LCD//Y330-Huawei//Null//LCD//5,800//9,6,2022//Foneclub//0
+296//HWY336LCD//Y336-Huawei//Null//LCD//6,500//9,6,2022//Foneclub//0
+299//HWY511LCD//Y511-Huawei//Null//LCD//5,300//9,6,2022//Foneclub//0
+321//HWY520LCD//Y520-Huawei//Null//LCD//6,000//9,6,2022//Foneclub//0
+335//HWY541LCD//Y541-Huawei//Null//LCD//6,300//9,6,2022//Foneclub//0
+345//HWY600LCD//Y600-Huawei//Null//LCD//7,000//9,6,2022//Foneclub//0
+349//HWY610LCDHWY600LCDHWY600DLCD//Y610-Y600D-Huawei//Null//LCD//7,000//9,6,2022//Foneclub//0
+353//HWY618LCD//Y618-Huawei//Null//LCD//7,000//9,6,2022//Foneclub//0
+357//HWY625LCD//Y625-Huawei//Null//LCD//7,000//9,6,2022//Foneclub//0
 
 #KENBOO LCD
 
-487//KBE121LCD//E121-Kenboo//Null//LCD//14,500//Null//Null//0
-488//KBE61LCD//E61-Kenboo//Null//LCD//10,000//Null//Null//0
-489//KBE71LCD//E71-Kenboo//Null//LCD//11,500//Null//Null//0
-492//KBE81LCD//E81-Kenboo//Null//LCD//11,000//Null//Null//0
-495//KBE91LCD//E91-Kenboo//Null//LCD//12,000//Null//Null//0
-496//KBO41LCD//O41-Kenboo//Null//LCD//12,500//Null//Null//0
+487//KBE121LCD//E121-Kenboo//Null//LCD//14,500//9,6,2022//Foneclub//0
+488//KBE61LCD//E61-Kenboo//Null//LCD//10,000//9,6,2022//Foneclub//0
+489//KBE71LCD//E71-Kenboo//Null//LCD//11,500//9,6,2022//Foneclub//0
+492//KBE81LCD//E81-Kenboo//Null//LCD//11,000//9,6,2022//Foneclub//0
+495//KBE91LCD//E91-Kenboo//Null//LCD//12,000//9,6,2022//Foneclub//0
+496//KBO41LCD//O41-Kenboo//Null//LCD//12,500//9,6,2022//Foneclub//0
 
 #TRUE LCD
 
-1479//TR4.0LCD//True4.0//Null//LCD//7,500//Null//Null//0
+1479//TR4.0LCD//True4.0//Null//LCD//7,500//9,6,2022//Foneclub//0
 
 #OOREDOO LCD
 
-683//OOL110LCDOOS10LCD//L110-Smart10//Null//LCD//8000//Null//Null//0
+683//OOL110LCDOOS10LCD//L110-Smart10//Null//LCD//8000//9,6,2022//Foneclub//0
 
 #OPPO LCD
 
 691//OPA11WLCDOPR1201LCDOPA11LCD//A11W-1201//Null//LCD//7,500//21,11,2020//Master//6000
-811//OPR1001LCD//R1001//Null//LCD//7,000//Null//Null//0
-824//OPR831KLCD//R831K-Oppo//Null//LCD//6,500//Null//Null//0
+811//OPR1001LCD//R1001//Null//LCD//7,000//9,6,2022//Foneclub//0
+824//OPR831KLCD//R831K-Oppo//Null//LCD//6,500//9,6,2022//Foneclub//0
 
 #SAMSUNG LCD
 
-1257//SSG313HLCDSSG313LCD//G313H-Lcd(Small)//Null//LCD//7,000//Null//Null//0
-1258//SSG313HZLCDSSG313HULCDSSG313LCD//G313HZ-G313HU(Big)//Null//LCD//7,000//Null//Null//0
-1261//SSG318HLCDSSG318LCD//G318H-Samsung(Small)//Null//LCD//8,500//Null//Null//0
-1262//SSG355LCDSSGC2LCD//G355-GalaxyCore2-Samsung//Null//LCD//9,000//Null//Null//0
-1265//SSG357LCD//G357-Samsung//Null//LCD//0//Null//Null//0
+1257//SSG313HLCDSSG313LCD//G313H-Lcd(Small)//Null//LCD//7,000//9,6,2022//Foneclub//0
+1258//SSG313HZLCDSSG313HULCDSSG313LCD//G313HZ-G313HU(Big)//Null//LCD//7,000//9,6,2022//Foneclub//0
+1261//SSG318HLCDSSG318LCD//G318H-Samsung(Small)//Null//LCD//8,500//9,6,2022//Foneclub//0
+1262//SSG355LCDSSGC2LCD//G355-GalaxyCore2-Samsung//Null//LCD//9,000//9,6,2022//Foneclub//0
+1265//SSG357LCD//G357-Samsung//Null//LCD//0//9,6,2022//Foneclub//0
 1266//SSG360LCDSSGCPLCDSSG361LCD//G360-G361-GalaxyCorePrime//Null//LCD//1,0500//30,11,2020//Master//8800
-1273//SSG530MBSSGGPMBSSGPMB//G530-Samsung//Null//Middle Body//0//Null//Null//0
+1273//SSG530MBSSGGPMBSSGPMB//G530-Samsung//Null//Middle Body//0//9,6,2022//Foneclub//0
 1277//SSG532LCDSSJ2PLCDSSG530LCDSSG531LCDSSGGPLCDSSGPLCD//G532-G530-G531-J2Prime//Null//LCD//18,000//16,9,2021//Naing Win//16000
 1277//SSG532LCDSSJ2PLCDSSG530LCDSSG531LCDSSGGPLCDSSGPLCD//G532-G530-G531-J2Prime//Null//LCD//23,500//28,05,2022//Master//21800
 1277//SSG532LCDSSJ2PLCDSSG530LCDSSG531LCDSSGGPLCDSSGPLCD//G532-G530-G531-J2Prime//Null//LCD//19,000//22,1,2022//HX//17500
@@ -2982,19 +2982,19 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1281//SSG7102LCDSSG7106LCDSSG2LCD//G7102-G7106-Grand2//Null//LCD//24,000//23,05,2022//KK//23000
 
 1285//SSG750LCD//G750-Samsung//Null//LCD//17,500//9.10.2020//Master//16100
-1289//SSI8160LCD//i8160-Samsung//Null//LCD//17,000//Null//Null//0
-1293//SSI8552GWLCD//i8552-GalaxyWin-Samsung//Null//LCD//11,000//Null//Null//0
-1300//SSI9060LCDSSI9060ILCDSSI9082LCD//i9060-i9060i-9082//Null//LCD//11,800//Null//Null//0
-1314//SSI9152LCD//i9152-Samsung//Null//LCD//18,000//Null//Null//0
-1325//SSJ1LCD//J1-Samsung//Null//LCD//8,000//Null//Null//0
+1289//SSI8160LCD//i8160-Samsung//Null//LCD//17,000//9,6,2022//Foneclub//0
+1293//SSI8552GWLCD//i8552-GalaxyWin-Samsung//Null//LCD//11,000//9,6,2022//Foneclub//0
+1300//SSI9060LCDSSI9060ILCDSSI9082LCD//i9060-i9060i-9082//Null//LCD//11,800//9,6,2022//Foneclub//0
+1314//SSI9152LCD//i9152-Samsung//Null//LCD//18,000//9,6,2022//Foneclub//0
+1325//SSJ1LCD//J1-Samsung//Null//LCD//8,000//9,6,2022//Foneclub//0
 1421//SSON7LCDSSG600LCDSSG6000LCD//G600-ON7-G6000-Samsung//Null//LCD//25,500//3,1,2022//Master//23300
-1451//SST111LCDSST110LCDSST116LCD//T111-T110-T116-Samsung//Null//LCD//14,500//Null//Null//0
-1455//SST211LCD//T211-Samsung//Null//LCD//17,000//Null//Null//0
+1451//SST111LCDSST110LCDSST116LCD//T111-T110-T116-Samsung//Null//LCD//14,500//9,6,2022//Foneclub//0
+1455//SST211LCD//T211-Samsung//Null//LCD//17,000//9,6,2022//Foneclub//0
 1460//SST231LCD//T231-Samsung//Null//LCD//18,000//31,1,2021//HX//16000
 
 #VIVO LCD
 
-1538//VVY11LCD//Y11-Vivo//Null//LCD//9,500//Null//Null//0
+1538//VVY11LCD//Y11-Vivo//Null//LCD//9,500//9,6,2022//Foneclub//0
 1542//VVY15LCD//Y15-Vivo//Null//LCD//10,000//28,5,2021//Master//7700
 1542//VVY15LCD//Y15-Vivo//Null//LCD//10,000//10,1,2022//Master//7700
 
@@ -3046,7 +3046,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 880//RM3SUSBRM3USBRM3XUSB//RedMi3s//Null//USB Board//2000//23,2,2021//Master//1500
 895//RM4AUSB//RedMi4A//Null//USB Board//2000//19,11,2021//HX,FoneClub//1500
-902//RM4PUSB//RedMi4pro//Null//USB Board//3,500//Null//Null//3000
+902//RM4PUSB//RedMi4pro//Null//USB Board//3,500//9,6,2022//Foneclub//3000
 912//RM4USB//Red Mi4(32G)//Null//USB Board//2,000//2,9,2021//HX//1500
 927//RM4XUSB//RedMi4x//Null//USB Board//2,000//2,9,2021//HX//1300
 
@@ -3099,7 +3099,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1665//RM7USBB//Redmi7//Null//USB Board//2500//16,05,2022//HX//1500
 
-507//MI4IUSBB//Mi4i//Null//USB Board//4,000//Null//Null//0
+507//MI4IUSBB//Mi4i//Null//USB Board//4,000//9,6,2022//Foneclub//0
 532//MI5XUSBB//Mi5x//Null//USB Board//3000//16,05,2022//HX//2000
 532//MI5XUSBB//Mi5x//Null//USB Board//3500//26,05,2022//FoneClub//2400
 568//MMX2USBB//MiMax2//Null//USB Board//3000//19,9,2021//Master,Nice//2100
@@ -3117,7 +3117,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 105//HWY7AUSBB//Huawei Y7A//Null//USB Board//3500//22,03,2022//Master//2700
 
-105//HWEJ7USB//Enjoy7//Null//USB Board//3,500//Null//Null//0
+105//HWEJ7USB//Enjoy7//Null//USB Board//3,500//9,6,2022//Foneclub//0
 153//HWGPMNUSBBHW4CUSBB//Gplaymini-4C//Null//USb Board//3,500//28,8,2021//Master//0
 166//HWGR5USBBHWGR516STGHWGR5STGHON5XSTG//GR5-GR5(2015)-GR5(2016)-Honor5X//Null//USB Board//2500//28,8,2021//Master//1800
 215//HWNV3EUSB//Nova3e//Null//USB Board//3,500//15,10,2020//Master//0
@@ -3128,31 +3128,31 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 369//HWY62USB//Y62-Huawei//Null//USB Board//2500//29,11,2021//FoneClub//1800
 380//HWY6P17USBHWP9LMNUSB//Y6pro(2017)-P9Litemini//Null//USB Board//2500//5,4,2021//Master//1800
 422//HWY919USBB//Y9(2019)//Null//USB Board//2500//10,7,2021//Master//1600
-423//HWY7PRUSB//Y7prime//Null//USB Board//3500//Null//Null//0
-425//HWY7USB//Y7-Huawei//USB//USB Board//4500//Null//Null//0
+423//HWY7PRUSB//Y7prime//Null//USB Board//3500//9,6,2022//Foneclub//0
+425//HWY7USB//Y7-Huawei//USB//USB Board//4500//9,6,2022//Foneclub//0
 1848//HWY5IIUSBHWY52USBB//Huawei-Y5II-Y52//Null//USB Board//3500//23,4,2021//Master//2800
 
 1666//HWNV3IUSB//Nova3i//Null//USB Board//3000//13,2,2022//Master//2000
 
 #I PHONE & APPLE(USB BOARD)
 
-451//IPH5SUSB//IPhone5s//Null//USB Board//4,000//Null//Null//0
-454//IPH5USB//IPhone5//Null//USB Board//4,500//Null//Null//0
+451//IPH5SUSB//IPhone5s//Null//USB Board//4,000//9,6,2022//Foneclub//0
+454//IPH5USB//IPhone5//Null//USB Board//4,500//9,6,2022//Foneclub//0
 461//IPH6SUSBF//IPhone6S//Null//USB Flex//4000//24,11,2020//HX//3500
 467//IPH6SPUSBB//IPhone8plus//Black//USB Board//15000//28,05,2022//Master//13000
 467//IPH6SPUSBW//IPhone8plus//White//USB Board//15000//28,05,2022//Master//13000
-471//IPH6USB//IPhone6//Null//USB Board//4000//Null//Null//0
+471//IPH6USB//IPhone6//Null//USB Board//4000//9,6,2022//Foneclub//0
 
 #MEIZU(USB BOARD)
 
 602//MZM5NUSBB//M5note//Null//USB Board//500//18,8,2021//HX//0
 628//MZM3NUSB//M3Note//Null//USB Board//2,000//3,11,2020//HX//1300
 628//MZM3NUSB//M3Note-L681//Null//USB Board//3,000//2,2,2021//Nice//2500
-635//MZM3SUSB//M3S-Meizu//Null//USB Board//4,000//Null//Null//0
+635//MZM3SUSB//M3S-Meizu//Null//USB Board//4,000//9,6,2022//Foneclub//0
 635//MZM3SUSB//M3S-Meizu//Null//USB Board//3000//1,5,2022//Master//1800
 
-643//MZM5CUSB//Meizu-M5c//Null//USB Board//3,500//Null//Null//0
-670//MZM6USB//Meizu-M6//Null//USB Board//3,000//Null//Null//0
+643//MZM5CUSB//Meizu-M5c//Null//USB Board//3,500//9,6,2022//Foneclub//0
+670//MZM6USB//Meizu-M6//Null//USB Board//3,000//9,6,2022//Foneclub//0
 1659//MZU20USB//MeizuU20//Null//USB Board//3,000//30,1,2021//HX//0
 
 #OPPO(USB BOARD)
@@ -3164,7 +3164,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 732//OPA3SUSB//Oppo-A3s//Null//USB Board//2500//23,4,2021//Master//1600
 756//OPA83USBF//A83-OPPO//Null//USB Board//2500//10,8,2021//HX//1700
 778//OPF1USBOPA35USB//F1-A35//Null//USB Board//3000//30,11,2020//Master//2200
-828//OPR831USB//R831-Oppo//Null//USB Board//3000//Null//Null//0
+828//OPR831USB//R831-Oppo//Null//USB Board//3000//9,6,2022//Foneclub//0
 828//RMEC3USBB//Realme C3//Null//USB Board//2000//6,12,2021//HX//1500
 1644//OPA1KUSB//Oppo-A1k//Null//USB BOARD//2500//2,9,2021//HX//2000
 1644//OPF15USB//Oppo-F15//Null//USB BOARD//4500//07,06,2022//Master//3200
@@ -3184,7 +3184,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1224//SSA02SUSBB//Samsung-A02S-(A02S)//Null//USB Board//7500//15,05,2022//KK//6500
 
 1230//SSA50USB//Samsung-A50//Null//USB Board//5000//27,6,2021//Master//4100
-1432//SSS5USB//S5-Samsung//Null//USB Board//4,500//Null//Null//0
+1432//SSS5USB//S5-Samsung//Null//USB Board//4,500//9,6,2022//Foneclub//0
 
 #VIVO(USB BOARD)
 
@@ -3200,16 +3200,16 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 #HUAWEI(USB FLEX)
 
 208//HWNV2IUSBF//Nova2i//Null//USB Flex//3000//29,11,2021//Nice//2500
-319//HWY518USBF//Y5(2018)-Huawei//Null//USB Flex//3,500//Null//Null//0
+319//HWY518USBF//Y5(2018)-Huawei//Null//USB Flex//3,500//9,6,2022//Foneclub//0
 344//HWY5P18USBF//Y5Prime(2018)//Null//USB Flex//2,000//10,11,2020//Master//1400
-356//HWY618USBHWY6USB//Y6(2018)-Huawei//Null//USB Flex//3,000//Null//Null//0
+356//HWY618USBHWY6USB//Y6(2018)-Huawei//Null//USB Flex//3,000//9,6,2022//Foneclub//0
 1882//HWY6PR18USBFLHWY6PR18USBFLHWY6P18USBFLHON7AUSBFL//Y6pro(18)-Y6Prime(2018)-Honor7A//Null//USB Flex//2,000//19,9,2021//Master//1400
-179//HWGR5MNUSBFHW5CUSBF//GR5Mini-5C//Null//USB Flex//3,000//Null//Null//0
+179//HWGR5MNUSBFHW5CUSBF//GR5Mini-5C//Null//USB Flex//3,000//9,6,2022//Foneclub//0
 
 #OPPO(USB FLEX)
 
 1231//OPA520USBF//OPPO A5(2020)//Null//USb Flex//2500//12,8,2021//Master//2000
-694//OPA11WUSBF//A11w//Null//USB Flex//3,000//Null//Null//0
+694//OPA11WUSBF//A11w//Null//USB Flex//3,000//9,6,2022//Foneclub//0
 
 703//OPA33USBFOPNEO7USBF//A33-Oppo//Null//USB Flex//3000//25,04,2022//HX//2000
 703//OPA33USBFOPNEO7USBF//A33-Oppo//Null//USB Flex//3500//26,05,2022//FoneClub//2500
@@ -3225,10 +3225,10 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 #XIAOMI,REDMI(USB FLEX)
 
 869//RM1SUSBF//Redmi1s//Null//USB Flex//2000//21,11,2020//HX//1100
-875//RM2USBF//RedMi2//Null//USB Flex//2000//Null//Null//0
+875//RM2USBF//RedMi2//Null//USB Flex//2000//9,6,2022//Foneclub//0
 1172//RMPUSBF//Redmipro//Null//USB Flex//9000//28,03,2022//Master//8000
 1888//MI8SEUSBFL//Mi8SE//Null//USB Flex//3000//10,10,2020//Master//2000
-520//MI5SPUSBFRM5SPUSBF//Mi5SPlus//Null//USB Flex//6,500//Null//Null//0
+520//MI5SPUSBFRM5SPUSBF//Mi5SPlus//Null//USB Flex//6,500//9,6,2022//Foneclub//0
 981//RM6AUSBRM6USB//Redmi6A-Redmi6//Null//USB Board//2500//25,04,2022//HX//1500
 1010//RM6XUSBFMI6XUSBF//Mi6X//Null//USB Flex//6000//01,04,2022//KK//5000
 
@@ -3237,11 +3237,11 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 370//SSS8PUSBFSSG955FUSBF//Samsung S8Plus-G955F//Null//USB Flex//12000//28,03,2022//Master//10200
 
 1236//SSA5USBFSSA500FUSBFSSA500HUSBF//A5-A500F-A500H-Samsung//Null//USB Flex//8500//15,12,2020//Master//7200
-1251//SSA7USBF//A7-Samsung//Null//USB Flex//4,500//Null//Null//0
-1322//SSI9200USBF//I9200-Samsung//Null//USB Flex//6,000//Null//Null//0
-1401//SSM6.3USBF//Mega6.3-Samsung//Null//USB Flex//4,500//Null//Null//0
-1413//SSN7100USBF//N7100-Samsung//Null//USB Flex//4,500//Null//Null//0
-1433//SSS5USBF//S5-Samsung//Null//USB Flex//4,500//Null//Null//0
+1251//SSA7USBF//A7-Samsung//Null//USB Flex//4,500//9,6,2022//Foneclub//0
+1322//SSI9200USBF//I9200-Samsung//Null//USB Flex//6,000//9,6,2022//Foneclub//0
+1401//SSM6.3USBF//Mega6.3-Samsung//Null//USB Flex//4,500//9,6,2022//Foneclub//0
+1413//SSN7100USBF//N7100-Samsung//Null//USB Flex//4,500//9,6,2022//Foneclub//0
+1433//SSS5USBF//S5-Samsung//Null//USB Flex//4,500//9,6,2022//Foneclub//0
 6//SSN8USBFLSSN950FUSBF//SamsungNote8(N950F)//Null//USB Flex//9,000//4,2,2021//Master//7800
 6//SSN8USBFLSSN950FUSBU//SamsungNote8(N950U)//Null//USB Flex//9,000//4,2,2021//Master//7800
 1//SSS8USBFSSG950USBF//Samsung-S8(G950U)//Null//USB Flex//6500//4,11,2021//Master//5500
@@ -3253,7 +3253,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1485//VVY83USB//VIVO Y83//Null//USB Flex//2500//11,2,2022//HX//1500
 1485//VVY83USB//VIVO Y83//Null//USB Flex//3,500//12,2,2022//RS//2500
 
-1485//VVV15USB//Vivo-V15//Null//USB Flex//3,500//Null//Null//0
+1485//VVV15USB//Vivo-V15//Null//USB Flex//3,500//9,6,2022//Foneclub//0
 1497//VVV3MXUSBF//V3Max//Null//USB Flex//2500//25,8,2021//Master//1800
 1503//VVV3USBF//V3-Vivo//Null//USB Flex//4500//30,03,2022//FoneClub//3600
 1507//VVV5USBVVV5LUSBVVY66USB//Y66-V5-V5Lite//Null//USB Flex//3500//25,04,2022//HX//2300
@@ -3262,8 +3262,8 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1547//VVY15USBFLVVY13LUSBFL//Y15-Y13L//Null//USB Flex//3000//3,1,2022//MASTER//2100
 1553//VVY21USBF//Y21-VIVO//Null//USB Flex//3,500//3,11,2020//HX//0
 1553//VVY21USBF//Y21-VIVO//Null//USB Flex//3500//3,1,2022//MASTER//2300
-1557//VVY22USBF//Y22-Vivo//Null//USB Flex//3,000//Null//Null//0
-1562//VVY28USBF//Y28-Vivo//Null//USB Flex//5,000//Null//Null//0
+1557//VVY22USBF//Y22-Vivo//Null//USB Flex//3,000//9,6,2022//Foneclub//0
+1562//VVY28USBF//Y28-Vivo//Null//USB Flex//5,000//9,6,2022//Foneclub//0
 1568//VVY31USBF//Y31-VIVO//Null//USB Flex//3,500//28,03,2022//Master//2500
 1568//VVY31USBF//Y31-VIVO//Null//USB Flex//3,500//26,05,2022//FoneClub//2500
 
@@ -3273,7 +3273,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1590//VVY53USBF//Y53-VIVO//Null//USB Flex//3000//25,04,2022//HX//2200
 1590//VVY53USBF//Y53-VIVO//Null//USB Flex//3500//9,6,2022/Master//2900
 
-1615//VVY81IUSBF//Y81i-Vivo//Null//USB Flex//2,800//Null//Null//0
+1615//VVY81IUSBF//Y81i-Vivo//Null//USB Flex//2,800//9,6,2022//Foneclub//0
 1732//VVV11USBFVVV11iUSBF//VIVO-V11-V11i//Null//USB Flex//2500//31,1,2021//Master//1400
 1883//VVY55USBFL//Vivo-Y55//Null//USB Flex//3500//22,1,2022//HX//2300
 1883//VVY81USBFLVVY81IUSBFL//Vivo-Y81-Y81i//Null//USB Flex//3500//29,05,2022//Master//2900
@@ -3296,7 +3296,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1054//RMN3MDF//Redminote3//Null//Middle Flex//3000//28,03,2022//Master//1700
 1054//RM3MDF//Redmi3,Redmi3S//Null//Middle Flex//3000//28,03,2022//Master//1700
 
-518//MI5MDF//MI5//Null//Middle Flex//3,500//Null//Null//0
+518//MI5MDF//MI5//Null//Middle Flex//3,500//9,6,2022//Foneclub//0
 559//MMX2MDFMMX2LCDF//MiMax2//Null//Middle Flex,LCD Flex//2500//27,6,2021//Master//1800
 581//MMX1MDF//MiMax1//Null//Middle Flex//2,500//27,6,2021//Master//1700
 918//RM4XMDF//RedMi4x//Null//Middle Flex//2,000//28,8,2021//Master//1400
@@ -3305,13 +3305,13 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1099//RMN4XMDFRMN4XLCDF//RedMiNote4x(ငုတ်ပါး)(ငုတ်ထူ)//Null//Middle Flex,LCD Flex//2000//27,6,2021//Master//1500
 1125//RMN5AMDF//RedmiNote5A//Null//Middle Flex//2,000//13,9,2020//HX//1200
-1133//RMN5MDF//Redminote5//Null//Middle Flex//3,500//Null//Null//0
-1134//RMN5PMDF//RedmiNote5Pro//Null//Middle Flex//4,000//Null//Null//0
+1133//RMN5MDF//Redminote5//Null//Middle Flex//3,500//9,6,2022//Foneclub//0
+1134//RMN5PMDF//RedmiNote5Pro//Null//Middle Flex//4,000//9,6,2022//Foneclub//0
 1158//RMN8MDF//RedmiNote8//Null//Middle Flex//2,000//7,1,2021//HX//1500
 1158//RMN8PMDF//RedmiNote8Pro//Null//Middle Flex//3,500//10,05,2022//DGL//2500
 1635//RM8MDFRM8LCDF//Redmi8//Null//Middle Flex,LCD Flex//3,000//27,6,2021//Master//0
 531//MIA1MDFMI5XMDF//MiA1-Mi5X//Null//Middle Flex//2,500//28,03,2022//Master//1500
-878//RM3SMDF//Redmi3s//Null//Middle Flex//3,200//Null//Null//0
+878//RM3SMDF//Redmi3s//Null//Middle Flex//3,200//9,6,2022//Foneclub//0
 988//RM6PLCDFRM6PMDF//Redmi6Pro//Null//Middle Flex//2,000//25,1,2021//Master//1400
 1652//RMS2MDFRMS2LCDF//RedMiS2//Null//Middle Flex,LCD Flex//3,500//28,03,2022//Master//2100
 1711//RM7AMDFRM7ALCDF//Redmi7A//Null//Middle Flex//2,500//28,8,2021//Master//1600
@@ -3327,9 +3327,9 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #OPPO(MIDDLE FLEX & LCD FLEX)
 
-719//OPA39MDF//A39-Oppo//Null//Middle Flex//4,200//Null//Null//0
-738//OPA57MDF//A57-Oppo//Null//Middle Flex//3,200//Null//Null//0
-1648//OPA1KMDFRMEC2MDF//Oppo-A1k-RealmeC2//Null//Middle Flex////Null//Null//0
+719//OPA39MDF//A39-Oppo//Null//Middle Flex//4,200//9,6,2022//Foneclub//0
+738//OPA57MDF//A57-Oppo//Null//Middle Flex//3,200//9,6,2022//Foneclub//0
+1648//OPA1KMDFRMEC2MDF//Oppo-A1k-RealmeC2//Null//Middle Flex////9,6,2022//Foneclub//0
 1691//OPA5SMDF//OPPO-A5S//Null//Middle Flex//2,500//15,10,2020//Master//1700
 1691//OPA15MDF//OPPO-A15//Null//Middle Flex//3,500//03,06,2022//Master//2400
 393//OPA52MDFOPA92MDF//OPPO A52/A92//Null//Middle Flex//2,500//14,12,2021//Nice//2000
@@ -3338,9 +3338,9 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #VIVO(MIDDLE FLEX & LCD FLEX)
 
-1497//VVV3MXMDF//V3Max//Null//Middle Flex//5,000//Null//Null//0
+1497//VVV3MXMDF//V3Max//Null//Middle Flex//5,000//9,6,2022//Foneclub//0
 497//VVV5MDF//VIVO V5//Null//Middle Flex//3000//24,3,2022//FONECLUB//1900
-1569//VVY35AMDF//Vivo-Y35a//Null//Middle Flex//2,800//Null//Null//0
+1569//VVY35AMDF//Vivo-Y35a//Null//Middle Flex//2,800//9,6,2022//Foneclub//0
 1870//VVY91MDF//Y91-VIVO//Null//Middle Flex//2000//21,11,2020//Master//1400
 1569//VVY85MDF//Vivo-Y85//Null//Middle Flex//3000//15,2,2022//MASTER//2000
 1870//VVY91MDF//Y91-VIVO//Null//Middle Flex//2000//21,11,2020//Master//1400
@@ -3349,7 +3349,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 254//HWY9PR19LCDF//Huawei Y9Prime(19)//Null//LCD Flex//3,500//24,3,2022//ATP//2500
 
-254//HWT1701ULCDFHWT1LCDF//T1-701U//Null//LCD Flex//4,000//Null//Null//0
+254//HWT1701ULCDFHWT1LCDF//T1-701U//Null//LCD Flex//4,000//9,6,2022//Foneclub//0
 256//HWT3LCDF//T3-7"(3G)//Null//LCD Flex//2,500//21,12,2020//Master//1700
 252//HWS8LCDFHWS8701ULCDF//S8-701u//Null//LCD Flex//4,500//31,3,2022//KK//3500
 176//HWGR515MDFHWGR515LCDFHON5XMDFHON5XLCDF//GR5(2015)-Honor5X//Null//LCD Flex,Middle Flex//2,500//25,1,2021//Master//1200
@@ -3357,7 +3357,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1652//HWNV3IMDFHWNV3ILCDF//Nova3i//Null//Middle Flex,LCD Flex//2,000//27,6,2021//Master//1400
 1708//HWNV3EMDF//Nova3e-Huawei//Null//Middle Flex//3,000//17,10,2020//FoneClub//2200
 1882//HWY6PR18MDFLHWY6PR18MDFLHWY6P18MDFLHON7AMDFL//Y6pro(18)-Y6Prime(2018)-Honor7A//Null//LCD Flex & Middle Flex//2,000//1,3,2021//Master//1400
-393//HWY6PMDF//Y6Prime//Null//Middle Flex//4,500//Null//Null//0
+393//HWY6PMDF//Y6Prime//Null//Middle Flex//4,500//9,6,2022//Foneclub//0
 393//HWNV2iMDF//Huawei Nova2i//Null//Middle Flex//2,500//29,11,2021//FoneCLub,Nice//1800
 393//HWY919MDF//Y9(19)//Null//Middle Flex//2800//2,5,2022//KK//2800
 
@@ -3437,7 +3437,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1898//IPH6SPCM//I Phonr6SPlus//Null//CAMERA မှန်//1,500//5,9,2021//SLS//1000
 
-475//IPH8PCM//IPhone8Plus//Gold//Camera Cover Frame//5,000//Null//Null//0
+475//IPH8PCM//IPhone8Plus//Gold//Camera Cover Frame//5,000//9,6,2022//Foneclub//0
 
 
 #XIAOMI & REDMI(FINGERPRINTS)
@@ -3448,7 +3448,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 897//RMK30FGPPP//RedMiK30//Purple//Fingerprints//8,500//10,1,2022//Master//7200
 897//RMK30FGPB//RedMiK30//Black//Fingerprints//8,500//10,1,2022//Master//7200
 
-897//RM4PGPG//RedMi4pro//Gold//Fingerprints//3,500//Null//Null//2000
+897//RM4PGPG//RedMi4pro//Gold//Fingerprints//3,500//9,6,2022//Foneclub//2000
 
 917//RM4XFPG//RedMi4x//Gold//Fingerprints//3,500//27,6,2021//Master//2600
 
@@ -3459,7 +3459,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1053//RMN3FGPB//RedMiNote3//BLACK//Fingerprints//4,500//13,2,2022//Master//3300
 1053//RMN3FGPGR//RedMiNote3//GRAY//Fingerprints//4,500//13,2,2022//Master//3300
 
-987//RM6PFGP//Redmi6Pro//Gold//Fingerprints//11,500//Null//Null//6000
+987//RM6PFGP//Redmi6Pro//Gold//Fingerprints//11,500//9,6,2022//Foneclub//6000
 
 1082//RMN4FGPG//Redminote4//Gold//Fingerprints//4,500//4,12,2020//HX//2800
 
@@ -3469,7 +3469,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1131//RMN5FPRMN5FGPB//Redminote5//BLACK//Fingerprints//7,000//13,2,2022//MASTER//5400
 
-514//MI5FPB//Mi5//Black//Fingerprints//5,000//Null//Null//3000
+514//MI5FPB//Mi5//Black//Fingerprints//5,000//9,6,2022//Foneclub//3000
 
 1871//MI8LPFBL//Mi8Lite//Blue//Finger Print//9,500//6,11,2020//Master//8000
 
@@ -3491,9 +3491,9 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1368//SSJ700FHC//J700F-Samsung//Null//Home Cable//3,500//6,12,2020//Master//1800
 1368//SSJ4FHC//J4-Samsung//Null//Home Cable//2500//9,6,2022//Master//1500
 
-1374//SSJ7HFW//J7-Samsung//White//Home Key//4,000//Null//Null//2000
+1374//SSJ7HFW//J7-Samsung//White//Home Key//4,000//9,6,2022//Foneclub//2000
 
-1380//SSJ7PRFPGSSON7FPG//J7Prime-On7//Gold//Fingerprints//3000//Null//Null//1500
+1380//SSJ7PRFPGSSON7FPG//J7Prime-On7//Gold//Fingerprints//3000//9,6,2022//Foneclub//1500
 1381//SSJ7PRFPKSSON7FPK//J7Prime-On7//White//Fingerprints//3,500//4,12,2020//HX//1800
 1381//SSJ7PRFPBSSON7FPB//J7Prime-On7//Black//Fingerprints//3,500//4,12,2020//HX//1800
 
@@ -3501,7 +3501,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1386//SSJ7CHC//J7Core//Null//Home Cable//3,000//13,12,2020//Master//1500
 
-1387//SSJ7PRIFPB//J7prime//Black//Fingerprints//4,500//Null//Null//2000
+1387//SSJ7PRIFPB//J7prime//Black//Fingerprints//4,500//9,6,2022//Foneclub//2000
 
 1899//SSA20SFGPGN//Samsung-A20s//Green//FINGERPRINTS//7,000//11,1,2021//Master//5200
 
@@ -3535,7 +3535,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #OPPO(FINGERPRINTS)
 
-737//OPA57HKW//A57//White//Home Key//3,500//Null//Null//1500
+737//OPA57HKW//A57//White//Home Key//3,500//9,6,2022//Foneclub//1500
 
 1733//OPF7FGPGFBA3FGPFB//F7-A3-Oppo//Black//Finger Print//6,500//24,12,2020//Master//5000
 
@@ -3544,7 +3544,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #I PHONE & APPLE(FINGERPRINTS)
 
-1634//IPH7HFWIPH7PHFWIPH8HFWIPH8PHFW//Iphone7-Iphone7PLUS-Iphone8-Iphone8PLUS//White//HomeFlex//20700//Null//Null//16000
+1634//IPH7HFWIPH7PHFWIPH8HFWIPH8PHFW//Iphone7-Iphone7PLUS-Iphone8-Iphone8PLUS//White//HomeFlex//20700//9,6,2022//Foneclub//16000
 
 #MEIZU(FINGERPRINTS)
 
@@ -3553,31 +3553,31 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 #MT
 
 1632//MT6358VWPWIC//MT6358VW//Null//Power IC//5,500//3,1,2022//Master//4000
-1632//MT6331PPWIC//MT6331P//Null//Power IC//5,500//Null//Null//0
-1632//MT6350VPWIC//MT6350V//Null//Power IC//6,500//Null//Null//0
-1632//MT6625LNWFIC//MT6625LN//Null//WIFI IC//5,500//Null//Null//0
-1632//MT6353PWCTIC//MT6353V//Null//Power Control IC//6,500//Null//Null//0
-1632//MT6351PWCTIC//MT6351V//Null//Power Control IC//5,500//Null//Null//0
+1632//MT6331PPWIC//MT6331P//Null//Power IC//5,500//9,6,2022//Foneclub//0
+1632//MT6350VPWIC//MT6350V//Null//Power IC//6,500//9,6,2022//Foneclub//0
+1632//MT6625LNWFIC//MT6625LN//Null//WIFI IC//5,500//9,6,2022//Foneclub//0
+1632//MT6353PWCTIC//MT6353V//Null//Power Control IC//6,500//9,6,2022//Foneclub//0
+1632//MT6351PWCTIC//MT6351V//Null//Power Control IC//5,500//9,6,2022//Foneclub//0
 1632//MT6358WPWIC//MT6358W//Null//Power IC//6,500//24,3,2022//FONECLUB//4900
-1632//MT6323GAPWIC//MT6323GA//Null//Power IC//3,500//Null//Null//1700
+1632//MT6323GAPWIC//MT6323GA//Null//Power IC//3,500//9,6,2022//Foneclub//1700
 1632//MT6357CRVPWIC//MT6357CRV//Null//Power IC//7,000//13,2,2022//MASTER//5700
-1632//MT6176VPWIC//MT6176V//Null//Power IC//5,500//Null//Null//0
-1632//MT6177MVPWICMT6177PWIC//MT6177MV,MT6177//Null//Power IC//4,500//Null//Null//0
-1632//MT6320GAPWIC//MT6320GA//Null//Power IC//6,000//Null//Null//0
+1632//MT6176VPWIC//MT6176V//Null//Power IC//5,500//9,6,2022//Foneclub//0
+1632//MT6177MVPWICMT6177PWIC//MT6177MV,MT6177//Null//Power IC//4,500//9,6,2022//Foneclub//0
+1632//MT6320GAPWIC//MT6320GA//Null//Power IC//6,000//9,6,2022//Foneclub//0
 1632//MT6328VPWICMT6328PWIC//MT6328V,MT6328//Null//Power IC//4,000//28,04,2022//MASTER//1800
-1632//MT6356WPWIC//MT6356W//Null//Power IC//6,500//Null//Null//4800
-1632//MT6359PPWIC//MT6359P//Null//Power IC//9,000//Null//Null//7300
-1632//MT6357VPWIC//MT6357V//Null//Power IC//6,000//Null//Null//4400
-1632//MT6371PPWIC//MT6371P//Null//Power IC//4,000//Null//Null//2500
+1632//MT6356WPWIC//MT6356W//Null//Power IC//6,500//9,6,2022//Foneclub//4800
+1632//MT6359PPWIC//MT6359P//Null//Power IC//9,000//9,6,2022//Foneclub//7300
+1632//MT6357VPWIC//MT6357V//Null//Power IC//6,000//9,6,2022//Foneclub//4400
+1632//MT6371PPWIC//MT6371P//Null//Power IC//4,000//9,6,2022//Foneclub//2500
 
 #WTR
 
 1632//WTR3925PAIC//WTR3925//Null//PA IC//3,000//3,1,2022//Master//1100
-1632//WTR1605LADIC//WTR1605L//Null//Audio IC//3,500//Null//Null//1600
+1632//WTR1605LADIC//WTR1605L//Null//Audio IC//3,500//9,6,2022//Foneclub//1600
 1632//WTR2965NWICMI5NWIC//MI 5-WTR2965//Null//Network IC//3,500//24,3,2022//FONECLUB//1900
-1632//WTR3925NWIC//WTR3925//Null//Network IC//3,000//Null//Null//1100
-1632//WTR2955ADIC//WTR2955//Null//Audio IC//3,500//Null//Null//1700
-1632//WTR660RFIC//WTR660RF//Null//IC//4,500//Null//Null//0
+1632//WTR3925NWIC//WTR3925//Null//Network IC//3,000//9,6,2022//Foneclub//1100
+1632//WTR2955ADIC//WTR2955//Null//Audio IC//3,500//9,6,2022//Foneclub//1700
+1632//WTR660RFIC//WTR660RF//Null//IC//4,500//9,6,2022//Foneclub//0
 
 #PMI
 
@@ -3587,31 +3587,31 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1632//PMI6150LPWIC//PMI6150L//Null//Power IC//6,800//10,1,2022//Master//0
 1632//PMI6150PWIC//PMI6150//Null//Power IC//6,000//10,1,2022//Master//0
 1632//PMI632502PWIC//PMI632(502)//Null//Power IC//6,000//24,3,2022//FONECLUB//4300
-1632//PMI632602PWIC//PMI632(602)//Null//Power IC//4,500//Null//Null//3000
-1632//PMI632902PWIC//PMI632(902)//Null//Power IC//6,000//Null//Null//4300
+1632//PMI632602PWIC//PMI632(602)//Null//Power IC//4,500//9,6,2022//Foneclub//3000
+1632//PMI632902PWIC//PMI632(902)//Null//Power IC//6,000//9,6,2022//Foneclub//4300
 1632//PMI632902PWIC//PMI632(902)//Null//Power IC//6,000//03,06,2022//Master//4300
 
-1632//PMI8952PWIC//PMI8952//Null//Power IC//5,000//Null//Null//3300
-1632//PMI632PWIC//PMI632//Null//Power IC//6,000//Null//Null//4300
+1632//PMI8952PWIC//PMI8952//Null//Power IC//5,000//9,6,2022//Foneclub//3300
+1632//PMI632PWIC//PMI632//Null//Power IC//6,000//9,6,2022//Foneclub//4300
 
 #HI
 
-1632//HI6522PWIC//HI6522//Null//Power IC//4,000//Null//Null//2200
-1632//HI6522ORGPWIC//HI6522 ORG//Null//Power IC//3,500//Null//Null//1700
-1632//HI6422PWIC//HI6422//Null//Power IC//4,500//Null//Null//0
-1632//HI1102WFIC//HI1102//Null//WIFI IC//4,500//Null//Null//0
+1632//HI6522PWIC//HI6522//Null//Power IC//4,000//9,6,2022//Foneclub//2200
+1632//HI6522ORGPWIC//HI6522 ORG//Null//Power IC//3,500//9,6,2022//Foneclub//1700
+1632//HI6422PWIC//HI6422//Null//Power IC//4,500//9,6,2022//Foneclub//0
+1632//HI1102WFIC//HI1102//Null//WIFI IC//4,500//9,6,2022//Foneclub//0
 
 
 
-1632//MAX8997PWIC//Max8997//Null//Power IC//4,500//Null//Null//0
+1632//MAX8997PWIC//Max8997//Null//Power IC//4,500//9,6,2022//Foneclub//0
 
 #
-1632//WCN6320WFIC//WCN6320//Null//WIFI IC//5,500//Null//Null//0
-1632//WCN3980WFIC//WCN3980//Null//WIFI IC//3,500//Null//Null//1700
+1632//WCN6320WFIC//WCN6320//Null//WIFI IC//5,500//9,6,2022//Foneclub//0
+1632//WCN3980WFIC//WCN3980//Null//WIFI IC//3,500//9,6,2022//Foneclub//1700
 
 #HI
 
-1632//HI6422PWALFIC//77643-21//Null//Power Amplifier IC//4,500//Null//Null//1900
+1632//HI6422PWALFIC//77643-21//Null//Power Amplifier IC//4,500//9,6,2022//Foneclub//1900
 1632//HI6353PWIC//HI6353//Null//Power IC//6,000//26,1,2022//Master//4200
 
 #BQ
@@ -3621,20 +3621,20 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 #PM
 
 1632//PM6125001PWIC//PM6125(001)//Null//Power IC//5,500//3,1,2022//Master//4000
-1632//PM8953PWIC//PM8953//Null//Power IC//3,500//Null//Null//1900
-1632//PM7150PWIC//PM7150//Null//Power IC//10,500//Null//Null//9000
-1632//PM6125PWIC//PM6125//Null//Power IC//5,500//Null//Null//3900
-1632//PM7150PWIC//PM7150//Null//Power IC//10,500//Null//Null//9000
-1632//PM8952PWIC//PM8952//Null//Power IC//6,000//Null//Null//0
+1632//PM8953PWIC//PM8953//Null//Power IC//3,500//9,6,2022//Foneclub//1900
+1632//PM7150PWIC//PM7150//Null//Power IC//10,500//9,6,2022//Foneclub//9000
+1632//PM6125PWIC//PM6125//Null//Power IC//5,500//9,6,2022//Foneclub//3900
+1632//PM7150PWIC//PM7150//Null//Power IC//10,500//9,6,2022//Foneclub//9000
+1632//PM8952PWIC//PM8952//Null//Power IC//6,000//9,6,2022//Foneclub//0
 1632//PM8940PWIC//PM8940//Null//Power IC//4,000//28,04,2022//Master//2000
 1632//PM660PWICPM660001PWIC//PM660(001)//Null//Power IC//4,500//28,04,2022//Master//2000
 1632//PM660PWICPM660002PWIC//PM660(002)//Null//Power IC//5,500//28,04,2022//Master//2800
 1632//PM660L004PWICPM660LPWIC//PM660L(004)//Null//Power IC//7,500//28,04,2022//Master//4900
-1632//PM8937PWIC//PM8937//Null//Power IC//5,500//Null//Null//1900
-1632//PM6125PWIC//PM6125//Null//Power IC//5,500//Null//Null//4000
+1632//PM8937PWIC//PM8937//Null//Power IC//5,500//9,6,2022//Foneclub//1900
+1632//PM6125PWIC//PM6125//Null//Power IC//5,500//9,6,2022//Foneclub//4000
 1632//PM439PWIC//PM439//Null//Power IC//6,000//28,1,2022//JL//4500
-1632//PM670APWIC//PM670A//Null//Power IC//5,500//Null//Null//0
-1632//PM8909PWIC//PM8909//Null//Power IC//4,500//Null//Null//0
+1632//PM670APWIC//PM670A//Null//Power IC//5,500//9,6,2022//Foneclub//0
+1632//PM8909PWIC//PM8909//Null//Power IC//4,500//9,6,2022//Foneclub//0
 1632//PM7250PWICPM7250003PWIC//PM7250(003)//Null//Power IC//6,500//07,04,2022//MASTER//5000
 
 #SMB
@@ -3648,7 +3648,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 166//HWGR5MNSTB//Huawei GR5Mini-5C//Black//SIM TRAY//2,000//12,12,2021//Master//1500
 166//HWGR5MNSTG//Huawei GR5Mini-5C//Gold//SIM TRAY//2,000//12,12,2021//Master//1500
 
-166//HWGR5STHWGR516STGHWGR5STGHON5XSTG//GR5-GR5(2015)-GR5(2016)-Honor5X//Gold//SIM TRAY//4,000//Null//Null//0
+166//HWGR5STHWGR516STGHWGR5STGHON5XSTG//GR5-GR5(2015)-GR5(2016)-Honor5X//Gold//SIM TRAY//4,000//9,6,2022//Foneclub//0
 
 202//HWNV2ISTW//Huawei Nova2i//White//SIM TRAY//2,000//29,11,2021//FoneCLub//1100
 202//HWNV2ISTB//Huawei Nova2i//Black//SIM TRAY//2,000//29,11,2021//FoneCLub//1100
@@ -3660,7 +3660,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 246//HWP9STB//P9-Huawei//Black//SIM TRAY//2,000//18,1,2021//Master//1500
 246//HWP9STG//P9-Huawei//Gold//SIM TRAY//2,000//18,1,2021//Master//1500
 
-372//HWY6P17STBHWY6PSTBHWEJ7STB//Y6Pro(2017)-Enjoy7//Black//SIM TRAY//2,500//Null//Null//0
+372//HWY6P17STBHWY6PSTBHWEJ7STB//Y6Pro(2017)-Enjoy7//Black//SIM TRAY//2,500//9,6,2022//Foneclub//0
 
 419//HWY7PRSTB//Y7Prime//Black//SIM TRAY//2,000//27,6,2021//Master//1400
 
@@ -3698,25 +3698,25 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 879//RM3STRM3SSTRM3XSTRM4XST//RedMi3-3s-3X-RedMi4x//AllColor//SIM TRAY//2,000//9,2,2022//HX//1000
 
 903//RM4STGRM4STGR//RedMi4//Gold,Gray//SIM TRAY//2,000//15,10,2020//Master//1500
-904//RM4STW//RedMi4//White//SIM TRAY//4,000//Null//Null//0
+904//RM4STW//RedMi4//White//SIM TRAY//4,000//9,6,2022//Foneclub//0
 
-931//RM5ASTG//RedMi5A//Gold//SIM TRAY//3,300//Null//Null//0
-932//RM5ASTRG//RedMi5a//Rosegold//SIM TRAY//3,300//Null//Null//0
+931//RM5ASTG//RedMi5A//Gold//SIM TRAY//3,300//9,6,2022//Foneclub//0
+932//RM5ASTRG//RedMi5a//Rosegold//SIM TRAY//3,300//9,6,2022//Foneclub//0
 
 954//RM5PSTB//RedMi5Plus//Black//SIM TRAY//2,000//15,10,2020//Master//1500
-955//RM5PSTG//RedMi5Plus//Gold//SIM TRAY//2,000//Null//Null//0
+955//RM5PSTG//RedMi5Plus//Gold//SIM TRAY//2,000//9,6,2022//Foneclub//0
 
 960//RM5STB//Redmi5//Black//SIM TRAY//2,000//9,5,2021//Master//1300
 961//RM5STGR//Redmi5//Gray//SIM TRAY//2,000//9,5,2021//Master//1300
 961//RM5STG//Redmi5//Gold//SIM TRAY//2,000//9,5,2021//Master//1300
 
-989//RM6PSTB//Redmi6pro//Black//SIM TRAY//2,300//Null//Null//0
-990//RM6PSTG//Redmi6pro//Gold//SIM TRAY//2,300//Null//Null//0
-991//RM6PSTRG//Redmi6pro//RoseGold//SIM TRAY//2,300//Null//Null//0
+989//RM6PSTB//Redmi6pro//Black//SIM TRAY//2,300//9,6,2022//Foneclub//0
+990//RM6PSTG//Redmi6pro//Gold//SIM TRAY//2,300//9,6,2022//Foneclub//0
+991//RM6PSTRG//Redmi6pro//RoseGold//SIM TRAY//2,300//9,6,2022//Foneclub//0
 
-996//RM6STBRM6ASTB//Redmi6-Redmi6a//Black//SIM TRAY//3,000//Null//Null//0
-997//RM6STGRM6ASTG//Redmi6-RedmiMi6A//Gold//SIM TRAY//3,000//Null//Null//0
-998//RM6STGRRM6ASTGR//Redmi6-Mi6A//Gray//SIM TRAY//3,500//Null//Null//0
+996//RM6STBRM6ASTB//Redmi6-Redmi6a//Black//SIM TRAY//3,000//9,6,2022//Foneclub//0
+997//RM6STGRM6ASTG//Redmi6-RedmiMi6A//Gold//SIM TRAY//3,000//9,6,2022//Foneclub//0
+998//RM6STGRRM6ASTGR//Redmi6-Mi6A//Gray//SIM TRAY//3,500//9,6,2022//Foneclub//0
 
 1007//RM6XSTB//Mi6X//Black//SIM TRAY//2,000//15,10,2020//Master//1500
 1007//MI6XSTG//Mi6X//Gold//SIM TRAY//2,000//15,10,2020//Master//1500
@@ -3727,7 +3727,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1018//RM7STBL//Redmi7//Blue//SIM TRAY//2,000//05,06,2022//FoneCLub//1400
 1018//RM7STB//Redmi7//Black//SIM TRAY//2,000//05,06,2022//FoneCLub//1400
 
-1025//RM8STB//Redmi8//Black//SIM TRAY//2,500//Null//Null//0
+1025//RM8STB//Redmi8//Black//SIM TRAY//2,500//9,6,2022//Foneclub//0
 
 1028//RMEC2STROPA1KSTRRMEC2STR//RealmeC2-A1k//RED//SIM TRAY//1,500//1,7,2021//HX//1000
 
@@ -3748,7 +3748,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1101//RMN4XSTB//Redminote4x//Black//SIM TRAY//2,000//28,12,2020//Master//1500
 1102//RMN4XSTG//Redminote4x//Gold//SIM TRAY//3,000//28,12,2020//HX//0
-1103//RMN4XSTGR//Redminote4x//Gray//SIM TRAY//3,000//Null//Null//0
+1103//RMN4XSTGR//Redminote4x//Gray//SIM TRAY//3,000//9,6,2022//Foneclub//0
 
 1128//RMN5ASTB//Redminote5A//Black//SIM TRAY//2,000//05,06,2022//Master//1500
 1128//RMN5ASTG//Redminote5A//Gold//SIM TRAY//2,500//05,06,2022//Master//1600
@@ -3757,11 +3757,11 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1128//RMN5ASTGR//Redminote5A//Gray//SIM TRAY//2,500//05,06,2022//FONECLUB//1600
 1128//RMN5ASTRG//Redminote5A//Rose Gold//SIM TRAY//2,000//05,06,2022//Master//1500
 
-1137//RMN5ST//Redminote5//AllColour//SIM TRAY//2,500//Null//Null//0
+1137//RMN5ST//Redminote5//AllColour//SIM TRAY//2,500//9,6,2022//Foneclub//0
 
 1141//RMN6PSTBLRMN6PSTB//RedMiNote6Pro//Blue,Black//SIM TRAY//2,000//27,6,2021//Master//1400
 
-1144//RMN6STB//RedmiNote6//Black//SIM TRAY//3,500//Null//Null//0
+1144//RMN6STB//RedmiNote6//Black//SIM TRAY//3,500//9,6,2022//Foneclub//0
 
 1159//RMN8PSTALLCL//RedmiNote8Pro//ALL COLOR//SIM TRAY//2,000//9,2,2022//HX//1000
 1159//RM8APSTB//Redmi8A//Black//SIM TRAY//2,000//9,6,2022//Master//1500
@@ -3770,8 +3770,8 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 1162//RMN8ST//RedmiNote8//AllColor//SIM TRAY//2,000//31,1,2021//HX//1500
 
-1176//RMS2STG//RedmiS2//Gold//SIM TRAY//2,500//Null//Null//0
-1178//RMS2STGR//RedmiS2//Gray//SIM TRAY//2,900//Null//Null//0
+1176//RMS2STG//RedmiS2//Gold//SIM TRAY//2,500//9,6,2022//Foneclub//0
+1178//RMS2STGR//RedmiS2//Gray//SIM TRAY//2,900//9,6,2022//Foneclub//0
 1178//RMS2STGRRMS2STG//XIAOMI RedmiS2//GOLD,ROSEGOLD//SIM TRAY//2,000//13,2,2022//MASTER//1400
 
 521//MI5STB//Mi5//Black//SIM TRAY//2,000//15,10,2020//Master//1500
@@ -3783,29 +3783,29 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 531//MI5XSTGMI5XSTGMIA1STG//XIOAMI Mi5X-REDMI5X-MIA1//Gold//SIM TRAY//2,000//13,2,2022//Master//1400
 531//MI5XSTBMI5XSTBMIA1STB//XIOAMI Mi5X-REDMI5X-MIA1//Black//SIM TRAY//2,000//13,2,2022//Master//1400
 
-535//MI6STB//Mi6//Black//SIM TRAY//3,500//Null//Null//
+535//MI6STB//Mi6//Black//SIM TRAY//3,500//9,6,2022//Foneclub//
 
 562//MMX2STB//MiMax2//Black//SIM TRAY//2,000//27,6,2021//Master//1400
 563//MMX2STG//MiMax2//Gold//SIM TRAY//2,000//27,6,2021//Master//1400
 
-570//MMX3STG//MiMax3//Gold//SIM TRAY//3,500//Null//Null//0
+570//MMX3STG//MiMax3//Gold//SIM TRAY//3,500//9,6,2022//Foneclub//0
 
 584//MMX1STB//MiMax1//Black//SIM TRAY//2,000//21,11,2020//Master//1500
 584//MMX1STG//MiMax1//Gold//SIM TRAY//2,000//21,11,2020//Master//1500
 
 #MEIZU SIM TRAY
 
-619//MZM3NST//M3note//Null//SIM TRAY//3,500//Null//Null//0
+619//MZM3NST//M3note//Null//SIM TRAY//3,500//9,6,2022//Foneclub//0
 
 638//MZM5CSTB//M5C-Meizu//Black/SIM TRAY//2,500//9,5,2021//Master//1800
 638//MZM5CSTW//M5C-Meizu//White//SIM TRAY//2,500//9,5,2021//Master//1800
 638//MZM5CSTG//M5C-Meizu//Gold//SIM TRAY//2,500//9,5,2021//Master//1800
 
-644//MZM5NSTG//M5Note//Gold//SIM TRAY//3,200//Null//Null//0
+644//MZM5NSTG//M5Note//Gold//SIM TRAY//3,200//9,6,2022//Foneclub//0
 
-652//MZM5SST//M5s-Meizu//Gold//SIM TRAY//3,200//Null//Null//0
+652//MZM5SST//M5s-Meizu//Gold//SIM TRAY//3,200//9,6,2022//Foneclub//0
 
-653//MZM5ST//M5-Meizu//Null//SIM TRAY//4,500//Null//Null//0
+653//MZM5ST//M5-Meizu//Null//SIM TRAY//4,500//9,6,2022//Foneclub//0
 
 1658//MZU20STB//MeizuU20//Black//SIM TRAY//3,000//27,6,2021//Master//0
 1658//MZU20STW//MeizuU20//White//SIM TRAY//3,000//27,6,2021//Master//0
@@ -3819,18 +3819,18 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 709//OPA57STBOPA39STB//A57-A39-Oppo//Black//SIM TRAY//2,000//27,6,2021//Master//1400
 
-710//OPA37STGR//A37-Oppo//Gray//SIM TRAY//2,800//Null//Null//0
+710//OPA37STGR//A37-Oppo//Gray//SIM TRAY//2,800//9,6,2022//Foneclub//0
 
-709//OPA37STGOPA39STG//A57-A39-Oppo//Gold//SIM TRAY//3,000//Null//Null//0
+709//OPA37STGOPA39STG//A57-A39-Oppo//Gold//SIM TRAY//3,000//9,6,2022//Foneclub//0
 
-710//OPA37STGR//A37-Oppo//Gray//SIM TRAY//2,800//Null//Null//0
+710//OPA37STGR//A37-Oppo//Gray//SIM TRAY//2,800//9,6,2022//Foneclub//0
 
 721//OPA39STRGOPA57STRG//A39-A57-Oppo//RoseGold//SIM TRAY//2,000//27,6,2021//Master//1400
 
-729//OPA3SSTB//A3s-Oppo//Black//SIM TRAY//3,500//Null//Null//0
+729//OPA3SSTB//A3s-Oppo//Black//SIM TRAY//3,500//9,6,2022//Foneclub//0
 730//OPA3SSTBL//A3S-Oppo//Null//SIM TRAY//2,000//28,8,2021//Master//1400
 
-739//OPA57STB//A57-Oppo//Black//SIM TRAY//3,000//Null//Null//0
+739//OPA57STB//A57-Oppo//Black//SIM TRAY//3,000//9,6,2022//Foneclub//0
 739//OPA57STB//A57-Oppo//Black//SIM TRAY//2000//Null//05,06,2022//Master//1000
 739//OPA57STBl//A57-Oppo//Blue//SIM TRAY//2000//Null//05,06,2022//Master//1000
 
@@ -3838,14 +3838,14 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 739//OPA71STB//A71-Oppo//Black//SIM TRAY//2000//Null//05,06,2022//Master//1000
 739//OPA71STRG//A71-Oppo//Rose Gold//SIM TRAY//2000//Null//05,06,2022//Master//1000
 
-762//OPF1FSTRGOPF1FSTGR//F1F-Oppo//RoseGold,Gray//SIM TRAY//4,000//Null//Null//0
+762//OPF1FSTRGOPF1FSTGR//F1F-Oppo//RoseGold,Gray//SIM TRAY//4,000//9,6,2022//Foneclub//0
 
 770//OPF1SSTGROPA59STGROPF3STGR//F1S-F3//Gray&Black//SIM TRAY//2,000//9,2,2022//HX//1000
 
-786//OPF3STB//F3-Oppo//Black//SIM TRAY//3,000//Null//Null//0
-787//OPF3STG//F3-Oppo//Gold//SIM TRAY//3,000//Null//Null//0
+786//OPF3STB//F3-Oppo//Black//SIM TRAY//3,000//9,6,2022//Foneclub//0
+787//OPF3STG//F3-Oppo//Gold//SIM TRAY//3,000//9,6,2022//Foneclub//0
 
-830//OPR9STG//OppoR9S//Gold//SIM TRAY//3,500//Null//Null//0
+830//OPR9STG//OppoR9S//Gold//SIM TRAY//3,500//9,6,2022//Foneclub//0
 
 831//OPR9STP//R9-Oppo//Pink//SIM TRAY//3,500//Null//Null
 
@@ -3872,17 +3872,17 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1222//SSA10STWSSA20STWSSA30STWSSA50STWSSA70STW//Samsung-A10-A20-A30-A50-A70//White//SIM TRAY//2,000//14,3,2022//Master//1500
 1222//SSA10STRSSA20STRSSA30STRSSA50STRSSA70STR//Samsung-A10-A20-A30-A50-A70//Red//SIM TRAY//2,000//14,3,2022//Master//1500
 
-1228//SSA3STGSSA5STGSSA7STG//Samsung-A3-A5-A7//Gold//SIM TRAY//3,500//Null//Null//0
+1228//SSA3STGSSA5STGSSA7STG//Samsung-A3-A5-A7//Gold//SIM TRAY//3,500//9,6,2022//Foneclub//0
 
-1246//SSA7STGSSA717STG//A7(2017)-Samsung//Gold//SIM TRAY//4,500//Null//Null//0
+1246//SSA7STGSSA717STG//A7(2017)-Samsung//Gold//SIM TRAY//4,500//9,6,2022//Foneclub//0
 
-1253//SSA8STB//A8-Samsung//Black//SIM TRAY//3,500//Null//Null//0
+1253//SSA8STB//A8-Samsung//Black//SIM TRAY//3,500//9,6,2022//Foneclub//0
 
-1357//SSJ5PRSTB//J5Prime//Black//SIM TRAY//3,000//Null//Null//0
+1357//SSJ5PRSTB//J5Prime//Black//SIM TRAY//3,000//9,6,2022//Foneclub//0
 
 1388//SSJ7PSTB//J7Pro//Black//SIM TRAY//3,500//2,5,2022//KK//2500
 
-1449//SSS7STGR//S7-Samsung//Gray//SIM TRAY//4,000//Null//Null//0
+1449//SSS7STGR//S7-Samsung//Gray//SIM TRAY//4,000//9,6,2022//Foneclub//0
 
 745//SSA716STGSSA710STG//Samsung A7(2016)-A710//Gold//SIM TRAY//3,000//30,11,2021//Master//1000
 1699//SSI9082STGSSI9060STG//Samsung-I9082-I9060//Gold//SIM TRAY//1,500//15,10,2020//Master//1000
@@ -3892,7 +3892,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #VIVO SIM TRAY
 
-1489//VVV1STG//V1-Vivo//Gold//SIM TRAY//3,500//Null//Null//0
+1489//VVV1STG//V1-Vivo//Gold//SIM TRAY//3,500//9,6,2022//Foneclub//0
 
 1503//VVV3STG//V3-VIVO//Gold//SIM TRAY//2,000//12,1,2021//Master//1500
 1503//VVV3STRG//V3-VIVO//RoseGold//SIM TRAY//2,000//12,1,2021//Master//1500
@@ -3906,10 +3906,10 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1582//VVY20STB//Y20-VIVO//Black//SIM TRAY//2,500//05,06,2022//Master//1500
 1582//VVY20STBl//Y20-VIVO//Blue//SIM TRAY//2,500//05,06,2022//Master//1500
 
-1582//VVY53STB//Y53-VIVO//Black//SIM TRAY//3,500//Null//Null//0
-1583//VVY53STG//Y53-VIVO//Gold//SIM TRAY//4,000//Null//Null//0
+1582//VVY53STB//Y53-VIVO//Black//SIM TRAY//3,500//9,6,2022//Foneclub//0
+1583//VVY53STG//Y53-VIVO//Gold//SIM TRAY//4,000//9,6,2022//Foneclub//0
 
-1594//VVY55ST//Vivo-Y55//Null//SIM TRAY//2,500//Null//Null//0
+1594//VVY55ST//Vivo-Y55//Null//SIM TRAY//2,500//9,6,2022//Foneclub//0
 
 1609//VVY71STB//Vivo-Y71//Black//SIM TRAY//2,500//05,06,2022//Master//1500
 1609//VVY71STG//Vivo-Y71//Gold//SIM TRAY//2,500//05,06,2022//Master//1500
@@ -3939,43 +3939,43 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 102//HWEJ6SPF//Enjoy6s//Null//POWER FLEX//1,500//22,6,2021//Master//900
 115//HWG610PK//G610-C8815-Huawei//Null//POWER FLEX//1,500//10,10,2021//HX//1000
 142//HWG730PK//G730-Huawei//Null//POWER FLEX//1,500//25,04,2022//HX//750
-146//HWG7PK//Huawei-G7//Null//POWER FLEX//1,500//Null//Null//0
+146//HWG7PK//Huawei-G7//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
 149//HWGPMNPKHW4CPK//GPlayMiNi-4C//Null//POWER FLEX//1,500//28,8,2021//Master//1000
 186//HWGR517PK//Gr5(2017)//Null//POWER FLEX//1,500//23,4,2021//Master//700
 186//HWGR517PKHON6XPK//Gr5(2016)-Honor6X//Null//POWER FLEX//2,500//28,03,2022//Master//1000
-195//HWH30U10PKHWH30PK//H30-U10//Null//POWER FLEX//1,500//Null//Null//0
+195//HWH30U10PKHWH30PK//H30-U10//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
 201//HWNV2IPK//Nova2i//Null//POWER FLEX//1,500//13,9,2020//HX//900
-211//HWNV3EPF//Nova3e//Null//POWER FLEX//1,500//Null//Null//900
+211//HWNV3EPF//Nova3e//Null//POWER FLEX//1,500//9,6,2022//Foneclub//900
 247//HWP9LPK///P9Lite//Null//POWER FLEX//1,500//13,11,2020//HX//900
-283//HWY320PF//Y320-Huawei//Null//POWER FLEX//1,300//Null//Null//0
+283//HWY320PF//Y320-Huawei//Null//POWER FLEX//1,300//9,6,2022//Foneclub//0
 291//HWY32PKHWY3IIPK//Y32-Huawei//Null//POWER FLEX//1,500//12,8,2021//Master//900
 304//HWY517PK//Y5(2017)-Huawei//Null//POWER FLEX//2,000//19,11,2021//HX//1200
-322//HWY520PF//Y520-Huawei//Null//POWER FLEX//1,800//Null//Null//0
+322//HWY520PF//Y520-Huawei//Null//POWER FLEX//1,800//9,6,2022//Foneclub//0
 326//HWY52PKHWY5IIPK//Y52-Huawei//Null//POWER FLEX//1,500//22,6,2021//Master//900
 385//HWY6PRPKHON7APK//Y6Prime(2018)-Honor7A//Null//POWER FLEX//1,500//13,9,2020//HX//900
-394//HWY6PPK//Y6prime//Null//POWER FLEX//1,300//Null//Null//0
+394//HWY6PPK//Y6prime//Null//POWER FLEX//1,300//9,6,2022//Foneclub//0
 395//HWY6SPKHWY6PPKHWY6P19PK//Y6S-Y6pro-Y6Pro(19)//Null//POWER FLEX//1,500//28,03,2022//Master//1000
 1857//HON10LPK//Honor10Lite//Null//POWER FLEX//1,500//27,6,2021//Master//0
 
 1902//HWEJ8PKHWNV2LPKHWY7P18PKHWY7P18PK//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)//Null//POWER FLEX//1,500//28,10,2020//HX//900
 
 1738//HWGR317PKHWGR3PKHON8LPK//GR3(2017)-Honor8Lite//Null//POWER FLEX//1,500//28,8,2021//Master//900
-834//HW3CPK//3C-Huawei//Null//POWER FLEX//2,000//Null//Null//0
-835//HW4CPK//4C-Huawei//Null//POWER FLEX//2,000//Null//Null//0
+834//HW3CPK//3C-Huawei//Null//POWER FLEX//2,000//9,6,2022//Foneclub//0
+835//HW4CPK//4C-Huawei//Null//POWER FLEX//2,000//9,6,2022//Foneclub//0
 836//G620SPK//G620s//Null//POWER FLEX//1,500//27,6,2021//Master//900
-846//HWC8813PK//C8813-Huawei//Null//POWER FLEX//1,500//Null//Null//0
-847//HWG510PK//G510-Huawei//Null//POWER FLEX//1,500//Null//Null//0
-848//HWG620PK//G620-Huawei//Null//POWER FLEX//1,500//Null//Null//0
-849//HWG625PK//G625-Huawei//Null//POWER FLEX//1,500//Null//Null//0
-850//HWG6PK//G6-Huawei//Null//POWER FLEX//2,000//Null//Null//0
+846//HWC8813PK//C8813-Huawei//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
+847//HWG510PK//G510-Huawei//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
+848//HWG620PK//G620-Huawei//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
+849//HWG625PK//G625-Huawei//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
+850//HWG6PK//G6-Huawei//Null//POWER FLEX//2,000//9,6,2022//Foneclub//0
 1703//HWY6PKHW4APK//Huawi-Y6-4A//Null//POWER FLEX//1,500//28,8,2021//Master//900
 839//HWP8LPK//P8Lite//Null//POWER FLEX//1,500//24,3,2022//FONECLUB//1100
-853//HWP7PK//P7-Huawei//Null//POWER FLEX//1,500//Null//Null//0
-854//HWU8951PKG510PK//U8951-G510-Huawei//Null//POWER FLEX//1,500//Null//Null//700
-860//HON6APK//Honor6A//Null//POWER FLEX//1,500//Null//Null//0
+853//HWP7PK//P7-Huawei//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
+854//HWU8951PKG510PK//U8951-G510-Huawei//Null//POWER FLEX//1,500//9,6,2022//Foneclub//700
+860//HON6APK//Honor6A//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
 861//HWY317PK//HUAWEI Y3(2017)//Null//POWER FLEX//1,500//28,03,2022//Master//1000
 863//HWY62PK//Y62-Huawei//Null//POWER FLEX//1,500//16,05,2022//HX//650
-857//HWY336PK//Y336-Huawei//Null//POWER FLEX//1,300//Null//Null//0
+857//HWY336PK//Y336-Huawei//Null//POWER FLEX//1,300//9,6,2022//Foneclub//0
 858//HWY625PK//Y625-Huawei//Null//POWER FLEX//2,000//23,4,2021//Master//900
 1683//HWGR5PKHWGR515PKHON5XPK//GR5(2015)-Honor5X//Null//POWER FLEX//1,500//3,1,2022//Master//900
 
@@ -3987,7 +3987,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 #XIAOMI & REDMI(POWER FLEX)
 
 948//RMNPPK//RedMinotePro//Null//POWER FLEX//1,500//31,05,2022//FONECLUB//1000
-869//RM1SPK//Redmi1s//Null//POWER FLEX//1,300//Null//Null//0
+869//RM1SPK//Redmi1s//Null//POWER FLEX//1,300//9,6,2022//Foneclub//0
 876//RM3PKRM3SPKRM3XPK//Redmi3-3s//Null//POWER FLEX//1,500//25,04,2022//HX//600
 
 888//RM4APK//RedMi4A//Null//Power Flex//2,000//28,1,2022//HX//1000
@@ -3998,11 +3998,11 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 930//RM5APK//RedMi5A//Null//POWER FLEX//1,500//3,1,2022//MASTER//900
 948//RM5PK//RedMi5//Null//POWER FLEX//1,500//24,3,2022//FONECLUB//800
 952//RM5PPK//RedMi5Plus//Null//POWER FLEX//1,500//16,05,2022//HX//650
-959//RM5SPPK//Redmi5sPlus//Null//POWER FLEX//1,300//Null//Null//0
+959//RM5SPPK//Redmi5sPlus//Null//POWER FLEX//1,300//9,6,2022//Foneclub//0
 959//MI5PK//XIAOMI MI5//Null//POWER FLEX//2000//9,6,2022//MASTER//1200
 
 837//Mi4CPK//Mi4C//Null//POWER FLEX//1,500//16,6,2021//HX//600
-838//Mi4iPK//Mi4i//Null//POWER FLEX//1,800//Null//Null//0
+838//Mi4iPK//Mi4i//Null//POWER FLEX//1,800//9,6,2022//Foneclub//0
 550//RMPBKCRMPBKF//RedMiPro//Null//Back Key Cable-back Key Flex//2,500//31,5,2021//Master//2000
 560//MMX2PK//MiMax2//Null//POWER FLEX//1,500//19,11,2021//HX,FoneClub//1000
 1895//RMS2PK//RedmiS2//Null//POWER FLEX//1,500//14,10,2021//Master//650
@@ -4025,7 +4025,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1100//RMN4XPK//RedmiNote4X//Null//POWER FLEX//1,500//28,03,2022//Master//900
 1126//RMN5APK//Redminote5A//Null//POWER FLEX//1,500//24,3,2022//FONECLUB//800
 1135//RMN5PPKRMN5PK//Redminote5pro//Null//POWER FLEX//1,500//10,10,2021//Master//1000
-1169//RMPlPK//MiPlay//Null//POWER FLEX//1,500//Null//Null//0
+1169//RMPlPK//MiPlay//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
 1170//RMPPK//RedmiPro//Null//POWER FLEX//1,500//28,03,2022//Master//900
 1668//RMN7PK//RedmiNote7//Null//POWER FLEX//1,500//22,6,2021//Master//900
 1669//RMN7APK//Redmi7A//Null//POWER FLEX//1500//13,9,2020//HX//700
@@ -4040,7 +4040,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 855//VVY83PK//VIVO Y83//Null//POWER FLEX//1,500//11,2,2022//HX//700
 
-855//V9PPK//V9Plus//Null//POWER FLEX//1,300//Null//Null//0
+855//V9PPK//V9Plus//Null//POWER FLEX//1,300//9,6,2022//Foneclub//0
 856//VVY15PKVVY13LPK//VIVO Y15-Y13L//Null//POWER FLEX//1,500//31,05,2022//FONECLUB//1000
 864//VVY91PKVVY93PK//VIVO-Y91,Y93//Null//POWER FLEX//2,000//14,3,2022//Master//1100
 864//VVY91PKVVY93PK//VIVO-Y91,Y93//Null//POWER FLEX//1,500//29,11,2021//FoneClub//900
@@ -4052,17 +4052,17 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1701//VVY11PKVVY12PKVVY15PKVVY17PKVVY3PK//Vivo-Y11-Y12-Y15-Y17-Y3(2019)//Null//POWER FLEX//2,000//28,05,2022//Master//1200
 
 1702//VVV9PKVVY85PK//V9-Y85-Vivo//Null//POWER FLEX//1,500//15,10,2020//Master//1000
-840//VVV7PPK//V7Plus//Null//POWER FLEX//2,000//Null//Null//0
-841//VVV9PK//V9//Null//POWER FLEX//1,700//Null//Null//0
-842//VVX3SPK//X3S-VIVO//Null//POWER FLEX//1,500//Null//Null//0
-843//VVY22PK//Y22-VIVO//Null//POWER FLEX//1,500//Null//Null//0
-844//VVY28PK//Y28-VIVO//Null//POWER FLEX//1,500//Null//Null//0
+840//VVV7PPK//V7Plus//Null//POWER FLEX//2,000//9,6,2022//Foneclub//0
+841//VVV9PK//V9//Null//POWER FLEX//1,700//9,6,2022//Foneclub//0
+842//VVX3SPK//X3S-VIVO//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
+843//VVY22PK//Y22-VIVO//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
+844//VVY28PK//Y28-VIVO//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
 845//VVY31PK//Y31-Vivo//Null//POWER FLEX//2,000//3,1,2022//Master//1100
 1483//VVV3PK//V3-Vivo//Null//POWER FLEX//1,500//18,8,2021//Master//900
-1488//VVV1PKVVY35PK//V1-Y35-Vivo//Null//POWER FLEX//2,000//Null//Null//0
+1488//VVV1PKVVY35PK//V1-Y35-Vivo//Null//POWER FLEX//2,000//9,6,2022//Foneclub//0
 985//VVV5PPK//VIVO V5Plus//Null//POWER FLEX//1,500//28,8,2021//Master//900
-1510//VVV5LPK//V5Lite//Null//POWER FLEX//2,000//Null//Null//0
-1548//VVY21PK//Y21-ViVo//Null//POWER FLEX//2,000//Null//Null//0
+1510//VVV5LPK//V5Lite//Null//POWER FLEX//2,000//9,6,2022//Foneclub//0
+1548//VVY21PK//Y21-ViVo//Null//POWER FLEX//2,000//9,6,2022//Foneclub//0
 1548//VVY21PK//Y21-ViVo//Null//POWER FLEX//3,000//21,05,2022//KK//2000
 
 1573//VVY51PKY52PK//VIVO Y51-Y52//Null//POWER FLEX//1,500//25,04,2022//HX//650
@@ -4073,7 +4073,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1593//VVV7PK//Vivo-V7//Null//POWER FLEX//1,500//9,2,2022//HX//700
 
 1603//VVY66PKVVV5LPK//Y66,V5Lite-Vivo//Black//POWER FLEX//2,000//29,11,2021//FoneCLub//1100
-1608//VVY71PK//Vivo-Y71//Null//POWER FLEX//2,000//Null//Null//0
+1608//VVY71PK//Vivo-Y71//Null//POWER FLEX//2,000//9,6,2022//Foneclub//0
 
 #OPPO(POWER FLEX)
 
@@ -4090,7 +4090,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 720//OPA57PK//OPPO-A57//Null//POWER FLEX//1,500//16,5,2022//HX//600
 720//OPA39PKOPA57PK//OPPO-A39-A57//Null//POWER FLEX//1,500//13,2,2022//MASTER//900
 728//OPA3SPK//OPPO-A39-A57//Null//POWER FLEX//1,500//2,9,2021//HX//700
-748//OPA71PF//A71-Oppo//Null//POWER FLEX//1,500//Null//Null//0
+748//OPA71PF//A71-Oppo//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
 
 753//OPA7PKOPA5sPKRME3PK//A5S-A7-Realme3//Null//Power Flex//1,500//9,6,2022//MASTER//900
 
@@ -4102,20 +4102,20 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 769//OPF1SVKOPA59VK//F1s-A59//Null//Volume FLEX//1,500//28,04,2022//Master//1000
 
 783//OPF3PKOPA77PK//F3-A77//Null//POWER FLEX//1,500//27,6,2021//Master//900
-806//OPNEO5PFOPR1201PFOPA31PF//Neo5-R1201-A31//Null//POWER FLEX//1,500//Null//Null//0
+806//OPNEO5PFOPR1201PFOPA31PF//Neo5-R1201-A31//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
 825//OPR831KPK//R831K-OPPO//Null//POWER FLEX//1,500//27,6,2021//Master//900
-866//OPR10001PK//R1001//Null//POWER FLEX//1,500//Null//Null//0
+866//OPR10001PK//R1001//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
 
 #SAMSUNG(POWER FLEX)
 
-1234//SSA5PK//A5-Samsung//Null//POWER FLEX//1,500//Null//Null//0
+1234//SSA5PK//A5-Samsung//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
 1309//SSI9082PKSSI9060PK//I9082-I9060-Samsung//Null//POWER FLEX//1,500//13,2,2022//MASTER//1000
-1315//SSI9152PW//I9152-Samsung//Null//POWER FLEX//1,500//Null//Null//0
-1342//SSJ4PSSJ6SSJ6PPK//J4Plus-J6-J6Plus//Null//POWER FLEX//2,500//Null//Null//0
-1400//SSM6.3PK//Mega6.3-Samsung//Null//POWER FLEX//1,500//Null//Null//0
+1315//SSI9152PW//I9152-Samsung//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
+1342//SSJ4PSSJ6SSJ6PPK//J4Plus-J6-J6Plus//Null//POWER FLEX//2,500//9,6,2022//Foneclub//0
+1400//SSM6.3PK//Mega6.3-Samsung//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
 1403//SSN2PKSSN7100PK//N7100-Note2-Samsung//Null//POWER FLEX//1,500//13,2,2022//MASTER//900
 1412//SSN7100PK//N7100-Smasung//Null//POWER FLEX//1,500//27,6,2021//Master//900
-1415//SSN900PKSSN900VFSSN3PKSSN3VF//Note3-N900-Samsung//Null//POWER FLEX//2,000//Null//Null//0
+1415//SSN900PKSSN900VFSSN3PKSSN3VF//Note3-N900-Samsung//Null//POWER FLEX//2,000//9,6,2022//Foneclub//0
 1234//SSA10PKSSA105PK//A105-A10-Samsung//Null//POWER FLEX//2,500//13,2,2022//MASTER//1600
 1234//SSA10SPKSSA107PK//A107-A10S-Samsung//Null//POWER FLEX//2,500//13,2,2022//MASTER//1600
 1234//SSA20PKSSA205PK//A20-A205-Samsung//Null//POWER FLEX//3,000//28,05,2022//MASTER//1700
@@ -4126,8 +4126,8 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 #MEIZU(POWER FLEX)
 
 618//MZM3NPK//M3note//Null//POWER FLEX//1,500//2,2,2021//Nice//1000
-629//MZM3PF//M3-Meizu//Null//POWER FLEX//1,500//Null//Null//0
-630//MZM3SPF//M3s-Meizu//Null//POWER FLEX//1,500//Null//Null//0
+629//MZM3PF//M3-Meizu//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
+630//MZM3SPF//M3s-Meizu//Null//POWER FLEX//1,500//9,6,2022//Foneclub//0
 630//MZM3SPF//M3s-Meizu//Null//POWER FLEX//2,000//1,5,2022//Master//1200
 649//MZM5PF//M5-Meizu//Null//POWER FLEX//2,000//13,2,2022//MASTER//1100
 649//MZM5NPF//M5Note-Meizu//Null//POWER FLEX//2,500//28,03,2022//Master//1200
@@ -4140,13 +4140,13 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #I PHONE & APPLE(POWER FLEX)
 
-851//IPH4SPK//Iphone4s//Null//POWER FLEX//2,500//Null//Null//0
+851//IPH4SPK//Iphone4s//Null//POWER FLEX//2,500//9,6,2022//Foneclub//0
 472//IPH7PF//IPhone7//Null//POWER FLEX//5,000//28,12,2020//HX//0
 472//IPH5PF//IPhone5//Null//POWER FLEX//4,500//05,06,2022//Master//2700
 
 #SONY(POWER FLEX)
 
-1187//SNC3PK//C3-Sony//Null//POWER FLEX//5,800//Null//Null//0
+1187//SNC3PK//C3-Sony//Null//POWER FLEX//5,800//9,6,2022//Foneclub//0
 
 
 #OPPO(VOLUME FLEX)
@@ -4158,7 +4158,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 753//OPA5sVFRME3VF//OPPOA5s-Realme3//Null//VOLUME FLEX//1,500//8,3,2022//HX//1000
 753//OPA7VF//OPPO A7//Null//VOLUME FLEX//1,500//8,3,2022//HX//1100
 859//OPF5VK//OPPO-F5//Null//VOLUME FLEX//1,500//27,6,2021//Master//900
-814//OPR1001VF//R1001//Null//VOLUME FLEX//2,000//Null//Null//0
+814//OPR1001VF//R1001//Null//VOLUME FLEX//2,000//9,6,2022//Foneclub//0
 776//OPF1SVFOPA59VF//F1s-A59//Null//VOLUME FLEX//2,000//28,03,2022//Master//1100
 1696//OPA39VK//A39-Oppo//Null//VOLUME FLEX//1,500//19,9,2021//Nice//1000
 1696//OPF9VK//OPPO F9//Null//VOLUME FLEX//1,500//28,04,2022//Master//1000
@@ -4166,25 +4166,25 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #SAMSUNG(VOLUME FLEX)
 
-1318//SSI9152VK//I9152-Samsung//Null//VOLUME FLEX//2,500//Null//Null//0
-1304//SSI9060VF//I9060-Samsung//Null//VOLUME FLEX//2,000//Null//Null//0
+1318//SSI9152VK//I9152-Samsung//Null//VOLUME FLEX//2,500//9,6,2022//Foneclub//0
+1304//SSI9060VF//I9060-Samsung//Null//VOLUME FLEX//2,000//9,6,2022//Foneclub//0
 1705//SSI9082VKSSI9060VK//Samsung-I9082-I9060//Null//VOLUME FLEX//2,000//13,2,2022//Master//1100
 
-1211//SPR001//530-550ml-Spary//Null//Orthers//3,500//Null//Null//0
-1//0.5MM//0.5mm//Null//Others//2,000//Null//Null//0
-45//Hittite//မီးခံတိပ်//Null//Others//4,000//Null//Null//0
-865//ZGN//Quick-ဇာဂနာ//Null//Others//4,000//Null//Null//0
-1631//zj-18//SolderingPaste-ထင်းရူးဆီ-ဘူးသေး//Null//Others//2,000//Null//Null//0
+1211//SPR001//530-550ml-Spary//Null//Orthers//3,500//9,6,2022//Foneclub//0
+1//0.5MM//0.5mm//Null//Others//2,000//9,6,2022//Foneclub//0
+45//Hittite//မီးခံတိပ်//Null//Others//4,000//9,6,2022//Foneclub//0
+865//ZGN//Quick-ဇာဂနာ//Null//Others//4,000//9,6,2022//Foneclub//0
+1631//zj-18//SolderingPaste-ထင်းရူးဆီ-ဘူးသေး//Null//Others//2,000//9,6,2022//Foneclub//0
 
-2//37.5hb//Sunshine-0.10mm//Null//Others//2,500//Null//Null//0
-3//Alloy63-67//Quick-0.8mm//Null//Others//4,500//Null//Null//0
-435//HX-T100//Mechanic-0.5mm//Null//Others//5,000//Null//Null//0
-867//RL-SDW//Relife-SolderingWick//Null//Others//2,500//Null//Null//0
-868//Rl-SDP//Relife-SolderPaste//Null//Others//6,500//Null//Null//0
-1212//SS-024multimeterpen//Sunshine-SS-024-MultimeterPen//Null//Others//0//Null//Null//0
-1213//SS109CUT//SUNSHINE-SS-109-Cutter//Null//Others//3,700//Null//Null//0
-1214//SS110CUT//SUNSHINE-SS-110-Cutter//Null//Others//5,700//Null//Null//0
-1632//zj-181//SolderingPaste-ထင်းရူးဆီ-150g//Null//Others//3,000//Null//Null//0
+2//37.5hb//Sunshine-0.10mm//Null//Others//2,500//9,6,2022//Foneclub//0
+3//Alloy63-67//Quick-0.8mm//Null//Others//4,500//9,6,2022//Foneclub//0
+435//HX-T100//Mechanic-0.5mm//Null//Others//5,000//9,6,2022//Foneclub//0
+867//RL-SDW//Relife-SolderingWick//Null//Others//2,500//9,6,2022//Foneclub//0
+868//Rl-SDP//Relife-SolderPaste//Null//Others//6,500//9,6,2022//Foneclub//0
+1212//SS-024multimeterpen//Sunshine-SS-024-MultimeterPen//Null//Others//0//9,6,2022//Foneclub//0
+1213//SS109CUT//SUNSHINE-SS-109-Cutter//Null//Others//3,700//9,6,2022//Foneclub//0
+1214//SS110CUT//SUNSHINE-SS-110-Cutter//Null//Others//5,700//9,6,2022//Foneclub//0
+1632//zj-181//SolderingPaste-ထင်းရူးဆီ-150g//Null//Others//3,000//9,6,2022//Foneclub//0
 
 1508//MGBB1//MG6B-1B//Null//MAGNIFIRE//6,000//28,1,2022//FONECLUB//3900
 1508//SL908//Sunshine SL-908//Null//Soldering Iron 60w//9,500//28,1,2022//FONECLUB//7000
@@ -4301,7 +4301,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #XIAOMI & REDMI(SPEAKER)
 
-583//MMX1SPK//MiMax1//Null//SPEAKER//3,000//Null//Null//0
+583//MMX1SPK//MiMax1//Null//SPEAKER//3,000//9,6,2022//Foneclub//0
 583//RMN3SPKRMN1SPKRMN14GSPK//Redminote3(AA),Redminote1(4G)//Null//SPEAKER//1,500//8,2,2022//Master//700
 583//RMN2SPKRMN1SPKRMN13GSPK//Redminote2,Redminote1(3G)//Null//SPEAKER//1,500//8,2,2022//Master//600
 583//RMN2SPKRMN1SPKRMN13GSPK//Redminote2,Redminote1(3G)//Null//SPEAKER//1,500//09,05,2022//FoneClub//450
@@ -4316,10 +4316,10 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1137//RMN5SPKBX//Redminote5//Null//SPEAKER BOX//3,500//18,9,201//SLS//2300
 920//RM7SPKBX//RedMi7//Null//SPEAKER BOX//3,500//9,3,2022//FoneClub//1900
 920//MI8SESPKBX//MI8SE//Null//SPEAKER BOX//3,000//9,3,2022//FoneClub//1600
-1150//RMN7SPK//RedmiNote7//Null//SPEAKER//3,000//Null//Null//0
+1150//RMN7SPK//RedmiNote7//Null//SPEAKER//3,000//9,6,2022//Foneclub//0
 1873//MI8LSPK//Mi8Lite//Null//SPEAKER//3,500//6,11,2020//Master//0
-561//MMX2SPK//MiMax2//Null//SPEAKER//3,000//Null//Null//0
-561//MMX2SPK//MiMax2//Null//SPEAKER//3,000//Null//Null//0
+561//MMX2SPK//MiMax2//Null//SPEAKER//3,000//9,6,2022//Foneclub//0
+561//MMX2SPK//MiMax2//Null//SPEAKER//3,000//9,6,2022//Foneclub//0
 570//MMX3SPK//Mi Max3//Null//SPEAKER//2,500//27,6,2021//Master//1300
 520//MI5SPK//Mi5//Null//SPEAKER//3,000//22,6,2021//Master//1500
 528//MI5XSPKRM5XSPK//Redmi5x-Mi5x//Null//SPEAKER//2,500//14,12,2021//Nice//1500
@@ -4333,7 +4333,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 1738//HWEJ6SSPK//Huawei Enjoy6S//Null//SPEAKER//1,500//27,6,2021//Master//0
 220//HWNV3ISPK//Nova3i//Null//SPEAKER//2,500//28,05,2022//Master//1700
 201//HWNV2ISPK//Nova2i//Null//SPEAKER//2,500//27,6,2021//Master//1100
-67//HON7ASPK//Honor7A//Null//SPEAKER//3,500//Null//Null//0
+67//HON7ASPK//Honor7A//Null//SPEAKER//3,500//9,6,2022//Foneclub//0
 1665//HWSPK//Huawei အကြီး//Null//Speaker//1,000//7,2,2022//FoneClub//350
 201//HWY9PriSPKHWY9S//Y9Prime-Y9S(SPK)//Null//SPEAKER//2,500//28,05,2022//Master//1500
 201//HWY919SPK//Y919(SPK)//Null//SPEAKER//2,500//28,05,2022//Master//1600
@@ -4353,7 +4353,7 @@ HWY6PR18TWHWY6PR18TWHWY6P18TWHON7ATB//Y6pro(18)-Y6Prime(2018)-Honor7A//Black//To
 
 #MEIZU(SPEAKER)
 
-637//MZM5CSPK//M5C-Meizu//Null//SPEAKER//4,500//Null//Null//0
+637//MZM5CSPK//M5C-Meizu//Null//SPEAKER//4,500//9,6,2022//Foneclub//0
 
 #SAMSUNG(SPEAKER)
 
