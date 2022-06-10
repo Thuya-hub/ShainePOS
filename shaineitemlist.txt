@@ -4268,20 +4268,20 @@ Ack
 1705//SSI9082VKSSI9060VK//Samsung-I9082-I9060//Null//Volume Key//2,000//13,2,2022//Master//1100
 
 1211//SPR001//530-550ml-Spary//Null//Other//3,500//9,6,2022//Foneclub//0
-1//0.5MM//0.5mm//Null//Others//2,000//9,6,2022//Foneclub//0
-45//Hittite//မီးခံတိပ်//Null//Others//4,000//9,6,2022//Foneclub//0
-865//ZGN//Quick-ဇာဂနာ//Null//Others//4,000//9,6,2022//Foneclub//0
-1631//zj-18//SolderingPaste-ထင်းရူးဆီ-ဘူးသေး//Null//Others//2,000//9,6,2022//Foneclub//0
+1//0.5MM//0.5mm//Null//Other//2,000//9,6,2022//Foneclub//0
+45//Hittite//မီးခံတိပ်//Null//Other//4,000//9,6,2022//Foneclub//0
+865//ZGN//Quick-ဇာဂနာ//Null//Other//4,000//9,6,2022//Foneclub//0
+1631//zj-18//SolderingPaste-ထင်းရူးဆီ-ဘူးသေး//Null//Other//2,000//9,6,2022//Foneclub//0
 
-2//37.5hb//Sunshine-0.10mm//Null//Others//2,500//9,6,2022//Foneclub//0
-3//Alloy63-67//Quick-0.8mm//Null//Others//4,500//9,6,2022//Foneclub//0
-435//HX-T100//Mechanic-0.5mm//Null//Others//5,000//9,6,2022//Foneclub//0
-867//RL-SDW//Relife-SolderingWick//Null//Others//2,500//9,6,2022//Foneclub//0
-868//Rl-SDP//Relife-SolderPaste//Null//Others//6,500//9,6,2022//Foneclub//0
-1212//SS-024multimeterpen//Sunshine-SS-024-MultimeterPen//Null//Others//0//9,6,2022//Foneclub//0
-1213//SS109CUT//SUNSHINE-SS-109-Cutter//Null//Others//3,700//9,6,2022//Foneclub//0
-1214//SS110CUT//SUNSHINE-SS-110-Cutter//Null//Others//5,700//9,6,2022//Foneclub//0
-1632//zj-181//SolderingPaste-ထင်းရူးဆီ-150g//Null//Others//3,000//9,6,2022//Foneclub//0
+2//37.5hb//Sunshine-0.10mm//Null//Other//2,500//9,6,2022//Foneclub//0
+3//Alloy63-67//Quick-0.8mm//Null//Other//4,500//9,6,2022//Foneclub//0
+435//HX-T100//Mechanic-0.5mm//Null//Other//5,000//9,6,2022//Foneclub//0
+867//RL-SDW//Relife-SolderingWick//Null//Other//2,500//9,6,2022//Foneclub//0
+868//Rl-SDP//Relife-SolderPaste//Null//Other//6,500//9,6,2022//Foneclub//0
+1212//SS-024multimeterpen//Sunshine-SS-024-MultimeterPen//Null//Other//0//9,6,2022//Foneclub//0
+1213//SS109CUT//SUNSHINE-SS-109-Cutter//Null//Other//3,700//9,6,2022//Foneclub//0
+1214//SS110CUT//SUNSHINE-SS-110-Cutter//Null//Other//5,700//9,6,2022//Foneclub//0
+1632//zj-181//SolderingPaste-ထင်းရူးဆီ-150g//Null//Other//3,000//9,6,2022//Foneclub//0
 
 1508//MGBB1//MG6B-1B//Null//Other//6,000//28,1,2022//FONECLUB//3900
 1508//SL908//Sunshine SL-908//Null//Other//9,500//28,1,2022//FONECLUB//7000
@@ -4303,21 +4303,21 @@ Ack
 
 482//RMN8LCDSK//Redminote8//Null//Other//2,000//18,3,2022//Master//1000
 
-6//XGSP50//Mechanic XGSP50-183(42g)//Null//Others//4,000//7,2,2021//Master//2200
-7//ခဲတေ့//ခဲဂေါက်တံကောက် Mechanic(900m-T-I)//Black//Others//4,000//24,3,2022//Master//2600
-7//VC9705//VC-9705-မီတာ//Null//Others//23,000//14,10,2021//Master//19500
-7//KAISI936//Kaisi 936_ခဲဂေါက်//Null//Others//29,000//14,10,2021//Master//26000
-7//L951T1//L951-T-1ခဲတေ့,ခဲကောက်(အကောက်)//Black//Others//3,500//14,10,2021//Master//2300
-7//ISM5JAMPLEခဲရည်//ISm5_Jample ခဲရည်(3ml)//Null//Others//5,500//14,10,2021//Master//3600
-8//BLADE//11#-ဓားထုပ်//Null//Others//1,500//3,1,2022//Master//800
+6//XGSP50//Mechanic XGSP50-183(42g)//Null//Other//4,000//7,2,2021//Master//2200
+7//ခဲတေ့//ခဲဂေါက်တံကောက် Mechanic(900m-T-I)//Black//Other//4,000//24,3,2022//Master//2600
+7//VC9705//VC-9705-မီတာ//Null//Other//23,000//14,10,2021//Master//19500
+7//KAISI936//Kaisi 936_ခဲဂေါက်//Null//Other//29,000//14,10,2021//Master//26000
+7//L951T1//L951-T-1ခဲတေ့,ခဲကောက်(အကောက်)//Black//Other//3,500//14,10,2021//Master//2300
+7//ISM5JAMPLEခဲရည်//ISm5_Jample ခဲရည်(3ml)//Null//Other//5,500//14,10,2021//Master//3600
+8//BLADE//11#-ဓားထုပ်//Null//Other//1,500//3,1,2022//Master//800
 
-9//DoubleTape//Double တိပ်နီ (0.4cm,25M)//Null//Others//6,000//20,04,2022//Master//3400
+9//DoubleTape//Double တိပ်နီ (0.4cm,25M)//Null//Other//6,000//20,04,2022//Master//3400
 
-5//MTခဲဖော်စကာ//Kaisi Multi_ခဲဖော်စကာ//Null//Others//5,500//31,1,2021//Master//2700
-1631//F933//Mechanic F933 (10CC)-ထင်းရူးဆီ//Null//Others//7,000//14,10,2021//Master//3600
-1631//F933//Mechanic XGS40-158_ခဲရည်(42g)//Null//Others//6,500//17,12,2021//Master//4500
+5//MTခဲဖော်စကာ//Kaisi Multi_ခဲဖော်စကာ//Null//Other//5,500//31,1,2021//Master//2700
+1631//F933//Mechanic F933 (10CC)-ထင်းရူးဆီ//Null//Other//7,000//14,10,2021//Master//3600
+1631//F933//Mechanic XGS40-158_ခဲရည်(42g)//Null//Other//6,500//17,12,2021//Master//4500
 1631//RM6CPRM6ACPRM6PCP//Redmi6-6A-6Pro//Null//USB//500//14,10,2021//Master//200
-1631//ကော်ထိုးအပ်//ကော်ထိုးအပ်//Null//Others//4,500//14,10,2021//Master//1300
+1631//ကော်ထိုးအပ်//ကော်ထိုးအပ်//Null//Other//4,500//14,10,2021//Master//1300
 484//T700050MLB//T7000-Mechanic-50ML//Null//Other//4,000//09,05,2022//Master//2500
 
 479//KB001//B7000-110Ml//Null//Other//4,500//14,12,2020//FoneClub//3000
@@ -4325,7 +4325,7 @@ Ack
 481//KB003//B7000-50Ml//Null//Other//4,500//18,8,2021//FoneClub//1800
 480//KB002//B7000-15Ml//Null//Other//3,000//09,05,2022//FoneClub//1100
 
-435//ခဲဖော်စကာ//Amaoe 45_Multi ခဲဖော်စကာ//Null//Others//7,500//10,1,2022//Master//5700
+435//ခဲဖော်စကာ//Amaoe 45_Multi ခဲဖော်စကာ//Null//Other//7,500//10,1,2022//Master//5700
 
 1183//SCDVMCNP8R//ScrewDriver-Mechanic Pro 8(0.8)//Red//Other//5,000//7,2,2022//Master//2800
 1183//JP//TOOLS Jumper ကြိုး//Null//Other//1,000//14,3,2022//Master//300
@@ -4356,16 +4356,16 @@ Ack
 862//SPL500MA//Supply 500MA//Null//Other//6,500//9,3,2022//FoneClub//3900
 862//HXT100//Mechanic Soldering Wire HX-T100 (0.8MM 50G)//Null//Other//6,500//9,3,2022//FoneClub//4600
 
-5//USASW18035ခဲစုပ်ကြိုးခဲရှင်းကြိုး//USA SW18035 USA ခဲစုပ်ကြိုး 1.5MM//Null//Others//5,500//10,1,2022//FoneClub//3700
+5//USASW18035ခဲစုပ်ကြိုးခဲရှင်းကြိုး//USA SW18035 USA ခဲစုပ်ကြိုး 1.5MM//Null//Other//5,500//10,1,2022//FoneClub//3700
 
-5//CP2015ခဲရှင်းကြိုး//CP2015 ခဲရှင်းကြိုး(ပန်း) 1.5MM//Pink//Others//6,500//14,3,2022//Master//3900
+5//CP2015ခဲရှင်းကြိုး//CP2015 ခဲရှင်းကြိုး(ပန်း) 1.5MM//Pink//Other//6,500//14,3,2022//Master//3900
 
 483//KB005//T7000-Mechanic-110ML//Null//Other//4,500//14,12,2020//FoneClub//2500
-862//10ASPL//10A-SupplyCable//Null//Others//3,000//14,5,2021//FoneClub//1100
-1632//AMAOခံဖော်စကာ//Amao ခဲဖော်စကာ//Null//Others//7,500//17,12,2021//FONECLUB//5700
+862//10ASPL//10A-SupplyCable//Null//Other//3,000//14,5,2021//FoneClub//1100
+1632//AMAOခံဖော်စကာ//Amao ခဲဖော်စကာ//Null//Other//7,500//17,12,2021//FONECLUB//5700
 
 482//KB004//T7000-Zhanlida-15Ml//Null//Other//3,000//09,05,2022//JL//1100
-865//OCARL//OCA Rollor//Null//Others//4,500//16,12,2021//JL//3000
+865//OCARL//OCA Rollor//Null//Other//4,500//16,12,2021//JL//3000
 
 1632//MMX2BTCNT//Mi Max2//Null//Other//1,000//22,1,2022//JL//400
 
