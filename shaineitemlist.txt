@@ -78,7 +78,7 @@ No//CODE//Model//Color//Type//Price//Date//Shop//
 26//RM3TLBRM3STLBRM3XTLB//RedMi3-3s-3X//Black//T+L//24,500//05,04,2022//KK//23000
 26//RM3TLGRM3STLGRM3XTLG//RedMi3-3s-3X//Gold//T+L//24,500//05,04,2022//KK//23000
 
-27//RMN3TLW//Redminote3//White//T+L//26,800//29,04,2022//Master//24800
+27//RMN3TLW//Redminote3//White//T+L//26,800//28,04,2022//Master//24800
 30//RMN3TLB//Redminote3//Black//T+L//26,800//28,04,2022//Master//24800
 29//RMN3TLG//Redminote3//Gold//T+L//26,800//28,04,2022//Master//24800
 29//RMN3TLG//Redminote3//Gold//T+L//25,000//16,9,2021//NW//23500
