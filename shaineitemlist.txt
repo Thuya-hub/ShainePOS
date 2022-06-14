@@ -4479,7 +4479,7 @@ Ack
 #OPPO(SPEAKER)
 
 1657//OPA1KSPK//Oppo-A1k//Null//Speaker//2,500//5,9,2020//Master//1300
-1657//OPA520SPK//Oppo-A520//Null//Speaker//2,500//28,05,2022//Master//1300
+1657//OPA520SPK//Oppo-A520//Null//Speaker//2,500//29,05,2022//Master//1300
 
 #SAMSAUNG(SPEAKER)
 
