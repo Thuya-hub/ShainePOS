@@ -388,8 +388,8 @@
 122//HWY7PRTLWHWY717TLW//Y7Prime-Y7(2017)//White//T+L//22,500//15,12,2020//Master//20600
 122//HWY7PRTLBHWY717TLB//Y7Prime-Y7(2017)//Black//T+L//22,500//15,12,2020//Master//20600
 
-122//HWY7PTLB//HUAWEI-Y8P//Black//T+L//43000//7,6,2022//Master//40500
-122//HWY7PTLB//HUAWEI-Y8P//Black//T+L//43000//8,6,2022//Master//40500
+122//HWY7PTLB//HUAWEI-Y7P//Black//T+L//43000//7,6,2022//Master//40500
+122//HWY8PTLB//HUAWEI-Y8P//Black//T+L//48000//16,6,2022//Nice//45000
 
 125//HWEJ8TLWHWNV2LTLWHWY7PR18TLWHWY7P18TLWHON7CTLW//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-Honor7C//White//T+L//35,000//28,5,2021//Master//32700
 126//HWEJ8TLBHWNV2LTLBHWY7PR18TLBHWY7P18TLBHON7CTLB//Enjoy8-Nova2Lite-Y7Prime(18)-Y7Pro(18)-Honor7C//Black//T+L//27,500//28,5,2021//Master//25900
@@ -496,8 +496,8 @@
 4//OPA33TLWOPNEO7TLW//A33-Neo7-Oppo//White//T+L//20,500//16,12,2021//Fone Club//18900
 7//OPA33TLBOPNEO7TLB//A33-Neo7-Oppo//Black//T+L//21,000//16,05,2022//HX//19000
 
-9//OPA37TLW//A37-Oppo//White//T+L//19,000//18,8,2021//Master//17900
-10//OPA37TLB//A37-Oppo//Black//T+L//19,000//18,8,2021//Master//17900
+9//OPA37TLW//A37-Oppo//White//T+L//22500//16,6,2022//Master//20800
+10//OPA37TLB//A37-Oppo//Black//T+L//22500//16,6,2022//Master//20800
 11//OPA37TLW//A37-Oppo//White//T+L//24,000//16,9,2021//NW//22500
 12//OPA37TLW//A37-Oppo//White//T+L//21,500//8,2,2022//HX//19800
 13//OPA37TLB//A37-Oppo//Black//T+L//21,500//8,2,2022//HX//19800
@@ -857,7 +857,7 @@ Ack
 659//MZM5TLB//M5-Meizu//Black//T+L//14,500//16,11,2020//Master//13300
 660//MZM5TLW//M5-Meizu//White//T+L//14,500//15,12,2020//HX//13500
 
-646//MZM5NTLB//M5note-Meizu//Black//T+L//24,500//15,7,2021//Master//22900
+646//MZM5NTLB//M5note-Meizu//Black//T+L//28000//16,6,2022//Master//25900
 647//MZM5NTLW//M5Note-Meizu//White//T+L//28,000//17,2,2022//Master//26500
 647//MZM5NTLW//M5Note-Meizu//White//T+L//32,000//23,2,2022//KK//29500
 647//MZM5NTLW//M5Note-Meizu//White//T+L//18,000//4,12,2020//NICE//16800
@@ -1064,7 +1064,8 @@ Ack
 131//HWG6TB//G6-Huawei//Black//Touch Only//4,000//9,6,2022//Fone Club//3000
 134//HWG6TW//G6-Huawei//White//Touch Only//4,000//9,6,2022//Fone Club//3000
 
-143//HWG730TB//G730(ORG)-Huawei//Black//Touch//4,800//11,6,2021//Master//3800
+143//HWG730TW//G730(ORG)-Huawei//White//Touch//6500//16,6,2022//Master//5400
+143//HWG730TB//G730(ORG)-Huawei//Black//Touch//6500//16,6,2022//Master//5400
 143//HWG730TB//G730(ORG)-Huawei//Black//Touch//4,500//24,9,2021//HX//3500
 144//HWG730TW//G730-Huawei//White//Touch//4,500//2,9,2021//HX//3200
 
@@ -1364,9 +1365,8 @@ Ack
 980//RM6ATWRM6TWRM6ATBRM6TB//Redmi6-RedmiMi6A//White//Touch Only//4,500//16,05,2022//HX//2800
 980//RM6ATWRM6TWRM6ATBRM6TB//Redmi6-RedmiMi6A//Black//Touch Only//4,500//16,05,2022//HX//2800
 
-1012//RM7ATB//Redmi7A//Black//Touch Only//3,500//15,7,2021//Master//2500
 1012//RM7ATB//Redmi7A//Black//Touch Only//4,500//24,3,2022//Fone Club//3500
-1799//RM7ATB//RedMi7A//Black//Touch Only//4,000//9,2,2022//HX//2900
+1799//RM7ATB//RedMi7A//Black//Touch Only//4,000//16,6,2022//Master//3200
 
 1019//RM7TB//Redmi7//Black//Touch Only//3,000//4,2,2021//Master//2000,1900
 
@@ -1383,9 +1383,13 @@ Ack
 1073//RMN3TW//RedmiNote3//White//Touch Only//4,000//25,04,2022//HX//2800
 1068//RMN3TB//RedmiNote3//Black//Touch Only//4,000//25,04,2022//HX//2800
 1069//RMN3TG//RedmiNote3//Gold//Touch Only//4,000//25,04,2022//HX//2800
+
 1068//RMN3TB//RedmiNote3//Black//Touch Only//3,500//1,3,2021//Nice//2450
-1068//RMN3TB//RedmiNote3//Black//Touch Only//3,600//25,1,2021//Master//2600
-069//RMN3TG//RedmiNote3//Gold//Touch Only//3,500//11,6,2021//Master//2200
+
+1068//RMN3TW//RedmiNote3//White//Touch Only//4000//16,6,2022//Master//3200
+069//RMN3TG//RedmiNote3//Gold//Touch Only//4000//16,6,2022//Master//3200
+1069//RMN3TB//RedmiNote3//Black//Touch Only//4000//16,6,2022//Master//3100
+
 1069//RMN3TG//RedmiNote3//Gold//Touch Only//5,000//16,9,2021//NW//4000
 1068//RMN3TB//RedmiNote3//Black//Touch Only//5,000//16,9,2021//NW//4000
 1068//RMN3TB//RedmiNote3//Black//Touch Only//5,000//4,11,2021//Fone Club//3700
@@ -3550,6 +3554,9 @@ Ack
 #XIAOMI & REDMI(FINGERPRINTS)
 
 897//MI11LFGB//Mi11LITE//BLACK//Finger Print//10,500//18,3,2022//Master//8500
+
+897//MI8SEFGB//MI8SE//BLACK//Finger Print//6500//16,6,2022//Master//5600
+897//MI8SEFGG//MI8SE//Gold//Finger Print//6500//16,6,2022//Master//5600
 
 897//RMK30FGPBL//RedMiK30//Blue//Finger Print//8,500//10,1,2022//Master//7200
 897//RMK30FGPPP//RedMiK30//Purple//Finger Print//8,500//10,1,2022//Master//7200
