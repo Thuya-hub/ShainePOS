@@ -2047,6 +2047,8 @@ Ack
 543//MI8SEBTBM3DBT//Mi8SE-BM3D(ORG)//Null//Battery//8,500//12,05,2022//KK//7000
 543//MI8SEBTBM3DBT//Mi8SE-BM3D(ORG)//Null//Battery//9,500//07,06,2022//Fone Club//7900
 
+543//MI8SEBTBM3DBT//Mi8SE-BM3D(ORG)//Null//Battery//9,500//07,06,2022//Fone Club//7900
+
 546//MINPBTBM34BT//MiNotePro-BM34//Null//Battery//8,000//10,3,2021//HX//4000
 
 551//MMIXBTBM4CBT//MiMix-(BM-4C)//Null//Battery//7,500//31,5,2021//Fone Club//5700
@@ -2313,7 +2315,7 @@ Ack
 
 1899//VVV11IBTY97BTVVBE8BT//VIVO V11i-Y97-(B-E8)//Null//Battery//8,000//11,9,2021//Master//6300
 
-1857//VVBG7BTVVY1519BTVVY1719BTVVY11BTVVY12BT//VIVO (B-G7),Y15(2019),Y17(2019),Y11,Y12//Null//Battery//11,500//20,04,2022//Fone Club//10200
+1857//VVBG7BTVVY1519BTVVY1719BTVVY11BTVVY12BT//VIVO (B-G7),Y15(2019),Y17(2019),Y11,Y12//Null//Battery//11,500//17,6,2022//Fone Club//10200
 
 #SONY BATTERY
 
@@ -3413,6 +3415,7 @@ Ack
 1076//RMN4MDF//RedMiNote4(??????)(???????)//Null//Middle Flex//2500//14,3,2022//Master//1600
 1054//RMN3MDF//Redminote3//Null//Middle Flex//3000//28,03,2022//Master//1700
 1054//RM3MDF//Redmi3,Redmi3S//Null//Middle Flex//3000//28,03,2022//Master//1700
+1054//RM3MDF//Redmi3,Redmi3S//Null//Middle Flex//3000//17,6,2022//Nice//1500
 
 518//MI5MDF//MI5//Null//Middle Flex//3,500//9,6,2022//Fone Club//0
 559//MMX2MDFMMX2LCDF//MiMax2//Null//Middle Flex//2500//27,6,2021//Master//1800
@@ -3511,6 +3514,8 @@ Ack
 1148//RMN7CM//Redminote7//Null//Camera Glass//1500//9,6,2022//ATP//600
 
 1652//RM5ACM//RedMi5A//Null//Camera Glass//1,000//18,1,2021//Master//350
+
+1652//MI5XCM//Mi5X//Null//Camera Glass//1000//17,6,2022//Fone Club//450
 
 1665//RM7CM//Redmi7//Null//Camera Glass//1,000//19,11,2021//HX//400
 
