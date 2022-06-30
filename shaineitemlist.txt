@@ -1500,6 +1500,7 @@ Ack
 
 1037//RMN1TB//RedMiNote1//Black//Touch Only//4,500//29,05,2022//Master//3400
 1037//RMN1TB//RedMiNote1//Black//Touch Only//4,500//9,3,2022//Foneclub//3300
+1037//RMN1TW//RedMiNote1//White//Touch Only//4,500//9,3,2022//Foneclub//3300
 1857//RMN1TB//Redminote1//Black//Touch Only//5,000//16,9,2021//NW//4000
 1857//RMN1TB//Red Mi Note 1//Black//Touch Only//4,500//16,05,2022//HX//2800
 
