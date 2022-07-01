@@ -3537,6 +3537,7 @@ Ack
 918//RM4XMDF//RedMi4x//Null//Middle Flex//2,000//28,8,2021//Master//1400
 1035//RMN1MDF4G//RedMiNote1(4G)//Null//Middle Flex//2,000//27,6,2021//Master//1500
 1056//RMN3PMDFRMN3PLCDF//Redminote3pro//Null//Middle Flex//2500//27,6,2021//Master//1700
+1056//RMN3PMDFRMN3PLCDF//Redminote3pro//Null//Middle Flex//2500//30,6,2022//Foneclub//1800
 
 1099//RMN4XMDFRMN4XLCDF//RedMiNote4x(???????)(??????)//Null//Middle Flex//2000//27,6,2021//Master//1500
 1125//RMN5AMDF//RedmiNote5A//Null//Middle Flex//2,000//13,9,2020//HX//1200
@@ -3625,7 +3626,8 @@ Ack
 
 979//RMK30CM//RedMi K30//Null//Camera Glass//1,000//25,9,2021//Master//500
 
-1147//MICC9ECM//Xiaome MiCC9E//Null//Camera Glass//1,500//27,6,2021//Master//600
+1147//MICC9ECM//Xiaome MiCC9E//Null//Camera Glass//1,500//30,6,2022//Master//600
+1147//MICC9ECM//Xiaome MiCC9E//Null//Camera Glass//1000//30,6,2022//Foneclub//500
 
 1147//MMX3CM//Xiaome Mi Max3//Null//Camera Glass//1,500//27,6,2021//Master//600
 
@@ -3643,7 +3645,7 @@ Ack
 
 1665//MI9SECM//Mi9SE//Null//Camera Glass//1,000//2,9,2021//HX//350
 
-1652//RM5PCM//RedMi5Plus//Null//Camera Glass//1,000//18,1,2021//Master//600
+1652//RM5PCM//RedMi5Plus//Null//Camera Glass//1500//30,6,2022//Master//600
 
 1652//RM6ACM//RedMi6A//Null//Camera Glass//1,000//19,9,2021//Nice//350
 
@@ -3680,6 +3682,10 @@ Ack
 
 1652//VVY91CMVVY95CM//VIVO-Y91-Y95//Null//Camera Glass//1,500//30,11,2020//Master//600
 1652//VVY91CMVVY95CM//VIVO-Y91-Y95//Null//Camera Glass//1000//30,6,2022//Foneclub//550
+
+#OPPO (CAMERA ????)
+
+1653//REM5PCM//OPPO-Realme5Pro//Null//Camera Glass//1000//30,6,2022//Foneclub//500
 
 #I PHONE & APPLE(CAMERA ????)
 
@@ -4530,7 +4536,7 @@ Ack
 479//KB001//B7000-110Ml//Null//Other//4,500//14,12,2020//Foneclub//3000
 481//KB003//B7000-50Ml//Null//Other//3,500//18,8,2021//Master//1800
 481//KB003//B7000-50Ml//Null//Other//4,500//18,8,2021//Foneclub//1800
-480//KB002//B7000-15Ml//Null//Other//3,000//09,05,2022//Foneclub//1100
+480//KB002//B7000-15Ml//Null//Other//2500//30,6,2022//Foneclub//1100
 
 435//?????????//Amaoe 45_Multi ?????????//Null//Other//7,500//10,1,2022//Master//5700
 
